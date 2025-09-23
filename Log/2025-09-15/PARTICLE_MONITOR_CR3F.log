@@ -1,0 +1,28 @@
+2025-09-15 08:16:39,239 - INFO - ===== Start with config: config.ini =====
+2025-09-15 08:16:56,814 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:16:56,817 - INFO - No today .xls file found by name pattern.
+2025-09-15 08:16:56,818 - INFO - ===== All done. =====
+2025-09-15 08:20:10,192 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:20:10,194 - INFO - No .xls file with leading date (YYYYMMDD) found.
+2025-09-15 08:20:10,194 - INFO - ===== All done. =====
+2025-09-15 08:26:38,949 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:26:38,955 - INFO - No .xls with leading YYYYMMDD found.
+2025-09-15 08:26:38,955 - INFO - ===== All done. =====
+2025-09-15 08:27:46,593 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:27:46,598 - INFO - No .xls with leading YYYYMMDD found in any input_paths.
+2025-09-15 08:27:46,598 - INFO - ===== All done. =====
+2025-09-15 08:28:35,180 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:28:43,506 - INFO - Picked file: \\sagqnap01.li.lumentuminc.net\K11Data\Particle monitor in CR\3F\20250910.xls, file_date=2025-09-10, distance=5d
+2025-09-15 08:28:44,057 - INFO - Copied to intermediate: ..\DataFile\CR3F\20250910.xls
+2025-09-15 08:30:38,379 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:30:46,656 - INFO - Picked file: \\sagqnap01.li.lumentuminc.net\K11Data\Particle monitor in CR\3F\20250910.xls, file_date=2025-09-10, distance=5d
+2025-09-15 08:30:47,199 - INFO - Copied to intermediate: ..\DataFile\CR3F\20250910.xls
+2025-09-15 08:30:47,567 - INFO - CSV => C:\TEMP\CSV\PARTICLE_MONITOR_CR3F_2025_09_15T08.30.47.csv
+2025-09-15 08:30:47,567 - INFO - XML => C:\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=PARTICLE_MONITOR_CR3F,Partnumber=XML_TEST,Serialnumber=ABC1234,Testdate=2025-09-15T08.30.47.xml
+2025-09-15 08:30:47,567 - INFO - ===== All done. =====
+2025-09-15 08:33:18,002 - INFO - ===== Start with config: Config_Partical.ini =====
+2025-09-15 08:33:26,434 - INFO - Picked file: \\sagqnap01.li.lumentuminc.net\K11Data\Particle monitor in CR\3F\20250910.xls, file_date=2025-09-10, distance=5d
+2025-09-15 08:33:26,954 - INFO - Copied to intermediate: ..\DataFile\051_Particle\20250910.xls
+2025-09-15 08:33:27,297 - INFO - CSV => C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\PARTICLE_MONITOR_CR3F_2025_09_15T08.33.27.csv
+2025-09-15 08:33:27,297 - INFO - XML => C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=PARTICLE_MONITOR_CR3F,Partnumber=XML_TEST,Serialnumber=ABC1234,Testdate=2025-09-15T08.33.27.xml
+2025-09-15 08:33:27,298 - INFO - ===== All done. =====

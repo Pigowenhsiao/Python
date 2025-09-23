@@ -1,0 +1,242 @@
+2025-08-07 07:45:59,278 - INFO - 2025-08-07 07:45:59 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 07:46:01,101 - INFO - 2025-08-07 07:46:01 CSV output for this run will be: \\thaapptdsdev03.li.lumentuminc.net\Data\TAK_Process\CVD_MESA\MESA_CVD_EtchingRate_2025_08_07T07.46.01.csv
+2025-08-07 07:46:03,296 - INFO - 2025-08-07 07:46:03 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:46:23,127 - INFO - 2025-08-07 07:46:23 Successfully wrote 11 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:46:26,588 - ERROR - 2025-08-07 07:46:26 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 07:46:26,595 - INFO - 2025-08-07 07:46:26 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 07:46:27,999 - INFO - 2025-08-07 07:46:27 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:46:52,911 - INFO - 2025-08-07 07:46:52 Successfully wrote 26 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:46:55,624 - ERROR - 2025-08-07 07:46:55 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 07:46:55,628 - INFO - 2025-08-07 07:46:55 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 07:46:56,686 - INFO - 2025-08-07 07:46:56 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:47:45,041 - INFO - 2025-08-07 07:47:45 Successfully wrote 44 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:47:45,653 - ERROR - 2025-08-07 07:47:45 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 07:47:45,654 - INFO - 2025-08-07 07:47:45 Generating final pointer XML for \\thaapptdsdev03.li.lumentuminc.net\Data\TAK_Process\CVD_MESA\MESA_CVD_EtchingRate_2025_08_07T07.46.01.csv...
+2025-08-07 07:47:47,231 - INFO - 2025-08-07 07:47:47 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T07.46.01,Testdate=2025-08-07T07.47.46.xml
+2025-08-07 07:59:17,653 - INFO - 2025-08-07 07:59:17 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 07:59:17,655 - INFO - 2025-08-07 07:59:17 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T07.59.17.csv
+2025-08-07 07:59:19,870 - INFO - 2025-08-07 07:59:19 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:59:23,580 - ERROR - 2025-08-07 07:59:23 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 07:59:23,584 - INFO - 2025-08-07 07:59:23 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 07:59:25,027 - INFO - 2025-08-07 07:59:25 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:59:49,825 - INFO - 2025-08-07 07:59:49 Successfully wrote 26 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 07:59:52,193 - ERROR - 2025-08-07 07:59:52 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 07:59:52,220 - ERROR - 2025-08-07 07:59:52 FATAL Error with INI MESA_CVD_EtchingRate_Dry8.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\012_MESA\MESA_CVD_EtchingRate_CSV.py", line 273, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\012_MESA\MESA_CVD_EtchingRate_CSV.py", line 60, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1109, in _handle_rest
+    self._handle_header(st, mo, fpname) if mo else self._handle_option(st, line, fpname)
+                                                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1148, in _handle_option
+    raise DuplicateOptionError(st.sectname, st.optname,
+                            fpname, st.lineno)
+configparser.DuplicateOptionError: While reading from 'MESA_CVD_EtchingRate_Dry8.ini' [line 14]: option 'output_path' in section 'Paths' already exists
+
+2025-08-07 07:59:52,222 - INFO - 2025-08-07 07:59:52 Generating final pointer XML for C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T07.59.17.csv...
+2025-08-07 07:59:52,344 - INFO - 2025-08-07 07:59:52 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T07.59.17,Testdate=2025-08-07T07.59.52.xml
+2025-08-07 08:01:05,059 - INFO - 2025-08-07 08:01:05 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:01:05,061 - INFO - 2025-08-07 08:01:05 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.01.05.csv
+2025-08-07 08:01:06,519 - INFO - 2025-08-07 08:01:06 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:01:09,976 - ERROR - 2025-08-07 08:01:09 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:01:09,981 - INFO - 2025-08-07 08:01:09 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 08:01:11,409 - INFO - 2025-08-07 08:01:11 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:01:13,277 - ERROR - 2025-08-07 08:01:13 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:01:13,291 - ERROR - 2025-08-07 08:01:13 FATAL Error with INI MESA_CVD_EtchingRate_Dry8.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\012_MESA\MESA_CVD_EtchingRate_CSV.py", line 273, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\012_MESA\MESA_CVD_EtchingRate_CSV.py", line 60, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1109, in _handle_rest
+    self._handle_header(st, mo, fpname) if mo else self._handle_option(st, line, fpname)
+                                                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1148, in _handle_option
+    raise DuplicateOptionError(st.sectname, st.optname,
+                            fpname, st.lineno)
+configparser.DuplicateOptionError: While reading from 'MESA_CVD_EtchingRate_Dry8.ini' [line 14]: option 'output_path' in section 'Paths' already exists
+
+2025-08-07 08:07:07,642 - INFO - 2025-08-07 08:07:07 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:07:07,644 - INFO - 2025-08-07 08:07:07 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.07.07.csv
+2025-08-07 08:07:09,184 - INFO - 2025-08-07 08:07:09 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:07:12,974 - ERROR - 2025-08-07 08:07:12 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:07:12,977 - INFO - 2025-08-07 08:07:12 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 08:07:14,455 - INFO - 2025-08-07 08:07:14 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:07:16,393 - ERROR - 2025-08-07 08:07:16 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:07:16,397 - INFO - 2025-08-07 08:07:16 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 08:07:17,612 - INFO - 2025-08-07 08:07:17 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:08:23,870 - INFO - 2025-08-07 08:08:23 Successfully wrote 44 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:08:24,557 - ERROR - 2025-08-07 08:08:24 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 08:08:24,560 - INFO - 2025-08-07 08:08:24 Generating final pointer XML for C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.07.07.csv...
+2025-08-07 08:08:24,670 - INFO - 2025-08-07 08:08:24 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T08.07.07,Testdate=2025-08-07T08.08.24.xml
+2025-08-07 08:14:30,400 - INFO - 2025-08-07 08:14:30 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:14:30,403 - INFO - 2025-08-07 08:14:30 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.14.30.csv
+2025-08-07 08:14:31,897 - INFO - 2025-08-07 08:14:31 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:14:36,319 - ERROR - 2025-08-07 08:14:36 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:14:36,323 - INFO - 2025-08-07 08:14:36 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 08:14:36,942 - ERROR - 2025-08-07 08:14:36 Error processing file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\012_MESA\MESA_CVD_EtchingRate_CSV.py", line 299, in main
+    dst_path = shutil.copy(latest_file, intermediate_path)
+  File "c:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\DataFile\\012_MESA\\3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm'
+
+2025-08-07 08:14:36,945 - INFO - 2025-08-07 08:14:36 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 08:14:37,867 - INFO - 2025-08-07 08:14:37 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:14:38,463 - ERROR - 2025-08-07 08:14:38 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:16:38,479 - INFO - 2025-08-07 08:16:38 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:16:38,484 - INFO - 2025-08-07 08:16:38 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.16.38.csv
+2025-08-07 08:16:40,669 - INFO - 2025-08-07 08:16:40 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:16:44,297 - ERROR - 2025-08-07 08:16:44 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:16:44,301 - INFO - 2025-08-07 08:16:44 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 08:16:45,676 - INFO - 2025-08-07 08:16:45 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:16:47,458 - ERROR - 2025-08-07 08:16:47 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:16:47,464 - INFO - 2025-08-07 08:16:47 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 08:16:48,559 - INFO - 2025-08-07 08:16:48 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:16:49,130 - ERROR - 2025-08-07 08:16:49 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: 'key_Start_Date_Time'
+2025-08-07 08:18:43,942 - INFO - 2025-08-07 08:18:43 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:18:43,946 - INFO - 2025-08-07 08:18:43 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.18.43.csv
+2025-08-07 08:18:45,455 - INFO - 2025-08-07 08:18:45 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:19:48,453 - INFO - 2025-08-07 08:19:48 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:19:48,455 - INFO - 2025-08-07 08:19:48 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.19.48.csv
+2025-08-07 08:19:49,846 - INFO - 2025-08-07 08:19:49 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:20:19,121 - INFO - 2025-08-07 08:20:19 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 08:20:19,124 - INFO - 2025-08-07 08:20:19 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.20.19.csv
+2025-08-07 08:20:22,447 - INFO - 2025-08-07 08:20:22 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:20:43,125 - INFO - 2025-08-07 08:20:43 Successfully wrote 11 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:20:47,623 - ERROR - 2025-08-07 08:20:47 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 08:20:47,632 - INFO - 2025-08-07 08:20:47 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 08:20:49,171 - INFO - 2025-08-07 08:20:49 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:21:10,573 - INFO - 2025-08-07 08:21:10 Successfully wrote 26 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:21:12,429 - ERROR - 2025-08-07 08:21:12 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 08:21:12,437 - INFO - 2025-08-07 08:21:12 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 08:21:13,477 - INFO - 2025-08-07 08:21:13 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:21:55,797 - INFO - 2025-08-07 08:21:55 Successfully wrote 44 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 08:21:56,496 - ERROR - 2025-08-07 08:21:56 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 08:21:56,497 - INFO - 2025-08-07 08:21:56 Generating final pointer XML for C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T08.20.19.csv...
+2025-08-07 08:21:56,586 - INFO - 2025-08-07 08:21:56 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T08.20.19,Testdate=2025-08-07T08.21.56.xml
+2025-08-07 09:51:40,510 - INFO - 2025-08-07 09:51:40 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 09:51:40,554 - INFO - 2025-08-07 09:51:40 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T09.51.40.csv
+2025-08-07 09:51:42,190 - INFO - 2025-08-07 09:51:42 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:52:02,988 - INFO - 2025-08-07 09:52:02 Successfully wrote 11 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:52:06,179 - ERROR - 2025-08-07 09:52:06 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:52:06,191 - INFO - 2025-08-07 09:52:06 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 09:52:07,714 - INFO - 2025-08-07 09:52:07 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:52:28,617 - INFO - 2025-08-07 09:52:28 Successfully wrote 26 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:52:30,585 - ERROR - 2025-08-07 09:52:30 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:52:30,596 - INFO - 2025-08-07 09:52:30 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 09:52:32,397 - INFO - 2025-08-07 09:52:32 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:53:11,072 - INFO - 2025-08-07 09:53:11 Successfully wrote 44 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:53:11,578 - ERROR - 2025-08-07 09:53:11 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:53:11,579 - INFO - 2025-08-07 09:53:11 Generating final pointer XML for C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T09.51.40.csv...
+2025-08-07 09:53:11,643 - INFO - 2025-08-07 09:53:11 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T09.51.40,Testdate=2025-08-07T09.53.11.xml
+2025-08-07 09:57:50,038 - INFO - 2025-08-07 09:57:50 ===== \u4e3b\u7a0b\u5f0f\u958b\u59cb\u57f7\u884c =====
+2025-08-07 09:57:50,039 - INFO - 2025-08-07 09:57:50 \u627e\u5230 3 \u500b INI \u8a2d\u5b9a\u6a94: MESA_CVD_EtchingRate_Dry3.ini, MESA_CVD_EtchingRate_Dry6.ini, MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 09:57:50,040 - INFO - 2025-08-07 09:57:50 --- \u958b\u59cb\u8655\u7406 INI \u8a2d\u5b9a\u6a94: MESA_CVD_EtchingRate_Dry3.ini ---
+2025-08-07 09:57:50,047 - INFO - 2025-08-07 09:57:50 \u8b80\u53d6 INI \u8a2d\u5b9a\u6210\u529f
+2025-08-07 09:57:50,051 - INFO - 2025-08-07 09:57:50 \u672c\u6b21\u57f7\u884c\u7684 CSV \u8f38\u51fa\u6a94\u6848\u5c07\u662f: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T09.57.50.csv
+2025-08-07 09:57:50,053 - INFO - 2025-08-07 09:57:50 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81\EA\u7cfb' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*3\uff72\uff9d\uff81_HTL13\u2605xx_*\uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 09:57:50,276 - INFO - 2025-08-07 09:57:50 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:57:51,546 - INFO - 2025-08-07 09:57:51 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\012_MESA\3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:57:51,546 - INFO - 2025-08-07 09:57:51 --- \u958b\u59cb\u57f7\u884c\u51fd\u5f0f process_excel_file\uff0c\u76ee\u6a19\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 09:57:55,513 - INFO - 2025-08-07 09:57:55 \u6b65\u9a5f1: \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 728 \u884c
+2025-08-07 09:57:55,517 - INFO - 2025-08-07 09:57:55 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe (\u65e5\u671f\u3001\u5e8f\u865f) \u5b8c\u6210\uff0c\u5269\u9918 19 \u884c
+2025-08-07 09:57:56,101 - INFO - 2025-08-07 09:57:56 \u6b65\u9a5f3: \u8cc7\u6599\u5eab\u9023\u7dda\u6210\u529f
+2025-08-07 09:58:08,824 - INFO - 2025-08-07 09:58:08 \u6b65\u9a5f4: \u8cc7\u6599\u5eab\u67e5\u8a62\u8207\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 11 \u884c
+2025-08-07 09:58:08,910 - INFO - 2025-08-07 09:58:08 \u8cc7\u6599\u5eab\u9023\u7dda\u5df2\u95dc\u9589
+2025-08-07 09:58:08,924 - INFO - 2025-08-07 09:58:08 \u6b65\u9a5f5: \u65e5\u671f\u8207\u5167\u90e8\u6b04\u4f4d\u8a08\u7b97\u5b8c\u6210
+2025-08-07 09:58:08,924 - INFO - 2025-08-07 09:58:08 \u6b65\u9a5f6&7: \u52d5\u614b CSV \u6b04\u4f4d\u8207\u9806\u5e8f\u751f\u6210\u5b8c\u7562
+2025-08-07 09:58:09,003 - INFO - 2025-08-07 09:58:09 \u51fd\u5f0f write_to_csv \u57f7\u884c\u6210\u529f
+2025-08-07 09:58:09,003 - INFO - 2025-08-07 09:58:09 \u6b65\u9a5f8: \u6210\u529f\u5beb\u5165 11 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 09:58:12,123 - INFO - 2025-08-07 09:58:12 \u6b65\u9a5f9: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 16495
+2025-08-07 09:58:12,125 - ERROR - 2025-08-07 09:58:12 \u5099\u4efd running_rec \u6a94\u6848\u5931\u6557: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:58:12,125 - INFO - 2025-08-07 09:58:12 --- \u51fd\u5f0f process_excel_file \u57f7\u884c\u5b8c\u7562 ---
+2025-08-07 09:58:12,126 - INFO - 2025-08-07 09:58:12 --- INI \u8a2d\u5b9a\u6a94 MESA_CVD_EtchingRate_Dry3.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 09:58:12,126 - INFO - 2025-08-07 09:58:12 --- \u958b\u59cb\u8655\u7406 INI \u8a2d\u5b9a\u6a94: MESA_CVD_EtchingRate_Dry6.ini ---
+2025-08-07 09:58:12,129 - INFO - 2025-08-07 09:58:12 \u8b80\u53d6 INI \u8a2d\u5b9a\u6210\u529f
+2025-08-07 09:58:12,131 - INFO - 2025-08-07 09:58:12 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81\EA\u7cfb' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*3\uff72\uff9d\uff81_HTL13\u2605xx_*\uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 09:58:12,421 - INFO - 2025-08-07 09:58:12 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:58:13,711 - INFO - 2025-08-07 09:58:13 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\012_MESA\3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:58:13,711 - INFO - 2025-08-07 09:58:13 --- \u958b\u59cb\u57f7\u884c\u51fd\u5f0f process_excel_file\uff0c\u76ee\u6a19\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 09:58:16,106 - INFO - 2025-08-07 09:58:16 \u6b65\u9a5f1: \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 749 \u884c
+2025-08-07 09:58:16,114 - INFO - 2025-08-07 09:58:16 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe (\u65e5\u671f\u3001\u5e8f\u865f) \u5b8c\u6210\uff0c\u5269\u9918 27 \u884c
+2025-08-07 09:58:16,115 - INFO - 2025-08-07 09:58:16 \u6b65\u9a5f3: \u8cc7\u6599\u5eab\u9023\u7dda\u6210\u529f
+2025-08-07 09:58:40,756 - INFO - 2025-08-07 09:58:40 \u6b65\u9a5f4: \u8cc7\u6599\u5eab\u67e5\u8a62\u8207\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 26 \u884c
+2025-08-07 09:58:40,841 - INFO - 2025-08-07 09:58:40 \u8cc7\u6599\u5eab\u9023\u7dda\u5df2\u95dc\u9589
+2025-08-07 09:58:40,915 - INFO - 2025-08-07 09:58:40 \u6b65\u9a5f5: \u65e5\u671f\u8207\u5167\u90e8\u6b04\u4f4d\u8a08\u7b97\u5b8c\u6210
+2025-08-07 09:58:40,915 - INFO - 2025-08-07 09:58:40 \u6b65\u9a5f6&7: \u52d5\u614b CSV \u6b04\u4f4d\u8207\u9806\u5e8f\u751f\u6210\u5b8c\u7562
+2025-08-07 09:58:40,969 - INFO - 2025-08-07 09:58:40 \u51fd\u5f0f write_to_csv \u57f7\u884c\u6210\u529f
+2025-08-07 09:58:40,971 - INFO - 2025-08-07 09:58:40 \u6b65\u9a5f8: \u6210\u529f\u5beb\u5165 26 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 09:58:42,853 - INFO - 2025-08-07 09:58:42 \u6b65\u9a5f9: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 7996
+2025-08-07 09:58:42,856 - ERROR - 2025-08-07 09:58:42 \u5099\u4efd running_rec \u6a94\u6848\u5931\u6557: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:58:42,856 - INFO - 2025-08-07 09:58:42 --- \u51fd\u5f0f process_excel_file \u57f7\u884c\u5b8c\u7562 ---
+2025-08-07 09:58:42,857 - INFO - 2025-08-07 09:58:42 --- INI \u8a2d\u5b9a\u6a94 MESA_CVD_EtchingRate_Dry6.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 09:58:42,857 - INFO - 2025-08-07 09:58:42 --- \u958b\u59cb\u8655\u7406 INI \u8a2d\u5b9a\u6a94: MESA_CVD_EtchingRate_Dry8.ini ---
+2025-08-07 09:58:42,860 - INFO - 2025-08-07 09:58:42 \u8b80\u53d6 INI \u8a2d\u5b9a\u6210\u529f
+2025-08-07 09:58:42,861 - INFO - 2025-08-07 09:58:42 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f\3\uff72\uff9d\uff81\EA\u7cfb' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 09:58:43,075 - INFO - 2025-08-07 09:58:43 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:58:43,898 - INFO - 2025-08-07 09:58:43 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\012_MESA\3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 09:58:43,899 - INFO - 2025-08-07 09:58:43 --- \u958b\u59cb\u57f7\u884c\u51fd\u5f0f process_excel_file\uff0c\u76ee\u6a19\u6a94\u6848: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 09:58:44,636 - INFO - 2025-08-07 09:58:44 \u6b65\u9a5f1: \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 463 \u884c
+2025-08-07 09:58:44,640 - INFO - 2025-08-07 09:58:44 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe (\u65e5\u671f\u3001\u5e8f\u865f) \u5b8c\u6210\uff0c\u5269\u9918 52 \u884c
+2025-08-07 09:58:44,641 - INFO - 2025-08-07 09:58:44 \u6b65\u9a5f3: \u8cc7\u6599\u5eab\u9023\u7dda\u6210\u529f
+2025-08-07 09:59:21,212 - INFO - 2025-08-07 09:59:21 \u6b65\u9a5f4: \u8cc7\u6599\u5eab\u67e5\u8a62\u8207\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 44 \u884c
+2025-08-07 09:59:21,303 - INFO - 2025-08-07 09:59:21 \u8cc7\u6599\u5eab\u9023\u7dda\u5df2\u95dc\u9589
+2025-08-07 09:59:21,410 - INFO - 2025-08-07 09:59:21 \u6b65\u9a5f5: \u65e5\u671f\u8207\u5167\u90e8\u6b04\u4f4d\u8a08\u7b97\u5b8c\u6210
+2025-08-07 09:59:21,411 - INFO - 2025-08-07 09:59:21 \u6b65\u9a5f6&7: \u52d5\u614b CSV \u6b04\u4f4d\u8207\u9806\u5e8f\u751f\u6210\u5b8c\u7562
+2025-08-07 09:59:21,466 - INFO - 2025-08-07 09:59:21 \u51fd\u5f0f write_to_csv \u57f7\u884c\u6210\u529f
+2025-08-07 09:59:21,467 - INFO - 2025-08-07 09:59:21 \u6b65\u9a5f8: \u6210\u529f\u5beb\u5165 44 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 09:59:21,967 - INFO - 2025-08-07 09:59:21 \u6b65\u9a5f9: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 2568
+2025-08-07 09:59:21,969 - ERROR - 2025-08-07 09:59:21 \u5099\u4efd running_rec \u6a94\u6848\u5931\u6557: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 09:59:21,969 - INFO - 2025-08-07 09:59:21 --- \u51fd\u5f0f process_excel_file \u57f7\u884c\u5b8c\u7562 ---
+2025-08-07 09:59:21,969 - INFO - 2025-08-07 09:59:21 --- INI \u8a2d\u5b9a\u6a94 MESA_CVD_EtchingRate_Dry8.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 09:59:21,970 - INFO - 2025-08-07 09:59:21 --- \u958b\u59cb\u751f\u6210\u6700\u7d42\u7684\u6307\u6a19 XML \u6a94\u6848 (\u6307\u5411 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T09.57.50.csv) ---
+2025-08-07 09:59:22,028 - INFO - 2025-08-07 09:59:22 \u51fd\u5f0f generate_pointer_xml \u57f7\u884c\u6210\u529f\uff0cXML \u5df2\u751f\u6210\u65bc: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T09.57.50,Testdate=2025-08-07T09.59.21.xml
+2025-08-07 09:59:22,029 - INFO - 2025-08-07 09:59:22 ===== \u4e3b\u7a0b\u5f0f\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 11:58:41,110 - INFO - 2025-08-07 11:58:41 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 11:58:41,112 - INFO - 2025-08-07 11:58:41 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T11.58.41.csv
+2025-08-07 11:58:42,697 - INFO - 2025-08-07 11:58:42 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:58:46,485 - ERROR - 2025-08-07 11:58:46 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: "INI mapping failed to create 'key_Start_Date_Time'. Check Excel columns and INI."
+2025-08-07 11:58:46,498 - INFO - 2025-08-07 11:58:46 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 11:58:48,122 - INFO - 2025-08-07 11:58:48 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:58:50,341 - ERROR - 2025-08-07 11:58:50 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: "INI mapping failed to create 'key_Start_Date_Time'. Check Excel columns and INI."
+2025-08-07 11:58:50,345 - INFO - 2025-08-07 11:58:50 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 11:58:51,705 - INFO - 2025-08-07 11:58:51 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:58:52,714 - ERROR - 2025-08-07 11:58:52 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: "INI mapping failed to create 'key_Start_Date_Time'. Check Excel columns and INI."
+2025-08-07 11:59:44,066 - INFO - 2025-08-07 11:59:44 Start processing INI config file: MESA_CVD_EtchingRate_Dry3.ini
+2025-08-07 11:59:44,070 - INFO - 2025-08-07 11:59:44 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T11.59.44.csv
+2025-08-07 11:59:45,567 - INFO - 2025-08-07 11:59:45 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:59:49,219 - ERROR - 2025-08-07 11:59:49 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: "INI mapping failed to create 'key_Start_Date_Time'. Check Excel columns and INI."
+2025-08-07 11:59:49,223 - INFO - 2025-08-07 11:59:49 Start processing INI config file: MESA_CVD_EtchingRate_Dry6.ini
+2025-08-07 11:59:50,643 - INFO - 2025-08-07 11:59:50 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:59:52,591 - ERROR - 2025-08-07 11:59:52 Failed to read or filter Excel file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm. Error: "INI mapping failed to create 'key_Start_Date_Time'. Check Excel columns and INI."
+2025-08-07 11:59:52,595 - INFO - 2025-08-07 11:59:52 Start processing INI config file: MESA_CVD_EtchingRate_Dry8.ini
+2025-08-07 11:59:53,668 - INFO - 2025-08-07 11:59:53 Processing file: 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 12:00:35,657 - INFO - 2025-08-07 12:00:35 Successfully wrote 44 rows to CSV for file 3\uff72\uff9d\uff81_HTL13\u2605xx_ \uff92\uff7bSiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a48\u53f7\u6a5f)\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 12:00:36,328 - ERROR - 2025-08-07 12:00:36 Failed to backup running_rec file. Error: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/012_MESA/13_ProgramUsedFile/'
+2025-08-07 12:00:36,331 - INFO - 2025-08-07 12:00:36 Generating final pointer XML for C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_EtchingRate_2025_08_07T11.59.44.csv...
+2025-08-07 12:00:36,395 - INFO - 2025-08-07 12:00:36 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_EtchingRate_2025_08_07T11.59.44,Testdate=2025-08-07T12.00.36.xml

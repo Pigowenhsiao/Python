@@ -1,0 +1,2026 @@
+INFO:root:2025-08-13 07:55:32 Program Start
+INFO:root:2025-08-13 07:55:32 Excel File Copy
+INFO:root:2025-08-13 07:55:36 Get The Starting Row Count
+INFO:root:2025-08-13 07:55:36 Read Excel
+INFO:root:2025-08-13 07:56:16 Setting Columns Number
+INFO:root:2025-08-13 07:56:17 Get DataFrame End Index Number
+
+INFO:root:2025-08-13 07:56:17 Blank Check
+ERROR:root:2025-08-13 07:56:17 Blank Error
+
+INFO:root:2025-08-13 07:56:17 Blank Check
+ERROR:root:2025-08-13 07:56:17 Blank Error
+
+INFO:root:2025-08-13 07:56:17 Blank Check
+INFO:root:2025-08-13 07:56:17 Data Acquisition
+INFO:root:2025-08-13 07:56:19 Date Format Conversion
+INFO:root:2025-08-13 07:56:19 Check Data Type
+INFO:root:2025-08-13 07:56:19 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:19 D1BPV : OK
+
+INFO:root:2025-08-13 07:56:19 Blank Check
+INFO:root:2025-08-13 07:56:19 Data Acquisition
+INFO:root:2025-08-13 07:56:20 Date Format Conversion
+INFO:root:2025-08-13 07:56:20 Check Data Type
+INFO:root:2025-08-13 07:56:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:20 D1BPJ : OK
+
+INFO:root:2025-08-13 07:56:20 Blank Check
+ERROR:root:2025-08-13 07:56:20 Blank Error
+
+INFO:root:2025-08-13 07:56:20 Blank Check
+ERROR:root:2025-08-13 07:56:20 Blank Error
+
+INFO:root:2025-08-13 07:56:20 Blank Check
+INFO:root:2025-08-13 07:56:20 Data Acquisition
+INFO:root:2025-08-13 07:56:21 Date Format Conversion
+INFO:root:2025-08-13 07:56:21 Check Data Type
+INFO:root:2025-08-13 07:56:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:21 D1BPM : OK
+
+INFO:root:2025-08-13 07:56:21 Blank Check
+INFO:root:2025-08-13 07:56:21 Data Acquisition
+INFO:root:2025-08-13 07:56:22 Date Format Conversion
+INFO:root:2025-08-13 07:56:22 Check Data Type
+INFO:root:2025-08-13 07:56:22 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:22 SJ141 : OK
+
+INFO:root:2025-08-13 07:56:22 Blank Check
+ERROR:root:2025-08-13 07:56:22 Blank Error
+
+INFO:root:2025-08-13 07:56:22 Blank Check
+ERROR:root:2025-08-13 07:56:22 Blank Error
+
+INFO:root:2025-08-13 07:56:22 Blank Check
+INFO:root:2025-08-13 07:56:22 Data Acquisition
+INFO:root:2025-08-13 07:56:23 Date Format Conversion
+INFO:root:2025-08-13 07:56:23 Check Data Type
+INFO:root:2025-08-13 07:56:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:23 SM128 : OK
+
+INFO:root:2025-08-13 07:56:23 Blank Check
+INFO:root:2025-08-13 07:56:23 Data Acquisition
+INFO:root:2025-08-13 07:56:24 Date Format Conversion
+INFO:root:2025-08-13 07:56:24 Check Data Type
+INFO:root:2025-08-13 07:56:24 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:24 D1BPE : OK
+
+INFO:root:2025-08-13 07:56:24 Blank Check
+ERROR:root:2025-08-13 07:56:24 Blank Error
+
+INFO:root:2025-08-13 07:56:24 Blank Check
+ERROR:root:2025-08-13 07:56:24 Blank Error
+
+INFO:root:2025-08-13 07:56:24 Blank Check
+INFO:root:2025-08-13 07:56:24 Data Acquisition
+INFO:root:2025-08-13 07:56:25 Date Format Conversion
+INFO:root:2025-08-13 07:56:25 Check Data Type
+INFO:root:2025-08-13 07:56:25 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:26 D1BPH : OK
+
+INFO:root:2025-08-13 07:56:26 Blank Check
+INFO:root:2025-08-13 07:56:26 Data Acquisition
+INFO:root:2025-08-13 07:56:27 Date Format Conversion
+INFO:root:2025-08-13 07:56:27 Check Data Type
+INFO:root:2025-08-13 07:56:27 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:27 DHACN : OK
+
+INFO:root:2025-08-13 07:56:27 Blank Check
+ERROR:root:2025-08-13 07:56:27 Blank Error
+
+INFO:root:2025-08-13 07:56:27 Blank Check
+ERROR:root:2025-08-13 07:56:27 Blank Error
+
+INFO:root:2025-08-13 07:56:27 Blank Check
+INFO:root:2025-08-13 07:56:27 Data Acquisition
+INFO:root:2025-08-13 07:56:28 Date Format Conversion
+INFO:root:2025-08-13 07:56:28 Check Data Type
+INFO:root:2025-08-13 07:56:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:28 D1BDZ : OK
+
+INFO:root:2025-08-13 07:56:28 Blank Check
+INFO:root:2025-08-13 07:56:28 Data Acquisition
+INFO:root:2025-08-13 07:56:29 Date Format Conversion
+INFO:root:2025-08-13 07:56:29 Check Data Type
+INFO:root:2025-08-13 07:56:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:29 NS516 : OK
+
+INFO:root:2025-08-13 07:56:29 Blank Check
+ERROR:root:2025-08-13 07:56:29 Blank Error
+
+INFO:root:2025-08-13 07:56:29 Blank Check
+ERROR:root:2025-08-13 07:56:29 Blank Error
+
+INFO:root:2025-08-13 07:56:29 Blank Check
+INFO:root:2025-08-13 07:56:29 Data Acquisition
+INFO:root:2025-08-13 07:56:30 Date Format Conversion
+INFO:root:2025-08-13 07:56:30 Check Data Type
+INFO:root:2025-08-13 07:56:30 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:30 NS519 : OK
+
+INFO:root:2025-08-13 07:56:30 Blank Check
+INFO:root:2025-08-13 07:56:30 Data Acquisition
+INFO:root:2025-08-13 07:56:31 Date Format Conversion
+INFO:root:2025-08-13 07:56:31 Check Data Type
+INFO:root:2025-08-13 07:56:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:31 DHAD5 : OK
+
+INFO:root:2025-08-13 07:56:31 Blank Check
+ERROR:root:2025-08-13 07:56:31 Blank Error
+
+INFO:root:2025-08-13 07:56:31 Blank Check
+INFO:root:2025-08-13 07:56:31 Data Acquisition
+INFO:root:2025-08-13 07:56:32 Date Format Conversion
+INFO:root:2025-08-13 07:56:32 Check Data Type
+INFO:root:2025-08-13 07:56:32 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:32 NV390 : OK
+
+INFO:root:2025-08-13 07:56:32 Blank Check
+ERROR:root:2025-08-13 07:56:32 Blank Error
+
+INFO:root:2025-08-13 07:56:32 Blank Check
+ERROR:root:2025-08-13 07:56:32 Blank Error
+
+INFO:root:2025-08-13 07:56:32 Blank Check
+INFO:root:2025-08-13 07:56:32 Data Acquisition
+INFO:root:2025-08-13 07:56:34 Date Format Conversion
+INFO:root:2025-08-13 07:56:34 Check Data Type
+INFO:root:2025-08-13 07:56:34 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:34 NV458 : OK
+
+INFO:root:2025-08-13 07:56:34 Blank Check
+INFO:root:2025-08-13 07:56:34 Data Acquisition
+INFO:root:2025-08-13 07:56:35 Date Format Conversion
+INFO:root:2025-08-13 07:56:35 Check Data Type
+INFO:root:2025-08-13 07:56:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:35 D1BQU : OK
+
+INFO:root:2025-08-13 07:56:35 Blank Check
+ERROR:root:2025-08-13 07:56:35 Blank Error
+
+INFO:root:2025-08-13 07:56:35 Blank Check
+ERROR:root:2025-08-13 07:56:35 Blank Error
+
+INFO:root:2025-08-13 07:56:35 Blank Check
+INFO:root:2025-08-13 07:56:35 Data Acquisition
+INFO:root:2025-08-13 07:56:36 Date Format Conversion
+INFO:root:2025-08-13 07:56:36 Check Data Type
+INFO:root:2025-08-13 07:56:36 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:37 D1BQX : OK
+
+INFO:root:2025-08-13 07:56:37 Blank Check
+INFO:root:2025-08-13 07:56:37 Data Acquisition
+INFO:root:2025-08-13 07:56:38 Date Format Conversion
+INFO:root:2025-08-13 07:56:38 Check Data Type
+INFO:root:2025-08-13 07:56:38 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:38 NV459 : OK
+
+INFO:root:2025-08-13 07:56:38 Blank Check
+ERROR:root:2025-08-13 07:56:38 Blank Error
+
+INFO:root:2025-08-13 07:56:38 Blank Check
+ERROR:root:2025-08-13 07:56:38 Blank Error
+
+INFO:root:2025-08-13 07:56:38 Blank Check
+INFO:root:2025-08-13 07:56:38 Data Acquisition
+INFO:root:2025-08-13 07:56:39 Date Format Conversion
+INFO:root:2025-08-13 07:56:39 Check Data Type
+INFO:root:2025-08-13 07:56:39 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:40 NV462 : OK
+
+INFO:root:2025-08-13 07:56:40 Blank Check
+INFO:root:2025-08-13 07:56:40 Data Acquisition
+INFO:root:2025-08-13 07:56:41 Date Format Conversion
+INFO:root:2025-08-13 07:56:41 Check Data Type
+INFO:root:2025-08-13 07:56:41 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:41 D1BQY : OK
+
+INFO:root:2025-08-13 07:56:41 Blank Check
+ERROR:root:2025-08-13 07:56:41 Blank Error
+
+INFO:root:2025-08-13 07:56:41 Blank Check
+ERROR:root:2025-08-13 07:56:41 Blank Error
+
+INFO:root:2025-08-13 07:56:41 Blank Check
+INFO:root:2025-08-13 07:56:41 Data Acquisition
+INFO:root:2025-08-13 07:56:42 Date Format Conversion
+INFO:root:2025-08-13 07:56:42 Check Data Type
+INFO:root:2025-08-13 07:56:42 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:42 D1BR1 : OK
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+INFO:root:2025-08-13 07:56:43 Date Format Conversion
+INFO:root:2025-08-13 07:56:43 Check Data Type
+INFO:root:2025-08-13 07:56:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:43 D1BPW : OK
+
+INFO:root:2025-08-13 07:56:43 Blank Check
+ERROR:root:2025-08-13 07:56:43 Blank Error
+
+INFO:root:2025-08-13 07:56:43 Blank Check
+ERROR:root:2025-08-13 07:56:43 Blank Error
+
+INFO:root:2025-08-13 07:56:43 Blank Check
+INFO:root:2025-08-13 07:56:43 Data Acquisition
+INFO:root:2025-08-13 07:56:44 Date Format Conversion
+INFO:root:2025-08-13 07:56:44 Check Data Type
+INFO:root:2025-08-13 07:56:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:45 D1BPZ : OK
+
+INFO:root:2025-08-13 07:56:45 Blank Check
+INFO:root:2025-08-13 07:56:45 Data Acquisition
+INFO:root:2025-08-13 07:56:45 Date Format Conversion
+INFO:root:2025-08-13 07:56:45 Check Data Type
+INFO:root:2025-08-13 07:56:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:46 NU615 : OK
+
+INFO:root:2025-08-13 07:56:46 Blank Check
+ERROR:root:2025-08-13 07:56:46 Blank Error
+
+INFO:root:2025-08-13 07:56:46 Blank Check
+INFO:root:2025-08-13 07:56:46 Data Acquisition
+INFO:root:2025-08-13 07:56:46 Date Format Conversion
+INFO:root:2025-08-13 07:56:46 Check Data Type
+INFO:root:2025-08-13 07:56:46 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:47 NU617 : OK
+
+INFO:root:2025-08-13 07:56:47 Blank Check
+INFO:root:2025-08-13 07:56:47 Data Acquisition
+ERROR:root:2025-08-13 07:56:48 D1BQO : PartNumber Error
+
+INFO:root:2025-08-13 07:56:48 Blank Check
+ERROR:root:2025-08-13 07:56:48 Blank Error
+
+INFO:root:2025-08-13 07:56:48 Blank Check
+ERROR:root:2025-08-13 07:56:48 Blank Error
+
+INFO:root:2025-08-13 07:56:48 Blank Check
+INFO:root:2025-08-13 07:56:48 Data Acquisition
+INFO:root:2025-08-13 07:56:48 Date Format Conversion
+INFO:root:2025-08-13 07:56:48 Check Data Type
+INFO:root:2025-08-13 07:56:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:49 D1BQ3 : OK
+
+INFO:root:2025-08-13 07:56:49 Blank Check
+INFO:root:2025-08-13 07:56:49 Data Acquisition
+INFO:root:2025-08-13 07:56:50 Date Format Conversion
+INFO:root:2025-08-13 07:56:50 Check Data Type
+INFO:root:2025-08-13 07:56:50 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:50 D1BQC : OK
+
+INFO:root:2025-08-13 07:56:50 Blank Check
+ERROR:root:2025-08-13 07:56:50 Blank Error
+
+INFO:root:2025-08-13 07:56:50 Blank Check
+ERROR:root:2025-08-13 07:56:50 Blank Error
+
+INFO:root:2025-08-13 07:56:50 Blank Check
+INFO:root:2025-08-13 07:56:50 Data Acquisition
+INFO:root:2025-08-13 07:56:51 Date Format Conversion
+INFO:root:2025-08-13 07:56:51 Check Data Type
+INFO:root:2025-08-13 07:56:51 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:51 D1BQF : OK
+
+INFO:root:2025-08-13 07:56:51 Blank Check
+INFO:root:2025-08-13 07:56:51 Data Acquisition
+INFO:root:2025-08-13 07:56:52 Date Format Conversion
+INFO:root:2025-08-13 07:56:52 Check Data Type
+INFO:root:2025-08-13 07:56:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:52 NS314 : OK
+
+INFO:root:2025-08-13 07:56:52 Blank Check
+ERROR:root:2025-08-13 07:56:52 Blank Error
+
+INFO:root:2025-08-13 07:56:52 Blank Check
+ERROR:root:2025-08-13 07:56:52 Blank Error
+
+INFO:root:2025-08-13 07:56:52 Blank Check
+INFO:root:2025-08-13 07:56:52 Data Acquisition
+INFO:root:2025-08-13 07:56:53 Date Format Conversion
+INFO:root:2025-08-13 07:56:53 Check Data Type
+INFO:root:2025-08-13 07:56:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:53 NS317 : OK
+
+INFO:root:2025-08-13 07:56:53 Blank Check
+INFO:root:2025-08-13 07:56:53 Data Acquisition
+INFO:root:2025-08-13 07:56:54 Date Format Conversion
+INFO:root:2025-08-13 07:56:54 Check Data Type
+INFO:root:2025-08-13 07:56:54 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:54 D1BQH : OK
+
+INFO:root:2025-08-13 07:56:54 Blank Check
+ERROR:root:2025-08-13 07:56:54 Blank Error
+
+INFO:root:2025-08-13 07:56:54 Blank Check
+INFO:root:2025-08-13 07:56:54 Data Acquisition
+INFO:root:2025-08-13 07:56:55 Date Format Conversion
+INFO:root:2025-08-13 07:56:55 Check Data Type
+INFO:root:2025-08-13 07:56:55 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:56 D1BQK : OK
+
+INFO:root:2025-08-13 07:56:56 Blank Check
+INFO:root:2025-08-13 07:56:56 Data Acquisition
+INFO:root:2025-08-13 07:56:56 Date Format Conversion
+INFO:root:2025-08-13 07:56:56 Check Data Type
+INFO:root:2025-08-13 07:56:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:57 SJ142 : OK
+
+INFO:root:2025-08-13 07:56:57 Blank Check
+ERROR:root:2025-08-13 07:56:57 Blank Error
+
+INFO:root:2025-08-13 07:56:57 Blank Check
+ERROR:root:2025-08-13 07:56:57 Blank Error
+
+INFO:root:2025-08-13 07:56:57 Blank Check
+INFO:root:2025-08-13 07:56:57 Data Acquisition
+INFO:root:2025-08-13 07:56:58 Date Format Conversion
+INFO:root:2025-08-13 07:56:58 Check Data Type
+INFO:root:2025-08-13 07:56:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:58 SM129 : OK
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+INFO:root:2025-08-13 07:56:59 Date Format Conversion
+INFO:root:2025-08-13 07:56:59 Check Data Type
+INFO:root:2025-08-13 07:56:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:59 DEAD2 : OK
+
+INFO:root:2025-08-13 07:56:59 Blank Check
+ERROR:root:2025-08-13 07:56:59 Blank Error
+
+INFO:root:2025-08-13 07:56:59 Blank Check
+INFO:root:2025-08-13 07:56:59 Data Acquisition
+INFO:root:2025-08-13 07:57:00 Date Format Conversion
+INFO:root:2025-08-13 07:57:00 Check Data Type
+INFO:root:2025-08-13 07:57:00 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:00 DEAD4 : OK
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+INFO:root:2025-08-13 07:57:02 Date Format Conversion
+INFO:root:2025-08-13 07:57:02 Check Data Type
+INFO:root:2025-08-13 07:57:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:02 DEACZ : OK
+
+INFO:root:2025-08-13 07:57:02 Blank Check
+ERROR:root:2025-08-13 07:57:02 Blank Error
+
+INFO:root:2025-08-13 07:57:02 Blank Check
+INFO:root:2025-08-13 07:57:02 Data Acquisition
+INFO:root:2025-08-13 07:57:03 Date Format Conversion
+INFO:root:2025-08-13 07:57:03 Check Data Type
+INFO:root:2025-08-13 07:57:03 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:03 DEAD1 : OK
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+INFO:root:2025-08-13 07:57:04 Date Format Conversion
+INFO:root:2025-08-13 07:57:04 Check Data Type
+INFO:root:2025-08-13 07:57:04 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:04 D1BQL : OK
+
+INFO:root:2025-08-13 07:57:04 Blank Check
+ERROR:root:2025-08-13 07:57:04 Blank Error
+
+INFO:root:2025-08-13 07:57:04 Blank Check
+ERROR:root:2025-08-13 07:57:04 Blank Error
+
+INFO:root:2025-08-13 07:57:04 Blank Check
+INFO:root:2025-08-13 07:57:04 Data Acquisition
+INFO:root:2025-08-13 07:57:05 Date Format Conversion
+INFO:root:2025-08-13 07:57:05 Check Data Type
+INFO:root:2025-08-13 07:57:05 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:08 D1BQP : OK
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+INFO:root:2025-08-13 07:57:09 Date Format Conversion
+INFO:root:2025-08-13 07:57:09 Check Data Type
+INFO:root:2025-08-13 07:57:09 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:09 SJ143 : OK
+
+INFO:root:2025-08-13 07:57:09 Blank Check
+ERROR:root:2025-08-13 07:57:09 Blank Error
+
+INFO:root:2025-08-13 07:57:09 Blank Check
+ERROR:root:2025-08-13 07:57:09 Blank Error
+
+INFO:root:2025-08-13 07:57:09 Blank Check
+INFO:root:2025-08-13 07:57:09 Data Acquisition
+INFO:root:2025-08-13 07:57:11 Date Format Conversion
+INFO:root:2025-08-13 07:57:11 Check Data Type
+INFO:root:2025-08-13 07:57:11 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:11 SM130 : OK
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+INFO:root:2025-08-13 07:57:12 Date Format Conversion
+INFO:root:2025-08-13 07:57:12 Check Data Type
+INFO:root:2025-08-13 07:57:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:13 DHAD8 : OK
+
+INFO:root:2025-08-13 07:57:13 Blank Check
+ERROR:root:2025-08-13 07:57:13 Blank Error
+
+INFO:root:2025-08-13 07:57:13 Blank Check
+ERROR:root:2025-08-13 07:57:13 Blank Error
+
+INFO:root:2025-08-13 07:57:13 Blank Check
+INFO:root:2025-08-13 07:57:13 Data Acquisition
+INFO:root:2025-08-13 07:57:14 Date Format Conversion
+INFO:root:2025-08-13 07:57:14 Check Data Type
+INFO:root:2025-08-13 07:57:14 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:14 DHADB : OK
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+INFO:root:2025-08-13 07:57:15 Date Format Conversion
+INFO:root:2025-08-13 07:57:15 Check Data Type
+INFO:root:2025-08-13 07:57:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:15 DFABV : OK
+
+INFO:root:2025-08-13 07:57:15 Blank Check
+ERROR:root:2025-08-13 07:57:15 Blank Error
+
+INFO:root:2025-08-13 07:57:15 Blank Check
+ERROR:root:2025-08-13 07:57:15 Blank Error
+
+INFO:root:2025-08-13 07:57:15 Blank Check
+INFO:root:2025-08-13 07:57:15 Data Acquisition
+INFO:root:2025-08-13 07:57:16 Date Format Conversion
+INFO:root:2025-08-13 07:57:16 Check Data Type
+INFO:root:2025-08-13 07:57:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:16 DFABY : OK
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+INFO:root:2025-08-13 07:57:17 Date Format Conversion
+INFO:root:2025-08-13 07:57:17 Check Data Type
+INFO:root:2025-08-13 07:57:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:18 D1BRB : OK
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+ERROR:root:2025-08-13 07:57:18 Blank Error
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+INFO:root:2025-08-13 07:57:18 Date Format Conversion
+INFO:root:2025-08-13 07:57:18 Check Data Type
+INFO:root:2025-08-13 07:57:18 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:19 D1BRD : OK
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+INFO:root:2025-08-13 07:57:20 Date Format Conversion
+INFO:root:2025-08-13 07:57:20 Check Data Type
+INFO:root:2025-08-13 07:57:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:20 SJ144 : OK
+
+INFO:root:2025-08-13 07:57:20 Blank Check
+ERROR:root:2025-08-13 07:57:20 Blank Error
+
+INFO:root:2025-08-13 07:57:20 Blank Check
+ERROR:root:2025-08-13 07:57:20 Blank Error
+
+INFO:root:2025-08-13 07:57:20 Blank Check
+INFO:root:2025-08-13 07:57:20 Data Acquisition
+INFO:root:2025-08-13 07:57:21 Date Format Conversion
+INFO:root:2025-08-13 07:57:21 Check Data Type
+INFO:root:2025-08-13 07:57:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:21 SM131 : OK
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+INFO:root:2025-08-13 07:57:22 Date Format Conversion
+INFO:root:2025-08-13 07:57:22 Check Data Type
+INFO:root:2025-08-13 07:57:22 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:22 DFABP : OK
+
+INFO:root:2025-08-13 07:57:22 Blank Check
+ERROR:root:2025-08-13 07:57:22 Blank Error
+
+INFO:root:2025-08-13 07:57:22 Blank Check
+ERROR:root:2025-08-13 07:57:22 Blank Error
+
+INFO:root:2025-08-13 07:57:22 Blank Check
+INFO:root:2025-08-13 07:57:22 Data Acquisition
+INFO:root:2025-08-13 07:57:23 Date Format Conversion
+INFO:root:2025-08-13 07:57:23 Check Data Type
+INFO:root:2025-08-13 07:57:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:23 DFABU : OK
+
+INFO:root:2025-08-13 07:57:23 Blank Check
+INFO:root:2025-08-13 07:57:23 Data Acquisition
+INFO:root:2025-08-13 07:57:24 Date Format Conversion
+INFO:root:2025-08-13 07:57:24 Check Data Type
+INFO:root:2025-08-13 07:57:24 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:24 NU619 : OK
+
+INFO:root:2025-08-13 07:57:24 Blank Check
+ERROR:root:2025-08-13 07:57:24 Blank Error
+
+INFO:root:2025-08-13 07:57:24 Blank Check
+ERROR:root:2025-08-13 07:57:24 Blank Error
+
+INFO:root:2025-08-13 07:57:24 Blank Check
+INFO:root:2025-08-13 07:57:24 Data Acquisition
+INFO:root:2025-08-13 07:57:25 Date Format Conversion
+INFO:root:2025-08-13 07:57:25 Check Data Type
+INFO:root:2025-08-13 07:57:25 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:26 NU622 : OK
+
+INFO:root:2025-08-13 07:57:26 Blank Check
+INFO:root:2025-08-13 07:57:26 Data Acquisition
+INFO:root:2025-08-13 07:57:26 Date Format Conversion
+INFO:root:2025-08-13 07:57:26 Check Data Type
+INFO:root:2025-08-13 07:57:26 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:27 SJ145 : OK
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+INFO:root:2025-08-13 07:57:28 Date Format Conversion
+INFO:root:2025-08-13 07:57:28 Check Data Type
+INFO:root:2025-08-13 07:57:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:28 SM132 : OK
+
+INFO:root:2025-08-13 07:57:28 Blank Check
+INFO:root:2025-08-13 07:57:28 Data Acquisition
+INFO:root:2025-08-13 07:57:29 Date Format Conversion
+INFO:root:2025-08-13 07:57:29 Check Data Type
+INFO:root:2025-08-13 07:57:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:29 D1BQQ : OK
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+ERROR:root:2025-08-13 07:57:29 Blank Error
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+ERROR:root:2025-08-13 07:57:29 Blank Error
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+INFO:root:2025-08-13 07:57:29 Data Acquisition
+INFO:root:2025-08-13 07:57:30 Date Format Conversion
+INFO:root:2025-08-13 07:57:30 Check Data Type
+INFO:root:2025-08-13 07:57:30 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:30 D1BQT : OK
+
+INFO:root:2025-08-13 07:57:30 Blank Check
+INFO:root:2025-08-13 07:57:30 Data Acquisition
+INFO:root:2025-08-13 07:57:31 Date Format Conversion
+INFO:root:2025-08-13 07:57:31 Check Data Type
+INFO:root:2025-08-13 07:57:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:31 NU623 : OK
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+ERROR:root:2025-08-13 07:57:31 Blank Error
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+ERROR:root:2025-08-13 07:57:31 Blank Error
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+INFO:root:2025-08-13 07:57:31 Data Acquisition
+INFO:root:2025-08-13 07:57:32 Date Format Conversion
+INFO:root:2025-08-13 07:57:32 Check Data Type
+INFO:root:2025-08-13 07:57:32 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:32 NU626 : OK
+
+INFO:root:2025-08-13 07:57:32 Blank Check
+INFO:root:2025-08-13 07:57:32 Data Acquisition
+INFO:root:2025-08-13 07:57:33 Date Format Conversion
+INFO:root:2025-08-13 07:57:33 Check Data Type
+INFO:root:2025-08-13 07:57:33 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:34 NU652 : OK
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+ERROR:root:2025-08-13 07:57:34 Blank Error
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+ERROR:root:2025-08-13 07:57:34 Blank Error
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+INFO:root:2025-08-13 07:57:35 Date Format Conversion
+INFO:root:2025-08-13 07:57:35 Check Data Type
+INFO:root:2025-08-13 07:57:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:35 NU655 : OK
+
+INFO:root:2025-08-13 07:57:35 Blank Check
+INFO:root:2025-08-13 07:57:35 Data Acquisition
+INFO:root:2025-08-13 07:57:36 Date Format Conversion
+INFO:root:2025-08-13 07:57:36 Check Data Type
+INFO:root:2025-08-13 07:57:36 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:36 DHADL : OK
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+INFO:root:2025-08-13 07:57:37 Date Format Conversion
+INFO:root:2025-08-13 07:57:37 Check Data Type
+INFO:root:2025-08-13 07:57:37 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:37 DHADP : OK
+
+INFO:root:2025-08-13 07:57:37 Blank Check
+INFO:root:2025-08-13 07:57:37 Data Acquisition
+INFO:root:2025-08-13 07:57:38 Date Format Conversion
+INFO:root:2025-08-13 07:57:38 Check Data Type
+INFO:root:2025-08-13 07:57:38 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:38 D1BRJ : OK
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+ERROR:root:2025-08-13 07:57:38 Blank Error
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+ERROR:root:2025-08-13 07:57:38 Blank Error
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+INFO:root:2025-08-13 07:57:39 Date Format Conversion
+INFO:root:2025-08-13 07:57:39 Check Data Type
+INFO:root:2025-08-13 07:57:39 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:40 D1BRM : OK
+
+INFO:root:2025-08-13 07:57:40 Blank Check
+INFO:root:2025-08-13 07:57:40 Data Acquisition
+INFO:root:2025-08-13 07:57:41 Date Format Conversion
+INFO:root:2025-08-13 07:57:41 Check Data Type
+INFO:root:2025-08-13 07:57:41 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:41 NS520 : OK
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+ERROR:root:2025-08-13 07:57:41 Blank Error
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+INFO:root:2025-08-13 07:57:41 Data Acquisition
+INFO:root:2025-08-13 07:57:42 Date Format Conversion
+INFO:root:2025-08-13 07:57:42 Check Data Type
+INFO:root:2025-08-13 07:57:42 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:42 SJ146 : OK
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+ERROR:root:2025-08-13 07:57:42 Blank Error
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+ERROR:root:2025-08-13 07:57:42 Blank Error
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+INFO:root:2025-08-13 07:57:43 Date Format Conversion
+INFO:root:2025-08-13 07:57:43 Check Data Type
+INFO:root:2025-08-13 07:57:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:43 SM133 : OK
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+INFO:root:2025-08-13 07:57:44 Date Format Conversion
+INFO:root:2025-08-13 07:57:44 Check Data Type
+INFO:root:2025-08-13 07:57:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:45 DFADR : OK
+
+INFO:root:2025-08-13 07:57:45 Blank Check
+ERROR:root:2025-08-13 07:57:45 Blank Error
+
+INFO:root:2025-08-13 07:57:45 Blank Check
+ERROR:root:2025-08-13 07:57:45 Blank Error
+
+INFO:root:2025-08-13 07:57:45 Blank Check
+INFO:root:2025-08-13 07:57:45 Data Acquisition
+INFO:root:2025-08-13 07:57:45 Date Format Conversion
+INFO:root:2025-08-13 07:57:45 Check Data Type
+INFO:root:2025-08-13 07:57:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:46 DFADU : OK
+
+INFO:root:2025-08-13 07:57:46 Blank Check
+INFO:root:2025-08-13 07:57:46 Data Acquisition
+INFO:root:2025-08-13 07:57:47 Date Format Conversion
+INFO:root:2025-08-13 07:57:47 Check Data Type
+INFO:root:2025-08-13 07:57:47 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:47 DFADV : OK
+
+INFO:root:2025-08-13 07:57:47 Blank Check
+ERROR:root:2025-08-13 07:57:47 Blank Error
+
+INFO:root:2025-08-13 07:57:47 Blank Check
+ERROR:root:2025-08-13 07:57:47 Blank Error
+
+INFO:root:2025-08-13 07:57:47 Blank Check
+INFO:root:2025-08-13 07:57:47 Data Acquisition
+INFO:root:2025-08-13 07:57:48 Date Format Conversion
+INFO:root:2025-08-13 07:57:48 Check Data Type
+INFO:root:2025-08-13 07:57:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:48 DFADY : OK
+
+INFO:root:2025-08-13 07:57:48 Blank Check
+INFO:root:2025-08-13 07:57:48 Data Acquisition
+INFO:root:2025-08-13 07:57:49 Date Format Conversion
+INFO:root:2025-08-13 07:57:49 Check Data Type
+INFO:root:2025-08-13 07:57:49 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:49 D1BRS : OK
+
+INFO:root:2025-08-13 07:57:49 Blank Check
+ERROR:root:2025-08-13 07:57:49 Blank Error
+
+INFO:root:2025-08-13 07:57:49 Blank Check
+INFO:root:2025-08-13 07:57:49 Data Acquisition
+INFO:root:2025-08-13 07:57:50 Date Format Conversion
+INFO:root:2025-08-13 07:57:50 Check Data Type
+INFO:root:2025-08-13 07:57:50 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:50 D1BRV : OK
+
+INFO:root:2025-08-13 07:57:50 Blank Check
+INFO:root:2025-08-13 07:57:50 Data Acquisition
+INFO:root:2025-08-13 07:57:51 Date Format Conversion
+INFO:root:2025-08-13 07:57:51 Check Data Type
+INFO:root:2025-08-13 07:57:51 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:51 D1BRN : OK
+
+INFO:root:2025-08-13 07:57:51 Blank Check
+ERROR:root:2025-08-13 07:57:51 Blank Error
+
+INFO:root:2025-08-13 07:57:51 Blank Check
+ERROR:root:2025-08-13 07:57:51 Blank Error
+
+INFO:root:2025-08-13 07:57:51 Blank Check
+INFO:root:2025-08-13 07:57:51 Data Acquisition
+INFO:root:2025-08-13 07:57:52 Date Format Conversion
+INFO:root:2025-08-13 07:57:52 Check Data Type
+INFO:root:2025-08-13 07:57:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:53 D1BRR : OK
+
+INFO:root:2025-08-13 07:57:53 Blank Check
+INFO:root:2025-08-13 07:57:53 Data Acquisition
+INFO:root:2025-08-13 07:57:53 Date Format Conversion
+INFO:root:2025-08-13 07:57:53 Check Data Type
+INFO:root:2025-08-13 07:57:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:54 SJ147 : OK
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+INFO:root:2025-08-13 07:57:55 Date Format Conversion
+INFO:root:2025-08-13 07:57:55 Check Data Type
+INFO:root:2025-08-13 07:57:55 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:55 SM134 : OK
+
+INFO:root:2025-08-13 07:57:55 Blank Check
+INFO:root:2025-08-13 07:57:55 Data Acquisition
+INFO:root:2025-08-13 07:57:56 Date Format Conversion
+INFO:root:2025-08-13 07:57:56 Check Data Type
+INFO:root:2025-08-13 07:57:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:56 D1BMN : OK
+
+INFO:root:2025-08-13 07:57:56 Blank Check
+ERROR:root:2025-08-13 07:57:56 Blank Error
+
+INFO:root:2025-08-13 07:57:56 Blank Check
+INFO:root:2025-08-13 07:57:56 Data Acquisition
+INFO:root:2025-08-13 07:57:57 Date Format Conversion
+INFO:root:2025-08-13 07:57:57 Check Data Type
+INFO:root:2025-08-13 07:57:57 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:57 D1BNT : OK
+
+INFO:root:2025-08-13 07:57:57 Blank Check
+INFO:root:2025-08-13 07:57:57 Data Acquisition
+INFO:root:2025-08-13 07:57:58 Date Format Conversion
+INFO:root:2025-08-13 07:57:58 Check Data Type
+INFO:root:2025-08-13 07:57:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:58 D1BS4 : OK
+
+INFO:root:2025-08-13 07:57:58 Blank Check
+ERROR:root:2025-08-13 07:57:58 Blank Error
+
+INFO:root:2025-08-13 07:57:58 Blank Check
+ERROR:root:2025-08-13 07:57:58 Blank Error
+
+INFO:root:2025-08-13 07:57:58 Blank Check
+INFO:root:2025-08-13 07:57:58 Data Acquisition
+INFO:root:2025-08-13 07:57:59 Date Format Conversion
+INFO:root:2025-08-13 07:57:59 Check Data Type
+INFO:root:2025-08-13 07:57:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:59 D1BS7 : OK
+
+INFO:root:2025-08-13 07:57:59 Blank Check
+INFO:root:2025-08-13 07:57:59 Data Acquisition
+INFO:root:2025-08-13 07:58:00 Date Format Conversion
+INFO:root:2025-08-13 07:58:00 Check Data Type
+INFO:root:2025-08-13 07:58:00 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:00 D1BNU : OK
+
+INFO:root:2025-08-13 07:58:00 Blank Check
+ERROR:root:2025-08-13 07:58:00 Blank Error
+
+INFO:root:2025-08-13 07:58:00 Blank Check
+ERROR:root:2025-08-13 07:58:00 Blank Error
+
+INFO:root:2025-08-13 07:58:00 Blank Check
+INFO:root:2025-08-13 07:58:00 Data Acquisition
+INFO:root:2025-08-13 07:58:01 Date Format Conversion
+INFO:root:2025-08-13 07:58:01 Check Data Type
+INFO:root:2025-08-13 07:58:01 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:02 D1BNX : OK
+
+INFO:root:2025-08-13 07:58:02 Blank Check
+INFO:root:2025-08-13 07:58:02 Data Acquisition
+INFO:root:2025-08-13 07:58:02 Date Format Conversion
+INFO:root:2025-08-13 07:58:02 Check Data Type
+INFO:root:2025-08-13 07:58:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:03 SJ148 : OK
+
+INFO:root:2025-08-13 07:58:03 Blank Check
+ERROR:root:2025-08-13 07:58:03 Blank Error
+
+INFO:root:2025-08-13 07:58:03 Blank Check
+ERROR:root:2025-08-13 07:58:03 Blank Error
+
+INFO:root:2025-08-13 07:58:03 Blank Check
+INFO:root:2025-08-13 07:58:03 Data Acquisition
+INFO:root:2025-08-13 07:58:04 Date Format Conversion
+INFO:root:2025-08-13 07:58:04 Check Data Type
+INFO:root:2025-08-13 07:58:04 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:04 SM135 : OK
+
+INFO:root:2025-08-13 07:58:04 Blank Check
+INFO:root:2025-08-13 07:58:04 Data Acquisition
+INFO:root:2025-08-13 07:58:05 Date Format Conversion
+INFO:root:2025-08-13 07:58:05 Check Data Type
+INFO:root:2025-08-13 07:58:05 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:05 D1BS0 : OK
+
+INFO:root:2025-08-13 07:58:05 Blank Check
+ERROR:root:2025-08-13 07:58:05 Blank Error
+
+INFO:root:2025-08-13 07:58:05 Blank Check
+INFO:root:2025-08-13 07:58:05 Data Acquisition
+INFO:root:2025-08-13 07:58:06 Date Format Conversion
+INFO:root:2025-08-13 07:58:06 Check Data Type
+INFO:root:2025-08-13 07:58:06 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:06 D1BS2 : OK
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+INFO:root:2025-08-13 07:58:07 Date Format Conversion
+INFO:root:2025-08-13 07:58:07 Check Data Type
+INFO:root:2025-08-13 07:58:07 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:07 SJ149 : OK
+
+INFO:root:2025-08-13 07:58:07 Blank Check
+ERROR:root:2025-08-13 07:58:07 Blank Error
+
+INFO:root:2025-08-13 07:58:07 Blank Check
+ERROR:root:2025-08-13 07:58:07 Blank Error
+
+INFO:root:2025-08-13 07:58:07 Blank Check
+INFO:root:2025-08-13 07:58:07 Data Acquisition
+INFO:root:2025-08-13 07:58:08 Date Format Conversion
+INFO:root:2025-08-13 07:58:08 Check Data Type
+INFO:root:2025-08-13 07:58:08 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:08 SK146 : OK
+
+INFO:root:2025-08-13 07:58:08 Blank Check
+INFO:root:2025-08-13 07:58:08 Data Acquisition
+INFO:root:2025-08-13 07:58:09 Date Format Conversion
+INFO:root:2025-08-13 07:58:09 Check Data Type
+INFO:root:2025-08-13 07:58:09 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:10 D1BS8 : OK
+
+INFO:root:2025-08-13 07:58:10 Blank Check
+ERROR:root:2025-08-13 07:58:10 Blank Error
+
+INFO:root:2025-08-13 07:58:10 Blank Check
+ERROR:root:2025-08-13 07:58:10 Blank Error
+
+INFO:root:2025-08-13 07:58:10 Blank Check
+INFO:root:2025-08-13 07:58:10 Data Acquisition
+INFO:root:2025-08-13 07:58:10 Date Format Conversion
+INFO:root:2025-08-13 07:58:10 Check Data Type
+INFO:root:2025-08-13 07:58:10 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:11 D1BSB : OK
+
+INFO:root:2025-08-13 07:58:11 Blank Check
+INFO:root:2025-08-13 07:58:11 Data Acquisition
+INFO:root:2025-08-13 07:58:12 Date Format Conversion
+INFO:root:2025-08-13 07:58:12 Check Data Type
+INFO:root:2025-08-13 07:58:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:12 NS552 : OK
+
+INFO:root:2025-08-13 07:58:12 Blank Check
+ERROR:root:2025-08-13 07:58:12 Blank Error
+
+INFO:root:2025-08-13 07:58:12 Blank Check
+INFO:root:2025-08-13 07:58:12 Data Acquisition
+INFO:root:2025-08-13 07:58:13 Date Format Conversion
+INFO:root:2025-08-13 07:58:13 Check Data Type
+INFO:root:2025-08-13 07:58:13 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:13 NS555 : OK
+
+INFO:root:2025-08-13 07:58:13 Blank Check
+INFO:root:2025-08-13 07:58:13 Data Acquisition
+INFO:root:2025-08-13 07:58:14 Date Format Conversion
+INFO:root:2025-08-13 07:58:14 Check Data Type
+INFO:root:2025-08-13 07:58:14 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:14 DEADS : OK
+
+INFO:root:2025-08-13 07:58:14 Blank Check
+ERROR:root:2025-08-13 07:58:14 Blank Error
+
+INFO:root:2025-08-13 07:58:14 Blank Check
+ERROR:root:2025-08-13 07:58:14 Blank Error
+
+INFO:root:2025-08-13 07:58:14 Blank Check
+INFO:root:2025-08-13 07:58:14 Data Acquisition
+INFO:root:2025-08-13 07:58:15 Date Format Conversion
+INFO:root:2025-08-13 07:58:15 Check Data Type
+INFO:root:2025-08-13 07:58:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:15 DEADV : OK
+
+INFO:root:2025-08-13 07:58:15 Blank Check
+INFO:root:2025-08-13 07:58:15 Data Acquisition
+INFO:root:2025-08-13 07:58:16 Date Format Conversion
+INFO:root:2025-08-13 07:58:16 Check Data Type
+INFO:root:2025-08-13 07:58:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:17 DEADN : OK
+
+INFO:root:2025-08-13 07:58:17 Blank Check
+ERROR:root:2025-08-13 07:58:17 Blank Error
+
+INFO:root:2025-08-13 07:58:17 Blank Check
+ERROR:root:2025-08-13 07:58:17 Blank Error
+
+INFO:root:2025-08-13 07:58:17 Blank Check
+INFO:root:2025-08-13 07:58:17 Data Acquisition
+INFO:root:2025-08-13 07:58:17 Date Format Conversion
+INFO:root:2025-08-13 07:58:17 Check Data Type
+INFO:root:2025-08-13 07:58:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:18 DEADR : OK
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+INFO:root:2025-08-13 07:58:19 Date Format Conversion
+INFO:root:2025-08-13 07:58:19 Check Data Type
+INFO:root:2025-08-13 07:58:19 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:19 D1BSC : OK
+
+INFO:root:2025-08-13 07:58:19 Blank Check
+ERROR:root:2025-08-13 07:58:19 Blank Error
+
+INFO:root:2025-08-13 07:58:19 Blank Check
+ERROR:root:2025-08-13 07:58:19 Blank Error
+
+INFO:root:2025-08-13 07:58:19 Blank Check
+INFO:root:2025-08-13 07:58:19 Data Acquisition
+INFO:root:2025-08-13 07:58:20 Date Format Conversion
+INFO:root:2025-08-13 07:58:20 Check Data Type
+INFO:root:2025-08-13 07:58:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:20 D1BSF : OK
+
+INFO:root:2025-08-13 07:58:20 Blank Check
+INFO:root:2025-08-13 07:58:20 Data Acquisition
+ERROR:root:2025-08-13 07:58:21 WB107 : PartNumber Error
+
+INFO:root:2025-08-13 07:58:21 Blank Check
+ERROR:root:2025-08-13 07:58:21 Blank Error
+
+INFO:root:2025-08-13 07:58:21 Blank Check
+ERROR:root:2025-08-13 07:58:21 Blank Error
+
+INFO:root:2025-08-13 07:58:21 Blank Check
+INFO:root:2025-08-13 07:58:21 Data Acquisition
+ERROR:root:2025-08-13 07:58:22 WB110 : PartNumber Error
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+INFO:root:2025-08-13 07:58:23 Date Format Conversion
+INFO:root:2025-08-13 07:58:23 Check Data Type
+INFO:root:2025-08-13 07:58:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:24 D1BRW : OK
+
+INFO:root:2025-08-13 07:58:24 Blank Check
+ERROR:root:2025-08-13 07:58:24 Blank Error
+
+INFO:root:2025-08-13 07:58:24 Blank Check
+ERROR:root:2025-08-13 07:58:24 Blank Error
+
+INFO:root:2025-08-13 07:58:24 Blank Check
+INFO:root:2025-08-13 07:58:24 Data Acquisition
+INFO:root:2025-08-13 07:58:25 Date Format Conversion
+INFO:root:2025-08-13 07:58:25 Check Data Type
+INFO:root:2025-08-13 07:58:25 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:25 D1BRZ : OK
+
+INFO:root:2025-08-13 07:58:25 Blank Check
+INFO:root:2025-08-13 07:58:25 Data Acquisition
+ERROR:root:2025-08-13 07:58:26 WB111 : PartNumber Error
+
+INFO:root:2025-08-13 07:58:26 Blank Check
+ERROR:root:2025-08-13 07:58:26 Blank Error
+
+INFO:root:2025-08-13 07:58:26 Blank Check
+ERROR:root:2025-08-13 07:58:26 Blank Error
+
+INFO:root:2025-08-13 07:58:26 Blank Check
+INFO:root:2025-08-13 07:58:26 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 WB114 : PartNumber Error
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+INFO:root:2025-08-13 07:58:28 Date Format Conversion
+INFO:root:2025-08-13 07:58:28 Check Data Type
+INFO:root:2025-08-13 07:58:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:28 D1BSG : OK
+
+INFO:root:2025-08-13 07:58:28 Blank Check
+ERROR:root:2025-08-13 07:58:28 Blank Error
+
+INFO:root:2025-08-13 07:58:28 Blank Check
+INFO:root:2025-08-13 07:58:28 Data Acquisition
+INFO:root:2025-08-13 07:58:29 Date Format Conversion
+INFO:root:2025-08-13 07:58:29 Check Data Type
+INFO:root:2025-08-13 07:58:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:30 D1BSL : OK
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+INFO:root:2025-08-13 07:58:31 Date Format Conversion
+INFO:root:2025-08-13 07:58:31 Check Data Type
+INFO:root:2025-08-13 07:58:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:31 NS556 : OK
+
+INFO:root:2025-08-13 07:58:31 Blank Check
+ERROR:root:2025-08-13 07:58:31 Blank Error
+
+INFO:root:2025-08-13 07:58:31 Blank Check
+ERROR:root:2025-08-13 07:58:31 Blank Error
+
+INFO:root:2025-08-13 07:58:31 Blank Check
+INFO:root:2025-08-13 07:58:31 Data Acquisition
+INFO:root:2025-08-13 07:58:33 Date Format Conversion
+INFO:root:2025-08-13 07:58:33 Check Data Type
+INFO:root:2025-08-13 07:58:33 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:33 NS559 : OK
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+INFO:root:2025-08-13 07:58:34 Date Format Conversion
+INFO:root:2025-08-13 07:58:34 Check Data Type
+INFO:root:2025-08-13 07:58:34 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:34 D1BST : OK
+
+INFO:root:2025-08-13 07:58:34 Blank Check
+ERROR:root:2025-08-13 07:58:34 Blank Error
+
+INFO:root:2025-08-13 07:58:34 Blank Check
+ERROR:root:2025-08-13 07:58:34 Blank Error
+
+INFO:root:2025-08-13 07:58:34 Blank Check
+INFO:root:2025-08-13 07:58:34 Data Acquisition
+INFO:root:2025-08-13 07:58:35 Date Format Conversion
+INFO:root:2025-08-13 07:58:35 Check Data Type
+INFO:root:2025-08-13 07:58:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:36 D1BT1 : OK
+
+INFO:root:2025-08-13 07:58:36 Blank Check
+INFO:root:2025-08-13 07:58:36 Data Acquisition
+INFO:root:2025-08-13 07:58:37 Date Format Conversion
+INFO:root:2025-08-13 07:58:37 Check Data Type
+INFO:root:2025-08-13 07:58:37 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:37 NS560 : OK
+
+INFO:root:2025-08-13 07:58:37 Blank Check
+ERROR:root:2025-08-13 07:58:37 Blank Error
+
+INFO:root:2025-08-13 07:58:37 Blank Check
+ERROR:root:2025-08-13 07:58:37 Blank Error
+
+INFO:root:2025-08-13 07:58:37 Blank Check
+INFO:root:2025-08-13 07:58:37 Data Acquisition
+INFO:root:2025-08-13 07:58:39 Date Format Conversion
+INFO:root:2025-08-13 07:58:39 Check Data Type
+INFO:root:2025-08-13 07:58:39 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:39 NS563 : OK
+
+INFO:root:2025-08-13 07:58:39 Blank Check
+INFO:root:2025-08-13 07:58:39 Data Acquisition
+INFO:root:2025-08-13 07:58:40 Date Format Conversion
+INFO:root:2025-08-13 07:58:40 Check Data Type
+INFO:root:2025-08-13 07:58:40 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:40 NT528 : OK
+
+INFO:root:2025-08-13 07:58:40 Blank Check
+ERROR:root:2025-08-13 07:58:40 Blank Error
+
+INFO:root:2025-08-13 07:58:40 Blank Check
+ERROR:root:2025-08-13 07:58:40 Blank Error
+
+INFO:root:2025-08-13 07:58:40 Blank Check
+INFO:root:2025-08-13 07:58:40 Data Acquisition
+INFO:root:2025-08-13 07:58:41 Date Format Conversion
+INFO:root:2025-08-13 07:58:41 Check Data Type
+INFO:root:2025-08-13 07:58:41 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:42 NT531 : OK
+
+INFO:root:2025-08-13 07:58:42 Blank Check
+INFO:root:2025-08-13 07:58:42 Data Acquisition
+INFO:root:2025-08-13 07:58:43 Date Format Conversion
+INFO:root:2025-08-13 07:58:43 Check Data Type
+INFO:root:2025-08-13 07:58:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:43 NT532 : OK
+
+INFO:root:2025-08-13 07:58:43 Blank Check
+ERROR:root:2025-08-13 07:58:43 Blank Error
+
+INFO:root:2025-08-13 07:58:43 Blank Check
+ERROR:root:2025-08-13 07:58:43 Blank Error
+
+INFO:root:2025-08-13 07:58:43 Blank Check
+INFO:root:2025-08-13 07:58:43 Data Acquisition
+INFO:root:2025-08-13 07:58:44 Date Format Conversion
+INFO:root:2025-08-13 07:58:44 Check Data Type
+INFO:root:2025-08-13 07:58:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:44 NT535 : OK
+
+INFO:root:2025-08-13 07:58:44 Blank Check
+INFO:root:2025-08-13 07:58:44 Data Acquisition
+INFO:root:2025-08-13 07:58:45 Date Format Conversion
+INFO:root:2025-08-13 07:58:45 Check Data Type
+INFO:root:2025-08-13 07:58:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:45 DHAE6 : OK
+
+INFO:root:2025-08-13 07:58:45 Blank Check
+ERROR:root:2025-08-13 07:58:45 Blank Error
+
+INFO:root:2025-08-13 07:58:45 Blank Check
+ERROR:root:2025-08-13 07:58:45 Blank Error
+
+INFO:root:2025-08-13 07:58:45 Blank Check
+INFO:root:2025-08-13 07:58:45 Data Acquisition
+INFO:root:2025-08-13 07:58:46 Date Format Conversion
+INFO:root:2025-08-13 07:58:46 Check Data Type
+INFO:root:2025-08-13 07:58:46 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:47 DHAE9 : OK
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+INFO:root:2025-08-13 07:58:48 Date Format Conversion
+INFO:root:2025-08-13 07:58:48 Check Data Type
+INFO:root:2025-08-13 07:58:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:48 D1BTE : OK
+
+INFO:root:2025-08-13 07:58:48 Blank Check
+ERROR:root:2025-08-13 07:58:48 Blank Error
+
+INFO:root:2025-08-13 07:58:48 Blank Check
+INFO:root:2025-08-13 07:58:48 Data Acquisition
+INFO:root:2025-08-13 07:58:49 Date Format Conversion
+INFO:root:2025-08-13 07:58:49 Check Data Type
+INFO:root:2025-08-13 07:58:49 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:50 D1BTG : OK
+
+INFO:root:2025-08-13 07:58:50 Blank Check
+INFO:root:2025-08-13 07:58:50 Data Acquisition
+INFO:root:2025-08-13 07:58:51 Date Format Conversion
+INFO:root:2025-08-13 07:58:51 Check Data Type
+INFO:root:2025-08-13 07:58:51 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:51 D1BMS : OK
+
+INFO:root:2025-08-13 07:58:51 Blank Check
+ERROR:root:2025-08-13 07:58:51 Blank Error
+
+INFO:root:2025-08-13 07:58:51 Blank Check
+ERROR:root:2025-08-13 07:58:51 Blank Error
+
+INFO:root:2025-08-13 07:58:51 Blank Check
+INFO:root:2025-08-13 07:58:51 Data Acquisition
+INFO:root:2025-08-13 07:58:52 Date Format Conversion
+INFO:root:2025-08-13 07:58:52 Check Data Type
+INFO:root:2025-08-13 07:58:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:52 D1BSM : OK
+
+INFO:root:2025-08-13 07:58:52 Blank Check
+INFO:root:2025-08-13 07:58:52 Data Acquisition
+INFO:root:2025-08-13 07:58:53 Date Format Conversion
+INFO:root:2025-08-13 07:58:53 Check Data Type
+INFO:root:2025-08-13 07:58:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:53 D1BTH : OK
+
+INFO:root:2025-08-13 07:58:53 Blank Check
+ERROR:root:2025-08-13 07:58:53 Blank Error
+
+INFO:root:2025-08-13 07:58:53 Blank Check
+ERROR:root:2025-08-13 07:58:53 Blank Error
+
+INFO:root:2025-08-13 07:58:53 Blank Check
+INFO:root:2025-08-13 07:58:53 Data Acquisition
+INFO:root:2025-08-13 07:58:54 Date Format Conversion
+INFO:root:2025-08-13 07:58:54 Check Data Type
+INFO:root:2025-08-13 07:58:54 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:54 D1BTL : OK
+
+INFO:root:2025-08-13 07:58:54 Blank Check
+INFO:root:2025-08-13 07:58:54 Data Acquisition
+INFO:root:2025-08-13 07:58:55 Date Format Conversion
+INFO:root:2025-08-13 07:58:55 Check Data Type
+INFO:root:2025-08-13 07:58:55 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:56 D1BSN : OK
+
+INFO:root:2025-08-13 07:58:56 Blank Check
+ERROR:root:2025-08-13 07:58:56 Blank Error
+
+INFO:root:2025-08-13 07:58:56 Blank Check
+ERROR:root:2025-08-13 07:58:56 Blank Error
+
+INFO:root:2025-08-13 07:58:56 Blank Check
+INFO:root:2025-08-13 07:58:56 Data Acquisition
+INFO:root:2025-08-13 07:58:56 Date Format Conversion
+INFO:root:2025-08-13 07:58:56 Check Data Type
+INFO:root:2025-08-13 07:58:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:57 D1BSR : OK
+
+INFO:root:2025-08-13 07:58:57 Blank Check
+INFO:root:2025-08-13 07:58:57 Data Acquisition
+INFO:root:2025-08-13 07:58:58 Date Format Conversion
+INFO:root:2025-08-13 07:58:58 Check Data Type
+INFO:root:2025-08-13 07:58:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:58 D1BSS : OK
+
+INFO:root:2025-08-13 07:58:58 Blank Check
+ERROR:root:2025-08-13 07:58:58 Blank Error
+
+INFO:root:2025-08-13 07:58:58 Blank Check
+ERROR:root:2025-08-13 07:58:58 Blank Error
+
+INFO:root:2025-08-13 07:58:58 Blank Check
+INFO:root:2025-08-13 07:58:58 Data Acquisition
+INFO:root:2025-08-13 07:58:59 Date Format Conversion
+INFO:root:2025-08-13 07:58:59 Check Data Type
+INFO:root:2025-08-13 07:58:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:59 D1BSY : OK
+
+INFO:root:2025-08-13 07:58:59 Blank Check
+INFO:root:2025-08-13 07:58:59 Data Acquisition
+INFO:root:2025-08-13 07:59:00 Date Format Conversion
+INFO:root:2025-08-13 07:59:00 Check Data Type
+INFO:root:2025-08-13 07:59:00 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:00 DEAEW : OK
+
+INFO:root:2025-08-13 07:59:00 Blank Check
+ERROR:root:2025-08-13 07:59:00 Blank Error
+
+INFO:root:2025-08-13 07:59:00 Blank Check
+ERROR:root:2025-08-13 07:59:00 Blank Error
+
+INFO:root:2025-08-13 07:59:00 Blank Check
+INFO:root:2025-08-13 07:59:00 Data Acquisition
+INFO:root:2025-08-13 07:59:01 Date Format Conversion
+INFO:root:2025-08-13 07:59:01 Check Data Type
+INFO:root:2025-08-13 07:59:01 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:01 DEAEZ : OK
+
+INFO:root:2025-08-13 07:59:01 Blank Check
+INFO:root:2025-08-13 07:59:01 Data Acquisition
+INFO:root:2025-08-13 07:59:02 Date Format Conversion
+INFO:root:2025-08-13 07:59:02 Check Data Type
+INFO:root:2025-08-13 07:59:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:02 D1BSZ : OK
+
+INFO:root:2025-08-13 07:59:02 Blank Check
+ERROR:root:2025-08-13 07:59:02 Blank Error
+
+INFO:root:2025-08-13 07:59:02 Blank Check
+ERROR:root:2025-08-13 07:59:02 Blank Error
+
+INFO:root:2025-08-13 07:59:02 Blank Check
+INFO:root:2025-08-13 07:59:02 Data Acquisition
+INFO:root:2025-08-13 07:59:03 Date Format Conversion
+INFO:root:2025-08-13 07:59:03 Check Data Type
+INFO:root:2025-08-13 07:59:03 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:04 D1BT4 : OK
+
+INFO:root:2025-08-13 07:59:04 Blank Check
+INFO:root:2025-08-13 07:59:04 Data Acquisition
+INFO:root:2025-08-13 07:59:04 Date Format Conversion
+INFO:root:2025-08-13 07:59:04 Check Data Type
+INFO:root:2025-08-13 07:59:04 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:05 DHADC : OK
+
+INFO:root:2025-08-13 07:59:05 Blank Check
+ERROR:root:2025-08-13 07:59:05 Blank Error
+
+INFO:root:2025-08-13 07:59:05 Blank Check
+ERROR:root:2025-08-13 07:59:05 Blank Error
+
+INFO:root:2025-08-13 07:59:05 Blank Check
+INFO:root:2025-08-13 07:59:05 Data Acquisition
+INFO:root:2025-08-13 07:59:06 Date Format Conversion
+INFO:root:2025-08-13 07:59:06 Check Data Type
+INFO:root:2025-08-13 07:59:06 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:06 DHADF : OK
+
+INFO:root:2025-08-13 07:59:06 Blank Check
+INFO:root:2025-08-13 07:59:06 Data Acquisition
+INFO:root:2025-08-13 07:59:07 Date Format Conversion
+INFO:root:2025-08-13 07:59:07 Check Data Type
+INFO:root:2025-08-13 07:59:07 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:09 DHAEA : OK
+
+INFO:root:2025-08-13 07:59:09 Blank Check
+ERROR:root:2025-08-13 07:59:09 Blank Error
+
+INFO:root:2025-08-13 07:59:09 Blank Check
+ERROR:root:2025-08-13 07:59:09 Blank Error
+
+INFO:root:2025-08-13 07:59:09 Blank Check
+INFO:root:2025-08-13 07:59:09 Data Acquisition
+INFO:root:2025-08-13 07:59:10 Date Format Conversion
+INFO:root:2025-08-13 07:59:10 Check Data Type
+INFO:root:2025-08-13 07:59:10 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:10 DHAED : OK
+
+INFO:root:2025-08-13 07:59:10 Blank Check
+INFO:root:2025-08-13 07:59:10 Data Acquisition
+INFO:root:2025-08-13 07:59:11 Date Format Conversion
+INFO:root:2025-08-13 07:59:11 Check Data Type
+INFO:root:2025-08-13 07:59:11 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:12 DEAEC : OK
+
+INFO:root:2025-08-13 07:59:12 Blank Check
+ERROR:root:2025-08-13 07:59:12 Blank Error
+
+INFO:root:2025-08-13 07:59:12 Blank Check
+ERROR:root:2025-08-13 07:59:12 Blank Error
+
+INFO:root:2025-08-13 07:59:12 Blank Check
+INFO:root:2025-08-13 07:59:12 Data Acquisition
+INFO:root:2025-08-13 07:59:12 Date Format Conversion
+INFO:root:2025-08-13 07:59:12 Check Data Type
+INFO:root:2025-08-13 07:59:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:13 DEAEV : OK
+
+INFO:root:2025-08-13 07:59:13 Blank Check
+INFO:root:2025-08-13 07:59:13 Data Acquisition
+INFO:root:2025-08-13 07:59:14 Date Format Conversion
+INFO:root:2025-08-13 07:59:14 Check Data Type
+INFO:root:2025-08-13 07:59:14 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:14 D1BR2 : OK
+
+INFO:root:2025-08-13 07:59:14 Blank Check
+ERROR:root:2025-08-13 07:59:14 Blank Error
+
+INFO:root:2025-08-13 07:59:14 Blank Check
+ERROR:root:2025-08-13 07:59:14 Blank Error
+
+INFO:root:2025-08-13 07:59:14 Blank Check
+INFO:root:2025-08-13 07:59:14 Data Acquisition
+INFO:root:2025-08-13 07:59:15 Date Format Conversion
+INFO:root:2025-08-13 07:59:15 Check Data Type
+INFO:root:2025-08-13 07:59:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:15 D1BR5 : OK
+
+INFO:root:2025-08-13 07:59:15 Blank Check
+INFO:root:2025-08-13 07:59:15 Data Acquisition
+INFO:root:2025-08-13 07:59:16 Date Format Conversion
+INFO:root:2025-08-13 07:59:16 Check Data Type
+INFO:root:2025-08-13 07:59:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:16 D1BT5 : OK
+
+INFO:root:2025-08-13 07:59:16 Blank Check
+ERROR:root:2025-08-13 07:59:16 Blank Error
+
+INFO:root:2025-08-13 07:59:16 Blank Check
+INFO:root:2025-08-13 07:59:16 Data Acquisition
+INFO:root:2025-08-13 07:59:17 Date Format Conversion
+INFO:root:2025-08-13 07:59:17 Check Data Type
+INFO:root:2025-08-13 07:59:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:18 D1BT7 : OK
+
+INFO:root:2025-08-13 07:59:18 Blank Check
+INFO:root:2025-08-13 07:59:18 Data Acquisition
+INFO:root:2025-08-13 07:59:19 Date Format Conversion
+INFO:root:2025-08-13 07:59:19 Check Data Type
+INFO:root:2025-08-13 07:59:19 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:19 DHADQ : OK
+
+INFO:root:2025-08-13 07:59:19 Blank Check
+ERROR:root:2025-08-13 07:59:19 Blank Error
+
+INFO:root:2025-08-13 07:59:19 Blank Check
+INFO:root:2025-08-13 07:59:19 Data Acquisition
+INFO:root:2025-08-13 07:59:20 Date Format Conversion
+INFO:root:2025-08-13 07:59:20 Check Data Type
+INFO:root:2025-08-13 07:59:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:20 DHADT : OK
+
+INFO:root:2025-08-13 07:59:20 Blank Check
+INFO:root:2025-08-13 07:59:20 Data Acquisition
+INFO:root:2025-08-13 07:59:21 Date Format Conversion
+INFO:root:2025-08-13 07:59:21 Check Data Type
+INFO:root:2025-08-13 07:59:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:21 DHAFG : OK
+
+INFO:root:2025-08-13 07:59:21 Blank Check
+ERROR:root:2025-08-13 07:59:21 Blank Error
+
+INFO:root:2025-08-13 07:59:21 Blank Check
+ERROR:root:2025-08-13 07:59:21 Blank Error
+
+INFO:root:2025-08-13 07:59:21 Blank Check
+INFO:root:2025-08-13 07:59:21 Data Acquisition
+INFO:root:2025-08-13 07:59:22 Date Format Conversion
+INFO:root:2025-08-13 07:59:22 Check Data Type
+INFO:root:2025-08-13 07:59:22 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:22 DHAFK : OK
+
+INFO:root:2025-08-13 07:59:22 Blank Check
+INFO:root:2025-08-13 07:59:22 Data Acquisition
+INFO:root:2025-08-13 07:59:23 Date Format Conversion
+INFO:root:2025-08-13 07:59:23 Check Data Type
+INFO:root:2025-08-13 07:59:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:23 DHAFL : OK
+
+INFO:root:2025-08-13 07:59:23 Blank Check
+ERROR:root:2025-08-13 07:59:23 Blank Error
+
+INFO:root:2025-08-13 07:59:23 Blank Check
+ERROR:root:2025-08-13 07:59:23 Blank Error
+
+INFO:root:2025-08-13 07:59:23 Blank Check
+INFO:root:2025-08-13 07:59:23 Data Acquisition
+INFO:root:2025-08-13 07:59:24 Date Format Conversion
+INFO:root:2025-08-13 07:59:24 Check Data Type
+INFO:root:2025-08-13 07:59:24 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:25 DHAFP : OK
+
+INFO:root:2025-08-13 07:59:25 Blank Check
+INFO:root:2025-08-13 07:59:25 Data Acquisition
+INFO:root:2025-08-13 07:59:26 Date Format Conversion
+INFO:root:2025-08-13 07:59:26 Check Data Type
+INFO:root:2025-08-13 07:59:26 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:26 DHADU : OK
+
+INFO:root:2025-08-13 07:59:26 Blank Check
+ERROR:root:2025-08-13 07:59:26 Blank Error
+
+INFO:root:2025-08-13 07:59:26 Blank Check
+ERROR:root:2025-08-13 07:59:26 Blank Error
+
+INFO:root:2025-08-13 07:59:26 Blank Check
+INFO:root:2025-08-13 07:59:26 Data Acquisition
+INFO:root:2025-08-13 07:59:27 Date Format Conversion
+INFO:root:2025-08-13 07:59:27 Check Data Type
+INFO:root:2025-08-13 07:59:27 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:27 DHADX : OK
+
+INFO:root:2025-08-13 07:59:27 Blank Check
+INFO:root:2025-08-13 07:59:27 Data Acquisition
+INFO:root:2025-08-13 07:59:28 Date Format Conversion
+INFO:root:2025-08-13 07:59:28 Check Data Type
+INFO:root:2025-08-13 07:59:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:28 DHADY : OK
+
+INFO:root:2025-08-13 07:59:28 Blank Check
+ERROR:root:2025-08-13 07:59:28 Blank Error
+
+INFO:root:2025-08-13 07:59:28 Blank Check
+ERROR:root:2025-08-13 07:59:28 Blank Error
+
+INFO:root:2025-08-13 07:59:28 Blank Check
+INFO:root:2025-08-13 07:59:28 Data Acquisition
+INFO:root:2025-08-13 07:59:29 Date Format Conversion
+INFO:root:2025-08-13 07:59:29 Check Data Type
+INFO:root:2025-08-13 07:59:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:30 DHAE1 : OK
+
+INFO:root:2025-08-13 07:59:30 Blank Check
+INFO:root:2025-08-13 07:59:30 Data Acquisition
+INFO:root:2025-08-13 07:59:31 Date Format Conversion
+INFO:root:2025-08-13 07:59:31 Check Data Type
+INFO:root:2025-08-13 07:59:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:31 DFAD2 : OK
+
+INFO:root:2025-08-13 07:59:31 Blank Check
+ERROR:root:2025-08-13 07:59:31 Blank Error
+
+INFO:root:2025-08-13 07:59:31 Blank Check
+ERROR:root:2025-08-13 07:59:31 Blank Error
+
+INFO:root:2025-08-13 07:59:31 Blank Check
+INFO:root:2025-08-13 07:59:31 Data Acquisition
+INFO:root:2025-08-13 07:59:32 Date Format Conversion
+INFO:root:2025-08-13 07:59:32 Check Data Type
+INFO:root:2025-08-13 07:59:32 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:32 DFAE0 : OK
+
+INFO:root:2025-08-13 07:59:32 Blank Check
+INFO:root:2025-08-13 07:59:32 Data Acquisition
+INFO:root:2025-08-13 07:59:33 Date Format Conversion
+INFO:root:2025-08-13 07:59:33 Check Data Type
+INFO:root:2025-08-13 07:59:33 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:33 DHAE2 : OK
+
+INFO:root:2025-08-13 07:59:33 Blank Check
+ERROR:root:2025-08-13 07:59:33 Blank Error
+
+INFO:root:2025-08-13 07:59:33 Blank Check
+ERROR:root:2025-08-13 07:59:33 Blank Error
+
+INFO:root:2025-08-13 07:59:33 Blank Check
+INFO:root:2025-08-13 07:59:33 Data Acquisition
+INFO:root:2025-08-13 07:59:34 Date Format Conversion
+INFO:root:2025-08-13 07:59:34 Check Data Type
+INFO:root:2025-08-13 07:59:34 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:34 DHAE5 : OK
+
+INFO:root:2025-08-13 07:59:34 Blank Check
+INFO:root:2025-08-13 07:59:34 Data Acquisition
+INFO:root:2025-08-13 07:59:35 Date Format Conversion
+INFO:root:2025-08-13 07:59:35 Check Data Type
+INFO:root:2025-08-13 07:59:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:36 DFAE9 : OK
+
+INFO:root:2025-08-13 07:59:36 Blank Check
+ERROR:root:2025-08-13 07:59:36 Blank Error
+
+INFO:root:2025-08-13 07:59:36 Blank Check
+ERROR:root:2025-08-13 07:59:36 Blank Error
+
+INFO:root:2025-08-13 07:59:36 Blank Check
+INFO:root:2025-08-13 07:59:36 Data Acquisition
+INFO:root:2025-08-13 07:59:38 Date Format Conversion
+INFO:root:2025-08-13 07:59:38 Check Data Type
+INFO:root:2025-08-13 07:59:38 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:38 DFAEC : OK
+
+INFO:root:2025-08-13 07:59:38 Blank Check
+INFO:root:2025-08-13 07:59:38 Data Acquisition
+INFO:root:2025-08-13 07:59:40 Date Format Conversion
+INFO:root:2025-08-13 07:59:40 Check Data Type
+INFO:root:2025-08-13 07:59:40 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:40 DFACY : OK
+
+INFO:root:2025-08-13 07:59:40 Blank Check
+ERROR:root:2025-08-13 07:59:40 Blank Error
+
+INFO:root:2025-08-13 07:59:40 Blank Check
+INFO:root:2025-08-13 07:59:40 Data Acquisition
+INFO:root:2025-08-13 07:59:41 Date Format Conversion
+INFO:root:2025-08-13 07:59:41 Check Data Type
+INFO:root:2025-08-13 07:59:41 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:41 DFAD1 : OK
+
+INFO:root:2025-08-13 07:59:41 Blank Check
+INFO:root:2025-08-13 07:59:41 Data Acquisition
+INFO:root:2025-08-13 07:59:43 Date Format Conversion
+INFO:root:2025-08-13 07:59:43 Check Data Type
+INFO:root:2025-08-13 07:59:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:43 DFADQ : OK
+
+INFO:root:2025-08-13 07:59:43 Blank Check
+ERROR:root:2025-08-13 07:59:43 Blank Error
+
+INFO:root:2025-08-13 07:59:43 Blank Check
+ERROR:root:2025-08-13 07:59:43 Blank Error
+
+INFO:root:2025-08-13 07:59:43 Blank Check
+INFO:root:2025-08-13 07:59:43 Data Acquisition
+INFO:root:2025-08-13 07:59:44 Date Format Conversion
+INFO:root:2025-08-13 07:59:44 Check Data Type
+INFO:root:2025-08-13 07:59:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:44 DFACT : OK
+
+INFO:root:2025-08-13 07:59:44 Blank Check
+INFO:root:2025-08-13 07:59:44 Data Acquisition
+INFO:root:2025-08-13 07:59:45 Date Format Conversion
+INFO:root:2025-08-13 07:59:45 Check Data Type
+INFO:root:2025-08-13 07:59:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:45 DEAF4 : OK
+
+INFO:root:2025-08-13 07:59:45 Blank Check
+ERROR:root:2025-08-13 07:59:45 Blank Error
+
+INFO:root:2025-08-13 07:59:45 Blank Check
+ERROR:root:2025-08-13 07:59:45 Blank Error
+
+INFO:root:2025-08-13 07:59:45 Blank Check
+INFO:root:2025-08-13 07:59:45 Data Acquisition
+INFO:root:2025-08-13 07:59:46 Date Format Conversion
+INFO:root:2025-08-13 07:59:46 Check Data Type
+INFO:root:2025-08-13 07:59:46 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:47 DEAF7 : OK
+
+INFO:root:2025-08-13 07:59:47 Blank Check
+INFO:root:2025-08-13 07:59:47 Data Acquisition
+INFO:root:2025-08-13 07:59:48 Date Format Conversion
+INFO:root:2025-08-13 07:59:48 Check Data Type
+INFO:root:2025-08-13 07:59:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:48 D1BT9 : OK
+
+INFO:root:2025-08-13 07:59:48 Blank Check
+ERROR:root:2025-08-13 07:59:48 Blank Error
+
+INFO:root:2025-08-13 07:59:48 Blank Check
+ERROR:root:2025-08-13 07:59:48 Blank Error
+
+INFO:root:2025-08-13 07:59:48 Blank Check
+INFO:root:2025-08-13 07:59:48 Data Acquisition
+INFO:root:2025-08-13 07:59:50 Date Format Conversion
+INFO:root:2025-08-13 07:59:50 Check Data Type
+INFO:root:2025-08-13 07:59:50 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:50 D1BTC : OK
+
+INFO:root:2025-08-13 07:59:50 Blank Check
+INFO:root:2025-08-13 07:59:50 Data Acquisition
+INFO:root:2025-08-13 07:59:51 Date Format Conversion
+INFO:root:2025-08-13 07:59:51 Check Data Type
+INFO:root:2025-08-13 07:59:51 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:51 DFAED : OK
+
+INFO:root:2025-08-13 07:59:51 Blank Check
+ERROR:root:2025-08-13 07:59:51 Blank Error
+
+INFO:root:2025-08-13 07:59:51 Blank Check
+ERROR:root:2025-08-13 07:59:51 Blank Error
+
+INFO:root:2025-08-13 07:59:51 Blank Check
+INFO:root:2025-08-13 07:59:51 Data Acquisition
+INFO:root:2025-08-13 07:59:52 Date Format Conversion
+INFO:root:2025-08-13 07:59:52 Check Data Type
+INFO:root:2025-08-13 07:59:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:53 DFAEG : OK
+
+INFO:root:2025-08-13 07:59:53 Blank Check
+INFO:root:2025-08-13 07:59:53 Data Acquisition
+INFO:root:2025-08-13 07:59:53 Date Format Conversion
+INFO:root:2025-08-13 07:59:53 Check Data Type
+INFO:root:2025-08-13 07:59:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:54 DEAF0 : OK
+
+INFO:root:2025-08-13 07:59:54 Blank Check
+ERROR:root:2025-08-13 07:59:54 Blank Error
+
+INFO:root:2025-08-13 07:59:54 Blank Check
+ERROR:root:2025-08-13 07:59:54 Blank Error
+
+INFO:root:2025-08-13 07:59:54 Blank Check
+INFO:root:2025-08-13 07:59:54 Data Acquisition
+INFO:root:2025-08-13 07:59:55 Date Format Conversion
+INFO:root:2025-08-13 07:59:55 Check Data Type
+INFO:root:2025-08-13 07:59:55 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:55 DEAF3 : OK
+
+INFO:root:2025-08-13 07:59:55 Blank Check
+ERROR:root:2025-08-13 07:59:55 Blank Error
+
+INFO:root:2025-08-13 07:59:55 Blank Check
+ERROR:root:2025-08-13 07:59:55 Blank Error
+
+INFO:root:2025-08-13 07:59:55 Blank Check
+ERROR:root:2025-08-13 07:59:55 Blank Error
+
+INFO:root:2025-08-13 07:59:55 Blank Check
+INFO:root:2025-08-13 07:59:55 Data Acquisition
+INFO:root:2025-08-13 07:59:56 Date Format Conversion
+INFO:root:2025-08-13 07:59:56 Check Data Type
+INFO:root:2025-08-13 07:59:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:56 D1BRH : OK
+
+INFO:root:2025-08-13 07:59:56 Blank Check
+INFO:root:2025-08-13 07:59:56 Data Acquisition
+INFO:root:2025-08-13 07:59:57 Date Format Conversion
+INFO:root:2025-08-13 07:59:57 Check Data Type
+INFO:root:2025-08-13 07:59:57 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:57 D1BU6 : OK
+
+INFO:root:2025-08-13 07:59:57 Blank Check
+ERROR:root:2025-08-13 07:59:57 Blank Error
+
+INFO:root:2025-08-13 07:59:57 Blank Check
+ERROR:root:2025-08-13 07:59:57 Blank Error
+
+INFO:root:2025-08-13 07:59:57 Blank Check
+INFO:root:2025-08-13 07:59:57 Data Acquisition
+INFO:root:2025-08-13 07:59:58 Date Format Conversion
+INFO:root:2025-08-13 07:59:58 Check Data Type
+INFO:root:2025-08-13 07:59:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:59:58 D1BU9 : OK
+
+INFO:root:2025-08-13 07:59:58 Blank Check
+INFO:root:2025-08-13 07:59:58 Data Acquisition
+INFO:root:2025-08-13 07:59:59 Date Format Conversion
+INFO:root:2025-08-13 07:59:59 Check Data Type
+INFO:root:2025-08-13 07:59:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:00 D1BUG : OK
+
+INFO:root:2025-08-13 08:00:00 Blank Check
+ERROR:root:2025-08-13 08:00:00 Blank Error
+
+INFO:root:2025-08-13 08:00:00 Blank Check
+ERROR:root:2025-08-13 08:00:00 Blank Error
+
+INFO:root:2025-08-13 08:00:00 Blank Check
+INFO:root:2025-08-13 08:00:00 Data Acquisition
+INFO:root:2025-08-13 08:00:00 Date Format Conversion
+INFO:root:2025-08-13 08:00:00 Check Data Type
+INFO:root:2025-08-13 08:00:00 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:01 D1BUK : OK
+
+INFO:root:2025-08-13 08:00:01 Blank Check
+INFO:root:2025-08-13 08:00:01 Data Acquisition
+INFO:root:2025-08-13 08:00:02 Date Format Conversion
+INFO:root:2025-08-13 08:00:02 Check Data Type
+INFO:root:2025-08-13 08:00:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:02 D1BR6 : OK
+
+INFO:root:2025-08-13 08:00:02 Blank Check
+ERROR:root:2025-08-13 08:00:02 Blank Error
+
+INFO:root:2025-08-13 08:00:02 Blank Check
+ERROR:root:2025-08-13 08:00:02 Blank Error
+
+INFO:root:2025-08-13 08:00:02 Blank Check
+INFO:root:2025-08-13 08:00:02 Data Acquisition
+INFO:root:2025-08-13 08:00:03 Date Format Conversion
+INFO:root:2025-08-13 08:00:03 Check Data Type
+INFO:root:2025-08-13 08:00:03 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:03 D1BR9 : OK
+
+INFO:root:2025-08-13 08:00:03 Blank Check
+INFO:root:2025-08-13 08:00:03 Data Acquisition
+INFO:root:2025-08-13 08:00:05 Date Format Conversion
+INFO:root:2025-08-13 08:00:05 Check Data Type
+INFO:root:2025-08-13 08:00:05 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:05 D1BTZ : OK
+
+INFO:root:2025-08-13 08:00:05 Blank Check
+ERROR:root:2025-08-13 08:00:05 Blank Error
+
+INFO:root:2025-08-13 08:00:05 Blank Check
+INFO:root:2025-08-13 08:00:05 Data Acquisition
+INFO:root:2025-08-13 08:00:06 Date Format Conversion
+INFO:root:2025-08-13 08:00:06 Check Data Type
+INFO:root:2025-08-13 08:00:06 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:07 D1BU1 : OK
+
+INFO:root:2025-08-13 08:00:07 Blank Check
+INFO:root:2025-08-13 08:00:07 Data Acquisition
+INFO:root:2025-08-13 08:00:08 Date Format Conversion
+INFO:root:2025-08-13 08:00:08 Check Data Type
+INFO:root:2025-08-13 08:00:08 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:08 D1BTN : OK
+
+INFO:root:2025-08-13 08:00:08 Blank Check
+ERROR:root:2025-08-13 08:00:08 Blank Error
+
+INFO:root:2025-08-13 08:00:08 Blank Check
+INFO:root:2025-08-13 08:00:08 Data Acquisition
+INFO:root:2025-08-13 08:00:09 Date Format Conversion
+INFO:root:2025-08-13 08:00:09 Check Data Type
+INFO:root:2025-08-13 08:00:09 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:09 D1BU5 : OK
+
+INFO:root:2025-08-13 08:00:09 Blank Check
+INFO:root:2025-08-13 08:00:09 Data Acquisition
+INFO:root:2025-08-13 08:00:10 Date Format Conversion
+INFO:root:2025-08-13 08:00:10 Check Data Type
+INFO:root:2025-08-13 08:00:10 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:10 D1BUC : OK
+
+INFO:root:2025-08-13 08:00:10 Blank Check
+ERROR:root:2025-08-13 08:00:10 Blank Error
+
+INFO:root:2025-08-13 08:00:10 Blank Check
+ERROR:root:2025-08-13 08:00:10 Blank Error
+
+INFO:root:2025-08-13 08:00:10 Blank Check
+INFO:root:2025-08-13 08:00:10 Data Acquisition
+INFO:root:2025-08-13 08:00:11 Date Format Conversion
+INFO:root:2025-08-13 08:00:11 Check Data Type
+INFO:root:2025-08-13 08:00:11 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:12 D1BUF : OK
+
+INFO:root:2025-08-13 08:00:12 Blank Check
+INFO:root:2025-08-13 08:00:12 Data Acquisition
+INFO:root:2025-08-13 08:00:12 Date Format Conversion
+INFO:root:2025-08-13 08:00:12 Check Data Type
+INFO:root:2025-08-13 08:00:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:13 CL075 : OK
+
+INFO:root:2025-08-13 08:00:13 Blank Check
+ERROR:root:2025-08-13 08:00:13 Blank Error
+
+INFO:root:2025-08-13 08:00:13 Blank Check
+ERROR:root:2025-08-13 08:00:13 Blank Error
+
+INFO:root:2025-08-13 08:00:13 Blank Check
+INFO:root:2025-08-13 08:00:13 Data Acquisition
+INFO:root:2025-08-13 08:00:14 Date Format Conversion
+INFO:root:2025-08-13 08:00:14 Check Data Type
+INFO:root:2025-08-13 08:00:14 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:14 CL078 : OK
+
+INFO:root:2025-08-13 08:00:14 Blank Check
+INFO:root:2025-08-13 08:00:14 Data Acquisition
+INFO:root:2025-08-13 08:00:15 Date Format Conversion
+INFO:root:2025-08-13 08:00:15 Check Data Type
+INFO:root:2025-08-13 08:00:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:15 D1BUQ : OK
+
+INFO:root:2025-08-13 08:00:15 Blank Check
+ERROR:root:2025-08-13 08:00:15 Blank Error
+
+INFO:root:2025-08-13 08:00:15 Blank Check
+ERROR:root:2025-08-13 08:00:15 Blank Error
+
+INFO:root:2025-08-13 08:00:15 Blank Check
+INFO:root:2025-08-13 08:00:15 Data Acquisition
+INFO:root:2025-08-13 08:00:16 Date Format Conversion
+INFO:root:2025-08-13 08:00:16 Check Data Type
+INFO:root:2025-08-13 08:00:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:16 D1BUT : OK
+
+INFO:root:2025-08-13 08:00:16 Blank Check
+INFO:root:2025-08-13 08:00:16 Data Acquisition
+INFO:root:2025-08-13 08:00:17 Date Format Conversion
+INFO:root:2025-08-13 08:00:17 Check Data Type
+INFO:root:2025-08-13 08:00:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:18 NT536 : OK
+
+INFO:root:2025-08-13 08:00:18 Blank Check
+ERROR:root:2025-08-13 08:00:18 Blank Error
+
+INFO:root:2025-08-13 08:00:18 Blank Check
+ERROR:root:2025-08-13 08:00:18 Blank Error
+
+INFO:root:2025-08-13 08:00:18 Blank Check
+INFO:root:2025-08-13 08:00:18 Data Acquisition
+INFO:root:2025-08-13 08:00:19 Date Format Conversion
+INFO:root:2025-08-13 08:00:19 Check Data Type
+INFO:root:2025-08-13 08:00:19 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:19 NT539 : OK
+
+INFO:root:2025-08-13 08:00:19 Blank Check
+INFO:root:2025-08-13 08:00:19 Data Acquisition
+INFO:root:2025-08-13 08:00:20 Date Format Conversion
+INFO:root:2025-08-13 08:00:20 Check Data Type
+INFO:root:2025-08-13 08:00:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:20 NT540 : OK
+
+INFO:root:2025-08-13 08:00:20 Blank Check
+ERROR:root:2025-08-13 08:00:20 Blank Error
+
+INFO:root:2025-08-13 08:00:20 Blank Check
+ERROR:root:2025-08-13 08:00:20 Blank Error
+
+INFO:root:2025-08-13 08:00:20 Blank Check
+INFO:root:2025-08-13 08:00:20 Data Acquisition
+INFO:root:2025-08-13 08:00:21 Date Format Conversion
+INFO:root:2025-08-13 08:00:21 Check Data Type
+INFO:root:2025-08-13 08:00:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:21 NT543 : OK
+
+INFO:root:2025-08-13 08:00:21 Blank Check
+INFO:root:2025-08-13 08:00:21 Data Acquisition
+INFO:root:2025-08-13 08:00:22 Date Format Conversion
+INFO:root:2025-08-13 08:00:22 Check Data Type
+INFO:root:2025-08-13 08:00:22 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:22 DEAE8 : OK
+
+INFO:root:2025-08-13 08:00:22 Blank Check
+ERROR:root:2025-08-13 08:00:22 Blank Error
+
+INFO:root:2025-08-13 08:00:22 Blank Check
+ERROR:root:2025-08-13 08:00:22 Blank Error
+
+INFO:root:2025-08-13 08:00:22 Blank Check
+INFO:root:2025-08-13 08:00:22 Data Acquisition
+INFO:root:2025-08-13 08:00:23 Date Format Conversion
+INFO:root:2025-08-13 08:00:23 Check Data Type
+INFO:root:2025-08-13 08:00:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:23 DEAEB : OK
+
+INFO:root:2025-08-13 08:00:23 Blank Check
+INFO:root:2025-08-13 08:00:23 Data Acquisition
+INFO:root:2025-08-13 08:00:24 Date Format Conversion
+INFO:root:2025-08-13 08:00:24 Check Data Type
+INFO:root:2025-08-13 08:00:24 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:25 CL079 : OK
+
+INFO:root:2025-08-13 08:00:25 Blank Check
+ERROR:root:2025-08-13 08:00:25 Blank Error
+
+INFO:root:2025-08-13 08:00:25 Blank Check
+ERROR:root:2025-08-13 08:00:25 Blank Error
+
+INFO:root:2025-08-13 08:00:25 Blank Check
+INFO:root:2025-08-13 08:00:25 Data Acquisition
+INFO:root:2025-08-13 08:00:26 Date Format Conversion
+INFO:root:2025-08-13 08:00:26 Check Data Type
+INFO:root:2025-08-13 08:00:26 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:26 CL082 : OK
+
+INFO:root:2025-08-13 08:00:26 Blank Check
+INFO:root:2025-08-13 08:00:26 Data Acquisition
+INFO:root:2025-08-13 08:00:27 Date Format Conversion
+INFO:root:2025-08-13 08:00:27 Check Data Type
+INFO:root:2025-08-13 08:00:27 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:27 NV463 : OK
+
+INFO:root:2025-08-13 08:00:27 Blank Check
+ERROR:root:2025-08-13 08:00:27 Blank Error
+
+INFO:root:2025-08-13 08:00:27 Blank Check
+ERROR:root:2025-08-13 08:00:27 Blank Error
+
+INFO:root:2025-08-13 08:00:27 Blank Check
+INFO:root:2025-08-13 08:00:27 Data Acquisition
+INFO:root:2025-08-13 08:00:28 Date Format Conversion
+INFO:root:2025-08-13 08:00:28 Check Data Type
+INFO:root:2025-08-13 08:00:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:28 NV480 : OK
+
+INFO:root:2025-08-13 08:00:28 Blank Check
+INFO:root:2025-08-13 08:00:28 Data Acquisition
+INFO:root:2025-08-13 08:00:29 Date Format Conversion
+INFO:root:2025-08-13 08:00:29 Check Data Type
+INFO:root:2025-08-13 08:00:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:29 NS564 : OK
+
+INFO:root:2025-08-13 08:00:29 Blank Check
+ERROR:root:2025-08-13 08:00:29 Blank Error
+
+INFO:root:2025-08-13 08:00:29 Blank Check
+INFO:root:2025-08-13 08:00:29 Data Acquisition
+INFO:root:2025-08-13 08:00:30 Date Format Conversion
+INFO:root:2025-08-13 08:00:30 Check Data Type
+INFO:root:2025-08-13 08:00:30 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:30 NS566 : OK
+
+INFO:root:2025-08-13 08:00:30 Blank Check
+INFO:root:2025-08-13 08:00:30 Data Acquisition
+INFO:root:2025-08-13 08:00:31 Date Format Conversion
+INFO:root:2025-08-13 08:00:31 Check Data Type
+INFO:root:2025-08-13 08:00:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:32 DFAF7 : OK
+
+INFO:root:2025-08-13 08:00:32 Blank Check
+ERROR:root:2025-08-13 08:00:32 Blank Error
+
+INFO:root:2025-08-13 08:00:32 Blank Check
+ERROR:root:2025-08-13 08:00:32 Blank Error
+
+INFO:root:2025-08-13 08:00:32 Blank Check
+INFO:root:2025-08-13 08:00:32 Data Acquisition
+INFO:root:2025-08-13 08:00:32 Date Format Conversion
+INFO:root:2025-08-13 08:00:32 Check Data Type
+INFO:root:2025-08-13 08:00:32 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:33 DFAFA : OK
+
+INFO:root:2025-08-13 08:00:33 Blank Check
+INFO:root:2025-08-13 08:00:33 Data Acquisition
+INFO:root:2025-08-13 08:00:34 Date Format Conversion
+INFO:root:2025-08-13 08:00:34 Check Data Type
+INFO:root:2025-08-13 08:00:34 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:34 DFAE5 : OK
+
+INFO:root:2025-08-13 08:00:34 Blank Check
+ERROR:root:2025-08-13 08:00:34 Blank Error
+
+INFO:root:2025-08-13 08:00:34 Blank Check
+INFO:root:2025-08-13 08:00:34 Data Acquisition
+INFO:root:2025-08-13 08:00:35 Date Format Conversion
+INFO:root:2025-08-13 08:00:35 Check Data Type
+INFO:root:2025-08-13 08:00:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:35 DFAE8 : OK
+
+INFO:root:2025-08-13 08:00:35 Blank Check
+INFO:root:2025-08-13 08:00:35 Data Acquisition
+INFO:root:2025-08-13 08:00:36 Date Format Conversion
+INFO:root:2025-08-13 08:00:36 Check Data Type
+INFO:root:2025-08-13 08:00:36 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:36 NS569 : OK
+
+INFO:root:2025-08-13 08:00:36 Blank Check
+ERROR:root:2025-08-13 08:00:36 Blank Error
+
+INFO:root:2025-08-13 08:00:36 Blank Check
+INFO:root:2025-08-13 08:00:36 Data Acquisition
+INFO:root:2025-08-13 08:00:37 Date Format Conversion
+INFO:root:2025-08-13 08:00:37 Check Data Type
+INFO:root:2025-08-13 08:00:37 Excel File To XML File Conversion
+INFO:root:2025-08-13 08:00:37 NS571 : OK
+
+INFO:root:2025-08-13 08:00:37 Blank Check
+INFO:root:2025-08-13 08:00:37 Data Acquisition

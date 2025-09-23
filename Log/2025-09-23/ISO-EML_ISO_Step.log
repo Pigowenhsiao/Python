@@ -1,0 +1,134 @@
+2025-09-23 10:39:16,632 - INFO - 2025-09-23 10:39:16 Begin INI: HL13B6.ini
+2025-09-23 10:39:16,649 - INFO - 2025-09-23 10:39:16 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T10.39.16.csv
+2025-09-23 10:39:16,651 - INFO - 2025-09-23 10:39:16 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 10:39:16,920 - INFO - 2025-09-23 10:39:16 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:39:17,992 - INFO - 2025-09-23 10:39:17 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:39:17,993 - INFO - 2025-09-23 10:39:17 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:39:32,199 - INFO - 2025-09-23 10:39:32 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-23 10:39:32,200 - INFO - 2025-09-23 10:39:32 Field indices normalized.
+2025-09-23 10:56:37,711 - INFO - 2025-09-23 10:56:37 --- Start processing config file: HL13B6.ini ---
+2025-09-23 10:56:37,716 - INFO - 2025-09-23 10:56:37 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T10.56.37.csv
+2025-09-23 10:56:37,718 - INFO - 2025-09-23 10:56:37 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 10:56:37,950 - INFO - 2025-09-23 10:56:37 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:56:38,738 - INFO - 2025-09-23 10:56:38 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:56:38,739 - INFO - 2025-09-23 10:56:38 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 10:56:45,499 - INFO - 2025-09-23 10:56:45 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 10:56:45,500 - INFO - 2025-09-23 10:56:45 Pivoting logic detected. Starting data transformation...
+2025-09-23 10:56:45,508 - ERROR - 2025-09-23 10:56:45 Step 1/2/3 failed: Error during Excel read or filter. Error: [None]
+2025-09-23 10:56:45,511 - INFO - 2025-09-23 10:56:45 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 10:58:05,753 - INFO - 2025-09-23 10:58:05 --- Start processing config file: HL13B6.ini ---
+2025-09-23 10:58:05,763 - INFO - 2025-09-23 10:58:05 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T10.58.05.csv
+2025-09-23 10:58:05,765 - INFO - 2025-09-23 10:58:05 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 10:58:05,988 - INFO - 2025-09-23 10:58:05 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:58:06,765 - INFO - 2025-09-23 10:58:06 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:58:06,766 - INFO - 2025-09-23 10:58:06 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 10:58:14,536 - INFO - 2025-09-23 10:58:14 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 10:58:14,536 - INFO - 2025-09-23 10:58:14 Pivoting logic detected. Starting data transformation...
+2025-09-23 10:58:14,537 - ERROR - 2025-09-23 10:58:14 Step 1/2/3 failed: Error during Excel read or filter. Error: [None]
+2025-09-23 10:58:14,538 - INFO - 2025-09-23 10:58:14 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 10:58:46,685 - INFO - 2025-09-23 10:58:46 --- Start processing config file: HL13B6.ini ---
+2025-09-23 10:58:46,687 - INFO - 2025-09-23 10:58:46 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T10.58.46.csv
+2025-09-23 10:58:46,687 - INFO - 2025-09-23 10:58:46 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 10:58:46,917 - INFO - 2025-09-23 10:58:46 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:58:47,647 - INFO - 2025-09-23 10:58:47 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 10:58:47,647 - INFO - 2025-09-23 10:58:47 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 10:58:55,268 - INFO - 2025-09-23 10:58:55 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 10:58:55,268 - INFO - 2025-09-23 10:58:55 Pivoting logic detected. Starting data transformation...
+2025-09-23 10:58:55,269 - ERROR - 2025-09-23 10:58:55 Step 1/2/3 failed: Error during Excel read or filter. Error: [None]
+2025-09-23 10:58:55,271 - INFO - 2025-09-23 10:58:55 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 11:09:19,771 - INFO - 2025-09-23 11:09:19 --- Start processing config file: HL13B6.ini ---
+2025-09-23 11:09:19,773 - INFO - 2025-09-23 11:09:19 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T11.09.19.csv
+2025-09-23 11:09:19,774 - INFO - 2025-09-23 11:09:19 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 11:09:20,044 - INFO - 2025-09-23 11:09:20 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:09:21,016 - INFO - 2025-09-23 11:09:21 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:09:21,017 - INFO - 2025-09-23 11:09:21 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 11:09:21,024 - INFO - 2025-09-23 11:09:21 Attempting to read sheet '\uff83\uff9e\uff70\uff80' from row 20...
+2025-09-23 11:09:27,727 - INFO - 2025-09-23 11:09:27 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 11:09:27,727 - INFO - 2025-09-23 11:09:27 Pivoting logic detected. Starting data transformation...
+2025-09-23 11:09:27,728 - INFO - 2025-09-23 11:09:27 Pivot Index Column: None
+2025-09-23 11:09:27,729 - INFO - 2025-09-23 11:09:27 Pivot Labels Column: None
+2025-09-23 11:09:27,729 - INFO - 2025-09-23 11:09:27 Pivot Value Columns: ['Resist', 'Y1', 'Y2 ; \u9700\u8981\u5c55\u958b\u7684\u6b04\u4f4d']
+2025-09-23 11:09:27,731 - ERROR - 2025-09-23 11:09:27 Step 1/2/3 failed: Error during Excel read or filter. Error: sequence item 0: expected str instance, NoneType found
+2025-09-23 11:09:27,738 - ERROR - 2025-09-23 11:09:27 Full traceback: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special V0.3.py", line 218, in process_excel_file
+    raise ValueError(f"Required pivot columns missing in DataFrame: {', '.join(missing_cols)}")
+                                                                     ~~~~~~~~~^^^^^^^^^^^^^^
+TypeError: sequence item 0: expected str instance, NoneType found
+
+2025-09-23 11:09:27,740 - INFO - 2025-09-23 11:09:27 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 11:13:05,454 - INFO - 2025-09-23 11:13:05 --- Start processing config file: HL13B6.ini ---
+2025-09-23 11:13:05,457 - INFO - 2025-09-23 11:13:05 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T11.13.05.csv
+2025-09-23 11:13:05,458 - INFO - 2025-09-23 11:13:05 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 11:13:05,688 - INFO - 2025-09-23 11:13:05 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:13:06,483 - INFO - 2025-09-23 11:13:06 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:13:06,483 - INFO - 2025-09-23 11:13:06 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 11:13:06,487 - INFO - 2025-09-23 11:13:06 Attempting to read sheet '\uff83\uff9e\uff70\uff80' from row 20...
+2025-09-23 11:13:14,721 - INFO - 2025-09-23 11:13:14 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 11:13:14,721 - INFO - 2025-09-23 11:13:14 Pivoting logic detected. Starting data transformation...
+2025-09-23 11:13:14,721 - INFO - 2025-09-23 11:13:14 Pivot Index Column: key_LotNumber
+2025-09-23 11:13:14,722 - INFO - 2025-09-23 11:13:14 Pivot Labels Column: key_PivotLabel
+2025-09-23 11:13:14,722 - INFO - 2025-09-23 11:13:14 Pivot Value Columns: ['Resist', 'Y1', 'Y2']
+2025-09-23 11:13:14,722 - ERROR - 2025-09-23 11:13:14 Step 1/2/3 failed: Error during Excel read or filter. Error: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+2025-09-23 11:13:14,728 - ERROR - 2025-09-23 11:13:14 Full traceback: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special V0.3.py", line 219, in process_excel_file
+    raise ValueError(f"Required pivot columns missing in DataFrame: {', '.join(missing_cols)}")
+ValueError: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+
+2025-09-23 11:13:14,729 - INFO - 2025-09-23 11:13:14 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 11:14:35,971 - INFO - 2025-09-23 11:14:35 --- Start processing config file: HL13B6.ini ---
+2025-09-23 11:14:35,975 - INFO - 2025-09-23 11:14:35 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T11.14.35.csv
+2025-09-23 11:14:35,977 - INFO - 2025-09-23 11:14:35 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 11:14:36,203 - INFO - 2025-09-23 11:14:36 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:14:37,006 - INFO - 2025-09-23 11:14:37 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:14:37,006 - INFO - 2025-09-23 11:14:37 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 11:14:37,008 - INFO - 2025-09-23 11:14:37 Attempting to read sheet '\uff83\uff9e\uff70\uff80' from row 20...
+2025-09-23 11:14:43,821 - INFO - 2025-09-23 11:14:43 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 11:14:43,821 - INFO - 2025-09-23 11:14:43 Pivoting logic detected. Starting data transformation...
+2025-09-23 11:14:43,822 - INFO - 2025-09-23 11:14:43 Pivot Index Column: key_LotNumber
+2025-09-23 11:14:43,822 - INFO - 2025-09-23 11:14:43 Pivot Labels Column: key_PivotLabel
+2025-09-23 11:14:43,822 - INFO - 2025-09-23 11:14:43 Pivot Value Columns: ['Resist', 'Y1', 'Y2']
+2025-09-23 11:14:43,823 - ERROR - 2025-09-23 11:14:43 Step 1/2/3 failed: Error during Excel read or filter. Error: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+2025-09-23 11:14:43,827 - ERROR - 2025-09-23 11:14:43 Full traceback: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special V0.3.py", line 219, in process_excel_file
+    raise ValueError(f"Required pivot columns missing in DataFrame: {', '.join(missing_cols)}")
+ValueError: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+
+2025-09-23 11:14:43,828 - INFO - 2025-09-23 11:14:43 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 11:16:27,376 - INFO - 2025-09-23 11:16:27 --- Start processing config file: HL13B6.ini ---
+2025-09-23 11:16:27,379 - INFO - 2025-09-23 11:16:27 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T11.16.27.csv
+2025-09-23 11:16:27,381 - INFO - 2025-09-23 11:16:27 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 11:16:27,661 - INFO - 2025-09-23 11:16:27 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:16:28,634 - INFO - 2025-09-23 11:16:28 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:16:28,634 - INFO - 2025-09-23 11:16:28 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 11:16:28,636 - INFO - 2025-09-23 11:16:28 Attempting to read sheet '\uff83\uff9e\uff70\uff80' from row 20...
+2025-09-23 11:16:35,259 - INFO - 2025-09-23 11:16:35 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 11:16:35,260 - INFO - 2025-09-23 11:16:35 Pivoting logic detected. Starting data transformation...
+2025-09-23 11:16:35,260 - INFO - 2025-09-23 11:16:35 Pivot Index Column: key_LotNumber
+2025-09-23 11:16:35,261 - INFO - 2025-09-23 11:16:35 Pivot Labels Column: key_PivotLabel
+2025-09-23 11:16:35,261 - INFO - 2025-09-23 11:16:35 Pivot Value Columns: ['Resist', 'Y1', 'Y2']
+2025-09-23 11:16:35,261 - ERROR - 2025-09-23 11:16:35 Step 1/2/3 failed: Error during Excel read or filter. Error: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+2025-09-23 11:16:35,266 - ERROR - 2025-09-23 11:16:35 Full traceback: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special V0.3.py", line 219, in process_excel_file
+    raise ValueError(f"Required pivot columns missing in DataFrame: {', '.join(missing_cols)}")
+ValueError: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+
+2025-09-23 11:16:35,267 - INFO - 2025-09-23 11:16:35 --- Finished processing config file: HL13B6.ini ---
+2025-09-23 11:21:12,098 - INFO - 2025-09-23 11:21:12 --- Start processing config file: HL13B6.ini ---
+2025-09-23 11:21:12,101 - INFO - 2025-09-23 11:21:12 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_23T11.21.12.csv
+2025-09-23 11:21:12,103 - INFO - 2025-09-23 11:21:12 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-23 11:21:12,342 - INFO - 2025-09-23 11:21:12 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:21:13,233 - INFO - 2025-09-23 11:21:13 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-23 11:21:13,233 - INFO - 2025-09-23 11:21:13 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-23 11:21:13,235 - INFO - 2025-09-23 11:21:13 Attempting to read sheet '\uff83\uff9e\uff70\uff80' from row 20...
+2025-09-23 11:21:20,817 - INFO - 2025-09-23 11:21:20 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-23 11:21:20,817 - INFO - 2025-09-23 11:21:20 Pivoting logic detected. Starting data transformation...
+2025-09-23 11:21:20,818 - INFO - 2025-09-23 11:21:20 Pivot Index Column: key_LotNumber
+2025-09-23 11:21:20,818 - INFO - 2025-09-23 11:21:20 Pivot Labels Column: key_PivotLabel
+2025-09-23 11:21:20,818 - INFO - 2025-09-23 11:21:20 Pivot Value Columns: ['Resist', 'Y1', 'Y2']
+2025-09-23 11:21:20,819 - ERROR - 2025-09-23 11:21:20 Step 1/2/3 failed: Error during Excel read or filter. Error: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+2025-09-23 11:21:20,824 - ERROR - 2025-09-23 11:21:20 Full traceback: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special V0.3.py", line 219, in process_excel_file
+    raise ValueError(f"Required pivot columns missing in DataFrame: {', '.join(missing_cols)}")
+ValueError: Required pivot columns missing in DataFrame: Resist, Y1, Y2
+
+2025-09-23 11:21:20,825 - INFO - 2025-09-23 11:21:20 --- Finished processing config file: HL13B6.ini ---

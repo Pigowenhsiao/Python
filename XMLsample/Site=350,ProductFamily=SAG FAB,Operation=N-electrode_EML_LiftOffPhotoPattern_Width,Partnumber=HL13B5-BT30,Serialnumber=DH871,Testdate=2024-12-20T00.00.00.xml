@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+       <Result startDateTime="2024-12-20T00:00:00" Result="Passed">
+               <Header SerialNumber="DH871" PartNumber="HL13B5-BT30" Operation="N-electrode_EML_LiftOffPhotoPattern_Width" TestStation="N-electrode" Operator="石川" StartTime="2024-12-20T00:00:00" Site="350" LotNumber="DH871"/>
+
+               <TestStep Name="Width" startDateTime="2024-12-20T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="Ave" Units="um" Value="165.263"/>
+                   <Data DataType="Numeric" Name="Max" Units="um" Value="165.263"/>
+                   <Data DataType="Numeric" Name="Min" Units="um" Value="165.263"/>
+               </TestStep>
+
+               <TestStep Name="SORTED_DATA" startDateTime="2024-12-20T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="STARTTIME_SORTED" Units="" Value="45646.007235"/>
+                   <Data DataType="Numeric" Name="SORTNUMBER" Units="" Value="7235.0"/>
+                   <Data DataType="String" Name="LotNumber_5" Value="DH871" CompOperation="LOG"/>
+                   <Data DataType="String" Name="LotNumber_9" Value="24KWDH871" CompOperation="LOG"/>
+               </TestStep>
+
+               <TestEquipment>
+                   <Item DeviceName="-" DeviceSerialNumber="-"/>
+               </TestEquipment>
+
+               <ErrorData/>
+               <FailureData/>
+               <Configuration/>
+       </Result>
+</Results>

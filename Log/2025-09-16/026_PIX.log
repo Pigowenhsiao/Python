@@ -1,0 +1,116 @@
+INFO:root:2025-09-16 10:05:04 Program Start
+INFO:root:2025-09-16 10:05:04 Excel File Copy
+INFO:root:2025-09-16 10:05:05 Get The Starting Row Count
+INFO:root:2025-09-16 10:05:05 Read Excel
+INFO:root:2025-09-16 10:05:08 Setting Columns Number
+INFO:root:2025-09-16 10:05:08 Get DataFrame End Index Number
+
+INFO:root:2025-09-16 10:05:08 Blank Check
+ERROR:root:2025-09-16 10:05:08 Blank Error
+
+INFO:root:2025-09-16 10:05:08 Blank Check
+ERROR:root:2025-09-16 10:05:08 Blank Error
+
+INFO:root:2025-09-16 10:05:08 Blank Check
+INFO:root:2025-09-16 10:05:08 Data Acquisition
+INFO:root:2025-09-16 10:05:10 Date Format Conversion
+INFO:root:2025-09-16 10:05:10 Check Data Type
+INFO:root:2025-09-16 10:05:10 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:05:10 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B5-BT00,Serialnumber=DEAFQ,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:05:10 DEAFQ : OK
+
+INFO:root:2025-09-16 10:05:10 Blank Check
+INFO:root:2025-09-16 10:05:10 Data Acquisition
+INFO:root:2025-09-16 10:05:13 Date Format Conversion
+INFO:root:2025-09-16 10:05:13 Check Data Type
+INFO:root:2025-09-16 10:05:13 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:05:13 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B5-BT00,Serialnumber=DEAG2,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:05:13 DEAG2 : OK
+
+INFO:root:2025-09-16 10:05:13 Blank Check
+INFO:root:2025-09-16 10:05:13 Data Acquisition
+INFO:root:2025-09-16 10:05:16 Date Format Conversion
+INFO:root:2025-09-16 10:05:16 Check Data Type
+INFO:root:2025-09-16 10:05:16 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:45 Program Start
+INFO:root:2025-09-16 10:06:45 Excel File Copy
+INFO:root:2025-09-16 10:06:46 Get The Starting Row Count
+INFO:root:2025-09-16 10:06:46 Read Excel
+INFO:root:2025-09-16 10:06:48 Setting Columns Number
+INFO:root:2025-09-16 10:06:48 Get DataFrame End Index Number
+
+INFO:root:2025-09-16 10:06:48 Blank Check
+ERROR:root:2025-09-16 10:06:48 Blank Error
+
+INFO:root:2025-09-16 10:06:48 Blank Check
+ERROR:root:2025-09-16 10:06:48 Blank Error
+
+INFO:root:2025-09-16 10:06:48 Blank Check
+INFO:root:2025-09-16 10:06:48 Data Acquisition
+INFO:root:2025-09-16 10:06:50 Date Format Conversion
+INFO:root:2025-09-16 10:06:50 Check Data Type
+INFO:root:2025-09-16 10:06:50 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:50 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B5-BT00,Serialnumber=DEAFQ,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:50 DEAFQ : OK
+
+INFO:root:2025-09-16 10:06:50 Blank Check
+INFO:root:2025-09-16 10:06:50 Data Acquisition
+INFO:root:2025-09-16 10:06:51 Date Format Conversion
+INFO:root:2025-09-16 10:06:51 Check Data Type
+INFO:root:2025-09-16 10:06:51 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:51 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B5-BT00,Serialnumber=DEAG2,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:51 DEAG2 : OK
+
+INFO:root:2025-09-16 10:06:51 Blank Check
+INFO:root:2025-09-16 10:06:51 Data Acquisition
+INFO:root:2025-09-16 10:06:52 Date Format Conversion
+INFO:root:2025-09-16 10:06:52 Check Data Type
+INFO:root:2025-09-16 10:06:52 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:52 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B5-BT00,Serialnumber=DEAFG,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:52 DEAFG : OK
+
+INFO:root:2025-09-16 10:06:52 Blank Check
+INFO:root:2025-09-16 10:06:52 Data Acquisition
+INFO:root:2025-09-16 10:06:53 Date Format Conversion
+INFO:root:2025-09-16 10:06:53 Check Data Type
+INFO:root:2025-09-16 10:06:53 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:53 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13B8-BT30,Serialnumber=NV493,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:53 NV493 : OK
+
+INFO:root:2025-09-16 10:06:53 Blank Check
+ERROR:root:2025-09-16 10:06:53 Blank Error
+
+INFO:root:2025-09-16 10:06:53 Blank Check
+INFO:root:2025-09-16 10:06:53 Data Acquisition
+INFO:root:2025-09-16 10:06:54 Date Format Conversion
+INFO:root:2025-09-16 10:06:54 Check Data Type
+INFO:root:2025-09-16 10:06:54 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:54 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13A6-BT20,Serialnumber=CL091,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:54 CL091 : OK
+
+INFO:root:2025-09-16 10:06:54 Blank Check
+INFO:root:2025-09-16 10:06:54 Data Acquisition
+INFO:root:2025-09-16 10:06:55 Date Format Conversion
+INFO:root:2025-09-16 10:06:55 Check Data Type
+INFO:root:2025-09-16 10:06:55 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:56 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13A6-BT20,Serialnumber=CL092,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:56 CL092 : OK
+
+INFO:root:2025-09-16 10:06:56 Blank Check
+INFO:root:2025-09-16 10:06:56 Data Acquisition
+INFO:root:2025-09-16 10:06:56 Date Format Conversion
+INFO:root:2025-09-16 10:06:56 Check Data Type
+INFO:root:2025-09-16 10:06:56 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:57 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13A6-BT20,Serialnumber=CL093,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:57 CL093 : OK
+
+INFO:root:2025-09-16 10:06:57 Blank Check
+INFO:root:2025-09-16 10:06:57 Data Acquisition
+INFO:root:2025-09-16 10:06:58 Date Format Conversion
+INFO:root:2025-09-16 10:06:58 Check Data Type
+INFO:root:2025-09-16 10:06:58 Excel File To XML File Conversion
+INFO:root:2025-09-16 10:06:58 XML File Created//li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=PIX_SiN_Thickness,Partnumber=HL13A6-BT20,Serialnumber=CL094,Testdate=2025-08-21T00.00.00.xml
+INFO:root:2025-09-16 10:06:58 CL094 : OK
+
+INFO:root:2025-09-16 10:06:58 Blank Check
+INFO:root:2025-09-16 10:06:58 Data Acquisition

@@ -1,0 +1,118 @@
+2025-03-14 11:07:15,625 - INFO - 找到 0 個 Excel 文件。
+2025-03-14 11:08:25,330 - INFO - 找到 4 個 Excel 文件。
+2025-03-14 11:08:25,366 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 11:08:27,076 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 11:08:28,676 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm
+2025-03-14 11:09:18,774 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:09:18,793 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm
+2025-03-14 11:13:04,382 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:13:27,663 - INFO - 找到 4 個 Excel 文件。
+2025-03-14 11:13:27,693 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 11:13:29,419 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 11:13:30,969 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm
+2025-03-14 11:14:23,576 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:14:23,589 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm
+2025-03-14 11:17:53,238 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:38:54,702 - INFO - 找到 5 個 Excel 文件。
+2025-03-14 11:38:54,721 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 11:38:56,667 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 11:38:57,954 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 11:38:57,963 - ERROR - 處理文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm 時出錯: [Errno 13] Permission denied: 'C:\\Users\\hsi67063\\Box\\00-home-pigo.hsiao\\Meeting information\\2024 SAG SPC discussion\\Takahashi_San\\20250312\\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm'
+2025-03-14 11:38:57,995 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm
+2025-03-14 11:39:58,708 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:39:58,725 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm
+2025-03-14 11:43:42,812 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 11:43:43,005 - ERROR - 打開文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Higashino san\IV_SPC.xlsx 時出錯: "There is no item named '[Content_Types].xml' in the archive"
+2025-03-14 14:31:38,284 - INFO - 找到 0 個 Excel 文件。
+2025-03-14 14:33:47,190 - INFO - 找到 5 個 Excel 文件。
+2025-03-14 14:33:47,225 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:33:49,660 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:33:51,254 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:33:51,290 - ERROR - 處理文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm 時出錯: [Errno 13] Permission denied: 'C:\\Users\\hsi67063\\Box\\00-home-pigo.hsiao\\Meeting information\\2024 SAG SPC discussion\\Takahashi_San\\20250312\\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm'
+2025-03-14 14:33:51,372 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm
+2025-03-14 14:34:54,023 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\Re sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 14:34:54,042 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm
+2025-03-14 14:40:04,737 - WARNING - 文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\Summary\sample.xlsm 中找不到 'Result' 工作表，跳過。
+2025-03-14 14:41:05,043 - INFO - 找到 3 個 Excel 文件。
+2025-03-14 14:41:05,078 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:41:06,571 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:41:07,980 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:41:07,990 - ERROR - 處理文件 C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm 時出錯: [Errno 13] Permission denied: 'C:\\Users\\hsi67063\\Box\\00-home-pigo.hsiao\\Meeting information\\2024 SAG SPC discussion\\Takahashi_San\\20250312\\~$D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm'
+2025-03-14 14:42:30,885 - INFO - 找到 2 個 Excel 文件。
+2025-03-14 14:42:30,897 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:42:32,388 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:46:59,843 - INFO - 找到 2 個 Excel 文件。
+2025-03-14 14:46:59,855 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:47:01,459 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:47:35,343 - ERROR - 處理額外文件 C:\Users\hsi67063\Downloads\IV_DATA2\Ru埋込形状測定データシート.xlsx 時出錯: ['B', 'H']
+2025-03-14 14:47:35,516 - ERROR - 更新 Data 工作表時出錯: 'B_column'
+2025-03-14 14:54:01,454 - INFO - 找到 2 個 Excel 文件。
+2025-03-14 14:54:01,471 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:54:02,991 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Bh, Site: 1I, IV: 1.4342e-05
+2025-03-14 14:54:02,997 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Bh, Site: 2O, IV: 1.3024e-05
+2025-03-14 14:54:03,004 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ca, Site: 1I, IV: 1.7574e-05
+2025-03-14 14:54:03,009 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ca, Site: 2O, IV: 1.7698e-05
+2025-03-14 14:54:03,018 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Dg, Site: 1I, IV: 1.7188e-05
+2025-03-14 14:54:03,025 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Dg, Site: 2O, IV: 1.6412e-05
+2025-03-14 14:54:03,029 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Bh, Site: 1I, IV: 1.7014e-05
+2025-03-14 14:54:03,035 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Bh, Site: 2O, IV: 1.8134e-05
+2025-03-14 14:54:03,043 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ca, Site: 1I, IV: 1.751e-05
+2025-03-14 14:54:03,049 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ca, Site: 2O, IV: 1.7884e-05
+2025-03-14 14:54:03,055 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Dg, Site: 1I, IV: 1.7866e-05
+2025-03-14 14:54:03,061 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Dg, Site: 2O, IV: 1.7966e-05
+2025-03-14 14:54:03,066 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Bh, Site: 1I, IV: 1.9272e-05
+2025-03-14 14:54:03,072 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Bh, Site: 2O, IV: 2.0324e-05
+2025-03-14 14:54:03,078 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ca, Site: 1I, IV: 1.9028e-05
+2025-03-14 14:54:03,083 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ca, Site: 2O, IV: 1.8976e-05
+2025-03-14 14:54:03,089 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Dg, Site: 1I, IV: 1.9308e-05
+2025-03-14 14:54:03,097 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Dg, Site: 2O, IV: 1.905e-05
+2025-03-14 14:54:03,102 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Bh, Site: 1I, IV: 1.5398e-05
+2025-03-14 14:54:03,108 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Bh, Site: 2O, IV: 1.6612e-05
+2025-03-14 14:54:03,114 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ca, Site: 1I, IV: 2.038e-05
+2025-03-14 14:54:03,119 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ca, Site: 2O, IV: 2.0554e-05
+2025-03-14 14:54:03,126 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Dg, Site: 1I, IV: 1.9646e-05
+2025-03-14 14:54:03,132 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Dg, Site: 2O, IV: 1.96e-05
+2025-03-14 14:54:03,138 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:54:04,483 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ch, Site: 1I, IV: 4.0346e-06
+2025-03-14 14:54:04,495 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ch, Site: 2O, IV: 6.3631e-06
+2025-03-14 14:54:04,504 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ch, Site: 1I, IV: 4.1731e-06
+2025-03-14 14:54:04,508 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ch, Site: 2O, IV: 3.9927e-06
+2025-03-14 14:54:04,516 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ch, Site: 1I, IV: 1.9366e-05
+2025-03-14 14:54:04,522 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ch, Site: 2O, IV: 1.9416e-05
+2025-03-14 14:54:04,528 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ch, Site: 1I, IV: 1.864e-05
+2025-03-14 14:54:04,535 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ch, Site: 2O, IV: 1.7612e-05
+2025-03-14 14:58:29,777 - INFO - 找到 2 個 Excel 文件。
+2025-03-14 14:58:29,805 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Bh_Ca_Dg.xlsm
+2025-03-14 14:58:32,706 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Bh, Site: 1I, IV: 1.4342e-05
+2025-03-14 14:58:32,721 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Bh, Site: 2O, IV: 1.3024e-05
+2025-03-14 14:58:32,734 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ca, Site: 1I, IV: 1.7574e-05
+2025-03-14 14:58:32,748 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ca, Site: 2O, IV: 1.7698e-05
+2025-03-14 14:58:32,761 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Dg, Site: 1I, IV: 1.7188e-05
+2025-03-14 14:58:32,780 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Dg, Site: 2O, IV: 1.6412e-05
+2025-03-14 14:58:32,793 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Bh, Site: 1I, IV: 1.7014e-05
+2025-03-14 14:58:32,808 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Bh, Site: 2O, IV: 1.8134e-05
+2025-03-14 14:58:32,818 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ca, Site: 1I, IV: 1.751e-05
+2025-03-14 14:58:32,830 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ca, Site: 2O, IV: 1.7884e-05
+2025-03-14 14:58:32,840 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Dg, Site: 1I, IV: 1.7866e-05
+2025-03-14 14:58:32,852 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Dg, Site: 2O, IV: 1.7966e-05
+2025-03-14 14:58:32,863 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Bh, Site: 1I, IV: 1.9272e-05
+2025-03-14 14:58:32,872 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Bh, Site: 2O, IV: 2.0324e-05
+2025-03-14 14:58:32,879 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ca, Site: 1I, IV: 1.9028e-05
+2025-03-14 14:58:32,888 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ca, Site: 2O, IV: 1.8976e-05
+2025-03-14 14:58:32,895 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Dg, Site: 1I, IV: 1.9308e-05
+2025-03-14 14:58:32,899 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Dg, Site: 2O, IV: 1.905e-05
+2025-03-14 14:58:32,905 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Bh, Site: 1I, IV: 1.5398e-05
+2025-03-14 14:58:32,911 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Bh, Site: 2O, IV: 1.6612e-05
+2025-03-14 14:58:32,915 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ca, Site: 1I, IV: 2.038e-05
+2025-03-14 14:58:32,920 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ca, Site: 2O, IV: 2.0554e-05
+2025-03-14 14:58:32,926 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Dg, Site: 1I, IV: 1.9646e-05
+2025-03-14 14:58:32,931 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Dg, Site: 2O, IV: 1.96e-05
+2025-03-14 14:58:32,936 - INFO - 正在處理文件: C:\Users\hsi67063\Box\00-home-pigo.hsiao\Meeting information\2024 SAG SPC discussion\Takahashi_San\20250312\D1A8L_D1A8M_D1A8N_D1A8P_Ch.xlsm
+2025-03-14 14:58:35,082 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ch, Site: 1I, IV: 4.0346e-06
+2025-03-14 14:58:35,096 - INFO - 新增資料: Lot_ID: D1A8L, Batch: Ch, Site: 2O, IV: 6.3631e-06
+2025-03-14 14:58:35,108 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ch, Site: 1I, IV: 4.1731e-06
+2025-03-14 14:58:35,121 - INFO - 新增資料: Lot_ID: D1A8M, Batch: Ch, Site: 2O, IV: 3.9927e-06
+2025-03-14 14:58:35,134 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ch, Site: 1I, IV: 1.9366e-05
+2025-03-14 14:58:35,152 - INFO - 新增資料: Lot_ID: D1A8N, Batch: Ch, Site: 2O, IV: 1.9416e-05
+2025-03-14 14:58:35,169 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ch, Site: 1I, IV: 1.864e-05
+2025-03-14 14:58:35,185 - INFO - 新增資料: Lot_ID: D1A8P, Batch: Ch, Site: 2O, IV: 1.7612e-05

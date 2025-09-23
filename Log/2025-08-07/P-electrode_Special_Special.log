@@ -1,0 +1,178 @@
+2025-08-07 14:37:42,743 - INFO - 2025-08-07 14:37:42 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:37:42,748 - INFO - 2025-08-07 14:37:42 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T14.37.42.csv
+2025-08-07 14:37:42,964 - INFO - 2025-08-07 14:37:42 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 14:37:45,664 - INFO - 2025-08-07 14:37:45 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 14:37:57,347 - INFO - 2025-08-07 14:37:57 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 14:37:57,405 - INFO - 2025-08-07 14:37:57 \u5df2\u5c0d\u6b04\u4f4d\u7d22\u5f15 [1, 2, 3, 5] \u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 14:37:57,435 - INFO - 2025-08-07 14:37:57 \u5728\u6a94\u6848\u4e2d\u8b58\u5225\u51fa 0 \u500b\u6709\u6548\u7684\u8cc7\u6599\u5340\u584a
+2025-08-07 14:37:57,436 - INFO - 2025-08-07 14:37:57 \u5728\u6a94\u6848\u4e2d\u672a\u627e\u5230\u53ef\u8655\u7406\u7684\u8cc7\u6599\u5340\u584a
+2025-08-07 14:37:57,445 - INFO - 2025-08-07 14:37:57 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:43:02,956 - INFO - 2025-08-07 14:43:02 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:43:02,958 - INFO - 2025-08-07 14:43:02 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T14.43.02.csv
+2025-08-07 14:43:03,175 - INFO - 2025-08-07 14:43:03 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 14:43:05,813 - INFO - 2025-08-07 14:43:05 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 14:43:21,757 - INFO - 2025-08-07 14:43:21 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 14:43:21,772 - INFO - 2025-08-07 14:43:21 \u5df2\u5c0d\u6b04\u4f4d\u7d22\u5f15 [1, 2, 3, 5] \u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 14:43:21,788 - INFO - 2025-08-07 14:43:21 \u5728\u6a94\u6848\u4e2d\u8b58\u5225\u51fa 0 \u500b\u6709\u6548\u7684\u8cc7\u6599\u5340\u584a
+2025-08-07 14:43:21,789 - INFO - 2025-08-07 14:43:21 \u5728\u6a94\u6848\u4e2d\u672a\u627e\u5230\u53ef\u8655\u7406\u7684\u8cc7\u6599\u5340\u584a
+2025-08-07 14:43:21,794 - INFO - 2025-08-07 14:43:21 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:47:24,766 - INFO - 2025-08-07 14:47:24 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:47:24,768 - INFO - 2025-08-07 14:47:24 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T14.47.24.csv
+2025-08-07 14:47:25,016 - INFO - 2025-08-07 14:47:25 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 14:47:27,587 - INFO - 2025-08-07 14:47:27 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 14:47:37,432 - INFO - 2025-08-07 14:47:37 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 14:47:37,456 - INFO - 2025-08-07 14:47:37 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 14:47:37,484 - INFO - 2025-08-07 14:47:37 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 10570 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 14:47:37,512 - ERROR - 2025-08-07 14:47:37 \u8655\u7406\u7279\u6b8a\u683c\u5f0f\u6a94\u6848\u6642\u767c\u751f\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 176, in process_special_format_excel
+    final_data['Start_Date_Time'] = pd.to_datetime(df_processed[settings.column_map['date_col']]).dt.strftime('%Y-%m-%d %H:%M:%S')
+                                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 1068, in to_datetime
+    cache_array = _maybe_cache(arg, format, cache, convert_listlike)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 249, in _maybe_cache
+    cache_dates = convert_listlike(unique_dates, format)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 437, in _convert_listlike_datetimes
+    result, tz_parsed = objects_to_datetime64(
+                        ~~~~~~~~~~~~~~~~~~~~~^
+        arg,
+        ^^^^
+    ...<4 lines>...
+        allow_object=True,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\arrays\datetimes.py", line 2415, in objects_to_datetime64
+    result, tz_parsed = tslib.array_to_datetime(
+                        ~~~~~~~~~~~~~~~~~~~~~~~^
+        data,
+        ^^^^^
+    ...<4 lines>...
+        creso=abbrev_to_npy_unit(out_unit),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "pandas/_libs/tslib.pyx", line 412, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 596, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 553, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslibs/conversion.pyx", line 641, in pandas._libs.tslibs.conversion.convert_str_to_tsobject
+  File "pandas/_libs/tslibs/parsing.pyx", line 336, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "pandas/_libs/tslibs/parsing.pyx", line 666, in pandas._libs.tslibs.parsing.dateutil_parse
+pandas._libs.tslibs.parsing.DateParseError: Unknown datetime string format, unable to parse: \, at position 1
+
+2025-08-07 14:47:37,520 - INFO - 2025-08-07 14:47:37 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:50:26,234 - INFO - 2025-08-07 14:50:26 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:50:26,236 - INFO - 2025-08-07 14:50:26 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T14.50.26.csv
+2025-08-07 14:50:26,456 - INFO - 2025-08-07 14:50:26 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 14:50:29,226 - INFO - 2025-08-07 14:50:29 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 14:50:41,933 - INFO - 2025-08-07 14:50:41 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 14:50:41,943 - INFO - 2025-08-07 14:50:41 \u5df2\u6e05\u7406\u65e5\u671f\u6b04\u4e2d\u7684\u7121\u6548\u5167\u5bb9
+2025-08-07 14:50:41,971 - INFO - 2025-08-07 14:50:41 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 14:50:42,004 - INFO - 2025-08-07 14:50:42 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 10570 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 14:50:42,020 - INFO - 2025-08-07 14:50:42 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 14:50:42,027 - INFO - 2025-08-07 14:50:42 \u904e\u6ffe\u7121\u6548\u6578\u64da (0 \u6216\u932f\u8aa4\u503c) \u5f8c\uff0c\u5269\u9918 0 \u7b46\u7d00\u9304
+2025-08-07 14:50:42,037 - INFO - 2025-08-07 14:50:42 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:57:54,654 - INFO - 2025-08-07 14:57:54 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:57:55,422 - INFO - 2025-08-07 14:57:55 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T14.57.55.csv
+2025-08-07 14:57:55,741 - INFO - 2025-08-07 14:57:55 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 14:57:57,666 - INFO - 2025-08-07 14:57:57 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 14:58:08,260 - INFO - 2025-08-07 14:58:08 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 14:58:08,285 - INFO - 2025-08-07 14:58:08 \u5df2\u6e05\u7406\u65e5\u671f\u6b04\u4e2d\u7684\u7121\u6548\u5167\u5bb9
+2025-08-07 14:58:08,313 - INFO - 2025-08-07 14:58:08 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 14:58:08,339 - INFO - 2025-08-07 14:58:08 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 10570 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 14:58:08,346 - INFO - 2025-08-07 14:58:08 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 14:58:08,356 - INFO - 2025-08-07 14:58:08 \u8cc7\u6599\u904e\u6ffe\u524d\u7684\u5167\u5bb9 (\u524d 20 \u7b46):
+   Start_Date_Time Part_Number Serial_Number Thickness  Stress     Result
+0              NaN          \u54c1\u540d       \uff9b\uff6f\uff84 No.    \u22bf\u30a2\u30ed\u30a4\u524d\u5f8c     NaN      \u30a2\u30ed\u30a4\u524d\u5f8c
+1              NaN     HTL139N          M100  -68.4539     NaN -15.914214
+2              NaN     HTL139N          M101  -68.4539     NaN -15.914214
+3              NaN     HTL139N          M102  -68.4539     NaN -15.914214
+4              NaN     HTL139N          M103  -68.4539     NaN -15.914214
+7              NaN   HL13B4-BT         DD087  -2.90061     NaN  -0.355573
+8              NaN   HL13B4-BT         DD088  -2.90061     NaN  -0.355573
+9              NaN   HL13B4-BT         DD089  -2.90061     NaN  -0.355573
+13             NaN   HL13B4-BT         DC089  9.101253     NaN   1.112723
+14             NaN   HL13B4-BT         DC090  9.101253     NaN   1.112723
+15             NaN   HL13B4-BT         DC091  9.101253     NaN   1.112723
+16             NaN   HL13B4-BT         DD090  9.101253     NaN   1.112723
+19             NaN  HTL13B2-BT         ES425  -3.05915     NaN  -0.370222
+20             NaN  HTL13B2-BT         ES426  -3.05915     NaN  -0.370222
+21             NaN  HTL13B2-BT         ES430  -3.05915     NaN  -0.370222
+22             NaN  HTL13B2-BT         ES431  -3.05915     NaN  -0.370222
+25             NaN   HL13B4-BT         DA111   -1.4602     NaN  -0.180438
+26             NaN   HL13B4-BT         DA113   -1.4602     NaN  -0.180438
+27             NaN   HL13B4-BT         DA114   -1.4602     NaN  -0.180438
+31             NaN   HL13B6-BT         DP041  -2.43589     NaN  -0.306304
+2025-08-07 14:58:08,363 - INFO - 2025-08-07 14:58:08 \u904e\u6ffe\u7121\u6548\u6578\u64da (0 \u6216\u932f\u8aa4\u503c) \u5f8c\uff0c\u5269\u9918 0 \u7b46\u7d00\u9304
+2025-08-07 14:58:08,373 - INFO - 2025-08-07 14:58:08 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:01:19,859 - INFO - 2025-08-07 15:01:19 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:01:19,861 - INFO - 2025-08-07 15:01:19 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T15.01.19.csv
+2025-08-07 15:01:20,082 - INFO - 2025-08-07 15:01:20 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 15:01:22,702 - INFO - 2025-08-07 15:01:22 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 15:01:32,976 - INFO - 2025-08-07 15:01:32 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18052 \u884c (\u5f9e\u7b2c 7 \u884c\u958b\u59cb)
+2025-08-07 15:01:32,991 - INFO - 2025-08-07 15:01:32 \u5df2\u6e05\u7406\u65e5\u671f\u6b04\u4e2d\u7684\u7121\u6548\u5167\u5bb9
+2025-08-07 15:01:33,009 - INFO - 2025-08-07 15:01:33 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 15:01:33,045 - INFO - 2025-08-07 15:01:33 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 10570 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 15:01:33,070 - INFO - 2025-08-07 15:01:33 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 15:01:33,077 - INFO - 2025-08-07 15:01:33 \u8cc7\u6599\u904e\u6ffe\u524d\u7684\u5167\u5bb9 (\u524d 20 \u7b46):
+        Start_Date_Time Part_Number Serial_Number   Thickness    Stress Result
+0                   NaN          \u54c1\u540d       \uff9b\uff6f\uff84 No.  \u96fb\u6975\u819c\u539a\n(\u03bcm)     \u30a2\u30ed\u30a4\u524d\u5f8c     \u5224\u5b9a
+1                   NaN     HTL139N          M100       0.605   -9.6281      \u5426
+2                   NaN     HTL139N          M101         NaN       NaN    NaN
+3                   NaN     HTL139N          M102         NaN       NaN    NaN
+4                   NaN     HTL139N          M103         NaN       NaN    NaN
+7                   NaN   HL13B4-BT         DD087     1.14737 -0.407973      \u5408
+8                   NaN   HL13B4-BT         DD088     1.14737 -0.407973      \u5408
+9                   NaN   HL13B4-BT         DD089     1.14737 -0.407973      \u5408
+13                  NaN   HL13B4-BT         DC089     1.15042  1.280099      \u5426
+14                  NaN   HL13B4-BT         DC090     1.15042  1.280099      \u5426
+15                  NaN   HL13B4-BT         DC091     1.15042  1.280099      \u5426
+16                  NaN   HL13B4-BT         DD090     1.15042  1.280099      \u5426
+19  2020-01-18 00:00:00  HTL13B2-BT         ES425      1.1622 -0.430272      \u5408
+20  2020-01-18 00:00:00  HTL13B2-BT         ES426      1.1622 -0.430272      \u5408
+21  2020-01-18 00:00:00  HTL13B2-BT         ES430      1.1622 -0.430272      \u5408
+22  2020-01-18 00:00:00  HTL13B2-BT         ES431      1.1622 -0.430272      \u5408
+25  2020-01-23 00:00:00   HL13B4-BT         DA111     1.13822 -0.205378      \u5408
+26  2020-01-23 00:00:00   HL13B4-BT         DA113     1.13822 -0.205378      \u5408
+27  2020-01-23 00:00:00   HL13B4-BT         DA114     1.13822 -0.205378      \u5408
+31  2020-01-26 00:00:00   HL13B6-BT         DP041     1.11853  -0.34261      \u5408
+2025-08-07 15:01:33,089 - INFO - 2025-08-07 15:01:33 \u904e\u6ffe\u7121\u6548\u6578\u64da (0 \u6216\u932f\u8aa4\u503c) \u5f8c\uff0c\u5269\u9918 10233 \u7b46\u7d00\u9304
+2025-08-07 15:01:33,107 - INFO - 2025-08-07 15:01:33 \u9644\u52a0\u984d\u5916\u8cc7\u8a0a\u5b8c\u6210
+2025-08-07 15:01:33,308 - INFO - 2025-08-07 15:01:33 \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 18058
+2025-08-07 15:01:33,323 - INFO - 2025-08-07 15:01:33 \u958b\u59cb\u751f\u6210\u6307\u6a19 XML...
+2025-08-07 15:01:33,464 - INFO - 2025-08-07 15:01:33 \u6307\u6a19 XML \u5df2\u751f\u6210\u65bc: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=P-electrode_Special,Partnumber=UNKNOWPN,Serialnumber=P-electrode_Special_2025_08_07T15.01.19,Testdate=2025-08-07T15.01.33.xml
+2025-08-07 15:01:33,465 - INFO - 2025-08-07 15:01:33 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:27:29,175 - INFO - 2025-08-07 15:27:29 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:27:29,178 - INFO - 2025-08-07 15:27:29 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T15.27.29.csv
+2025-08-07 15:27:29,401 - INFO - 2025-08-07 15:27:29 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 15:27:32,207 - INFO - 2025-08-07 15:27:32 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 15:27:41,306 - INFO - 2025-08-07 15:27:41 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 18053 \u884c (\u5f9e\u7b2c 6 \u884c\u958b\u59cb)
+2025-08-07 15:27:41,550 - INFO - 2025-08-07 15:27:41 \u5df2\u9810\u6e05\u7406\u6240\u6709\u5132\u5b58\u683c\u7684\u7a7a\u683c\uff0c\u4e26\u5c07\u65e5\u671f\u6b04\u4e2d\u7684\u7121\u6548\u5167\u5bb9\u8f49\u63db\u70ba NaN
+2025-08-07 15:27:41,567 - INFO - 2025-08-07 15:27:41 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 15:27:41,599 - INFO - 2025-08-07 15:27:41 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 10570 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 15:27:41,608 - INFO - 2025-08-07 15:27:41 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 15:49:09,353 - INFO - 2025-08-07 15:49:09 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:49:09,357 - INFO - 2025-08-07 15:49:09 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T15.49.09.csv
+2025-08-07 15:49:09,652 - INFO - 2025-08-07 15:49:09 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 15:49:12,409 - INFO - 2025-08-07 15:49:12 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 15:49:22,798 - INFO - 2025-08-07 15:49:22 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 1635 \u884c (\u5f9e\u7b2c 16424 \u884c\u958b\u59cb)
+2025-08-07 15:49:22,837 - INFO - 2025-08-07 15:49:22 \u5df2\u9810\u6e05\u7406\u6240\u6709\u5132\u5b58\u683c\u7684\u7a7a\u683c\uff0c\u4e26\u5c07\u65e5\u671f\u6b04\u4e2d\u7684\u7121\u6548\u5167\u5bb9\u8f49\u63db\u70ba NaN
+2025-08-07 15:49:22,848 - INFO - 2025-08-07 15:49:22 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 15:49:22,858 - INFO - 2025-08-07 15:49:22 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 802 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 15:49:22,875 - INFO - 2025-08-07 15:49:22 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 15:54:35,934 - INFO - 2025-08-07 15:54:35 \u6210\u529f\u8b80\u53d6\u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:54:35,936 - INFO - 2025-08-07 15:54:35 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_Special_2025_08_07T15.54.35.csv
+2025-08-07 15:54:36,149 - INFO - 2025-08-07 15:54:36 \u627e\u5230\u4f86\u6e90\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 15:54:38,002 - INFO - 2025-08-07 15:54:38 --- \u958b\u59cb\u4f7f\u7528\u7279\u5225\u7248\u908f\u8f2f\u8655\u7406\u6a94\u6848: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 15:54:47,600 - INFO - 2025-08-07 15:54:47 \u8b80\u53d6 Excel \u6210\u529f\uff0c\u5171\u8b80\u53d6 1635 \u884c (\u5f9e\u7b2c 16424 \u884c\u958b\u59cb)
+2025-08-07 15:54:47,612 - INFO - 2025-08-07 15:54:47 \u5df2\u5c0d\u6307\u5b9a\u6b04\u4f4d\u57f7\u884c\u524d\u5411\u586b\u5145
+2025-08-07 15:54:47,615 - INFO - 2025-08-07 15:54:47 \u4ee5 E \u6b04\u70ba\u57fa\u6e96\uff0c\u7be9\u9078\u51fa 802 \u7b46\u6709\u6548\u8cc7\u6599\u5217
+2025-08-07 15:54:47,618 - INFO - 2025-08-07 15:54:47 \u6b04\u4f4d\u8ce6\u503c\u5b8c\u6210
+2025-08-07 15:54:47,627 - INFO - 2025-08-07 15:54:47 \u65e5\u671f\u7be9\u9078\u5b8c\u6210\uff0c\u5269\u9918 152 \u7b46\u7d00\u9304
+2025-08-07 15:56:55,217 - INFO - 2025-08-07 15:56:55 \u8cc7\u6599\u5eab\u67e5\u8a62 LotNumber_9 \u5b8c\u6210
+2025-08-07 15:56:55,238 - INFO - 2025-08-07 15:56:55 SORTED \u6b04\u4f4d\u8a08\u7b97\u5b8c\u6210
+2025-08-07 15:56:55,252 - INFO - 2025-08-07 15:56:55 \u904e\u6ffe\u7121\u6548\u6578\u64da (0 \u6216\u932f\u8aa4\u503c) \u5f8c\uff0c\u5269\u9918 118 \u7b46\u7d00\u9304
+2025-08-07 15:56:55,261 - INFO - 2025-08-07 15:56:55 \u9644\u52a0\u984d\u5916\u8cc7\u8a0a\u5b8c\u6210
+2025-08-07 15:56:55,344 - INFO - 2025-08-07 15:56:55 \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 18058
+2025-08-07 15:56:55,346 - INFO - 2025-08-07 15:56:55 \u958b\u59cb\u751f\u6210\u6307\u6a19 XML...
+2025-08-07 15:56:55,495 - INFO - 2025-08-07 15:56:55 \u6307\u6a19 XML \u5df2\u751f\u6210\u65bc: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=P-electrode_Special,Partnumber=UNKNOWPN,Serialnumber=P-electrode_Special_2025_08_07T15.54.35,Testdate=2025-08-07T15.56.55.xml
+2025-08-07 15:56:55,496 - INFO - 2025-08-07 15:56:55 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====

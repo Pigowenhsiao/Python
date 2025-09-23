@@ -1,0 +1,105 @@
+2025-08-07 13:18:36,447 - INFO - 2025-08-07 13:18:36 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:18:36,450 - INFO - 2025-08-07 13:18:36 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.18.36.csv
+2025-08-07 13:18:36,451 - INFO - 2025-08-07 13:18:36 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:18:36,665 - INFO - 2025-08-07 13:18:36 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:18:39,560 - INFO - 2025-08-07 13:18:39 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:18:39,561 - INFO - 2025-08-07 13:18:39 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:18:39,575 - ERROR - 2025-08-07 13:18:39 Error processing file QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 352, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\../MyModule\Row_Number_Func.py", line 4, in start_row_number
+    textfile = open(path,"r",encoding="utf-8")
+FileNotFoundError: [Errno 2] No such file or directory: './P-electrode_EML_StartRow.txt'
+
+2025-08-07 13:18:39,578 - INFO - 2025-08-07 13:18:39 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:18:39,578 - INFO - 2025-08-07 13:18:39 ===== Universal Script End =====
+2025-08-07 13:19:25,816 - INFO - 2025-08-07 13:19:25 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:19:25,818 - INFO - 2025-08-07 13:19:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.19.25.csv
+2025-08-07 13:19:25,819 - INFO - 2025-08-07 13:19:25 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:19:26,024 - INFO - 2025-08-07 13:19:26 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:19:28,773 - INFO - 2025-08-07 13:19:28 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:19:28,773 - INFO - 2025-08-07 13:19:28 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:19:37,594 - INFO - 2025-08-07 13:19:37 Step 1: Successfully read main sheet 'EML', 13758 rows loaded.
+2025-08-07 13:19:37,595 - INFO - 2025-08-07 13:19:37 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 13:19:37,602 - INFO - 2025-08-07 13:19:37 Step 2: Initial filtering (date, serial number) complete. 54 rows remaining.
+2025-08-07 13:19:37,602 - INFO - 2025-08-07 13:19:37 Step 3: Starting database query...
+2025-08-07 13:20:27,589 - INFO - 2025-08-07 13:20:27 Database connection closed.
+2025-08-07 13:22:32,406 - INFO - 2025-08-07 13:22:32 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:22:32,409 - INFO - 2025-08-07 13:22:32 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.22.32.csv
+2025-08-07 13:22:32,411 - INFO - 2025-08-07 13:22:32 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:22:32,661 - INFO - 2025-08-07 13:22:32 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:22:37,437 - INFO - 2025-08-07 13:22:37 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:22:37,438 - INFO - 2025-08-07 13:22:37 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:22:47,419 - INFO - 2025-08-07 13:22:47 Step 1: Successfully read main sheet 'EML', 13758 rows loaded.
+2025-08-07 13:22:47,419 - INFO - 2025-08-07 13:22:47 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 13:22:47,425 - ERROR - 2025-08-07 13:22:47 Step 1/2/3 failed: Error during Excel read or filter. Error: ['key_Serial_Number']
+2025-08-07 13:22:47,426 - INFO - 2025-08-07 13:22:47 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:22:47,427 - INFO - 2025-08-07 13:22:47 ===== Universal Script End =====
+2025-08-07 13:25:16,766 - INFO - 2025-08-07 13:25:16 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:25:16,769 - INFO - 2025-08-07 13:25:16 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.25.16.csv
+2025-08-07 13:25:16,771 - INFO - 2025-08-07 13:25:16 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:25:17,148 - INFO - 2025-08-07 13:25:17 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:25:19,896 - INFO - 2025-08-07 13:25:19 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:25:19,897 - INFO - 2025-08-07 13:25:19 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:25:30,151 - INFO - 2025-08-07 13:25:30 Step 1: Successfully read main sheet 'EML', 13758 rows loaded.
+2025-08-07 13:28:44,594 - INFO - 2025-08-07 13:28:44 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:28:44,597 - INFO - 2025-08-07 13:28:44 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.28.44.csv
+2025-08-07 13:28:44,598 - INFO - 2025-08-07 13:28:44 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:28:44,720 - INFO - 2025-08-07 13:28:44 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:28:47,457 - INFO - 2025-08-07 13:28:47 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:28:47,458 - INFO - 2025-08-07 13:28:47 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:28:56,500 - INFO - 2025-08-07 13:28:56 Step 1: Successfully read main sheet 'EML', 13758 rows loaded.
+2025-08-07 13:28:56,501 - ERROR - 2025-08-07 13:28:56 Step 1/2/3 failed: Error during Excel read or filter. Error: [4]
+2025-08-07 13:28:56,503 - INFO - 2025-08-07 13:28:56 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:28:56,503 - INFO - 2025-08-07 13:28:56 ===== Universal Script End =====
+2025-08-07 13:30:10,675 - INFO - 2025-08-07 13:30:10 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:30:10,679 - INFO - 2025-08-07 13:30:10 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.30.10.csv
+2025-08-07 13:30:10,680 - INFO - 2025-08-07 13:30:10 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:30:10,811 - INFO - 2025-08-07 13:30:10 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:30:14,587 - INFO - 2025-08-07 13:30:14 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:30:14,588 - INFO - 2025-08-07 13:30:14 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:30:22,960 - INFO - 2025-08-07 13:30:22 Step 1: Successfully read main sheet 'EML', 15758 rows loaded.
+2025-08-07 13:30:22,961 - ERROR - 2025-08-07 13:30:22 Step 1/2/3 failed: Error during Excel read or filter. Error: [4]
+2025-08-07 13:30:22,963 - INFO - 2025-08-07 13:30:22 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:30:22,963 - INFO - 2025-08-07 13:30:22 ===== Universal Script End =====
+2025-08-07 13:30:37,593 - INFO - 2025-08-07 13:30:37 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:30:37,596 - INFO - 2025-08-07 13:30:37 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.30.37.csv
+2025-08-07 13:30:37,597 - INFO - 2025-08-07 13:30:37 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:30:37,724 - INFO - 2025-08-07 13:30:37 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:30:39,572 - INFO - 2025-08-07 13:30:39 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:30:39,573 - INFO - 2025-08-07 13:30:39 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:30:48,988 - INFO - 2025-08-07 13:30:48 Step 1: Successfully read main sheet 'EML', 15758 rows loaded.
+2025-08-07 13:30:48,989 - ERROR - 2025-08-07 13:30:48 Step 1/2/3 failed: Error during Excel read or filter. Error: [3]
+2025-08-07 13:30:48,991 - INFO - 2025-08-07 13:30:48 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:30:48,991 - INFO - 2025-08-07 13:30:48 ===== Universal Script End =====
+2025-08-07 13:31:00,745 - INFO - 2025-08-07 13:31:00 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:31:00,748 - INFO - 2025-08-07 13:31:00 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.31.00.csv
+2025-08-07 13:31:00,750 - INFO - 2025-08-07 13:31:00 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:31:00,875 - INFO - 2025-08-07 13:31:00 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:31:02,743 - INFO - 2025-08-07 13:31:02 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:31:02,743 - INFO - 2025-08-07 13:31:02 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:31:12,655 - INFO - 2025-08-07 13:31:12 Step 1: Successfully read main sheet 'EML', 15758 rows loaded.
+2025-08-07 13:31:12,656 - ERROR - 2025-08-07 13:31:12 Step 1/2/3 failed: Error during Excel read or filter. Error: [0]
+2025-08-07 13:31:12,657 - INFO - 2025-08-07 13:31:12 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:31:12,657 - INFO - 2025-08-07 13:31:12 ===== Universal Script End =====
+2025-08-07 13:31:47,502 - INFO - 2025-08-07 13:31:47 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:31:47,505 - INFO - 2025-08-07 13:31:47 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.31.47.csv
+2025-08-07 13:31:47,508 - INFO - 2025-08-07 13:31:47 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:31:47,595 - INFO - 2025-08-07 13:31:47 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:31:50,282 - INFO - 2025-08-07 13:31:50 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:31:50,282 - INFO - 2025-08-07 13:31:50 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:31:59,677 - INFO - 2025-08-07 13:31:59 Step 1: Successfully read main sheet 'EML', 15758 rows loaded.
+2025-08-07 13:31:59,678 - ERROR - 2025-08-07 13:31:59 Step 1/2/3 failed: Error during Excel read or filter. Error: [0]
+2025-08-07 13:31:59,681 - INFO - 2025-08-07 13:31:59 --- Finished processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:31:59,681 - INFO - 2025-08-07 13:31:59 ===== Universal Script End =====
+2025-08-07 13:40:32,507 - INFO - 2025-08-07 13:40:32 --- Start processing config file: P-electorde_Fuse.ini ---
+2025-08-07 13:40:32,512 - INFO - 2025-08-07 13:40:32 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_EML_Deposition_2025_08_07T13.40.32.csv
+2025-08-07 13:40:32,514 - INFO - 2025-08-07 13:40:32 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern 'QC-K-009-R04*\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8*.xls*'
+2025-08-07 13:40:32,649 - INFO - 2025-08-07 13:40:32 Found latest source file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:40:35,382 - INFO - 2025-08-07 13:40:35 File copied successfully -> ..\DataFile\016_P-electrode\QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx
+2025-08-07 13:40:35,383 - INFO - 2025-08-07 13:40:35 --- Start processing file: QC-K-009-R04\u3000\u96fb\u6975\u5fdc\u529b\u6e2c\u5b9a\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8.xlsx ---
+2025-08-07 13:40:44,895 - INFO - 2025-08-07 13:40:44 Step 1: Successfully read main sheet 'EML', 15758 rows loaded.

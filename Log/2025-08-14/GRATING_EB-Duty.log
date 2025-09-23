@@ -1,0 +1,188 @@
+2025-08-14 09:14:17,234 - INFO - 2025-08-14 09:14:17 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 09:14:17,237 - INFO - 2025-08-14 09:14:17 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T09.14.17.csv
+2025-08-14 09:14:17,238 - INFO - 2025-08-14 09:14:17 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 09:14:17,240 - INFO - 2025-08-14 09:14:17 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:14:18,289 - INFO - 2025-08-14 09:14:18 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:14:18,289 - INFO - 2025-08-14 09:14:18 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 09:15:47,771 - INFO - 2025-08-14 09:15:47 Step 1: Successfully read main sheet '001', 19818 rows loaded starting from row 20.
+2025-08-14 09:15:47,779 - INFO - 2025-08-14 09:15:47 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 09:15:47,866 - ERROR - 2025-08-14 09:15:47 Step 1/2/3 failed: Error during Excel read or filter. Error: 7
+2025-08-14 09:15:47,870 - INFO - 2025-08-14 09:15:47 --- Finished processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 09:18:58,717 - INFO - 2025-08-14 09:18:58 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 09:18:58,720 - INFO - 2025-08-14 09:18:58 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T09.18.58.csv
+2025-08-14 09:18:58,721 - INFO - 2025-08-14 09:18:58 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 09:18:58,723 - INFO - 2025-08-14 09:18:58 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:18:59,201 - INFO - 2025-08-14 09:18:59 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:18:59,201 - INFO - 2025-08-14 09:18:59 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 09:20:17,143 - INFO - 2025-08-14 09:20:17 Step 1: Successfully read main sheet '001', 19818 rows loaded starting from row 20.
+2025-08-14 09:20:17,144 - INFO - 2025-08-14 09:20:17 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 09:20:17,918 - INFO - 2025-08-14 09:20:17 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 09:20:17,926 - INFO - 2025-08-14 09:20:17 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 09:21:50,219 - INFO - 2025-08-14 09:21:50 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 09:21:50,283 - INFO - 2025-08-14 09:21:50 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T09.21.50.csv
+2025-08-14 09:21:50,286 - INFO - 2025-08-14 09:21:50 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 09:21:50,368 - INFO - 2025-08-14 09:21:50 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:21:51,286 - INFO - 2025-08-14 09:21:51 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:21:51,289 - INFO - 2025-08-14 09:21:51 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 09:24:42,823 - INFO - 2025-08-14 09:24:42 Step 1: Successfully read main sheet '001', 19818 rows loaded starting from row 20.
+2025-08-14 09:24:42,836 - INFO - 2025-08-14 09:24:42 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 09:24:42,890 - INFO - 2025-08-14 09:24:42 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 09:24:42,896 - INFO - 2025-08-14 09:24:42 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 09:58:58,498 - INFO - 2025-08-14 09:58:58 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 09:58:58,503 - INFO - 2025-08-14 09:58:58 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T09.58.58.csv
+2025-08-14 09:58:58,506 - INFO - 2025-08-14 09:58:58 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 09:58:58,509 - INFO - 2025-08-14 09:58:58 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:58:59,111 - INFO - 2025-08-14 09:58:59 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 09:58:59,112 - INFO - 2025-08-14 09:58:59 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 10:00:43,383 - INFO - 2025-08-14 10:00:43 Step 1: Successfully read main sheet '001', 19818 rows loaded starting from row 20.
+2025-08-14 10:00:43,384 - INFO - 2025-08-14 10:00:43 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:00:43,499 - INFO - 2025-08-14 10:00:43 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:00:43,503 - INFO - 2025-08-14 10:00:43 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 10:09:06,094 - INFO - 2025-08-14 10:09:06 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:09:06,097 - INFO - 2025-08-14 10:09:06 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.09.06.csv
+2025-08-14 10:09:06,099 - INFO - 2025-08-14 10:09:06 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:09:06,102 - INFO - 2025-08-14 10:09:06 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:09:06,261 - INFO - 2025-08-14 10:09:06 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:09:06,261 - INFO - 2025-08-14 10:09:06 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx ---
+2025-08-14 10:13:04,891 - INFO - 2025-08-14 10:13:04 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:13:04,893 - INFO - 2025-08-14 10:13:04 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.13.04.csv
+2025-08-14 10:13:04,894 - INFO - 2025-08-14 10:13:04 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:13:04,895 - INFO - 2025-08-14 10:13:04 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:13:05,152 - INFO - 2025-08-14 10:13:05 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:13:05,153 - INFO - 2025-08-14 10:13:05 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx ---
+2025-08-14 10:13:33,032 - INFO - 2025-08-14 10:13:33 Step 1: Successfully read main sheet '001', 7625 rows loaded starting from row 20.
+2025-08-14 10:13:33,034 - INFO - 2025-08-14 10:13:33 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:13:33,266 - INFO - 2025-08-14 10:13:33 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:13:33,271 - INFO - 2025-08-14 10:13:33 Step 2: Initial filtering (date, key column) complete. 724 valid rows remaining.
+2025-08-14 10:15:03,287 - INFO - 2025-08-14 10:15:03 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:15:03,291 - INFO - 2025-08-14 10:15:03 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.15.03.csv
+2025-08-14 10:15:03,293 - INFO - 2025-08-14 10:15:03 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:15:03,297 - INFO - 2025-08-14 10:15:03 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:15:03,438 - INFO - 2025-08-14 10:15:03 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:15:03,438 - INFO - 2025-08-14 10:15:03 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx ---
+2025-08-14 10:15:29,504 - INFO - 2025-08-14 10:15:29 Step 1: Successfully read main sheet '001', 7625 rows loaded starting from row 20.
+2025-08-14 10:15:29,774 - INFO - 2025-08-14 10:15:29 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:15:30,018 - INFO - 2025-08-14 10:15:30 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:15:30,023 - INFO - 2025-08-14 10:15:30 Step 2: Initial filtering (date, key column) complete. 210 valid rows remaining.
+2025-08-14 10:16:06,885 - INFO - 2025-08-14 10:16:06 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:16:06,888 - INFO - 2025-08-14 10:16:06 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.16.06.csv
+2025-08-14 10:16:06,889 - INFO - 2025-08-14 10:16:06 Searching in path 'C:\Users\hsi67063\Downloads' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:16:06,891 - INFO - 2025-08-14 10:16:06 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:16:07,026 - INFO - 2025-08-14 10:16:07 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx
+2025-08-14 10:16:07,027 - INFO - 2025-08-14 10:16:07 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx ---
+2025-08-14 10:16:33,184 - INFO - 2025-08-14 10:16:33 Step 1: Successfully read main sheet '001', 7625 rows loaded starting from row 20.
+2025-08-14 10:16:33,185 - INFO - 2025-08-14 10:16:33 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:16:33,216 - INFO - 2025-08-14 10:16:33 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:16:33,222 - INFO - 2025-08-14 10:16:33 Step 2: Initial filtering (date, key column) complete. 210 valid rows remaining.
+2025-08-14 10:16:33,222 - INFO - 2025-08-14 10:16:33 Step 3: Starting database query...
+2025-08-14 10:20:32,118 - INFO - 2025-08-14 10:20:32 Database query and filtering complete. 202 valid rows remaining.
+2025-08-14 10:20:32,626 - INFO - 2025-08-14 10:20:32 Database connection closed.
+2025-08-14 10:20:32,626 - INFO - 2025-08-14 10:20:32 Step 4: Starting data transformation and calculation...
+2025-08-14 10:20:32,907 - INFO - 2025-08-14 10:20:32 Date and SORTED field calculations complete.
+2025-08-14 10:20:32,955 - ERROR - 2025-08-14 10:20:32 Error processing file QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84-2.xlsx: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 7
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\009_GRATING\GRATING_EB-Duty_Common.py", line 374, in main
+    except Exception:
+        ^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\009_GRATING\GRATING_EB-Duty_Common.py", line 273, in process_excel_file
+    if settings.tool_name_map:
+          ^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 7
+
+2025-08-14 10:20:32,956 - INFO - 2025-08-14 10:20:32 --- Finished processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:27:31,735 - INFO - 2025-08-14 10:27:31 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:27:31,738 - INFO - 2025-08-14 10:27:31 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.27.31.csv
+2025-08-14 10:27:31,740 - INFO - 2025-08-14 10:27:31 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30db\u30c8\u30ea\u30bd\u30b0\u30e9\u30d5\u30a3' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:27:33,785 - INFO - 2025-08-14 10:27:33 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:29:03,116 - INFO - 2025-08-14 10:29:03 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:29:03,117 - INFO - 2025-08-14 10:29:03 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 10:30:05,363 - INFO - 2025-08-14 10:30:05 Step 1: Successfully read main sheet '001', 19818 rows loaded starting from row 20.
+2025-08-14 10:30:05,364 - INFO - 2025-08-14 10:30:05 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:30:05,375 - INFO - 2025-08-14 10:30:05 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:30:05,379 - INFO - 2025-08-14 10:30:05 Step 2: Initial filtering (date, key column) complete. 216 valid rows remaining.
+2025-08-14 10:30:05,380 - INFO - 2025-08-14 10:30:05 Step 3: Starting database query...
+2025-08-14 10:33:54,672 - INFO - 2025-08-14 10:33:54 Database query and filtering complete. 208 valid rows remaining.
+2025-08-14 10:33:55,185 - INFO - 2025-08-14 10:33:55 Database connection closed.
+2025-08-14 10:33:55,186 - INFO - 2025-08-14 10:33:55 Step 4: Starting data transformation and calculation...
+2025-08-14 10:33:55,595 - INFO - 2025-08-14 10:33:55 Date and SORTED field calculations complete.
+2025-08-14 10:33:55,626 - ERROR - 2025-08-14 10:33:55 Error processing file QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 7
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\009_GRATING\GRATING_EB-Duty_Common.py", line 373, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\009_GRATING\GRATING_EB-Duty_Common.py", line 272, in process_excel_file
+    print(df[7])
+          ~~^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 7
+
+2025-08-14 10:33:55,629 - INFO - 2025-08-14 10:33:55 --- Finished processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:52:08,559 - INFO - 2025-08-14 10:52:08 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:52:08,561 - INFO - 2025-08-14 10:52:08 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.52.08.csv
+2025-08-14 10:52:08,563 - INFO - 2025-08-14 10:52:08 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30db\u30c8\u30ea\u30bd\u30b0\u30e9\u30d5\u30a3' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:52:10,858 - INFO - 2025-08-14 10:52:10 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:53:37,414 - INFO - 2025-08-14 10:53:37 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:53:37,414 - INFO - 2025-08-14 10:53:37 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 10:54:40,297 - INFO - 2025-08-14 10:54:40 Step 1: Successfully read main sheet '001', 19834 rows loaded starting from row 4.
+2025-08-14 10:54:40,298 - INFO - 2025-08-14 10:54:40 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:54:40,342 - INFO - 2025-08-14 10:54:40 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:54:40,344 - INFO - 2025-08-14 10:54:40 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 10:54:40,344 - INFO - 2025-08-14 10:54:40 No data left after initial filtering. Ending process for this file.
+2025-08-14 10:54:40,345 - INFO - 2025-08-14 10:54:40 --- Finished processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:56:39,063 - INFO - 2025-08-14 10:56:39 --- Start processing config file: GRATING_EB-Duty.ini ---
+2025-08-14 10:56:39,065 - INFO - 2025-08-14 10:56:39 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_EB-Duty_2025_08_14T10.56.39.csv
+2025-08-14 10:56:39,066 - INFO - 2025-08-14 10:56:39 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30db\u30c8\u30ea\u30bd\u30b0\u30e9\u30d5\u30a3' with pattern '*EA-DFB*EB\uff9a\uff7c\uff9e\uff7d\uff84*.xls*'
+2025-08-14 10:56:41,178 - INFO - 2025-08-14 10:56:41 Found latest source file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:58:06,046 - INFO - 2025-08-14 10:58:06 File copied successfully -> ..\DataFile\009_GRATING\QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx
+2025-08-14 10:58:06,046 - INFO - 2025-08-14 10:58:06 --- Start processing file: QC-E-025-R06\u3000EA-DFB  EB\uff9a\uff7c\uff9e\uff7d\uff84.xlsx ---
+2025-08-14 10:59:12,961 - INFO - 2025-08-14 10:59:12 Step 1: Successfully read main sheet '001', 19834 rows loaded starting from row 4.
+2025-08-14 10:59:12,962 - INFO - 2025-08-14 10:59:12 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 10:59:12,974 - INFO - 2025-08-14 10:59:12 Using 'key_Critical_Param' as the key column for dropping empty rows.
+2025-08-14 10:59:12,976 - INFO - 2025-08-14 10:59:12 Step 2: Initial filtering (date, key column) complete. 217 valid rows remaining.
+2025-08-14 10:59:12,977 - INFO - 2025-08-14 10:59:12 Step 3: Starting database query...
+2025-08-14 11:04:00,488 - INFO - 2025-08-14 11:04:00 Database query and filtering complete. 209 valid rows remaining.
+2025-08-14 11:04:00,996 - INFO - 2025-08-14 11:04:00 Database connection closed.
+2025-08-14 11:04:00,996 - INFO - 2025-08-14 11:04:00 Step 4: Starting data transformation and calculation...
+2025-08-14 11:04:01,153 - INFO - 2025-08-14 11:04:01 Date and SORTED field calculations complete.
+2025-08-14 11:04:01,156 - INFO - 2025-08-14 11:04:01 Using fixed tool name from INI: 'EB'
+2025-08-14 11:04:01,157 - INFO - 2025-08-14 11:04:01 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 11:04:01,157 - INFO - 2025-08-14 11:04:01 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 11:04:01,159 - INFO - 2025-08-14 11:04:01 Step 7: Preparing to write 209 rows to CSV...
+2025-08-14 11:04:01,160 - INFO - 2025-08-14 11:04:01 Executing function write_to_csv...
+2025-08-14 11:04:01,200 - INFO - 2025-08-14 11:04:01 Function write_to_csv executed successfully.
+2025-08-14 11:04:01,200 - INFO - 2025-08-14 11:04:01 Last processed row index was 14073. Updating next start row to 14074
+2025-08-14 11:04:01,210 - ERROR - 2025-08-14 11:04:01 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/009_GRATING/13_ProgramUsedFile/'
+2025-08-14 11:04:01,211 - INFO - 2025-08-14 11:04:01 --- Function process_excel_file executed successfully ---
+2025-08-14 11:04:01,212 - INFO - 2025-08-14 11:04:01 --- Generating pointer XML for GRATING_EB-Duty.ini ---
+2025-08-14 11:04:01,213 - INFO - 2025-08-14 11:04:01 Executing function generate_pointer_xml...
+2025-08-14 11:04:01,269 - INFO - 2025-08-14 11:04:01 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_EB-Duty,Partnumber=UNKNOWPN,Serialnumber=GRATING_EB-Duty_2025_08_14T10.56.39,Testdate=2025-08-14T11.04.01.xml
+2025-08-14 11:04:01,270 - INFO - 2025-08-14 11:04:01 --- Finished processing config file: GRATING_EB-Duty.ini ---

@@ -1,0 +1,120 @@
+2025-08-07 11:28:38,926 - INFO - 2025-08-07 11:28:38 --- Start processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:28:38,929 - INFO - 2025-08-07 11:28:38 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_SiN_Step_2025_08_07T11.28.38.csv
+2025-08-07 11:28:38,930 - INFO - 2025-08-07 11:28:38 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff814\u53f7\u6a5f\EML' with pattern '*\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-07 11:28:39,153 - INFO - 2025-08-07 11:28:39 Found latest source file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:28:41,467 - INFO - 2025-08-07 11:28:41 File copied successfully -> ..\DataFile\015_P-electrode\\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:28:41,467 - INFO - 2025-08-07 11:28:41 --- Start processing file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-07 11:28:53,334 - INFO - 2025-08-07 11:28:53 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4387 rows loaded.
+2025-08-07 11:28:53,334 - INFO - 2025-08-07 11:28:53 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 11:28:53,338 - INFO - 2025-08-07 11:28:53 Step 2: Initial filtering (date, serial number) complete. 310 rows remaining.
+2025-08-07 11:28:53,339 - INFO - 2025-08-07 11:28:53 Step 3: Starting database query...
+2025-08-07 11:33:04,253 - INFO - 2025-08-07 11:33:04 Database query and filtering complete. 310 valid rows remaining.
+2025-08-07 11:33:04,354 - INFO - 2025-08-07 11:33:04 Database connection closed.
+2025-08-07 11:33:04,355 - INFO - 2025-08-07 11:33:04 Step 4: Starting data transformation and calculation...
+2025-08-07 11:33:05,143 - INFO - 2025-08-07 11:33:05 Date and SORTED field calculations complete.
+2025-08-07 11:33:05,149 - INFO - 2025-08-07 11:33:05 Using fixed tool name from INI: 'None'
+2025-08-07 11:33:05,151 - INFO - 2025-08-07 11:33:05 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-07 11:33:05,151 - INFO - 2025-08-07 11:33:05 Step 6: Dynamic CSV columns and order generated.
+2025-08-07 11:33:05,158 - INFO - 2025-08-07 11:33:05 Step 7: Preparing to write 310 rows to CSV...
+2025-08-07 11:33:05,159 - INFO - 2025-08-07 11:33:05 Executing function write_to_csv...
+2025-08-07 11:33:05,257 - INFO - 2025-08-07 11:33:05 Function write_to_csv executed successfully.
+2025-08-07 11:33:18,275 - INFO - 2025-08-07 11:33:18 Step 8: Updating next start row to 20160
+2025-08-07 11:33:18,284 - ERROR - 2025-08-07 11:33:18 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/015_P-electrode/13_ProgramUsedFile/'
+2025-08-07 11:33:18,285 - INFO - 2025-08-07 11:33:18 --- Function process_excel_file executed successfully ---
+2025-08-07 11:33:18,289 - INFO - 2025-08-07 11:33:18 --- Generating pointer XML for P-electrode_SiN.ini ---
+2025-08-07 11:33:18,289 - INFO - 2025-08-07 11:33:18 Executing function generate_pointer_xml...
+2025-08-07 11:33:18,377 - INFO - 2025-08-07 11:33:18 Pointer XML generated successfully at: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=P-electrode_SiN_Step,Partnumber=UNKNOWPN,Serialnumber=P-electrode_SiN_Step_2025_08_07T11.28.38,Testdate=2025-08-07T11.33.18.xml
+2025-08-07 11:33:18,377 - INFO - 2025-08-07 11:33:18 --- Finished processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:33:18,384 - ERROR - 2025-08-07 11:33:18 FATAL Error with INI SiN_StartRow - \u30b3\u30d4\u30fc.txt: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 321, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1107, in _handle_rest
+    raise MissingSectionHeaderError(fpname, st.lineno, line)
+configparser.MissingSectionHeaderError: File contains no section headers.
+file: 'SiN_StartRow - \u30b3\u30d4\u30fc.txt', line: 1
+'3323'
+
+2025-08-07 11:33:18,390 - ERROR - 2025-08-07 11:33:18 FATAL Error with INI SiN_StartRow.txt: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 321, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1107, in _handle_rest
+    raise MissingSectionHeaderError(fpname, st.lineno, line)
+configparser.MissingSectionHeaderError: File contains no section headers.
+file: 'SiN_StartRow.txt', line: 1
+'20160'
+
+2025-08-07 11:33:18,391 - INFO - 2025-08-07 11:33:18 ===== Universal Script End =====
+2025-08-07 11:35:42,948 - INFO - 2025-08-07 11:35:42 --- Start processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:35:42,950 - INFO - 2025-08-07 11:35:42 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_SiN_Step_2025_08_07T11.35.42.csv
+2025-08-07 11:35:42,951 - INFO - 2025-08-07 11:35:42 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff814\u53f7\u6a5f\EML' with pattern '*\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-07 11:35:43,212 - INFO - 2025-08-07 11:35:43 Found latest source file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:35:45,653 - INFO - 2025-08-07 11:35:45 File copied successfully -> ..\DataFile\015_P-electrode\\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:35:45,654 - INFO - 2025-08-07 11:35:45 --- Start processing file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-07 11:35:57,722 - INFO - 2025-08-07 11:35:57 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 0 rows loaded.
+2025-08-07 11:35:57,723 - INFO - 2025-08-07 11:35:57 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 11:35:57,723 - ERROR - 2025-08-07 11:35:57 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-07 11:35:57,724 - INFO - 2025-08-07 11:35:57 --- Finished processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:35:57,724 - INFO - 2025-08-07 11:35:57 ===== Universal Script End =====
+2025-08-07 11:40:40,864 - INFO - 2025-08-07 11:40:40 --- Start processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:40:40,868 - INFO - 2025-08-07 11:40:40 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_SiN_Step_2025_08_07T11.40.40.csv
+2025-08-07 11:40:40,870 - INFO - 2025-08-07 11:40:40 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff814\u53f7\u6a5f\EML' with pattern '*\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-07 11:40:41,090 - INFO - 2025-08-07 11:40:41 Found latest source file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:40:44,587 - INFO - 2025-08-07 11:40:44 File copied successfully -> ..\DataFile\015_P-electrode\\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 11:40:44,587 - INFO - 2025-08-07 11:40:44 --- Start processing file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-07 11:40:58,611 - INFO - 2025-08-07 11:40:58 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2613 rows loaded.
+2025-08-07 11:40:58,612 - INFO - 2025-08-07 11:40:58 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 11:40:58,620 - INFO - 2025-08-07 11:40:58 Step 2: Initial filtering (date, serial number) complete. 84 rows remaining.
+2025-08-07 11:40:58,620 - INFO - 2025-08-07 11:40:58 Step 3: Starting database query...
+2025-08-07 11:42:00,973 - INFO - 2025-08-07 11:42:00 Database query and filtering complete. 84 valid rows remaining.
+2025-08-07 11:42:01,058 - INFO - 2025-08-07 11:42:01 Database connection closed.
+2025-08-07 11:42:01,059 - INFO - 2025-08-07 11:42:01 Step 4: Starting data transformation and calculation...
+2025-08-07 11:42:01,259 - INFO - 2025-08-07 11:42:01 Date and SORTED field calculations complete.
+2025-08-07 11:42:01,263 - INFO - 2025-08-07 11:42:01 Using fixed tool name from INI: 'ETCH4'
+2025-08-07 11:42:01,264 - INFO - 2025-08-07 11:42:01 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-07 11:42:01,264 - INFO - 2025-08-07 11:42:01 Step 6: Dynamic CSV columns and order generated.
+2025-08-07 11:42:01,270 - INFO - 2025-08-07 11:42:01 Step 7: Preparing to write 84 rows to CSV...
+2025-08-07 11:42:01,271 - INFO - 2025-08-07 11:42:01 Executing function write_to_csv...
+2025-08-07 11:42:01,321 - INFO - 2025-08-07 11:42:01 Function write_to_csv executed successfully.
+2025-08-07 11:42:13,788 - INFO - 2025-08-07 11:42:13 Step 8: Updating next start row to 21934
+2025-08-07 11:42:13,790 - ERROR - 2025-08-07 11:42:13 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/015_P-electrode/13_ProgramUsedFile/'
+2025-08-07 11:42:13,791 - INFO - 2025-08-07 11:42:13 --- Function process_excel_file executed successfully ---
+2025-08-07 11:42:13,792 - INFO - 2025-08-07 11:42:13 --- Generating pointer XML for P-electrode_SiN.ini ---
+2025-08-07 11:42:13,793 - INFO - 2025-08-07 11:42:13 Executing function generate_pointer_xml...
+2025-08-07 11:42:13,840 - INFO - 2025-08-07 11:42:13 Pointer XML generated successfully at: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=P-electrode_SiN_Step,Partnumber=UNKNOWPN,Serialnumber=P-electrode_SiN_Step_2025_08_07T11.40.40,Testdate=2025-08-07T11.42.13.xml
+2025-08-07 11:42:13,840 - INFO - 2025-08-07 11:42:13 --- Finished processing config file: P-electrode_SiN.ini ---
+2025-08-07 11:42:13,841 - INFO - 2025-08-07 11:42:13 ===== Universal Script End =====
+2025-08-07 12:54:34,558 - INFO - 2025-08-07 12:54:34 --- Start processing config file: P-electrode_SiN.ini ---
+2025-08-07 12:54:34,561 - INFO - 2025-08-07 12:54:34 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\P-electrode_SiN_Step_2025_08_07T12.54.34.csv
+2025-08-07 12:54:34,563 - INFO - 2025-08-07 12:54:34 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff814\u53f7\u6a5f\EML' with pattern '*\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-07 12:54:34,772 - INFO - 2025-08-07 12:54:34 Found latest source file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 12:54:38,061 - INFO - 2025-08-07 12:54:38 File copied successfully -> ..\DataFile\015_P-electrode\\u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-07 12:54:38,062 - INFO - 2025-08-07 12:54:38 --- Start processing file: \u2605EA\u7cfb_P\u96fb\u6975\u84b8\u7740\u524dPIX\u6bb5\u5dee_\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-07 12:54:51,103 - INFO - 2025-08-07 12:54:51 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 0 rows loaded.
+2025-08-07 12:54:51,103 - INFO - 2025-08-07 12:54:51 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-07 12:54:51,104 - ERROR - 2025-08-07 12:54:51 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-07 12:54:51,104 - INFO - 2025-08-07 12:54:51 --- Finished processing config file: P-electrode_SiN.ini ---
+2025-08-07 12:54:51,105 - INFO - 2025-08-07 12:54:51 ===== Universal Script End =====

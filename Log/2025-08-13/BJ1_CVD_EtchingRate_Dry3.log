@@ -1,0 +1,318 @@
+2025-08-13 13:08:28,803 - INFO - 2025-08-13 13:08:28 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:08:28,806 - INFO - 2025-08-13 13:08:28 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.08.28.csv
+2025-08-13 13:08:28,808 - INFO - 2025-08-13 13:08:28 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:08:29,052 - INFO - 2025-08-13 13:08:29 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:08:32,070 - INFO - 2025-08-13 13:08:32 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:08:32,071 - INFO - 2025-08-13 13:08:32 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:08:32,085 - ERROR - 2025-08-13 13:08:32 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:08:32,087 - INFO - 2025-08-13 13:08:32 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:08:32,088 - INFO - 2025-08-13 13:08:32 ===== Universal Script End =====
+2025-08-13 13:09:55,317 - INFO - 2025-08-13 13:09:55 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:09:55,321 - INFO - 2025-08-13 13:09:55 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.09.55.csv
+2025-08-13 13:09:55,323 - INFO - 2025-08-13 13:09:55 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:09:55,588 - INFO - 2025-08-13 13:09:55 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:09:57,967 - INFO - 2025-08-13 13:09:57 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:09:57,968 - INFO - 2025-08-13 13:09:57 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:09:57,976 - ERROR - 2025-08-13 13:09:57 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:09:57,978 - INFO - 2025-08-13 13:09:57 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:09:57,979 - INFO - 2025-08-13 13:09:57 ===== Universal Script End =====
+2025-08-13 13:11:07,950 - INFO - 2025-08-13 13:11:07 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:11:07,954 - INFO - 2025-08-13 13:11:07 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.11.07.csv
+2025-08-13 13:11:07,956 - INFO - 2025-08-13 13:11:07 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:11:08,226 - INFO - 2025-08-13 13:11:08 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:11:10,695 - INFO - 2025-08-13 13:11:10 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:11:10,695 - INFO - 2025-08-13 13:11:10 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:11:10,700 - ERROR - 2025-08-13 13:11:10 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:11:10,701 - INFO - 2025-08-13 13:11:10 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:11:10,702 - INFO - 2025-08-13 13:11:10 ===== Universal Script End =====
+2025-08-13 13:12:09,087 - INFO - 2025-08-13 13:12:09 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:12:09,096 - INFO - 2025-08-13 13:12:09 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.12.09.csv
+2025-08-13 13:12:09,098 - INFO - 2025-08-13 13:12:09 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:12:09,333 - INFO - 2025-08-13 13:12:09 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:12:12,435 - INFO - 2025-08-13 13:12:12 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:12:12,435 - INFO - 2025-08-13 13:12:12 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:12:12,440 - ERROR - 2025-08-13 13:12:12 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:12:12,442 - INFO - 2025-08-13 13:12:12 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:12:12,442 - INFO - 2025-08-13 13:12:12 ===== Universal Script End =====
+2025-08-13 13:13:25,248 - INFO - 2025-08-13 13:13:25 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 13:13:25,253 - INFO - 2025-08-13 13:13:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.13.25.csv
+2025-08-13 13:13:25,254 - INFO - 2025-08-13 13:13:25 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:13:25,480 - INFO - 2025-08-13 13:13:25 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:13:28,745 - INFO - 2025-08-13 13:13:28 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:13:28,745 - INFO - 2025-08-13 13:13:28 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:13:28,753 - ERROR - 2025-08-13 13:13:28 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:13:28,757 - INFO - 2025-08-13 13:13:28 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 13:13:28,772 - INFO - 2025-08-13 13:13:28 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:13:28,776 - INFO - 2025-08-13 13:13:28 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T13.13.28.csv
+2025-08-13 13:13:28,777 - INFO - 2025-08-13 13:13:28 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 13:13:28,951 - INFO - 2025-08-13 13:13:28 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:13:31,061 - INFO - 2025-08-13 13:13:31 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 13:13:31,061 - INFO - 2025-08-13 13:13:31 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 13:13:31,066 - ERROR - 2025-08-13 13:13:31 Error processing file 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-06-11 00:00:00'
+
+2025-08-13 13:13:31,068 - INFO - 2025-08-13 13:13:31 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 13:13:31,069 - INFO - 2025-08-13 13:13:31 ===== Universal Script End =====
+2025-08-13 15:30:03,118 - INFO - 2025-08-13 15:30:03 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:30:03,121 - INFO - 2025-08-13 15:30:03 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.30.03.csv
+2025-08-13 15:30:03,122 - INFO - 2025-08-13 15:30:03 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:30:04,351 - INFO - 2025-08-13 15:30:04 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:30:27,536 - INFO - 2025-08-13 15:30:27 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:30:27,537 - INFO - 2025-08-13 15:30:27 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 15:30:34,616 - INFO - 2025-08-13 15:30:34 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 15:30:34,617 - INFO - 2025-08-13 15:30:34 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 15:30:34,636 - INFO - 2025-08-13 15:30:34 Step 2: Initial filtering (date, serial number) complete. 152 rows remaining.
+2025-08-13 15:30:34,637 - INFO - 2025-08-13 15:30:34 Step 3: Starting database query...
+2025-08-13 15:33:21,795 - INFO - 2025-08-13 15:33:21 Database query and filtering complete. 123 valid rows remaining.
+2025-08-13 15:33:22,289 - INFO - 2025-08-13 15:33:22 Database connection closed.
+2025-08-13 15:33:22,289 - INFO - 2025-08-13 15:33:22 Step 4: Starting data transformation and calculation...
+2025-08-13 15:33:22,469 - INFO - 2025-08-13 15:33:22 Date and SORTED field calculations complete.
+2025-08-13 15:33:22,471 - INFO - 2025-08-13 15:33:22 Using fixed tool name from INI: 'None'
+2025-08-13 15:33:22,471 - INFO - 2025-08-13 15:33:22 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 15:33:22,472 - INFO - 2025-08-13 15:33:22 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 15:33:22,473 - INFO - 2025-08-13 15:33:22 Step 7: Preparing to write 123 rows to CSV...
+2025-08-13 15:33:22,473 - INFO - 2025-08-13 15:33:22 Executing function write_to_csv...
+2025-08-13 15:33:22,521 - INFO - 2025-08-13 15:33:22 Function write_to_csv executed successfully.
+2025-08-13 15:33:28,895 - INFO - 2025-08-13 15:33:28 Step 8: Updating next start row to 11742
+2025-08-13 15:33:28,898 - ERROR - 2025-08-13 15:33:28 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 15:33:28,899 - INFO - 2025-08-13 15:33:28 --- Function process_excel_file executed successfully ---
+2025-08-13 15:33:28,902 - INFO - 2025-08-13 15:33:28 --- Generating pointer XML for BJ1_Dry3.ini ---
+2025-08-13 15:33:28,902 - INFO - 2025-08-13 15:33:28 Executing function generate_pointer_xml...
+2025-08-13 15:33:28,973 - INFO - 2025-08-13 15:33:28 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.30.03,Testdate=2025-08-13T15.33.28.xml
+2025-08-13 15:33:28,974 - INFO - 2025-08-13 15:33:28 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:33:28,987 - INFO - 2025-08-13 15:33:28 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 15:33:28,989 - INFO - 2025-08-13 15:33:28 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.33.28.csv
+2025-08-13 15:33:28,990 - INFO - 2025-08-13 15:33:28 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:33:30,204 - INFO - 2025-08-13 15:33:30 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:34:47,063 - INFO - 2025-08-13 15:34:47 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:34:47,090 - INFO - 2025-08-13 15:34:47 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.34.47.csv
+2025-08-13 15:34:47,115 - INFO - 2025-08-13 15:34:47 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:34:48,460 - INFO - 2025-08-13 15:34:48 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:35:02,260 - INFO - 2025-08-13 15:35:02 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:35:02,269 - INFO - 2025-08-13 15:35:02 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 15:35:21,911 - INFO - 2025-08-13 15:35:21 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 15:35:21,924 - INFO - 2025-08-13 15:35:21 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 15:35:21,991 - INFO - 2025-08-13 15:35:21 Step 2: Initial filtering (date, serial number) complete. 152 rows remaining.
+2025-08-13 15:35:21,997 - INFO - 2025-08-13 15:35:21 Step 3: Starting database query...
+2025-08-13 15:37:54,375 - INFO - 2025-08-13 15:37:54 Database query and filtering complete. 123 valid rows remaining.
+2025-08-13 15:37:54,859 - INFO - 2025-08-13 15:37:54 Database connection closed.
+2025-08-13 15:37:54,859 - INFO - 2025-08-13 15:37:54 Step 4: Starting data transformation and calculation...
+2025-08-13 15:37:54,957 - INFO - 2025-08-13 15:37:54 Date and SORTED field calculations complete.
+2025-08-13 15:37:54,959 - INFO - 2025-08-13 15:37:54 Using fixed tool name from INI: 'None'
+2025-08-13 15:37:54,960 - INFO - 2025-08-13 15:37:54 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 15:37:54,960 - INFO - 2025-08-13 15:37:54 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 15:37:54,961 - INFO - 2025-08-13 15:37:54 Step 7: Preparing to write 123 rows to CSV...
+2025-08-13 15:37:54,962 - INFO - 2025-08-13 15:37:54 Executing function write_to_csv...
+2025-08-13 15:37:55,003 - INFO - 2025-08-13 15:37:55 Function write_to_csv executed successfully.
+2025-08-13 15:37:58,463 - INFO - 2025-08-13 15:37:58 Step 8: Updating next start row to 11742
+2025-08-13 15:37:58,465 - ERROR - 2025-08-13 15:37:58 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 15:37:58,466 - INFO - 2025-08-13 15:37:58 --- Function process_excel_file executed successfully ---
+2025-08-13 15:37:58,467 - INFO - 2025-08-13 15:37:58 --- Generating pointer XML for BJ1_Dry3.ini ---
+2025-08-13 15:37:58,468 - INFO - 2025-08-13 15:37:58 Executing function generate_pointer_xml...
+2025-08-13 15:37:58,570 - INFO - 2025-08-13 15:37:58 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.34.47,Testdate=2025-08-13T15.37.58.xml
+2025-08-13 15:37:58,571 - INFO - 2025-08-13 15:37:58 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:37:58,597 - INFO - 2025-08-13 15:37:58 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 15:37:58,600 - INFO - 2025-08-13 15:37:58 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.37.58.csv
+2025-08-13 15:37:58,602 - INFO - 2025-08-13 15:37:58 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:37:59,821 - INFO - 2025-08-13 15:37:59 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:38:04,260 - INFO - 2025-08-13 15:38:04 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:38:04,260 - INFO - 2025-08-13 15:38:04 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 15:38:06,783 - INFO - 2025-08-13 15:38:06 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 6070 rows loaded.
+2025-08-13 15:38:06,784 - INFO - 2025-08-13 15:38:06 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 15:38:06,802 - INFO - 2025-08-13 15:38:06 Step 2: Initial filtering (date, serial number) complete. 364 rows remaining.
+2025-08-13 15:38:06,803 - INFO - 2025-08-13 15:38:06 Step 3: Starting database query...
+2025-08-13 15:44:56,735 - INFO - 2025-08-13 15:44:56 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:44:56,740 - INFO - 2025-08-13 15:44:56 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.44.56.csv
+2025-08-13 15:44:56,743 - INFO - 2025-08-13 15:44:56 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:44:57,971 - INFO - 2025-08-13 15:44:57 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:45:05,480 - INFO - 2025-08-13 15:45:05 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:45:05,481 - INFO - 2025-08-13 15:45:05 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 15:45:10,171 - INFO - 2025-08-13 15:45:10 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 15:45:10,172 - INFO - 2025-08-13 15:45:10 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 15:45:10,182 - INFO - 2025-08-13 15:45:10 Step 2: Initial filtering (date, serial number) complete. 152 rows remaining.
+2025-08-13 15:45:10,183 - INFO - 2025-08-13 15:45:10 Step 3: Starting database query...
+2025-08-13 15:47:42,079 - INFO - 2025-08-13 15:47:42 Database query and filtering complete. 123 valid rows remaining.
+2025-08-13 15:47:42,564 - INFO - 2025-08-13 15:47:42 Database connection closed.
+2025-08-13 15:47:42,565 - INFO - 2025-08-13 15:47:42 Step 4: Starting data transformation and calculation...
+2025-08-13 15:47:42,676 - INFO - 2025-08-13 15:47:42 Date and SORTED field calculations complete.
+2025-08-13 15:47:42,679 - INFO - 2025-08-13 15:47:42 Using fixed tool name from INI: 'None'
+2025-08-13 15:47:42,679 - INFO - 2025-08-13 15:47:42 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 15:47:42,680 - INFO - 2025-08-13 15:47:42 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 15:47:42,682 - INFO - 2025-08-13 15:47:42 Step 7: Preparing to write 123 rows to CSV...
+2025-08-13 15:47:42,683 - INFO - 2025-08-13 15:47:42 Executing function write_to_csv...
+2025-08-13 15:47:42,716 - INFO - 2025-08-13 15:47:42 Function write_to_csv executed successfully.
+2025-08-13 15:47:46,278 - INFO - 2025-08-13 15:47:46 Step 8: Updating next start row to 11742
+2025-08-13 15:47:46,280 - ERROR - 2025-08-13 15:47:46 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 15:47:46,280 - INFO - 2025-08-13 15:47:46 --- Function process_excel_file executed successfully ---
+2025-08-13 15:47:46,282 - INFO - 2025-08-13 15:47:46 --- Generating pointer XML for BJ1_Dry3.ini ---
+2025-08-13 15:47:46,282 - INFO - 2025-08-13 15:47:46 Executing function generate_pointer_xml...
+2025-08-13 15:47:46,344 - INFO - 2025-08-13 15:47:46 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.44.56,Testdate=2025-08-13T15.47.46.xml
+2025-08-13 15:47:46,344 - INFO - 2025-08-13 15:47:46 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 15:47:46,358 - INFO - 2025-08-13 15:47:46 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 15:47:46,361 - INFO - 2025-08-13 15:47:46 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.47.46.csv
+2025-08-13 15:47:46,362 - INFO - 2025-08-13 15:47:46 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 15:47:47,572 - INFO - 2025-08-13 15:47:47 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:47:57,579 - INFO - 2025-08-13 15:47:57 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 15:47:57,580 - INFO - 2025-08-13 15:47:57 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 15:47:59,520 - INFO - 2025-08-13 15:47:59 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 6070 rows loaded.
+2025-08-13 15:47:59,520 - INFO - 2025-08-13 15:47:59 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 15:47:59,536 - INFO - 2025-08-13 15:47:59 Step 2: Initial filtering (date, serial number) complete. 364 rows remaining.
+2025-08-13 15:47:59,536 - INFO - 2025-08-13 15:47:59 Step 3: Starting database query...
+2025-08-13 15:54:10,737 - INFO - 2025-08-13 15:54:10 Database query and filtering complete. 353 valid rows remaining.
+2025-08-13 15:54:11,228 - INFO - 2025-08-13 15:54:11 Database connection closed.
+2025-08-13 15:54:11,228 - INFO - 2025-08-13 15:54:11 Step 4: Starting data transformation and calculation...
+2025-08-13 15:54:11,584 - INFO - 2025-08-13 15:54:11 Date and SORTED field calculations complete.
+2025-08-13 15:54:11,589 - INFO - 2025-08-13 15:54:11 Using fixed tool name from INI: 'None'
+2025-08-13 15:54:11,589 - INFO - 2025-08-13 15:54:11 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 15:54:11,590 - INFO - 2025-08-13 15:54:11 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 15:54:11,592 - INFO - 2025-08-13 15:54:11 Step 7: Preparing to write 353 rows to CSV...
+2025-08-13 15:54:11,593 - INFO - 2025-08-13 15:54:11 Executing function write_to_csv...
+2025-08-13 15:54:11,666 - INFO - 2025-08-13 15:54:11 Function write_to_csv executed successfully.
+2025-08-13 15:54:13,726 - INFO - 2025-08-13 15:54:13 Step 8: Updating next start row to 6111
+2025-08-13 15:54:13,728 - ERROR - 2025-08-13 15:54:13 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 15:54:13,728 - INFO - 2025-08-13 15:54:13 --- Function process_excel_file executed successfully ---
+2025-08-13 15:54:13,729 - INFO - 2025-08-13 15:54:13 --- Generating pointer XML for BJ1_Dry6.ini ---
+2025-08-13 15:54:13,730 - INFO - 2025-08-13 15:54:13 Executing function generate_pointer_xml...
+2025-08-13 15:54:13,767 - INFO - 2025-08-13 15:54:13 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T15.47.46,Testdate=2025-08-13T15.54.13.xml
+2025-08-13 15:54:13,767 - INFO - 2025-08-13 15:54:13 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 15:54:13,767 - INFO - 2025-08-13 15:54:13 ===== Universal Script End =====
+2025-08-13 16:03:25,217 - INFO - 2025-08-13 16:03:25 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 16:03:25,221 - INFO - 2025-08-13 16:03:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.03.25.csv
+2025-08-13 16:03:25,222 - INFO - 2025-08-13 16:03:25 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 16:03:26,478 - INFO - 2025-08-13 16:03:26 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:03:51,553 - INFO - 2025-08-13 16:03:51 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:03:51,553 - INFO - 2025-08-13 16:03:51 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 16:03:56,883 - INFO - 2025-08-13 16:03:56 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 16:03:56,883 - INFO - 2025-08-13 16:03:56 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 16:03:56,902 - INFO - 2025-08-13 16:03:56 Step 2: Initial filtering (date, serial number) complete. 76 rows remaining.
+2025-08-13 16:03:56,903 - INFO - 2025-08-13 16:03:56 Step 3: Starting database query...
+2025-08-13 16:05:14,365 - INFO - 2025-08-13 16:05:14 Database query and filtering complete. 55 valid rows remaining.
+2025-08-13 16:05:14,854 - INFO - 2025-08-13 16:05:14 Database connection closed.
+2025-08-13 16:05:14,855 - INFO - 2025-08-13 16:05:14 Step 4: Starting data transformation and calculation...
+2025-08-13 16:05:14,905 - INFO - 2025-08-13 16:05:14 Date and SORTED field calculations complete.
+2025-08-13 16:05:14,908 - INFO - 2025-08-13 16:05:14 Using fixed tool name from INI: 'None'
+2025-08-13 16:05:14,908 - INFO - 2025-08-13 16:05:14 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 16:05:14,908 - INFO - 2025-08-13 16:05:14 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 16:05:14,911 - INFO - 2025-08-13 16:05:14 Step 7: Preparing to write 55 rows to CSV...
+2025-08-13 16:05:14,911 - INFO - 2025-08-13 16:05:14 Executing function write_to_csv...
+2025-08-13 16:05:14,946 - INFO - 2025-08-13 16:05:14 Function write_to_csv executed successfully.
+2025-08-13 16:05:19,331 - INFO - 2025-08-13 16:05:19 Step 8: Updating next start row to 11742
+2025-08-13 16:05:19,334 - ERROR - 2025-08-13 16:05:19 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 16:05:19,334 - INFO - 2025-08-13 16:05:19 --- Function process_excel_file executed successfully ---
+2025-08-13 16:05:19,336 - INFO - 2025-08-13 16:05:19 --- Generating pointer XML for BJ1_Dry3.ini ---
+2025-08-13 16:05:19,336 - INFO - 2025-08-13 16:05:19 Executing function generate_pointer_xml...
+2025-08-13 16:05:19,395 - INFO - 2025-08-13 16:05:19 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.03.25,Testdate=2025-08-13T16.05.19.xml
+2025-08-13 16:05:19,395 - INFO - 2025-08-13 16:05:19 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 16:05:19,410 - INFO - 2025-08-13 16:05:19 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 16:05:19,412 - INFO - 2025-08-13 16:05:19 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.05.19.csv
+2025-08-13 16:05:19,413 - INFO - 2025-08-13 16:05:19 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 16:05:20,635 - INFO - 2025-08-13 16:05:20 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:05:32,475 - INFO - 2025-08-13 16:05:32 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:05:32,475 - INFO - 2025-08-13 16:05:32 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 16:05:34,707 - INFO - 2025-08-13 16:05:34 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 6084 rows loaded.
+2025-08-13 16:05:34,707 - INFO - 2025-08-13 16:05:34 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 16:05:34,720 - INFO - 2025-08-13 16:05:34 Step 2: Initial filtering (date, serial number) complete. 154 rows remaining.
+2025-08-13 16:05:34,721 - INFO - 2025-08-13 16:05:34 Step 3: Starting database query...
+2025-08-13 16:08:48,649 - INFO - 2025-08-13 16:08:48 Database query and filtering complete. 154 valid rows remaining.
+2025-08-13 16:08:49,149 - INFO - 2025-08-13 16:08:49 Database connection closed.
+2025-08-13 16:08:49,150 - INFO - 2025-08-13 16:08:49 Step 4: Starting data transformation and calculation...
+2025-08-13 16:08:49,762 - INFO - 2025-08-13 16:08:49 Date and SORTED field calculations complete.
+2025-08-13 16:08:49,771 - INFO - 2025-08-13 16:08:49 Using fixed tool name from INI: 'None'
+2025-08-13 16:08:49,773 - INFO - 2025-08-13 16:08:49 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 16:08:49,777 - INFO - 2025-08-13 16:08:49 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 16:08:49,784 - INFO - 2025-08-13 16:08:49 Step 7: Preparing to write 154 rows to CSV...
+2025-08-13 16:08:49,785 - INFO - 2025-08-13 16:08:49 Executing function write_to_csv...
+2025-08-13 16:08:49,864 - INFO - 2025-08-13 16:08:49 Function write_to_csv executed successfully.
+2025-08-13 16:08:52,124 - INFO - 2025-08-13 16:08:52 Step 8: Updating next start row to 6125
+2025-08-13 16:08:52,128 - ERROR - 2025-08-13 16:08:52 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 16:08:52,128 - INFO - 2025-08-13 16:08:52 --- Function process_excel_file executed successfully ---
+2025-08-13 16:08:52,131 - INFO - 2025-08-13 16:08:52 --- Generating pointer XML for BJ1_Dry6.ini ---
+2025-08-13 16:08:52,131 - INFO - 2025-08-13 16:08:52 Executing function generate_pointer_xml...
+2025-08-13 16:08:52,239 - INFO - 2025-08-13 16:08:52 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.05.19,Testdate=2025-08-13T16.08.52.xml
+2025-08-13 16:08:52,240 - INFO - 2025-08-13 16:08:52 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 16:08:52,263 - INFO - 2025-08-13 16:08:52 --- Start processing config file: example.ini ---
+2025-08-13 16:08:52,267 - INFO - 2025-08-13 16:08:52 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.08.52.csv
+2025-08-13 16:08:52,270 - INFO - 2025-08-13 16:08:52 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 16:08:53,252 - INFO - 2025-08-13 16:08:53 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:09:08,537 - INFO - 2025-08-13 16:09:08 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:09:08,538 - INFO - 2025-08-13 16:09:08 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 16:09:13,355 - INFO - 2025-08-13 16:09:13 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 16:09:13,356 - INFO - 2025-08-13 16:09:13 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 16:09:13,379 - INFO - 2025-08-13 16:09:13 Step 2: Initial filtering (date, serial number) complete. 76 rows remaining.
+2025-08-13 16:09:13,379 - INFO - 2025-08-13 16:09:13 Step 3: Starting database query...
+2025-08-13 16:10:28,227 - INFO - 2025-08-13 16:10:28 Database query and filtering complete. 55 valid rows remaining.
+2025-08-13 16:10:28,735 - INFO - 2025-08-13 16:10:28 Database connection closed.
+2025-08-13 16:10:28,736 - INFO - 2025-08-13 16:10:28 Step 4: Starting data transformation and calculation...
+2025-08-13 16:10:28,851 - INFO - 2025-08-13 16:10:28 Date and SORTED field calculations complete.
+2025-08-13 16:10:28,857 - INFO - 2025-08-13 16:10:28 Using fixed tool name from INI: 'None'
+2025-08-13 16:10:28,858 - INFO - 2025-08-13 16:10:28 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 16:10:28,859 - INFO - 2025-08-13 16:10:28 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 16:10:28,863 - INFO - 2025-08-13 16:10:28 Step 7: Preparing to write 55 rows to CSV...
+2025-08-13 16:10:28,863 - INFO - 2025-08-13 16:10:28 Executing function write_to_csv...
+2025-08-13 16:10:28,916 - INFO - 2025-08-13 16:10:28 Function write_to_csv executed successfully.
+2025-08-13 16:10:33,642 - INFO - 2025-08-13 16:10:33 Step 8: Updating next start row to 11742
+2025-08-13 16:10:33,644 - ERROR - 2025-08-13 16:10:33 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 16:10:33,645 - INFO - 2025-08-13 16:10:33 --- Function process_excel_file executed successfully ---
+2025-08-13 16:10:33,647 - INFO - 2025-08-13 16:10:33 --- Generating pointer XML for example.ini ---
+2025-08-13 16:10:33,648 - INFO - 2025-08-13 16:10:33 Executing function generate_pointer_xml...
+2025-08-13 16:10:33,699 - INFO - 2025-08-13 16:10:33 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate_Dry3,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_Dry3_2025_08_13T16.08.52,Testdate=2025-08-13T16.10.33.xml
+2025-08-13 16:10:33,699 - INFO - 2025-08-13 16:10:33 --- Finished processing config file: example.ini ---
+2025-08-13 16:10:33,699 - INFO - 2025-08-13 16:10:33 ===== Universal Script End =====

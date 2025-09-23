@@ -1,0 +1,74 @@
+2025-08-07 10:45:54,465 - INFO - 2025-08-07 10:45:54 ===== \u901a\u7528\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 10:45:54,465 - INFO - 2025-08-07 10:45:54 \u627e\u5230 6 \u500b\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_Dry.ini, MESA_Crystal_Depth_ICP_ICPD1.ini, MESA_Crystal_Depth_ICP_ICPD2.ini, MESA_StartRow_Dry.txt, MESA_StartRow_ICP.txt, MESA_StartRow_ICP2.txt
+2025-08-07 11:28:25,237 - INFO - 2025-08-07 11:28:25 ===== Universal Script Start =====
+2025-08-07 11:28:25,237 - INFO - 2025-08-07 11:28:25 Found 7 config file(s): InP_StartRow - \u30b3\u30d4\u30fc.txt, InP_StartRow.txt, P-electrode_InP.ini, P-electrode_In_one.ini, P-electrode_SiN.ini, SiN_StartRow - \u30b3\u30d4\u30fc.txt, SiN_StartRow.txt
+2025-08-07 11:28:25,247 - ERROR - 2025-08-07 11:28:25 FATAL Error with INI InP_StartRow - \u30b3\u30d4\u30fc.txt: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 321, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1107, in _handle_rest
+    raise MissingSectionHeaderError(fpname, st.lineno, line)
+configparser.MissingSectionHeaderError: File contains no section headers.
+file: 'InP_StartRow - \u30b3\u30d4\u30fc.txt', line: 1
+'3323'
+
+2025-08-07 11:28:25,253 - ERROR - 2025-08-07 11:28:25 FATAL Error with INI InP_StartRow.txt: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 321, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\015_P-electrode\P-electrode_In_one.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1107, in _handle_rest
+    raise MissingSectionHeaderError(fpname, st.lineno, line)
+configparser.MissingSectionHeaderError: File contains no section headers.
+file: 'InP_StartRow.txt', line: 1
+'8386'
+
+2025-08-07 11:35:27,630 - INFO - 2025-08-07 11:35:27 ===== Universal Script Start =====
+2025-08-07 11:35:27,631 - INFO - 2025-08-07 11:35:27 Found 3 config file(s): P-electrode_InP.ini, P-electrode_In_one.ini, P-electrode_SiN.ini
+2025-08-07 11:39:02,727 - INFO - 2025-08-07 11:39:02 ===== Universal Script Start =====
+2025-08-07 11:39:02,728 - INFO - 2025-08-07 11:39:02 Found 2 config file(s): P-electrode_InP.ini, P-electrode_SiN.ini
+2025-08-07 11:56:12,389 - INFO - 2025-08-07 11:56:12 ===== \u901a\u7528\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 11:56:12,389 - INFO - 2025-08-07 11:56:12 \u627e\u5230 6 \u500b\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_Dry.ini, MESA_Crystal_Depth_ICP_ICPD1.ini, MESA_Crystal_Depth_ICP_ICPD2.ini, MESA_StartRow_Dry.txt, MESA_StartRow_ICP.txt, MESA_StartRow_ICP2.txt
+2025-08-07 12:54:19,740 - INFO - 2025-08-07 12:54:19 ===== Universal Script Start =====
+2025-08-07 12:54:19,741 - INFO - 2025-08-07 12:54:19 Found 2 config file(s): P-electrode_InP.ini, P-electrode_SiN.ini
+2025-08-07 13:18:36,430 - INFO - 2025-08-07 13:18:36 ===== Universal Script Start =====
+2025-08-07 13:18:36,433 - INFO - 2025-08-07 13:18:36 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:19:25,798 - INFO - 2025-08-07 13:19:25 ===== Universal Script Start =====
+2025-08-07 13:19:25,799 - INFO - 2025-08-07 13:19:25 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:22:32,388 - INFO - 2025-08-07 13:22:32 ===== Universal Script Start =====
+2025-08-07 13:22:32,389 - INFO - 2025-08-07 13:22:32 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:25:16,752 - INFO - 2025-08-07 13:25:16 ===== Universal Script Start =====
+2025-08-07 13:25:16,752 - INFO - 2025-08-07 13:25:16 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:28:44,580 - INFO - 2025-08-07 13:28:44 ===== Universal Script Start =====
+2025-08-07 13:28:44,581 - INFO - 2025-08-07 13:28:44 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:30:10,659 - INFO - 2025-08-07 13:30:10 ===== Universal Script Start =====
+2025-08-07 13:30:10,660 - INFO - 2025-08-07 13:30:10 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:30:37,578 - INFO - 2025-08-07 13:30:37 ===== Universal Script Start =====
+2025-08-07 13:30:37,578 - INFO - 2025-08-07 13:30:37 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:31:00,722 - INFO - 2025-08-07 13:31:00 ===== Universal Script Start =====
+2025-08-07 13:31:00,723 - INFO - 2025-08-07 13:31:00 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:31:47,475 - INFO - 2025-08-07 13:31:47 ===== Universal Script Start =====
+2025-08-07 13:31:47,477 - INFO - 2025-08-07 13:31:47 Found 1 config file(s): P-electorde_Fuse.ini
+2025-08-07 13:40:32,478 - INFO - 2025-08-07 13:40:32 ===== Universal Script Start =====
+2025-08-07 13:40:32,479 - INFO - 2025-08-07 13:40:32 Found 1 config file(s): P-electorde_Fuse.ini

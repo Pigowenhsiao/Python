@@ -1,0 +1,67 @@
+2025-08-13 10:28:19,887 - INFO - 2025-08-13 10:28:19 --- Start processing config file: MESA_Crystal_Depth_Dry.ini ---
+2025-08-13 10:28:19,892 - INFO - 2025-08-13 10:28:19 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_13T10.28.19.csv
+2025-08-13 10:28:19,895 - INFO - 2025-08-13 10:28:19 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 10:28:20,112 - INFO - 2025-08-13 10:28:20 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:28:22,432 - INFO - 2025-08-13 10:28:22 File copied successfully -> ..\DataFile\013_MESA\\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:28:22,433 - INFO - 2025-08-13 10:28:22 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 10:28:24,989 - INFO - 2025-08-13 10:28:24 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 980 rows loaded.
+2025-08-13 10:28:24,990 - INFO - 2025-08-13 10:28:24 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:28:25,064 - INFO - 2025-08-13 10:28:25 XY coordinate data parsed.
+2025-08-13 10:28:25,069 - INFO - 2025-08-13 10:28:25 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 10:28:25,070 - INFO - 2025-08-13 10:28:25 No data left after initial filtering. Ending process for this file.
+2025-08-13 10:28:25,071 - INFO - 2025-08-13 10:28:25 --- Finished processing config file: MESA_Crystal_Depth_Dry.ini ---
+2025-08-13 10:28:25,092 - INFO - 2025-08-13 10:28:25 --- Start processing config file: MESA_Crystal_Depth_ICP_ICPD1.ini ---
+2025-08-13 10:28:25,095 - INFO - 2025-08-13 10:28:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_13T10.28.25.csv
+2025-08-13 10:28:25,096 - INFO - 2025-08-13 10:28:25 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4' with pattern '*ICP\u30c9\u30e9\u30a4_HL13\u2605xx_*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 10:28:25,287 - INFO - 2025-08-13 10:28:25 Found latest source file: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:28:29,699 - INFO - 2025-08-13 10:28:29 File copied successfully -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:28:29,699 - INFO - 2025-08-13 10:28:29 --- Start processing file: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 10:28:40,904 - INFO - 2025-08-13 10:28:40 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 9917 rows loaded.
+2025-08-13 10:28:40,904 - INFO - 2025-08-13 10:28:40 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:28:41,303 - INFO - 2025-08-13 10:28:41 XY coordinate data parsed.
+2025-08-13 10:28:41,315 - INFO - 2025-08-13 10:28:41 Step 2: Initial filtering (date, serial number) complete. 53 rows remaining.
+2025-08-13 10:28:41,315 - INFO - 2025-08-13 10:28:41 Step 3: Starting database query...
+2025-08-13 10:29:26,840 - INFO - 2025-08-13 10:29:26 Database query and filtering complete. 51 valid rows remaining.
+2025-08-13 10:29:26,923 - INFO - 2025-08-13 10:29:26 Database connection closed.
+2025-08-13 10:29:26,924 - INFO - 2025-08-13 10:29:26 Step 4: Starting data transformation and calculation...
+2025-08-13 10:29:27,057 - INFO - 2025-08-13 10:29:27 Date and SORTED field calculations complete.
+2025-08-13 10:29:27,061 - INFO - 2025-08-13 10:29:27 Using fixed tool name from INI: 'ICP1'
+2025-08-13 10:29:27,072 - INFO - 2025-08-13 10:29:27 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 10:29:27,072 - INFO - 2025-08-13 10:29:27 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 10:29:27,078 - INFO - 2025-08-13 10:29:27 Step 7: Preparing to write 51 rows to CSV...
+2025-08-13 10:29:27,079 - INFO - 2025-08-13 10:29:27 Executing function write_to_csv...
+2025-08-13 10:29:27,144 - INFO - 2025-08-13 10:29:27 Function write_to_csv executed successfully.
+2025-08-13 10:29:36,107 - INFO - 2025-08-13 10:29:36 Step 8: Updating next start row to 9958
+2025-08-13 10:29:36,107 - INFO - 2025-08-13 10:29:36 --- Function process_excel_file executed successfully ---
+2025-08-13 10:29:36,110 - INFO - 2025-08-13 10:29:36 --- Generating pointer XML for MESA_Crystal_Depth_ICP_ICPD1.ini ---
+2025-08-13 10:29:36,111 - INFO - 2025-08-13 10:29:36 Executing function generate_pointer_xml...
+2025-08-13 10:29:36,196 - INFO - 2025-08-13 10:29:36 Pointer XML generated successfully at: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Crystal_Depth_2025_08_13T10.28.25,Testdate=2025-08-13T10.29.36.xml
+2025-08-13 10:29:36,197 - INFO - 2025-08-13 10:29:36 --- Finished processing config file: MESA_Crystal_Depth_ICP_ICPD1.ini ---
+2025-08-13 10:29:36,229 - INFO - 2025-08-13 10:29:36 --- Start processing config file: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-13 10:29:36,234 - INFO - 2025-08-13 10:29:36 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_13T10.29.36.csv
+2025-08-13 10:29:36,236 - INFO - 2025-08-13 10:29:36 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4#2\3\u30a4\u30f3\u30c1' with pattern 'ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 10:29:36,443 - INFO - 2025-08-13 10:29:36 Found latest source file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:29:39,575 - INFO - 2025-08-13 10:29:39 File copied successfully -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 10:29:39,575 - INFO - 2025-08-13 10:29:39 --- Start processing file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 10:29:44,737 - INFO - 2025-08-13 10:29:44 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 4168 rows loaded.
+2025-08-13 10:29:44,737 - INFO - 2025-08-13 10:29:44 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:29:45,135 - INFO - 2025-08-13 10:29:45 XY coordinate data parsed.
+2025-08-13 10:29:45,139 - INFO - 2025-08-13 10:29:45 Step 2: Initial filtering (date, serial number) complete. 53 rows remaining.
+2025-08-13 10:29:45,140 - INFO - 2025-08-13 10:29:45 Step 3: Starting database query...
+2025-08-13 10:30:23,938 - INFO - 2025-08-13 10:30:23 Database query and filtering complete. 51 valid rows remaining.
+2025-08-13 10:30:24,027 - INFO - 2025-08-13 10:30:24 Database connection closed.
+2025-08-13 10:30:24,028 - INFO - 2025-08-13 10:30:24 Step 4: Starting data transformation and calculation...
+2025-08-13 10:30:24,146 - INFO - 2025-08-13 10:30:24 Date and SORTED field calculations complete.
+2025-08-13 10:30:24,151 - INFO - 2025-08-13 10:30:24 Using fixed tool name from INI: 'ICP2'
+2025-08-13 10:30:24,156 - INFO - 2025-08-13 10:30:24 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 10:30:24,157 - INFO - 2025-08-13 10:30:24 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 10:30:24,164 - INFO - 2025-08-13 10:30:24 Step 7: Preparing to write 51 rows to CSV...
+2025-08-13 10:30:24,164 - INFO - 2025-08-13 10:30:24 Executing function write_to_csv...
+2025-08-13 10:30:24,218 - INFO - 2025-08-13 10:30:24 Function write_to_csv executed successfully.
+2025-08-13 10:30:28,447 - INFO - 2025-08-13 10:30:28 Step 8: Updating next start row to 4209
+2025-08-13 10:30:28,447 - INFO - 2025-08-13 10:30:28 --- Function process_excel_file executed successfully ---
+2025-08-13 10:30:28,449 - INFO - 2025-08-13 10:30:28 --- Generating pointer XML for MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-13 10:30:28,450 - INFO - 2025-08-13 10:30:28 Executing function generate_pointer_xml...
+2025-08-13 10:30:28,494 - INFO - 2025-08-13 10:30:28 Pointer XML generated successfully at: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Crystal_Depth_2025_08_13T10.29.36,Testdate=2025-08-13T10.30.28.xml
+2025-08-13 10:30:28,494 - INFO - 2025-08-13 10:30:28 --- Finished processing config file: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-13 10:30:28,494 - INFO - 2025-08-13 10:30:28 ===== Universal Script End =====

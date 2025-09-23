@@ -1,0 +1,414 @@
+2025-08-13 08:02:23,329 - INFO - 2025-08-13 08:02:23 ===== Universal Script Start =====
+2025-08-13 08:02:23,330 - INFO - 2025-08-13 08:02:23 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 08:05:34,266 - INFO - 2025-08-13 08:05:34 ===== Universal Script Start =====
+2025-08-13 08:05:34,267 - INFO - 2025-08-13 08:05:34 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 08:09:41,378 - INFO - 2025-08-13 08:09:41 ===== Universal Script Start =====
+2025-08-13 08:09:41,379 - INFO - 2025-08-13 08:09:41 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 08:11:42,167 - INFO - 2025-08-13 08:11:42 ===== Universal Script Start =====
+2025-08-13 08:11:42,168 - INFO - 2025-08-13 08:11:42 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 08:14:16,696 - INFO - 2025-08-13 08:14:16 ===== Universal Script Start =====
+2025-08-13 08:14:16,697 - INFO - 2025-08-13 08:14:16 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 08:15:45,625 - INFO - 2025-08-13 08:15:45 ===== Universal Script Start =====
+2025-08-13 08:15:45,626 - INFO - 2025-08-13 08:15:45 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:17:23,950 - INFO - 2025-08-13 08:17:23 ===== Universal Script Start =====
+2025-08-13 08:17:23,952 - INFO - 2025-08-13 08:17:23 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:19:12,489 - INFO - 2025-08-13 08:19:12 ===== Universal Script Start =====
+2025-08-13 08:19:12,490 - INFO - 2025-08-13 08:19:12 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:21:45,713 - INFO - 2025-08-13 08:21:45 ===== Universal Script Start =====
+2025-08-13 08:21:45,715 - INFO - 2025-08-13 08:21:45 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:23:36,921 - INFO - 2025-08-13 08:23:36 ===== Universal Script Start =====
+2025-08-13 08:23:36,922 - INFO - 2025-08-13 08:23:36 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:24:55,397 - INFO - 2025-08-13 08:24:55 ===== Universal Script Start =====
+2025-08-13 08:24:55,398 - INFO - 2025-08-13 08:24:55 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:31:55,450 - INFO - 2025-08-13 08:31:55 ===== Universal Script Start =====
+2025-08-13 08:31:55,451 - INFO - 2025-08-13 08:31:55 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:33:09,293 - INFO - 2025-08-13 08:33:09 ===== Universal Script Start =====
+2025-08-13 08:33:09,294 - INFO - 2025-08-13 08:33:09 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:34:10,661 - INFO - 2025-08-13 08:34:10 ===== Universal Script Start =====
+2025-08-13 08:34:10,662 - INFO - 2025-08-13 08:34:10 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:38:23,234 - INFO - 2025-08-13 08:38:23 ===== Universal Script Start =====
+2025-08-13 08:38:23,234 - INFO - 2025-08-13 08:38:23 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:51:38,652 - INFO - 2025-08-13 08:51:38 ===== Universal Script Start =====
+2025-08-13 08:51:38,652 - INFO - 2025-08-13 08:51:38 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:52:29,260 - INFO - 2025-08-13 08:52:29 ===== Universal Script Start =====
+2025-08-13 08:52:29,261 - INFO - 2025-08-13 08:52:29 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:53:28,657 - INFO - 2025-08-13 08:53:28 ===== Universal Script Start =====
+2025-08-13 08:53:28,658 - INFO - 2025-08-13 08:53:28 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 08:58:07,512 - INFO - 2025-08-13 08:58:07 ===== Universal Script Start =====
+2025-08-13 08:58:07,514 - INFO - 2025-08-13 08:58:07 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 09:06:18,476 - INFO - 2025-08-13 09:06:18 ===== Universal Script Start =====
+2025-08-13 09:06:18,477 - INFO - 2025-08-13 09:06:18 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 09:07:47,805 - INFO - 2025-08-13 09:07:47 ===== Universal Script Start =====
+2025-08-13 09:07:47,805 - INFO - 2025-08-13 09:07:47 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 09:25:17,418 - INFO - 2025-08-13 09:25:17 ===== Universal Script Start =====
+2025-08-13 09:25:17,419 - INFO - 2025-08-13 09:25:17 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 09:31:06,436 - INFO - 2025-08-13 09:31:06 ===== Universal Script Start =====
+2025-08-13 09:31:06,437 - INFO - 2025-08-13 09:31:06 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:32:55,608 - INFO - 2025-08-13 09:32:55 ===== Universal Script Start =====
+2025-08-13 09:32:55,609 - INFO - 2025-08-13 09:32:55 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:35:52,655 - INFO - 2025-08-13 09:35:52 ===== Universal Script Start =====
+2025-08-13 09:35:52,655 - INFO - 2025-08-13 09:35:52 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:36:54,782 - INFO - 2025-08-13 09:36:54 ===== Universal Script Start =====
+2025-08-13 09:36:54,783 - INFO - 2025-08-13 09:36:54 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:37:40,775 - INFO - 2025-08-13 09:37:40 ===== Universal Script Start =====
+2025-08-13 09:37:40,776 - INFO - 2025-08-13 09:37:40 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:43:42,288 - INFO - 2025-08-13 09:43:42 ===== Universal Script Start =====
+2025-08-13 09:43:42,289 - INFO - 2025-08-13 09:43:42 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:56:02,342 - INFO - 2025-08-13 09:56:02 ===== Universal Script Start =====
+2025-08-13 09:56:02,343 - INFO - 2025-08-13 09:56:02 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 09:59:46,074 - INFO - 2025-08-13 09:59:46 ===== Universal Script Start =====
+2025-08-13 09:59:46,075 - INFO - 2025-08-13 09:59:46 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 10:07:58,245 - INFO - 2025-08-13 10:07:58 ===== Universal Script Start =====
+2025-08-13 10:07:58,246 - INFO - 2025-08-13 10:07:58 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 10:10:55,759 - INFO - 2025-08-13 10:10:55 ===== Universal Script Start =====
+2025-08-13 10:10:55,760 - INFO - 2025-08-13 10:10:55 Found 2 config file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-13 10:18:36,669 - INFO - 2025-08-13 10:18:36 ===== Universal Script Start =====
+2025-08-13 10:18:36,670 - INFO - 2025-08-13 10:18:36 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 10:20:10,942 - INFO - 2025-08-13 10:20:10 ===== Universal Script Start =====
+2025-08-13 10:20:10,943 - INFO - 2025-08-13 10:20:10 Found 1 config file(s): MESA_CVD_WIDTH.ini
+2025-08-13 10:28:19,844 - INFO - 2025-08-13 10:28:19 ===== Universal Script Start =====
+2025-08-13 10:28:19,846 - INFO - 2025-08-13 10:28:19 Found 3 config file(s): MESA_Crystal_Depth_Dry.ini, MESA_Crystal_Depth_ICP_ICPD1.ini, MESA_Crystal_Depth_ICP_ICPD2.ini
+2025-08-13 10:33:55,813 - INFO - 2025-08-13 10:33:55 ===== Universal Script Start =====
+2025-08-13 10:33:55,814 - INFO - 2025-08-13 10:33:55 Found 2 config file(s): P-electrode_InP.ini, P-electrode_SiN.ini
+2025-08-13 10:34:20,524 - INFO - 2025-08-13 10:34:20 ===== Universal Script Start =====
+2025-08-13 10:34:20,526 - INFO - 2025-08-13 10:34:20 Found 2 config file(s): P-electrode_InP.ini, P-electrode_SiN.ini
+2025-08-13 10:53:33,457 - INFO - 2025-08-13 10:53:33 ===== Universal Script Start =====
+2025-08-13 10:53:33,459 - INFO - 2025-08-13 10:53:33 No .ini or .txt config files found in the current directory. Exiting.
+2025-08-13 10:54:23,289 - INFO - 2025-08-13 10:54:23 ===== Universal Script Start =====
+2025-08-13 10:54:23,293 - INFO - 2025-08-13 10:54:23 Found 1 config file(s): 025_PIX.ini
+2025-08-13 10:56:59,144 - INFO - 2025-08-13 10:56:59 ===== Universal Script Start =====
+2025-08-13 10:56:59,145 - INFO - 2025-08-13 10:56:59 Found 1 config file(s): 025_PIX.ini
+2025-08-13 13:02:36,274 - INFO - 2025-08-13 13:02:36 ===== Universal Script Start =====
+2025-08-13 13:02:36,275 - INFO - 2025-08-13 13:02:36 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:02:36,370 - ERROR - 2025-08-13 13:02:36 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'file_name_patterns'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 90, in _extract_settings_from_config
+    s.file_name_patterns = [x.strip() for x in config.get('Basic_info', 'file_name_patterns').split(',')]
+                                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'file_name_patterns' in section: 'Basic_info'
+
+2025-08-13 13:02:36,394 - ERROR - 2025-08-13 13:02:36 FATAL Error with INI BJ1_Dry6.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'file_name_patterns'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 90, in _extract_settings_from_config
+    s.file_name_patterns = [x.strip() for x in config.get('Basic_info', 'file_name_patterns').split(',')]
+                                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'file_name_patterns' in section: 'Basic_info'
+
+2025-08-13 13:02:36,394 - INFO - 2025-08-13 13:02:36 ===== Universal Script End =====
+2025-08-13 13:04:11,199 - INFO - 2025-08-13 13:04:11 ===== Universal Script Start =====
+2025-08-13 13:04:11,200 - INFO - 2025-08-13 13:04:11 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:04:11,218 - ERROR - 2025-08-13 13:04:11 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'log_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 98, in _extract_settings_from_config
+    s.log_path = config.get('Paths', 'log_path')
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'log_path' in section: 'Paths'
+
+2025-08-13 13:04:11,229 - ERROR - 2025-08-13 13:04:11 FATAL Error with INI BJ1_Dry6.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'log_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 98, in _extract_settings_from_config
+    s.log_path = config.get('Paths', 'log_path')
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'log_path' in section: 'Paths'
+
+2025-08-13 13:04:11,229 - INFO - 2025-08-13 13:04:11 ===== Universal Script End =====
+2025-08-13 13:06:28,273 - INFO - 2025-08-13 13:06:28 ===== Universal Script Start =====
+2025-08-13 13:06:28,274 - INFO - 2025-08-13 13:06:28 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:06:28,294 - ERROR - 2025-08-13 13:06:28 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 322, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1109, in _handle_rest
+    self._handle_header(st, mo, fpname) if mo else self._handle_option(st, line, fpname)
+                                                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1148, in _handle_option
+    raise DuplicateOptionError(st.sectname, st.optname,
+                            fpname, st.lineno)
+configparser.DuplicateOptionError: While reading from 'BJ1_Dry3.ini' [line 24]: option 'running_rec' in section 'Paths' already exists
+
+2025-08-13 13:06:28,304 - ERROR - 2025-08-13 13:06:28 FATAL Error with INI BJ1_Dry6.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 322, in main
+    config = _read_and_parse_ini_config(ini_path)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 66, in _read_and_parse_ini_config
+    config.read(config_file_path, encoding='utf-8')
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 735, in read
+    self._read(fp, filename)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1050, in _read
+    ParsingError._raise_all(self._read_inner(fp, fpname))
+                            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1079, in _read_inner
+    self._handle_rest(st, line, fpname)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1109, in _handle_rest
+    self._handle_header(st, mo, fpname) if mo else self._handle_option(st, line, fpname)
+                                                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 1148, in _handle_option
+    raise DuplicateOptionError(st.sectname, st.optname,
+                            fpname, st.lineno)
+configparser.DuplicateOptionError: While reading from 'BJ1_Dry6.ini' [line 25]: option 'running_rec' in section 'Paths' already exists
+
+2025-08-13 13:06:28,305 - INFO - 2025-08-13 13:06:28 ===== Universal Script End =====
+2025-08-13 13:07:51,029 - INFO - 2025-08-13 13:07:51 ===== Universal Script Start =====
+2025-08-13 13:07:51,030 - INFO - 2025-08-13 13:07:51 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:07:51,047 - ERROR - 2025-08-13 13:07:51 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'intermediate_data_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 97, in _extract_settings_from_config
+    s.intermediate_data_path = config.get('Paths', 'intermediate_data_path')
+                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'intermediate_data_path' in section: 'Paths'
+
+2025-08-13 13:07:51,133 - ERROR - 2025-08-13 13:07:51 FATAL Error with INI BJ1_Dry6.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'log_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 98, in _extract_settings_from_config
+    s.log_path = config.get('Paths', 'log_path')
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'log_path' in section: 'Paths'
+
+2025-08-13 13:07:51,134 - INFO - 2025-08-13 13:07:51 ===== Universal Script End =====
+2025-08-13 13:08:28,772 - INFO - 2025-08-13 13:08:28 ===== Universal Script Start =====
+2025-08-13 13:08:28,773 - INFO - 2025-08-13 13:08:28 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:08:28,789 - ERROR - 2025-08-13 13:08:28 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'intermediate_data_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 97, in _extract_settings_from_config
+    s.intermediate_data_path = config.get('Paths', 'intermediate_data_path')
+                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'intermediate_data_path' in section: 'Paths'
+
+2025-08-13 13:09:55,257 - INFO - 2025-08-13 13:09:55 ===== Universal Script Start =====
+2025-08-13 13:09:55,258 - INFO - 2025-08-13 13:09:55 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:09:55,288 - ERROR - 2025-08-13 13:09:55 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'intermediate_data_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 97, in _extract_settings_from_config
+    s.intermediate_data_path = config.get('Paths', 'intermediate_data_path')
+                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'intermediate_data_path' in section: 'Paths'
+
+2025-08-13 13:11:07,907 - INFO - 2025-08-13 13:11:07 ===== Universal Script Start =====
+2025-08-13 13:11:07,908 - INFO - 2025-08-13 13:11:07 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:11:07,926 - ERROR - 2025-08-13 13:11:07 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'intermediate_data_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 97, in _extract_settings_from_config
+    s.intermediate_data_path = config.get('Paths', 'intermediate_data_path')
+                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'intermediate_data_path' in section: 'Paths'
+
+2025-08-13 13:12:09,033 - INFO - 2025-08-13 13:12:09 ===== Universal Script Start =====
+2025-08-13 13:12:09,034 - INFO - 2025-08-13 13:12:09 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 13:12:09,059 - ERROR - 2025-08-13 13:12:09 FATAL Error with INI BJ1_Dry3.ini: Traceback (most recent call last):
+  File "c:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'intermediate_data_path'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 323, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\005_BJ1\BJ1_Common.py", line 97, in _extract_settings_from_config
+    s.intermediate_data_path = config.get('Paths', 'intermediate_data_path')
+                               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'intermediate_data_path' in section: 'Paths'
+
+2025-08-13 13:13:25,228 - INFO - 2025-08-13 13:13:25 ===== Universal Script Start =====
+2025-08-13 13:13:25,229 - INFO - 2025-08-13 13:13:25 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 15:30:03,102 - INFO - 2025-08-13 15:30:03 ===== Universal Script Start =====
+2025-08-13 15:30:03,103 - INFO - 2025-08-13 15:30:03 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 15:34:46,958 - INFO - 2025-08-13 15:34:46 ===== Universal Script Start =====
+2025-08-13 15:34:46,986 - INFO - 2025-08-13 15:34:46 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 15:44:56,704 - INFO - 2025-08-13 15:44:56 ===== Universal Script Start =====
+2025-08-13 15:44:56,706 - INFO - 2025-08-13 15:44:56 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 16:03:25,190 - INFO - 2025-08-13 16:03:25 ===== Universal Script Start =====
+2025-08-13 16:03:25,191 - INFO - 2025-08-13 16:03:25 Found 3 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini, example.ini
+2025-08-13 16:25:03,939 - INFO - 2025-08-13 16:25:03 ===== Universal Script Start =====
+2025-08-13 16:25:03,939 - INFO - 2025-08-13 16:25:03 Found 1 config file(s): BJ1_Crystal_Depth_Dry2_HTL13.ini
+2025-08-13 16:33:49,428 - INFO - 2025-08-13 16:33:49 ===== Universal Script Start =====
+2025-08-13 16:33:49,429 - INFO - 2025-08-13 16:33:49 Found 2 config file(s): BJ1_Dry3.ini, BJ1_Dry6.ini
+2025-08-13 16:44:32,844 - INFO - 2025-08-13 16:44:32 ===== Universal Script Start =====
+2025-08-13 16:44:32,846 - INFO - 2025-08-13 16:44:32 Found 7 config file(s): BJ1_Crystal_Depth_Dry1_HL13B6.ini, BJ1_Crystal_Depth_Dry1_HL15B5.ini, BJ1_Crystal_Depth_Dry1_HTL13.ini, BJ1_Crystal_Depth_Dry2_HTL13.ini, BJ1_Crystal_Depth_Dry5_HL13B6.ini, BJ1_Crystal_Depth_Dry5_HL15B5.ini, BJ1_Crystal_Depth_Dry5_HTL13.ini
+2025-08-13 17:13:15,934 - INFO - 2025-08-13 17:13:15 ===== Universal Script Start =====
+2025-08-13 17:13:15,935 - INFO - 2025-08-13 17:13:15 Found 7 config file(s): BJ2_Crystal_Depth_Dry1_HL13B6.ini, BJ2_Crystal_Depth_Dry1_HL15B5.ini, BJ2_Crystal_Depth_Dry1_HTL13.ini, BJ2_Crystal_Depth_Dry2_HTL13.ini, BJ2_Crystal_Depth_Dry5_HL13B6.ini, BJ2_Crystal_Depth_Dry5_HL15B5.ini, BJ2_Crystal_Depth_Dry5_HTL13.ini
+2025-08-13 17:25:15,293 - INFO - 2025-08-13 17:25:15 ===== Universal Script Start =====
+2025-08-13 17:25:15,294 - INFO - 2025-08-13 17:25:15 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 17:53:15,497 - INFO - 2025-08-13 17:53:15 ===== Universal Script Start =====
+2025-08-13 17:53:15,497 - INFO - 2025-08-13 17:53:15 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 17:59:59,081 - INFO - 2025-08-13 17:59:59 ===== Universal Script Start =====
+2025-08-13 17:59:59,081 - INFO - 2025-08-13 17:59:59 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:06:39,257 - INFO - 2025-08-13 18:06:39 ===== Universal Script Start =====
+2025-08-13 18:06:39,257 - INFO - 2025-08-13 18:06:39 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:16:16,227 - INFO - 2025-08-13 18:16:16 ===== Universal Script Start =====
+2025-08-13 18:16:16,228 - INFO - 2025-08-13 18:16:16 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:24:43,818 - INFO - 2025-08-13 18:24:43 ===== Universal Script Start =====
+2025-08-13 18:24:43,819 - INFO - 2025-08-13 18:24:43 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:29:59,538 - INFO - 2025-08-13 18:29:59 ===== Universal Script Start =====
+2025-08-13 18:29:59,539 - INFO - 2025-08-13 18:29:59 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:33:44,240 - INFO - 2025-08-13 18:33:44 ===== Universal Script End =====
+2025-08-13 18:34:34,194 - INFO - 2025-08-13 18:34:34 ===== Universal Script Start =====
+2025-08-13 18:34:34,195 - INFO - 2025-08-13 18:34:34 Found 1 config file(s): GRATING_EB-Duty.ini
+2025-08-13 18:37:50,401 - INFO - 2025-08-13 18:37:50 ===== Universal Script End =====
+2025-08-13 18:39:58,675 - INFO - 2025-08-13 18:39:58 ===== Universal Script Start =====
+2025-08-13 18:39:58,676 - INFO - 2025-08-13 18:39:58 Found 1 config file(s): GRATING_EB-Duty.ini

@@ -1,0 +1,77 @@
+2025-08-12 08:26:13,989 - INFO - 2025-08-12 08:26:13 --- Start processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:26:14,327 - ERROR - 2025-08-12 08:26:14 FATAL Error with INI MESA_CVD_WIDTH.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\MESA_CVD_Width_common.py", line 331, in main
+    Path(settings.csv_path).mkdir(parents=True, exist_ok=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\pathlib\_local.py", line 722, in mkdir
+    os.mkdir(self, mode)
+    ~~~~~~~~^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied: '\\\\li.lumentuminc.net\\data\\SAG_BE\\002_MESA_CVD'
+
+2025-08-12 08:26:14,329 - INFO - 2025-08-12 08:26:14 ===== Universal Script End =====
+2025-08-12 08:30:45,104 - INFO - 2025-08-12 08:30:45 --- Start processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:30:45,108 - INFO - 2025-08-12 08:30:45 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_Width_2025_08_12T08.30.45.csv
+2025-08-12 08:30:45,112 - INFO - 2025-08-12 08:30:45 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5*.xlsx'
+2025-08-12 08:30:45,320 - INFO - 2025-08-12 08:30:45 Found latest source file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:30:53,853 - INFO - 2025-08-12 08:30:53 File copied successfully -> ..\DataFile\002_MESA_CVD\QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:30:53,853 - INFO - 2025-08-12 08:30:53 --- Start processing file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx ---
+2025-08-12 08:30:53,862 - ERROR - 2025-08-12 08:30:53 Error processing file QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\MESA_CVD_Width_common.py", line 352, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\MESA_CVD_Width_common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-05-28 00:00:00'
+
+2025-08-12 08:30:53,864 - INFO - 2025-08-12 08:30:53 --- Finished processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:30:53,864 - INFO - 2025-08-12 08:30:53 ===== Universal Script End =====
+2025-08-12 08:38:29,988 - INFO - 2025-08-12 08:38:29 --- Start processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:38:29,990 - INFO - 2025-08-12 08:38:29 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_Width_2025_08_12T08.38.29.csv
+2025-08-12 08:38:29,992 - INFO - 2025-08-12 08:38:29 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5*.xlsx'
+2025-08-12 08:38:30,172 - INFO - 2025-08-12 08:38:30 Found latest source file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:38:52,248 - INFO - 2025-08-12 08:38:52 File copied successfully -> ..\DataFile\002_MESA_CVD\QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:38:52,249 - INFO - 2025-08-12 08:38:52 --- Start processing file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx ---
+2025-08-12 08:38:52,256 - ERROR - 2025-08-12 08:38:52 Error processing file QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\MESA_CVD_Width_common.py", line 352, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\MESA_CVD_Width_common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\002_MESA\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-05-28 00:00:00'
+
+2025-08-12 08:38:52,257 - INFO - 2025-08-12 08:38:52 --- Finished processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:38:52,258 - INFO - 2025-08-12 08:38:52 ===== Universal Script End =====
+2025-08-12 08:43:08,512 - INFO - 2025-08-12 08:43:08 --- Start processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:43:08,516 - INFO - 2025-08-12 08:43:08 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_CVD_Width_2025_08_12T08.43.08.csv
+2025-08-12 08:43:08,518 - INFO - 2025-08-12 08:43:08 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5*.xlsx'
+2025-08-12 08:43:08,686 - INFO - 2025-08-12 08:43:08 Found latest source file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:43:17,858 - INFO - 2025-08-12 08:43:17 File copied successfully -> ..\DataFile\002_MESA_CVD\QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx
+2025-08-12 08:43:17,859 - INFO - 2025-08-12 08:43:17 --- Start processing file: QC-K-002-R13\u3000\u30c9\u30e9\u30a4\u51e6\u7406\u5f8cSiO2\u5bf8\u6cd5.xlsx ---
+2025-08-12 08:43:48,479 - INFO - 2025-08-12 08:43:48 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 18560 rows loaded.
+2025-08-12 08:43:48,479 - INFO - 2025-08-12 08:43:48 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-12 08:43:49,097 - INFO - 2025-08-12 08:43:49 XY coordinate data parsed.
+2025-08-12 08:43:49,155 - INFO - 2025-08-12 08:43:49 Step 2: Initial filtering (date, serial number) complete. 150 rows remaining.
+2025-08-12 08:43:49,155 - INFO - 2025-08-12 08:43:49 Step 3: Starting database query...
+2025-08-12 08:45:51,101 - INFO - 2025-08-12 08:45:51 Database query and filtering complete. 150 valid rows remaining.
+2025-08-12 08:45:51,184 - INFO - 2025-08-12 08:45:51 Database connection closed.
+2025-08-12 08:45:51,184 - INFO - 2025-08-12 08:45:51 Step 4: Starting data transformation and calculation...
+2025-08-12 08:45:51,324 - INFO - 2025-08-12 08:45:51 Date and SORTED field calculations complete.
+2025-08-12 08:45:51,327 - INFO - 2025-08-12 08:45:51 Using fixed tool name from INI: 'None'
+2025-08-12 08:45:51,327 - INFO - 2025-08-12 08:45:51 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-12 08:45:51,327 - INFO - 2025-08-12 08:45:51 Step 6: Dynamic CSV columns and order generated.
+2025-08-12 08:45:51,331 - INFO - 2025-08-12 08:45:51 Step 7: Preparing to write 150 rows to CSV...
+2025-08-12 08:45:51,332 - INFO - 2025-08-12 08:45:51 Executing function write_to_csv...
+2025-08-12 08:45:51,501 - INFO - 2025-08-12 08:45:51 Function write_to_csv executed successfully.
+2025-08-12 08:46:17,597 - INFO - 2025-08-12 08:46:17 Step 8: Updating next start row to 18569
+2025-08-12 08:46:17,597 - INFO - 2025-08-12 08:46:17 --- Function process_excel_file executed successfully ---
+2025-08-12 08:46:17,599 - INFO - 2025-08-12 08:46:17 --- Generating pointer XML for MESA_CVD_WIDTH.ini ---
+2025-08-12 08:46:17,600 - INFO - 2025-08-12 08:46:17 Executing function generate_pointer_xml...
+2025-08-12 08:46:17,664 - INFO - 2025-08-12 08:46:17 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_Width,Partnumber=UNKNOWPN,Serialnumber=MESA_CVD_Width_2025_08_12T08.43.08,Testdate=2025-08-12T08.46.17.xml
+2025-08-12 08:46:17,664 - INFO - 2025-08-12 08:46:17 --- Finished processing config file: MESA_CVD_WIDTH.ini ---
+2025-08-12 08:46:17,665 - INFO - 2025-08-12 08:46:17 ===== Universal Script End =====

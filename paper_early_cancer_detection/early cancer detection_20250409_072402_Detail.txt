@@ -1,0 +1,1823 @@
+URL: https://www.science.org/doi/abs/10.1126/science.aay9040
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Improved earlier detection of cancer could substantially increase survival rates. Although   early detection have saved lives, further innovations and development of early cancer detection
+Journal: Science
+Publish_Year: 2022
+URL: https://www.science.org/doi/abs/10.1126/science.aay9040
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41591-022-01746-x
+Title: The future of early cancer detection | Nature Medicine
+Author: RC Fitzgerald, AC Antoniou, L Fruk, N Rosenfeld
+Abstract: A proactive approach to detecting cancer at an early stage can make treatments more effective, with fewer side effects and improved long-term survival. However, as detection methods become increasingly sensitive, it can be difficult to distinguish inconsequential changes from lesions that will lead to life-threatening cancer. Progress relies on a detailed understanding of individualized risk, clear delineation of cancer development stages, a range of testing methods with optimal performance characteristics, and robust evaluation of the implications for individuals and society. In the future, advances in sensors, contrast agents, molecular methods, and artificial intelligence will help detect cancer-specific signals in real time. To reduce the burden of cancer on society, risk-based detection and prevention needs to be cost effective and widely accessible. Technological advances are producing exquisitely sensitive cancer detection tests. This Review discusses who should be tested, and how—and looks to the future of personalized, risk-based cancer screening.
+Journal: Nature medicine
+Publish_Year: 2022
+================================================================================
+URL: https://ascopubs.org/doi/pdfdirect/10.14694/EDBK.2015.35#page=145
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to detect cancer early and with an increased opportunity for treatment and curative intent.  Currently, a defined role for screening exists in some cancer  Unfortunately, many cancers still
+Journal: American Society of Clinical …
+Publish_Year: 2015
+URL: https://ascopubs.org/doi/pdfdirect/10.14694/EDBK.2015.35#page=145
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.mdpi.com/1424-8220/10/1/428
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: detection and monitoring. It is highly anticipated that in the near future, we might be able to  detect cancer at a very early  Survival of a cancer patient depends heavily on early detection
+Journal: Sensors
+Publish_Year: 2010
+URL: https://www.mdpi.com/1424-8220/10/1/428
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0163725810001506
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The application of nanotechnology to medicine, commonly referred to as ‘nanomedicine’,  has the potential to transform our approach to human health and disease. Research at the
+Journal: Pharmacology & therapeutics
+Publish_Year: 2010
+URL: https://www.sciencedirect.com/science/article/pii/S0163725810001506
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.science.org/doi/abs/10.1126/science.aaz2078
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: and treatment of cancers that otherwise  cancer early detection methods, but fundamental  issues surrounding tumor growth dynamics and the timing of metastasis make early detection
+Journal: Science
+Publish_Year: 2020
+URL: https://www.science.org/doi/abs/10.1126/science.aaz2078
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.52.1.8
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Cancer Society publishes a summary of existing recommendations for early cancer detection,  including updates, and/or emerging issues that are relevant to screening for cancer. In last
+Journal: CA: a cancer journal …
+Publish_Year: 2002
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.52.1.8
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/nrc1041
+Title: The case for early detection | Nature Reviews Cancer
+Author: R Etzioni, N Urban, S Ramsey, M McIntosh
+Abstract: Early detection represents one of the most promising approaches to reducing the growing cancer burden. It already has a key role in the management of cervical and breast cancer, and is likely to become more important in the control of colorectal, prostate and lung cancer. Early-detection research has recently been revitalized by the advent of novel molecular technologies that can identify cellular changes at the level of the genome or proteome, but how can we harness these new technologies to develop effective and practical screening tests?
+Journal: … reviews cancer
+Publish_Year: 2003
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/93/14/1054/2906203
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The goal of a cancer-screening program is to detect tumors at a stage  In this commentary,  we use the term “biomarker” for cancer detection in a broad sense. Cancer is a diverse disease
+Journal: … the National Cancer …
+Publish_Year: 2001
+URL: https://academic.oup.com/jnci/article-abstract/93/14/1054/2906203
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.53.1.27
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer  for early cancer detection, in this issue, we provide: (1) a description of an  additional option to the current recommendations for fecal occult blood tests for colorectal cancer
+Journal: … cancer journal for clinicians
+Publish_Year: 2003
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.53.1.27
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41568-021-00389-3
+Title: Synthetic biomarkers: a twenty-first century path to early cancer detection | Nature Reviews Cancer
+Author: GA Kwong, S Ghosh, L Gamboa, C Patriotis
+Abstract: Detection of cancer at an early stage when it is still localized improves patient response to medical interventions for most cancer types. The success of screening tools such as cervical cytology to reduce mortality has spurred significant interest in new methods for early detection (for example, using non-invasive blood-based or biofluid-based biomarkers). Yet biomarkers shed from early lesions are limited by fundamental biological and mass transport barriers — such as short circulation times and blood dilution — that limit early detection. To address this issue, synthetic biomarkers are being developed. These represent an emerging class of diagnostics that deploy bioengineered sensors inside the body to query early-stage tumours and amplify disease signals to levels that could potentially exceed those of shed biomarkers. These strategies leverage design principles and advances from chemistry, synthetic biology and cell engineering. In this Review, we discuss the rationale for development of biofluid-based synthetic biomarkers. We&nbsp;examine how these strategies harness dysregulated features of tumours to amplify detection signals, use tumour-selective activation to increase specificity and leverage natural processing of bodily fluids (for example, blood, urine and proximal fluids) for easy detection. Finally, we highlight the challenges that exist for preclinical development and clinical translation of synthetic biomarker diagnostics. Synthetic biomarkers are an emerging class of diagnostics that amplify disease signals for sensitive and specific detection of early-stage cancers. This Review discusses the rationale and design of biofluid-based synthetic biomarkers as well as translational challenges and future directions.
+Journal: … Reviews Cancer
+Publish_Year: 2021
+================================================================================
+URL: https://link.springer.com/article/10.1186/s12938-021-00857-9
+Title: miRNAs as biomarkers for early cancer detection and their application in the development of new diagnostic tools | BioMedical Engineering OnLine
+Author: LJ Galvão-Lima, AHF Morais, RAM Valentim
+Abstract: Over the last decades, microRNAs (miRNAs) have emerged as important molecules associated with the regulation of gene expression in humans and other organisms, expanding the strategies available to diagnose and handle several diseases. This paper presents a systematic review of literature of miRNAs related to cancer development and explores the main techniques used to quantify these molecules and their limitations as screening strategy. The bibliographic research was conducted using the online databases, PubMed, Google Scholar, Web of Science, and Science Direct searching the terms “microRNA detection”, “miRNA detection”, “miRNA and prostate cancer”, “miRNA and cervical cancer”, “miRNA and cervix cancer”, “miRNA and breast cancer”, and “miRNA and early cancer diagnosis”. Along the systematic review over 26,000 published papers were reported, and 252 papers were returned after applying the inclusion and exclusion criteria, which were considered during this review. The aim of this study is to identify potential miRNAs related to cancer development that may be useful for early cancer diagnosis, notably in the breast, prostate, and cervical cancers. In addition, we suggest a preliminary top 20 miRNA panel according to their relevance during the respective cancer development. Considering the progressive number of new cancer cases every year worldwide, the development of new diagnostic tools is critical to refine the accuracy of screening tests, improving the life expectancy and allowing a better prognosis for the affected patients.
+Journal: Biomedical engineering …
+Publish_Year: 2021
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.54.1.41
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: occult blood testing for colorectal cancer screening were published. , 7  early cancer  detection, in this issue we provide (1) a brief summary of updated ACS guidelines for breast cancer
+Journal: … cancer journal for clinicians
+Publish_Year: 2004
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.54.1.41
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.56.1.11
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Cancer Society (ACS) publishes a summary of its recommendations for early cancer detection  to screening for cancer, and a summary of the most current data on cancer screening rates
+Journal: … cancer journal for clinicians
+Publish_Year: 2006
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.56.1.11
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70211-6/fulltext?fromsource=nelm&code=lancet-site
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Screening for, and management of, early prostate cancer is one of the most challenging and   risk assessment, early detection, and management of early prostate cancer, and identify the
+Journal: The lancet …
+Publish_Year: 2014
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70211-6/fulltext?fromsource=nelm&code=lancet-site
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1186/s12967-023-03960-8
+Title: Liquid biopsies: the future of cancer early detection | Journal of Translational Medicine
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Cancer is a worldwide pandemic. The burden it imposes grows steadily on a global scale causing emotional, physical, and financial strains on individuals, families, and health care systems. Despite being the second leading cause of death worldwide, many cancers do not have screening programs and many people with a high risk of developing cancer fail to follow the advised medical screening regime due to the nature of the available screening tests and other challenges with compliance. Moreover, many liquid biopsy strategies being developed for early detection of cancer lack the sensitivity required to detect early-stage cancers. Early detection is key for improved quality of life, survival, and to reduce the financial burden of cancer treatments which are greater at later stage detection. This review examines the current liquid biopsy market, focusing in particular on the strengths and drawbacks of techniques in achieving early cancer detection. We explore the clinical utility of liquid biopsy technologies for the earlier detection of solid cancers, with a focus on how a combination of various spectroscopic and -omic methodologies may pave the way for more efficient cancer diagnostics.
+Journal: Journal of translational …
+Publish_Year: 2023
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0959804909006467
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: such as the cancer profile of a country, the characteristics of cancer types and the  early  cancer detection. There is a clear need for research to categorise cancer types according to early
+Journal: European Journal of Cancer
+Publish_Year: 2009
+URL: https://www.sciencedirect.com/science/article/pii/S0959804909006467
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jnccn.org/view/journals/jnccn/8/2/article-p240.xml
+Title: Prostate Cancer Early Detection in: Journal of the National Comprehensive Cancer Network Volume 8 Issue 2 (2010)
+Author: MH Kawachi, RR Bahnson, M Barry, JE Busby
+Abstract: "Prostate Cancer Early Detection" published on Feb 2010 by Harborside Press, LLC.
+Journal: … Comprehensive Cancer …
+Publish_Year: 2010
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/0046817792901029
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: vigorous program of early detection because of their concern that man\ cancers found would  be “ the nature of cancers detected with’these tests to determine whether these cancers are “
+Journal: Human pathology
+Publish_Year: 1992
+URL: https://www.sciencedirect.com/science/article/pii/0046817792901029
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.51.1.38
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer, and endometrial cancer, and updated the narrative related to the use of early detection  tests for lung cancer. This  table of all ACS early cancer detection guidelines (Table 1).
+Journal: CA: a cancer journal …
+Publish_Year: 2001
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.51.1.38
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0163725819302104
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: early cancer detection test that leverages ctDNA. Although some hurdles (like early stage   into healthcare, ctDNA assays hold substantial potential as an early cancer screening test.
+Journal: Pharmacology & …
+Publish_Year: 2020
+URL: https://www.sciencedirect.com/science/article/pii/S0163725819302104
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/nrc1043
+Title: Proteomic applications for the early detection of cancer | Nature Reviews Cancer
+Author: JD Wulfkuhle, LA Liotta, EF Petricoin
+Abstract: The ability of physicians to effectively treat and cure cancer is directly dependent on their ability to detect cancers at their earliest stages. Proteomic analyses of early-stage cancers have provided new insights into the changes that occur in the early phases of tumorigenesis and represent a new resource of candidate biomarkers for early-stage disease. Studies that profile proteomic patterns in body fluids also present new opportunities for the development of novel, highly sensitive diagnostic tools for the early detection of cancer.
+Journal: Nature reviews cancer
+Publish_Year: 2003
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.55.1.31
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: or update of a cancer screening guideline. These yearly  to cancer screening, or testing  for early cancer detection in  and issues pertaining to early cancer detection, and a summary
+Journal: … cancer journal for clinicians
+Publish_Year: 2005
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.55.1.31
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.cell.com/trends/cancer/fulltext/S2405803317300419?dgcid=twitter_social_trecan-backlist-7&sf183699184=1
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: trial for early detection of lung cancer using biomarkers ever  early-stage lung cancers in  the test arm compared with the standard of care. Early results demonstrate a cancer detection
+Journal: Trends in cancer
+Publish_Year: 2017
+URL: https://www.cell.com/trends/cancer/fulltext/S2405803317300419?dgcid=twitter_social_trecan-backlist-7&sf183699184=1
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.chestmed.theclinics.com/article/S0272-5231(17)30107-7/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: improved screening and detection of early lung cancer of the  tool not only for detecting early  lung cancer visually but also for  The early lung cancer arising in the peripheral lung fields
+Journal: Clinics in chest …
+Publish_Year: 2018
+URL: https://www.chestmed.theclinics.com/article/S0272-5231(17)30107-7/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300128
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: programs for other cancers, or pre-cancers, would be equally successful. However,  screening, detection, and removal of pre-cancer or early cancer in other cancer types have not
+Journal: Seminars in oncology nursing
+Publish_Year: 2017
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300128
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(01)00560-5/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of early cancer and people at risk of developing cancer. We  platforms to facilitate detection  of early cancer by means of  Early Detection Research Network at the National Cancer
+Journal: The lancet oncology
+Publish_Year: 2001
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(01)00560-5/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(19910615)67:12%3C2949::AID-CNCR2820671202%3E3.0.CO;2-X
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Cancer Society National Prostate Cancer Detection Project (ACSNPCDP) is a multidisciplinary,  multicenter effort to assess the feasibility of early prostate cancer detection  cancer had
+Journal: Cancer
+Publish_Year: 1991
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(19910615)67:12%3C2949::AID-CNCR2820671202%3E3.0.CO;2-X
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1582-4934.2011.01355.x
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: in cancer  to detect and/or monitor cancer progression. Over the past 10 years, several  articles have demonstrated the potential use of autoantibody detection in early cancer detection.
+Journal: Journal of cellular and …
+Publish_Year: 2011
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1582-4934.2011.01355.x
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1582-4934.2011.01355.x?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: in cancer  to detect and/or monitor cancer progression. Over the past 10 years, several  articles have demonstrated the potential use of autoantibody detection in early cancer detection.
+Journal: Journal of cellular and …
+Publish_Year: 2011
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1582-4934.2011.01355.x?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2007/309382
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to detect early-stage epithelial ovarian cancer. Considering the heterogeneity of ovarian  cancers  In most early studies [39] the use of multiple markers has improved sensitivity at the
+Journal: Disease markers
+Publish_Year: 2007
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2007/309382
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2007/309382?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to detect early-stage epithelial ovarian cancer. Considering the heterogeneity of ovarian  cancers  In most early studies [39] the use of multiple markers has improved sensitivity at the
+Journal: Disease markers
+Publish_Year: 2007
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2007/309382?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/cncr.32887
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: We describe phases of early detection program development of effective breast cancer  early detection programs, as well as an  early detection for breast cancer in real-world settings.
+Journal: Cancer
+Publish_Year: 2020
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/cncr.32887
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://journals.sagepub.com/doi/abs/10.3233/THC-181277
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: This paper reviews the current screening program and techniques for early-stage breast  cancer detection. In addition, this paper suggests a way for more efficient determination of the
+Journal: … and Health Care
+Publish_Year: 2018
+URL: https://journals.sagepub.com/doi/abs/10.3233/THC-181277
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41698-017-0039-5
+Title: The potential of liquid biopsies for the early detection of cancer | npj Precision Oncology
+Author: E Heitzer, S Perakis, JB Geigl, MR Speicher
+Abstract: Precision medicine refers to the choosing of targeted therapies based on genetic data. Due to the increasing availability of data from large-scale tumor genome sequencing projects, genome-driven oncology may have enormous potential to change the clinical management of patients with cancer. To this end, components of tumors, which are shed into the circulation, i.e., circulating tumor cells (CTCs), circulating tumor DNA (ctDNA), or extracellular vesicles, are increasingly being used for monitoring tumor genomes. A growing number of publications have documented that these “liquid biopsies” are informative regarding response to given therapies, are capable of detecting relapse with lead time compared to standard measures, and reveal mechanisms of resistance. However, the majority of published studies relate to advanced tumor stages and the use of liquid biopsies for detection of very early malignant disease stages is less well documented. In early disease stages, strategies for analysis are in principle relatively similar to advanced stages. However, at these early stages, several factors pose particular difficulties and challenges, including the lower frequency and volume of aberrations, potentially confounding phenomena such as clonal expansions of non-tumorous tissues or the accumulation of cancer-associated mutations with age, and the incomplete insight into driver alterations. Here we discuss biology, technical complexities and clinical significance for early cancer detection and their impact on precision oncology.
+Journal: NPJ precision oncology
+Publish_Year: 2017
+================================================================================
+URL: https://academic.oup.com/clinchem/article-abstract/47/10/1901/5639259
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Early detection is critical in cancer control and prevention.  of the Early Detection Research  Network at the National Cancer  validate biomarkers for early detection and risk assessment.
+Journal: Clinical …
+Publish_Year: 2001
+URL: https://academic.oup.com/clinchem/article-abstract/47/10/1901/5639259
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cancerdiscovery/article-abstract/8/7/803/10141
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to develop precision prevention and early-detection (PPED) strategies.  cancer prevention  and early-detection approaches have the potential to reduce a large proportion of the cancer
+Journal: Cancer …
+Publish_Year: 2018
+URL: https://aacrjournals.org/cancerdiscovery/article-abstract/8/7/803/10141
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-4658.2009.07396.x
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Further work involving the elucidation of autoantibodies against gastritis and stomach cancer  should aid in early cancer detection as well as improve our understanding of the cancer.
+Journal: The FEBS journal
+Publish_Year: 2009
+URL: https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-4658.2009.07396.x
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300190
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Breast cancer remains a complex, heterogeneous disease. Serial screening with  mammography is the most effective method to detect early stage disease and decrease mortality.
+Journal: Seminars in oncology nursing
+Publish_Year: 2017
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300190
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(19)30416-9/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: practices with symptoms that suggest this cancer. We review early detection biomarkers,  explore the potential of using social media for detection, appraise prediction models developed
+Journal: The lancet …
+Publish_Year: 2020
+URL: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(19)30416-9/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0094014321018000
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for early detection and effective treatment of prostate cancer will grow. It is urgent, therefore,  that we continue to explore the value of new techniques for detecting prostate cancer  cancer
+Journal: Urologic Clinics of North America
+Publish_Year: 1989
+URL: https://www.sciencedirect.com/science/article/pii/S0094014321018000
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.science.org/doi/abs/10.1126/scitranslmed.3003110
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Note also that the goal of this study (and, more generally, of the early cancer detection  problem) is not to detect advanced cancers that have already metastasized, but to detect the
+Journal: Science translational medicine
+Publish_Year: 2011
+URL: https://www.science.org/doi/abs/10.1126/scitranslmed.3003110
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://royalsocietypublishing.org/doi/abs/10.1098/rsob.170070
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Hence, for both SCLC and NSCLC there is a clear rationale for detection of early stage   early detection of lung cancer. There are many possible means of early detection of lung cancer
+Journal: Open …
+Publish_Year: 2017
+URL: https://royalsocietypublishing.org/doi/abs/10.1098/rsob.170070
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.liebertpub.com/doi/abs/10.1016/j.jmhg.2004.12.012
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer, poorer knowledge of cancer warning signs, and relatively low contact with health  professionals which might preclude opportunities to promote cancer detection  early detection
+Journal: Journal of Men's Health …
+Publish_Year: 2005
+URL: https://www.liebertpub.com/doi/abs/10.1016/j.jmhg.2004.12.012
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41467-020-17316-z
+Title: Non-invasive early detection of cancer four years before conventional diagnosis using a blood test | Nature Communications
+Author: X Chen, J Gole, A Gore, Q He, M Lu, J Min
+Abstract: Early detection has the potential to reduce cancer mortality, but an effective screening test must demonstrate asymptomatic cancer detection years before conventional diagnosis in a longitudinal study. In the Taizhou Longitudinal Study (TZL), 123,115 healthy subjects provided plasma samples for long-term storage and were then monitored for cancer occurrence. Here we report the preliminary results of PanSeer, a noninvasive blood test based on circulating tumor DNA methylation, on TZL plasma samples from 605 asymptomatic individuals, 191 of whom were later diagnosed with stomach, esophageal, colorectal, lung or liver cancer within four years of blood draw. We also assay plasma samples from an additional 223 cancer patients, plus 200 primary tumor and normal tissues. We show that PanSeer detects five common types of cancer in 88%&nbsp;(95% CI: 80–93%) of post-diagnosis patients with a specificity of 96% (95% CI: 93–98%), We also demonstrate that PanSeer detects cancer in 95%&nbsp;(95% CI: 89–98%) of asymptomatic individuals who were later diagnosed, though future longitudinal studies are required to confirm this result. These results demonstrate that cancer can be non-invasively detected up to four years before current standard of care. Patients whose disease is diagnosed in its early stages have better outcomes. In this study, the authors develop a non invasive blood test based on circulating tumor DNA methylation that can potentially detect cancer occurrence even in asymptomatic patients.
+Journal: Nature …
+Publish_Year: 2020
+================================================================================
+URL: https://www.nature.com/articles/nrclinonc.2013.212
+Title: The role of primary care in early detection and follow-up of cancer | Nature Reviews Clinical Oncology
+Author: JD Emery, K Shaw, B Williams, D Mazza
+Abstract: Primary care providers are pivotal in reducing diagnostic delay of cancer, particularly in health systems that have long waiting times for outpatient diagnostic services. In this Review, the authors discuss several aspects of primary care, from referrals to communication and follow-up care, focusing on the most common cancers managed at the GP office. Primary care providers have important roles across the cancer continuum, from encouraging screening and accurate diagnosis to providing care during and after treatment for both the cancer and any comorbid conditions. Evidence shows that higher cancer screening participation rates are associated with greater involvement of primary care. Primary care providers are pivotal in reducing diagnostic delay, particularly in health systems that have long waiting times for outpatient diagnostic services. However, so-called fast-track systems designed to speed up hospital referrals are weakened by significant variation in their use by general practitioners (GPs), and affect the associated conversion and detection rates. Several randomized controlled trials have shown primary care-led follow-up care to be equivalent to hospital-led care in terms of patient wellbeing, recurrence rates and survival, and might be less costly. For primary care-led follow-up to be successful, appropriate guidelines must be incorporated, clear communication must be provided and specialist care must be accessible if required. Finally, models of long-term cancer follow-up are needed that provide holistic care and incorporate management of co-morbid conditions. We discuss all these aspects of primary care, focusing on the most common cancers managed at the GP office—breast, colorectal, prostate, lung and cervical cancers.
+Journal: Nature reviews Clinical …
+Publish_Year: 2014
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.20066
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: American Cancer Society (ACS) Prostate Cancer Advisory  of recommendations for early  prostate cancer detection. A  evidence related to the early detection of prostate cancer, test
+Journal: CA: a cancer journal …
+Publish_Year: 2010
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.20066
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/91/16/1409/2543802
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: limited to breast cancer. Our study extends this finding to other cancers that can be detected  at an early stage by screening (notably, melanoma, colorectal cancer, and prostate cancer).
+Journal: … the National Cancer …
+Publish_Year: 1999
+URL: https://academic.oup.com/jnci/article-abstract/91/16/1409/2543802
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://books.google.com/books?hl=en&lr=&id=wyS0Q-QFai0C&oi=fnd&pg=PP19&dq=early+cancer+detection&ots=8dGrEsxXVj&sig=9EJGtGy7A3EFZCCqxBjkx4NuvYo
+Title: Fulfilling the Potential of Cancer Prevention and Early Detection - National Research Council, Institute of Medicine, National Cancer Policy Board - Google Books
+Author: M Hewitt, T Byers, SJ Curry
+Abstract: Cancer ranks second only to heart disease as a leading cause of death in the United States, making it a tremendous burden in years of life lost, patient suffering, and economic costs. Fulfilling the Potential for Cancer Prevention and Early Detection reviews the proof that we can dramatically reduce cancer rates. The National Cancer Policy Board, part of the Institute of Medicine, outlines a national strategy to realize the promise of cancer prevention and early detection, including specific and wide-ranging recommendations. Offering a wealth of information and directly addressing major controversies, the book includes:  A detailed look at how significantly cancer could be reduced through lifestyle changes, evaluating approaches used to alter eating, smoking, and exercise habits. An analysis of the intuitive notion that screening for cancer leads to improved health outcomes, including a discussion of screening methods, potential risks, and current recommendations. An examination of cancer prevention and control opportunities in primary health care delivery settings, including a review of interventions aimed at improving provider performance. Reviews of professional education and training programs, research trends and opportunities, and federal programs that support cancer prevention and early detection.  This in-depth volume will be of interest to policy analysts, cancer and public health specialists, health care administrators and providers, researchers, insurers, medical journalists, and patient advocates.
+Journal: NA
+Publish_Year: 2003
+================================================================================
+URL: https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1196/annals.1318.003
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancers, it is not useful for early cancer detection. Phase 4 studies are prospective screening  trials to determine whether a biomarker can detect a cancer at an early  if they have cancer.
+Journal: Annals of the New York …
+Publish_Year: 2004
+URL: https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1196/annals.1318.003
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/clincancerres/article-abstract/14/4/1065/73384
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for ovarian cancer detection. In order to outweigh the benefit of early detection with the  complication of surgery for false-positive screening results, an ovarian cancer screening strategy
+Journal: Clinical cancer …
+Publish_Year: 2008
+URL: https://aacrjournals.org/clincancerres/article-abstract/14/4/1065/73384
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jnccn.org/abstract/journals/jnccn/12/9/article-p1211.xml
+Title: Prostate Cancer Early Detection, Version 1.2014 in: Journal of the National Comprehensive Cancer Network Volume 12 Issue 9 (2014)
+Author: PR Carroll, JK Parsons, G Andriole
+Abstract: The NCCN Guidelines for Prostate Cancer Early Detection provide recommendations for men choosing to participate in an early detection program for prostate cancer. These NCCN Guidelines Insights highlight notable recent updates. Overall, the 2014 update represents a more streamlined and concise set of recommendations. The panel stratified the age ranges at which initiating testing for prostate cancer should be considered. Indications for biopsy include both a cutpoint and the use of multiple risk variables in combination. In addition to other biomarkers of specificity, the Prostate Health Index has been included to aid biopsy decisions in certain men, given recent FDA approvals.
+Journal: … Comprehensive Cancer …
+Publish_Year: 2014
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/30/3/460/72416
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Given published data (5) detailing cancer cases that are detectable by a cfDNA-based  multi-cancer detection assay, we model (i) the opportunity to intercept cancers before diagnosis
+Journal: Cancer Epidemiology …
+Publish_Year: 2021
+URL: https://aacrjournals.org/cebp/article-abstract/30/3/460/72416
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.43.3.134
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Cancer Society-National Prostate Cancer Detection Project  calculations of prostate cancer  early detection have not been  American Cancer Society-National Prostate Cancer Detection
+Journal: CA: A Cancer Journal for …
+Publish_Year: 1993
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.43.3.134
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1524-4741.9.s2.4.x
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: We define early detection as the identification of breast cancer at a point in its natural history  when it can be treated with techniques that have the least physical impact and the greatest
+Journal: The breast …
+Publish_Year: 2003
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1524-4741.9.s2.4.x
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1524-4741.9.s2.4.x?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: We define early detection as the identification of breast cancer at a point in its natural history  when it can be treated with techniques that have the least physical impact and the greatest
+Journal: The breast …
+Publish_Year: 2003
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1524-4741.9.s2.4.x?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.auajournals.org/doi/abs/10.1016/j.juro.2013.04.119
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for the purpose of reducing prostate cancer mortality with the intended user as the urologist.   early detection and screening for prostate cancer; both imply detection of disease at an early
+Journal: The Journal of …
+Publish_Year: 2013
+URL: https://www.auajournals.org/doi/abs/10.1016/j.juro.2013.04.119
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.tandfonline.com/doi/abs/10.2217/17520363.2.3.291
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: combination, would detect more than 90% of early-stage disease high sensitivity and specificity  for early-stage disease, but  effective screening strategy for ovarian cancer. In this review,
+Journal: Biomarkers in medicine
+Publish_Year: 2008
+URL: https://www.tandfonline.com/doi/abs/10.2217/17520363.2.3.291
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/19/5/1193/67925
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: 2]proPSA for prostate cancer detection and assess its association with aggressive disease.   prostate cancer detection study at four National Cancer Institute Early Detection Research
+Journal: Cancer epidemiology …
+Publish_Year: 2010
+URL: https://aacrjournals.org/cebp/article-abstract/19/5/1193/67925
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0142(19960101)77:1%3C150::AID-CNCR25%3E3.0.CO;2-3
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Less than 6% of the cancers detected in this study were  These data quantify the yield of  early cancer detection that  of early detection intervention based on these three detection
+Journal: Cancer …
+Publish_Year: 1996
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0142(19960101)77:1%3C150::AID-CNCR25%3E3.0.CO;2-3
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1186/s12885-017-3693-7
+Title: The evidence base for circulating tumour DNA blood-based biomarkers for the early detection of cancer: a systematic mapping review | BMC Cancer
+Author: , J Shaw, UK Early Cancer Detection Consortium
+Abstract: The presence of circulating cell-free DNA from tumours in blood (ctDNA) is of major importance to those interested in early cancer detection, as well as to those wishing to monitor tumour progression or diagnose the presence of activating mutations to guide treatment. In 2014, the UK Early Cancer Detection Consortium undertook a systematic mapping review of the literature to identify blood-based biomarkers with potential for the development of a non-invasive blood test for cancer screening, and which identified this as a major area of interest. This review builds on the mapping review to expand the ctDNA dataset to examine the best options for the detection of multiple cancer types. The original mapping review was based on comprehensive searches of the electronic databases Medline, Embase, CINAHL, the Cochrane library, and Biosis to obtain relevant literature on blood-based biomarkers for cancer detection in humans (PROSPERO no. CRD42014010827). The abstracts for each paper were reviewed to determine whether validation data were reported, and then examined in full. Publications concentrating on monitoring of disease burden or mutations were excluded. The search identified 94 ctDNA studies meeting the criteria for review. All but 5 studies examined one cancer type, with breast, colorectal and lung cancers representing 60% of studies. The size and design of the studies varied widely. Controls were included in 77% of publications. The largest study included 640 patients, but the median study size was 65 cases and 35 controls, and the bulk of studies (71%) included less than 100 patients. Studies either estimated cfDNA levels non-specifically or tested for cancer-specific mutations or methylation changes (the majority using PCR-based methods). We have systematically reviewed ctDNA blood biomarkers for the early detection of cancer. Pre-analytical, analytical, and post-analytical considerations were identified which need to be addressed before such biomarkers enter clinical practice. The value of small studies with no comparison between methods, or even the inclusion of controls is highly questionable, and larger validation studies will be required before such methods can be considered for early cancer detection.
+Journal: BMC cancer
+Publish_Year: 2017
+================================================================================
+URL: https://www.cell.com/cell/fulltext/S0092-8674(17)30115-0?elsca1=etoc&%3Belsca2=email&%3Belsca3=0092-8674_20170209_168_4_&%3Belsca4=Cell+Press
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Challenges for Cancer Screening Despite the promise, the field of early cancer detection  is filled with cautionary tales that highlight the challenges. Early stage solid tumors are small
+Journal: Cell
+Publish_Year: 2017
+URL: https://www.cell.com/cell/fulltext/S0092-8674(17)30115-0?elsca1=etoc&%3Belsca2=email&%3Belsca3=0092-8674_20170209_168_4_&%3Belsca4=Cell+Press
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/clincancerres/article-abstract/20/10/2643/78429
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: We observed in patients with early-stage breast cancer that ddPCR could detect PIK3CA   accurately detect cancer DNA mutations in the blood of patients with early-stage breast cancer,
+Journal: Clinical cancer …
+Publish_Year: 2014
+URL: https://aacrjournals.org/clincancerres/article-abstract/20/10/2643/78429
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.hemonc.theclinics.com/article/S0889-8588(18)30753-6/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The rationale for early detection of ovarian cancer is compelling. Ovarian cancer confined to  the ovaries (stage I) can be cured in up to 90% of patients, and disease confined to the
+Journal: Hematology/Oncology Clinics
+Publish_Year: 2018
+URL: https://www.hemonc.theclinics.com/article/S0889-8588(18)30753-6/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.30670
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: imaging methods and novel molecular biomarkers for early diagnosis of PC. We also  discuss the current status of molecular markers for early detection of PC, and highlight some
+Journal: … journal of cancer
+Publish_Year: 2017
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.30670
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.30670?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: imaging methods and novel molecular biomarkers for early diagnosis of PC. We also  discuss the current status of molecular markers for early detection of PC, and highlight some
+Journal: … journal of cancer
+Publish_Year: 2017
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.30670?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ascopubs.org/doi/abs/10.1200/jco.2002.20.4.921
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of having prostate cancer. An optimal method for early cancer detection will correctly identify   with a high probability of having prostate cancer). Various strategies have been investigated
+Journal: Journal of Clinical …
+Publish_Year: 2002
+URL: https://ascopubs.org/doi/abs/10.1200/jco.2002.20.4.921
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S2173510717300551
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The benefits of early detection have been accompanied by  on the recommendations in  breast cancer screening at an  a new molecular classification of breast cancer. Our aim is to
+Journal: Radiología (English Edition)
+Publish_Year: 2017
+URL: https://www.sciencedirect.com/science/article/pii/S2173510717300551
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.bmj.com/content/301/6751/513.short
+Title: Early detection of gastric cancer. | The BMJ
+Author: MT Hallissey, WH Allum, AJ Jewkes, DJ Ellis
+Abstract: for breast cancer by mammography detects one early case for  Our findings show that one  early case of gastric cancer is  cancer kills over 10 000 people a year the potential of early
+Journal: British Medical …
+Publish_Year: 1990
+================================================================================
+URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00365-8?dgcid=raven_jbs_etoc_email
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: early diagnosis of cancers. We review the current understanding of existing liquid biopsy-based  modalities in early cancer  The potential of liquid biopsy-based early detection of cancers
+Journal: Cell Reports …
+Publish_Year: 2023
+URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00365-8?dgcid=raven_jbs_etoc_email
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0960977612000033
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer early detection in western countries; however it may not be the most cost-effective  approach to early detection  group which produces the majority of breast cancer cases in LMC.
+Journal: The Breast
+Publish_Year: 2012
+URL: https://www.sciencedirect.com/science/article/pii/S0960977612000033
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/clincancerres/article-abstract/7/1/5/288203
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of preinvasive and early-invasive cancer to identify biomarkers for early detection of lung  cancer and  For early detection of lung cancer, we need more clinical data evaluating these new
+Journal: Clinical Cancer …
+Publish_Year: 2001
+URL: https://aacrjournals.org/clincancerres/article-abstract/7/1/5/288203
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ascopubs.org/doi/abs/10.1200/JCO.2008.19.2484
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: detect 86% of patients with early-stage ovarian cancer with an SP of 98%. This panel could  be used as the first-line test in a two-step strategy for early detection,  Trial of Ovarian Cancer
+Journal: Journal of Clinical …
+Publish_Year: 2010
+URL: https://ascopubs.org/doi/abs/10.1200/JCO.2008.19.2484
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30593-3/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: If we are to beat cancer, early detection and diagnosis are arguably the most effective means  we  of people diagnosed with cancer in the UK, with survival doubling since the 1970s.
+Journal: The Lancet …
+Publish_Year: 2020
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30593-3/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pubs.acs.org/doi/full/10.1021/cr100420s
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: (9) In Table 1, some gene-based biomarkers in lung cancer detection are classified into   Thus far, it has not been possible to identify a specific biomarker for lung cancer detection, and
+Journal: Chemical reviews
+Publish_Year: 2011
+URL: https://pubs.acs.org/doi/full/10.1021/cr100420s
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jcp.bmj.com/content/50/2/106.short
+Title: Telomerase in the early detection of cancer. | Journal of Clinical Pathology
+Author: JW Shay, AF Gazdar
+Abstract: of telomerase assays in the early detection of cancer, and in the  Finally, studies comparing  other early cancer detection  regarding telomerase activity and early detection of cancer, it is
+Journal: Journal of clinical pathology
+Publish_Year: 1997
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.21550
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: screening for these cancers and a blueprint for the future based on an assessment of what   of cancer control strategies focused on early cancer detection. The Evaluation of Cancer
+Journal: CA: a cancer journal …
+Publish_Year: 2019
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.21550
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0304416507000402
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for breast cancer biomarker identification  early detection of breast cancer. It is expected  that technologies developed for breast cancer detection will be useful for other types of cancer.
+Journal: Biochimica et Biophysica Acta (BBA)-General Subjects
+Publish_Year: 2007
+URL: https://www.sciencedirect.com/science/article/pii/S0304416507000402
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S2213538313000039
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: , detect and manage diseases such as oral cancer are likely  to enhance early detection of  oral cancer should be designed psychosocial influences on early detection of oral squamous
+Journal: Journal of Cancer Policy
+Publish_Year: 2013
+URL: https://www.sciencedirect.com/science/article/pii/S2213538313000039
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/95/7/511/2520685
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: could improve the performance of existing early detection tests (4).  However, for evaluating  early detection tests of cancer, ROC  the performance of early detection tests of cancer. It also
+Journal: Journal of the National Cancer Institute
+Publish_Year: 2003
+URL: https://academic.oup.com/jnci/article-abstract/95/7/511/2520685
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://journals.lww.com/journalppo/fulltext/2011/11000/Application_of_Proteomics_to_Cancer_Early.4.aspx
+Title: The Cancer Journal
+Author: S Hanash, A Taguchi
+Abstract: The development of biomarker panels for early cancer detection is particularly  in early  development. The difficulty in identifying markers with suitable performance for early detection is
+Journal: The Cancer Journal
+Publish_Year: 2011
+================================================================================
+URL: https://aacrjournals.org/clincancerres/article-abstract/7/5/1118/288685
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to develop common approaches to detect these cancers.  the risk of cancer or to detect  existing cancer early, even in its  tests that are useful for early detection or screening. Molecular
+Journal: Clinical Cancer Research
+Publish_Year: 2001
+URL: https://aacrjournals.org/clincancerres/article-abstract/7/5/1118/288685
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S1535947620349021
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer is characterize by few early  cancer. During the last decade, a research effort has  been directed toward improving outcomes for ovarian cancer by screening for preclinical, early
+Journal: Molecular & Cellular Proteomics
+Publish_Year: 2004
+URL: https://www.sciencedirect.com/science/article/pii/S1535947620349021
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.biorxiv.org/content/10.1101/237578.abstract
+Title: Challenges in Using ctDNA to Achieve Early Detection of Cancer | bioRxiv
+Author: IS Haque, O Elemento
+Abstract: bioRxiv - the preprint server for biology, operated by Cold Spring Harbor Laboratory, a research and educational institution
+Journal: BioRxiv
+Publish_Year: 2017
+================================================================================
+URL: https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(22)00111-3?dgcid=raven_jbs_aip_email
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer. In this review, we provide an overview of EVs and the rationale for using them for early  cancer detection and why these technologies will be necessary for early cancer detection.
+Journal: Trends in molecular medicine
+Publish_Year: 2022
+URL: https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(22)00111-3?dgcid=raven_jbs_aip_email
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.bmj.com/content/304/6828/687.short
+Title: Cancer: improving early detection and prevention. A community practice randomised trial. | The BMJ
+Author: AJ Dietrich, GT O'Connor, A Keller, PA Carney
+Abstract: the cancer prevention and early detection services indicated annually according to the US  National Cancer Institute.  improve provision of cancer early detection and preventive services.
+Journal: British Medical …
+Publish_Year: 1992
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4847569/
+Title: Early detection of lung cancer - PMC
+Author: DE Midthun
+Abstract: Most patients with lung cancer are diagnosed when they present with symptoms, they have advanced stage disease, and curative treatment is no longer an option. An effective screening test has long been desired for early detection with the goal of ...
+Journal: F1000Research
+Publish_Year: 2016
+================================================================================
+URL: https://aacrjournals.org/cancerpreventionresearch/article-abstract/4/7/1126/49829
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: detect lung cancer early is undisputed. Lung cancer is the worldwide leading cause of  cancer Outcomes are substantially better with early, localized disease compared with locally
+Journal: Cancer prevention …
+Publish_Year: 2011
+URL: https://aacrjournals.org/cancerpreventionresearch/article-abstract/4/7/1126/49829
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jnccn.org/view/journals/jnccn/13/12/article-p1534.xml?print=&utm_source=TrendMD&utm_medium=cpc&utm_campaign=JNCCN_TrendMD_1
+Title: Prostate Cancer Early Detection, Version 2.2015 in: Journal of the National Comprehensive Cancer Network Volume 13 Issue 12 (2015)
+Author: PR Carroll, JK Parsons, G Andriole
+Abstract: Prostate cancer represents a spectrum of disease that ranges from nonaggressive, slow-growing disease that may not require treatment to aggressive, fast-growing disease that does. The NCCN Guidelines for Prostate Cancer Early Detection provide a set of sequential recommendations detailing a screening and evaluation strategy for maximizing the detection of prostate cancer that is potentially curable and that, if left undetected, represents a risk to the patient. The guidelines were developed for healthy men who have elected to participate in the early detection of prostate cancer, and they focus on minimizing unnecessary procedures and limiting the detection of indolent disease.
+Journal: … Comprehensive Cancer …
+Publish_Year: 2015
+================================================================================
+URL: https://www.nature.com/articles/s41586-020-2140-0
+Title: Integrating genomic features for non-invasive early lung cancer detection | Nature
+Author: JJ Chabon, EG Hamilton, DM Kurtz, MS Esfahani
+Abstract: Radiologic screening of high-risk adults reduces lung-cancer-related mortality1,2; however, a small minority of eligible individuals undergo such screening in the United States3,4. The availability of blood-based tests could increase screening uptake. Here we introduce improvements to cancer personalized profiling by deep sequencing (CAPP-Seq)5, a method for the analysis of circulating tumour DNA (ctDNA), to better facilitate screening applications. We show that, although levels are very low in early-stage lung cancers, ctDNA is present prior to treatment in most patients and its presence is strongly prognostic. We also find that the majority of somatic mutations in the cell-free DNA (cfDNA) of patients with lung cancer and of risk-matched controls reflect clonal haematopoiesis and are non-recurrent. Compared with tumour-derived mutations, clonal haematopoiesis mutations occur on longer cfDNA fragments and lack mutational signatures that are associated with tobacco smoking. Integrating these findings with other molecular features, we develop and prospectively validate a machine-learning method termed ‘lung cancer likelihood in plasma’ (Lung-CLiP), which can robustly discriminate early-stage lung cancer patients from risk-matched controls. This approach achieves performance similar to that of tumour-informed ctDNA detection and enables tuning of assay specificity in order to facilitate distinct clinical applications. Our findings establish the potential of cfDNA for lung cancer screening and highlight the importance of risk-matching cases and controls in cfDNA-based screening studies. Circulating tumour DNA in blood is analysed to identify genomic features that distinguish early-stage lung cancer patients from risk-matched controls, and these are integrated into a machine-learning method for blood-based lung cancer screening.
+Journal: Nature
+Publish_Year: 2020
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0003269718310595
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: the diagnostic potentials of exosomes in early detection of cancers. In this review, we have   of early cancer detection. Although, exosomes are considered as ideal biomarkers in cancer
+Journal: Analytical …
+Publish_Year: 2019
+URL: https://www.sciencedirect.com/science/article/pii/S0003269718310595
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.549
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: National Cancer Institute to assess procedures for lung cancer screening and to devise or  modify techniques for the early detection and localization of lung cancer In 1973, detection and
+Journal: American Review of …
+Publish_Year: 1984
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.549
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/29/12/2504/72126
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: has adequate specificity, but sensitivity for early-stage (I–II)  20% of early-stage ovarian  cancers 8 months before  the goal of detecting >90% of early-stage ovarian cancers, alone
+Journal: Cancer Epidemiology …
+Publish_Year: 2020
+URL: https://aacrjournals.org/cebp/article-abstract/29/12/2504/72126
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://apps.who.int/iris/bitstream/handle/10665/119805/dsa696.pdf
+Title: 無標題
+Author: OMN Khatib, A Modjtabai
+Abstract: understanding that cancer detection at the earliest stages promotes more successful treatment  and cost-effective interventions. The major components of an early detection programme
+Journal: World Health Organization, Regional Office …
+Publish_Year: 2006
+================================================================================
+URL: https://apps.who.int/iris/bitstream/handle/10665/119805/dsa696.pdf
+Title: 無標題
+Author: OMN Khatib, A Modjtabai
+Abstract: understanding that cancer detection at the earliest stages promotes more successful treatment  and cost-effective interventions. The major components of an early detection programme
+Journal: World Health Organization, Regional Office …
+Publish_Year: 2006
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(02)00932-4/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: during the early stages of cancer has advanced rapidly. The initiation and development of  cancer  that can be used to detect and diagnose cancer in its earliest stages and to accurately
+Journal: The lancet oncology
+Publish_Year: 2002
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(02)00932-4/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/article/S1470-2045(23)00277-2/fulltext
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Analysis of circulating tumour DNA could stratify cancer risk in symptomatic patients. We  aimed to evaluate the performance of a methylation-based multicancer early detection (MCED)
+Journal: The Lancet …
+Publish_Year: 2023
+URL: https://www.thelancet.com/article/S1470-2045(23)00277-2/fulltext
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300153
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: methods of prevention that can be used to control the incidence of cervical cancer and  detection strategies that can identify the precancerous lesions before they become true cancer.
+Journal: Seminars in oncology nursing
+Publish_Year: 2017
+URL: https://www.sciencedirect.com/science/article/pii/S0749208117300153
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pubs.rsc.org/en/content/articlehtml/2010/an/c0an00204f
+Title: Measurement of biomarker proteins for point-of-care early detection and monitoring of cancer - Analyst (RSC Publishing)
+Author: JF Rusling, CV Kumar, JS Gutkind, V Patel
+Abstract: This critical review evaluates progress toward viable point-of-care protein biomarker measurements for cancer detection and diagnostics. The ability to measure panels of specific, selective cancer biomarker proteins in physicians' surgeries and clinics has the potential to revolutionize cancer detection, mon
+Journal: Analyst
+Publish_Year: 2010
+================================================================================
+URL: https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00513-X?dgcid=raven_jbs_etoc_email
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: )-based multi-cancer early detection (MCED) test by defining clinical limit of detection (LOD)   in this study show the highest cancer signal detection sensitivities. Compared with clinical
+Journal: Cancer Cell
+Publish_Year: 2022
+URL: https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00513-X?dgcid=raven_jbs_etoc_email
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0091743583710054
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer prevention and early detection behaviors. 3. Knowledge of early warning signs and  symptoms of cancer  on the generally favorable attitudes toward cancer prevention. 4. There
+Journal: Preventive Medicine
+Publish_Year: 1993
+URL: https://www.sciencedirect.com/science/article/pii/S0091743583710054
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/29/12/2556/71998
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: detecting cancers at an early stage while they are still localized and can be treated with  curative intent. Ideally, the incipient cancers  be solved before early detection paradigms can be
+Journal: Cancer Epidemiology, Biomarkers & …
+Publish_Year: 2020
+URL: https://aacrjournals.org/cebp/article-abstract/29/12/2556/71998
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jnm.snmjournals.org/content/48/1_suppl/28S.short
+Title: Early Detection of Cancer Recurrence: 18F-FDG PET/CT Can Make a Difference in Diagnosis and Patient Care | Journal of Nuclear Medicine
+Author: O Israel, A Kuten
+Abstract: quality of life of patients with cancer. Although it is commonly  the curative treatment options  for relapsing cancer, a variety of  case of colorectal cancer, in which early detection of local
+Journal: Journal of Nuclear Medicine
+Publish_Year: 2007
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0302283813006660
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of PCa reduces PCa-related mortality; (2) early detection of PCa reduces the risk  early  detection of PCa should be adapted to the baseline PSA serum concentration; (5) early detection
+Journal: European urology
+Publish_Year: 2013
+URL: https://www.sciencedirect.com/science/article/pii/S0302283813006660
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2012/709049
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Current practices for early detection of ovarian cancer include  biomarkers for early detection  of ovarian cancer and provide  Promising biomarkers for early detection of ovarian cancer
+Journal: Journal of …
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2012/709049
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2012/709049?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Current practices for early detection of ovarian cancer include  biomarkers for early detection  of ovarian cancer and provide  Promising biomarkers for early detection of ovarian cancer
+Journal: Journal of …
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2012/709049?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.aafp.org/pubs/afp/issues/2000/0715/p357.html
+Title: Early Detection and Treatment of Skin Cancer | AAFP
+Author: AF Jerant, JT Johnson, CD Sheridan
+Abstract: The incidence of skin cancer is increasing by epidemic proportions. Basal cell cancer remains the most common skin neoplasm, and simple excision is generally curative. Squamous cell cancers may be preceded by actinic keratoses-premalignant lesions that are treated with cryotherapy, excision, curettage or topical 5-fluorouracil. While squamous cell carcinoma is usually easily cured with local excision, it may invade deeper structures and metastasize. Aggressive local growth and metastasis are common features of malignant melanoma, which accounts for 75 percent of all deaths associated with skin cancer. Early detection greatly improves the prognosis of patients with malignant melanoma. The differential diagnosis of pigmented lesions is challenging, although the ABCD and seven-point checklists are helpful in determining which pigmented lesions require excision. Sun exposure remains the most important risk factor for all skin neoplasms. Thus, patients should be taught basic "safe sun" measures: sun avoidance during peak ultraviolet-B hours; proper use of sunscreen and protective clothing; and avoidance of suntanning.
+Journal: American family physician
+Publish_Year: 2000
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/107/6/djv063/870884
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: computed tomography (LDCT) allows early detection of lung cancer in high-risk individuals   Thus, the detection of circulating miRNAs might be useful for lung cancer early detection, as
+Journal: … the National Cancer …
+Publish_Year: 2015
+URL: https://academic.oup.com/jnci/article-abstract/107/6/djv063/870884
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1007/BF01438313
+Title: Prospective study of early detection for primary liver cancer | Journal of Cancer Research and Clinical Oncology
+Author: B Yang, B Zhang, Y Xu, W Wang, Y Shen
+Abstract: Purpose: To determine whether repeated screening can lead to early detection of primary liver cancer (PLC) and in turn to an improved clinical result.Metho
+Journal: Journal of cancer …
+Publish_Year: 1997
+================================================================================
+URL: https://publications.ersnet.org/content/erj/21/39suppl/57s
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: problem of detecting relatively indolent cancers that would  lung cancer per se, despite early  detection and treatment. In the control arm of a screening study, the presence of lung cancer
+Journal: European Respiratory Journal
+Publish_Year: 2003
+URL: https://publications.ersnet.org/content/erj/21/39suppl/57s
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1075-122X.2006.00200.x
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: earlier detection cancer; and promote early detection through breast cancer education and  awareness. The report also recommended that if resources became available, early detection
+Journal: The breast …
+Publish_Year: 2006
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1075-122X.2006.00200.x
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1075-122X.2006.00200.x?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: earlier detection cancer; and promote early detection through breast cancer education and  awareness. The report also recommended that if resources became available, early detection
+Journal: The breast …
+Publish_Year: 2006
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1075-122X.2006.00200.x?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0023683722030811
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for early cancer detection. Scientists active in the field also explored the impact of nanotool  applications in cancer  to measure optical deformability in cancer cells, detection, sensing and
+Journal: Laboratory investigation
+Publish_Year: 2002
+URL: https://www.sciencedirect.com/science/article/pii/S0023683722030811
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cancerpreventionresearch/article-abstract/5/8/992/50003
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: lung cancer biomarkers of early detection, we selected published reports from PubMed on  the basis of the keywords biomarkers, risk, diagnosis, early detection, and lung cancer. To
+Journal: Cancer prevention …
+Publish_Year: 2012
+URL: https://aacrjournals.org/cancerpreventionresearch/article-abstract/5/8/992/50003
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://publications.ersnet.org/content/erj/21/39suppl/36s
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Early detection of lung cancer requires none or few invasive techniques. Distal lung cancer (40  Fluorescent bronchoscopy increases the detection rate of early or micro-invasive lesions
+Journal: European …
+Publish_Year: 2003
+URL: https://publications.ersnet.org/content/erj/21/39suppl/36s
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.555
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer who eventually prove to be free of the disease. A high level of suspicion is essential  in order to detect lung cancer at an early  for radiologic lesions mimicking lung cancer. A final
+Journal: American Review of …
+Publish_Year: 1984
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.555
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)00078-9/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: on early detection and screening methods of cancers in India. The three most widely recorded  malignancies in India are cancers  account for about 34% of all cancers in India each year.
+Journal: The Lancet …
+Publish_Year: 2015
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)00078-9/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4161798/
+Title: Early detection and prevention of pancreatic cancer: Is it really possible today? - PMC
+Author: M Del Chiaro, R Segersvärd, M Lohr
+Abstract: Pancreatic cancer is the 4th leading cause of cancer-related death in Western countries. Considering the low incidence of pancreatic cancer, population-based screening is not feasible. However, the existence of a group of individuals with an ...
+Journal: World journal of …
+Publish_Year: 2014
+================================================================================
+URL: https://link.springer.com/chapter/10.1007/978-3-540-37696-5_9
+Title: Prevention and Early Detection of Ovarian Cancer: Mission Impossible? | SpringerLink
+Author: RC Bast, M Brewer, C Zou, MA Hernandez, M Daley
+Abstract: Epithelial ovarian cancer is neither a common nor a rare disease. In the United States, the prevalence of ovarian cancer in postmenopausal women (1 in 2,500) significantly affects strategies for prevention and detection. If chemoprevention for ovarian cancer were...
+Journal: Cancer …
+Publish_Year: 2007
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/0091743587900144
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: To examine patient beliefs and other factors associated with procedure acceptance and  completion, we have conducted a prospective study of individuals offered early cancer detection
+Journal: Preventive Medicine
+Publish_Year: 1987
+URL: https://www.sciencedirect.com/science/article/pii/0091743587900144
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0956566317305791
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Early cancer detection and treatment is an emerging and  -biosensors towards early cancer  detection to preserve human  for early cancer tumour detection or single molecular detection
+Journal: Biosensors and …
+Publish_Year: 2018
+URL: https://www.sciencedirect.com/science/article/pii/S0956566317305791
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer screening and to determine whether these new findings warrant a change in the existing  ACS guidelines for the early detection of breast cancer breast cancer screening policy is
+Journal: CA: A cancer Journal …
+Publish_Year: 1997
+URL: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+Error: HTTP 狀態碼: 404
+================================================================================
+URL: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer screening and to determine whether these new findings warrant a change in the existing  ACS guidelines for the early detection of breast cancer breast cancer screening policy is
+Journal: CA: A cancer Journal …
+Publish_Year: 1997
+URL: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+Error: HTTP 狀態碼: 404
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S1359644604032465
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: method for the early diagnosis of diseases such as ovarian, breast, and prostate cancer. This   diagnostic tool for the early detection of diseases, or as a predictor of response to therapy.
+Journal: Drug discovery today
+Publish_Year: 2004
+URL: https://www.sciencedirect.com/science/article/pii/S1359644604032465
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0020748920301681
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: may improve early cancer detection uptake rates, cancer knowledge, early detection beliefs,   Social media may be an option for delivering early cancer detection guidance, but needs to
+Journal: International journal of nursing studies
+Publish_Year: 2020
+URL: https://www.sciencedirect.com/science/article/pii/S0020748920301681
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.561
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for early-stage lung cancer sponsored by the National Cancer  to be at high risk for lung  cancer. Specifically, they were men 45  Cancer Institute cooperative early lung cancer detection
+Journal: American Review of …
+Publish_Year: 1984
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.561
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://journals.lww.com/pancreasjournal/fulltext/2015/07000/Early_Detection_of_Sporadic_Pancreatic_Cancer_.3.aspx
+Title: Pancreas
+Author: ST Chari, K Kelly, MA Hollingsworth, SP Thayer
+Abstract: is higher in invasive cancer versus PanIN-3, mutations unique to invasive cancer are yet  to be  of PanIN-3 and early invasive cancer would be invaluable for detection of early PC.
+Journal: Pancreas
+Publish_Year: 2015
+================================================================================
+URL: https://www.mdpi.com/2072-6694/13/15/3919
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: in early detection impede lung cancer  cancer early detection and for monitoring therapy  response. Here, we reviewed recent advances in liquid biopsy for early diagnosis of lung cancer
+Journal: Cancers
+Publish_Year: 2021
+URL: https://www.mdpi.com/2072-6694/13/15/3919
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.pnas.org/doi/abs/10.1073/pnas.0502178102
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: objective of early detection using noninvasive  cancer-specific markers for early detection  of EOC is essential to improve our ability to accurately detect premalignant changes or early
+Journal: Proceedings of the …
+Publish_Year: 2005
+URL: https://www.pnas.org/doi/abs/10.1073/pnas.0502178102
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5945693/
+Title: Liquid biopsy for lung cancer early detection - PMC
+Author: M Santarpia, A Liguori, A D'Aveni
+Abstract: Molecularly targeted therapies and immune checkpoint inhibitors have markedly improved the therapeutic management of advanced lung cancer. However, it still remains the leading cause of cancer-related mortality worldwide, with disease stage at ...
+Journal: Journal of thoracic …
+Publish_Year: 2018
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3100094/
+Title: Ovarian Cancer Screening and Early Detection in the General Population - PMC
+Author: JA Rauh-Hain, TC Krivak
+Abstract: Worldwide, the estimated annual incidence of ovarian cancer is 204,000, with 125,000 deaths. In developed countries, ovarian cancer remains the most lethal of all gynecologic malignancies. One of the reasons for the high fatality rate is that more ...
+Journal: … in obstetrics and …
+Publish_Year: 2011
+================================================================================
+URL: https://www.nature.com/articles/35017638
+Title: Detection of preinvasive cancer cells | Nature
+Author: V Backman, MB Wallace, LT Perelman, JT Arendt
+Abstract: Early-warning changes in precancerous epithelial cells can now be spotted in situ. More than 85% of all cancers originate in the epithelium that lines the internal surfaces of organs throughout the body. Although these are readily treatable provided they are diagnosed in one of the preinvasive stages1, early lesions are often almost impossible to detect. Here we present a new optical-probe technique based on light-scattering spectroscopy that is able to detect precancerous and early cancerous changes in cell-rich epithelia.
+Journal: nature
+Publish_Year: 2000
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/26/12/1679/71343
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: A survey on barriers to breast and cervical cancer screening  measures, such as recall  rates and case detection rates.  implementation of MSUs for early cancer detection worldwide.
+Journal: Cancer Epidemiology …
+Publish_Year: 2017
+URL: https://aacrjournals.org/cebp/article-abstract/26/12/1679/71343
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/89/9/618/2526945
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: an ideal early detection biomarker,  early detection of cancer, the National Cancer Institute  (NCI) convened the “ International Workshop on Telomerase in the Early Detection of Cancer”
+Journal: … of the National Cancer …
+Publish_Year: 1997
+URL: https://academic.oup.com/jnci/article-abstract/89/9/618/2526945
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0165993617301048
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Recently researchers have driven their attention in the development of biosensors for breast  cancer detection using different biomarkers. This review reports a systematic study of the
+Journal: TrAC Trends in Analytical …
+Publish_Year: 2017
+URL: https://www.sciencedirect.com/science/article/pii/S0165993617301048
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1007/s00432-015-1928-z
+Title: Early detection of colorectal cancer: from conventional methods to novel biomarkers | Journal of Cancer Research and Clinical Oncology
+Author: N Vatandoost, J Ghanbari, M Mojaver, A Avan
+Abstract: Colorectal cancer (CRC) is one of the major health problems worldwide and is often diagnosed at late stage. There is growing body of evidence in early dete
+Journal: Journal of cancer …
+Publish_Year: 2016
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.26430
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: is among the earliest and most common alterations in human cancers, leading to  abnormal expression of a broad spectrum of tumour-suppressor genes and other cancer-associated
+Journal: International journal of cancer
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.26430
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.26430?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: is among the earliest and most common alterations in human cancers, leading to  abnormal expression of a broad spectrum of tumour-suppressor genes and other cancer-associated
+Journal: International journal of cancer
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.26430?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.27528
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: modalities are somewhat insufficient in diagnosing and monitoring cancer, in the present   cancer imaging and early cancer detection. Principles of cancer imaging—Current cancer
+Journal: … Journal of Cancer
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.27528
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.27528?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: modalities are somewhat insufficient in diagnosing and monitoring cancer, in the present   cancer imaging and early cancer detection. Principles of cancer imaging—Current cancer
+Journal: … Journal of Cancer
+Publish_Year: 2012
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.27528?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://aacrjournals.org/cebp/article-abstract/16/10/1935/174679
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Background: Despite different available methods for colorectal cancer (CRC) screening and   aimed at the early detection of CRC and to summarize their performance characteristics.
+Journal: Cancer Epidemiology Biomarkers & …
+Publish_Year: 2007
+URL: https://aacrjournals.org/cebp/article-abstract/16/10/1935/174679
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thieme-connect.com/products/ejournals/abstract/10.4103/2278-330X.130449
+Title: Thieme E-Journals - South Asian Journal of Cancer / Abstract
+Author: N Tripathi, YR Kadam, RV Dhobale
+Abstract: Thieme E-Books & E-Journals
+Journal: … Journal of Cancer
+Publish_Year: 2014
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0959804918300029
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer screening. Although none of the currently used blood-based biomarkers are sensitive  enough for the early detection  for detecting BC, including detection at the pre-invasive and
+Journal: European journal of cancer
+Publish_Year: 2018
+URL: https://www.sciencedirect.com/science/article/pii/S0959804918300029
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC1924270/
+Title: Heredity and malignant melanoma: implications for early cancer detection - PMC
+Author: HT Lynch, AJ Krush
+Abstract: as aids to early cancer diagnosis. Material and Methods Four families with malignant  melanoma were referred by physicians who were aware of our interest in cancer genetics. In the
+Journal: Canadian Medical Association Journal
+Publish_Year: 1968
+================================================================================
+URL: https://jamanetwork.com/journals/jama/article-abstract/395730
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: In an attempt to detect prostate cancer when the disease was still localized, a  Prostate  cancer was detected in 11  The patients with cancer ranged in age from 60 to 79 years, with the
+Journal: Jama
+Publish_Year: 1984
+URL: https://jamanetwork.com/journals/jama/article-abstract/395730
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.545
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The cooperative early lung cancer detection program was created to determine  cancer  screening might lead to "early" detection, that is, to finding a larger proportion of lung cancers at a
+Journal: American Review of …
+Publish_Year: 1984
+URL: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.545
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0169260719311277
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Accurate diagnosis of breast cancer at an early stage can reduce  early diagnosis of breast  abnormality. This paper presents survey based on the main steps of computer aided detection
+Journal: Computer methods and programs in biomedicine
+Publish_Year: 2020
+URL: https://www.sciencedirect.com/science/article/pii/S0169260719311277
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0016508519303580
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The challenges of early detection include identification of at-risk individuals  early detection.  We also discuss current and emerging imaging modalities that are critical to identifying early,
+Journal: Gastroenterology
+Publish_Year: 2019
+URL: https://www.sciencedirect.com/science/article/pii/S0016508519303580
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jtec.utem.edu.my/jtec/article/view/4706
+Title: Early Detection of Breast Cancer Using Machine Learning Techniques
+							| Journal of Telecommunication, Electronic and Computer Engineering (JTEC)
+Author: M Tahmooresi, A Afshar, BB Rad
+Abstract: However, mammogram images sometimes have a risk of false detection that may endanger   cancer detection. This study also discusses the datasets used for breast cancer detection
+Journal: Journal of …
+Publish_Year: 2018
+================================================================================
+URL: https://www.mdpi.com/2072-6694/12/10/2767
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: well as its inability in detecting small cancers, especially in  cancer biomarkers. Recent  advances in analytical techniques have gradually made it possible to detect breast cancer early
+Journal: Cancers
+Publish_Year: 2020
+URL: https://www.mdpi.com/2072-6694/12/10/2767
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S003961091644329X
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: for detection of early and asymptomatic lung cancer-the  In an effort to decreas,e lung cancer  mortality by early detection  National Cancer Institute Cooperative Early Lung Cancer Group
+Journal: Surgical Clinics of North America
+Publish_Year: 1987
+URL: https://www.sciencedirect.com/science/article/pii/S003961091644329X
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.cell.com/article/S2666-6758(22)00055-8/fulltext
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: in early detection of cancers. We  early detection of single- and multi-cancer tests. We also  discuss the key clinical phases of biomarker development for the early detection of cancers
+Journal: The Innovation
+Publish_Year: 2022
+URL: https://www.cell.com/article/S2666-6758(22)00055-8/fulltext
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.tandfonline.com/doi/abs/10.2144/05384su04
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: treatment depends not only on better therapies but also on improved methods to assess an  individual's risk of developing cancer and to detect cancers at early stages when they can be
+Journal: Biotechniques
+Publish_Year: 2005
+URL: https://www.tandfonline.com/doi/abs/10.2144/05384su04
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ieeexplore.ieee.org/abstract/document/8567997/
+Title: Early Cancer Detection in Blood Vessels Using Mobile Nanosensors | IEEE Journals & Magazine | IEEE Xplore
+Author: R Mosayebi, A Ahmadzadeh, W Wicke
+Abstract: (MNSs) for early stage anomaly detection. For concreteness, we focus on the detection of  cancer cells located in a particular region of a blood vessel. These cancer cells produce and
+Journal: IEEE transactions on …
+Publish_Year: 2018
+================================================================================
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567997
+Title: 無標題
+Author: R Mosayebi, A Ahmadzadeh, W Wicke
+Abstract: (MNSs) for early stage anomaly detection. For concreteness, we focus on the detection of  cancer cells located in a particular region of a blood vessel. These cancer cells produce and
+Journal: IEEE transactions on …
+Publish_Year: 2018
+================================================================================
+URL: https://pubs.rsc.org/en/content/articlehtml/2017/nr/c6nr05609a
+Title: A protein corona-enabled blood test for early cancer detection   - Nanoscale (RSC Publishing) DOI:10.1039/C6NR05609A
+Author: D Caputo, M Papi, R Coppola, S Palchetti, L Digiacomo
+Abstract: not appropriate for early cancer detection. As a consequence, the development of fast, cheap,  user-friendly and non-invasive tools for the early diagnosis of pancreatic cancer is needed
+Journal: Nanoscale
+Publish_Year: 2017
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0302283807013590
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: The value of screening for prostate cancer (PCa) in terms of lowering PCa mortality is at   to detect PCa early in those men who wish to undergo testing. Methods for early detection of
+Journal: European urology
+Publish_Year: 2008
+URL: https://www.sciencedirect.com/science/article/pii/S0302283807013590
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.cmaj.ca/content/176/13/1853.short
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of cancer detection is directly related to the degree of prostate sampling, an elevated PSA  level leads to repeated biopsies until cancer is  and a higher risk of a missed cancer diagnosis.
+Journal: Cmaj
+Publish_Year: 2007
+URL: https://www.cmaj.ca/content/176/13/1853.short
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.mdpi.com/1422-0067/23/19/12041
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: an opportunity for the improvement of early ovarian cancer detection at very low marker   detection of several ovarian cancer histologies such as clear cell and mucinous cancers.
+Journal: International Journal of …
+Publish_Year: 2022
+URL: https://www.mdpi.com/1422-0067/23/19/12041
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004150.pub4/abstract
+Title: Screening programmes for the early detection and prevention of oral cancer - Brocklehurst, P - 2013 | Cochrane Library
+Author: P Brocklehurst, O Kujan, L O'Malley
+Abstract: Oral cancer is an important global healthcare problem,  cancers and have proved effective  in their early detection. Given the high morbidity and mortality rates associated with oral cancer
+Journal: Cochrane database …
+Publish_Year: 2013
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(10)70273-4/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: This lower incidence means that screening programmes aimed at early detection in  find a  true case of breast cancer. Because the average age of breast cancer is generally younger in
+Journal: The lancet oncology
+Publish_Year: 2011
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(10)70273-4/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/0091743580902339
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: ones which promote the early detection of disease (such as the  Early detection behaviors,  for example, correlate only weakly  on some early detection behaviors for cancer, including the
+Journal: Preventive Medicine
+Publish_Year: 1980
+URL: https://www.sciencedirect.com/science/article/pii/0091743580902339
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.mdpi.com/2075-4418/9/1/18
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: and treated at the early stages to prevent progression to chronic pancreatitis. The diagnosis  of early chronic pancreatitis will provide opportunities to detect early-stage PDAC associated
+Journal: Diagnostics
+Publish_Year: 2019
+URL: https://www.mdpi.com/2075-4418/9/1/18
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://journals.lww.com/pancreasjournal/fulltext/2021/03000/artificial_intelligence_and_early_detection_of.1.aspx
+Title: Pancreas
+Author: B Kenner, ST Chari, D Kelsen, DS Klimstra, SJ Pandol
+Abstract: Attempts to detect pancreatic cancer at an early stage that would enable surgical cure have   of imaging early pancreatic cancer, the lack of circulating biomarkers of early disease, the
+Journal: Pancreas
+Publish_Year: 2021
+================================================================================
+URL: https://www.atsjournals.org/doi/abs/10.1164/rccm.200411-1479oc
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: In conclusion, early detection of lung cancer after a carefully designed low-dose spiral CT–based  protocol with the addition of FDG-PET for nodules of 10 mm or more, or for smaller (> 7
+Journal: American journal of …
+Publish_Year: 2005
+URL: https://www.atsjournals.org/doi/abs/10.1164/rccm.200411-1479oc
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1007/s11606-007-0411-1
+Title: Proteomics as a Method for Early Detection of Cancer: A Review of Proteomics, Exhaled Breath Condensate, and Lung Cancer Screening | Journal of General Internal Medicine
+Author: DH Conrad, J Goyette, PS Thomas
+Abstract: The study of expressed proteins in neoplasia is undergoing a revolution with the advent of proteomic analysis. Unlike genomic studies where individual chan
+Journal: Journal of General Internal Medicine
+Publish_Year: 2008
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(19930901)72:5%3C1701::AID-CNCR2820720534%3E3.0.CO;2-E
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: In this series of cancers from an early detection  cancer resulting from early detection efforts  are similar to those of Brawer et al.,I4 who found 2 of 32 (6.2%) screen-detected cancers to
+Journal: Cancer
+Publish_Year: 1993
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(19930901)72:5%3C1701::AID-CNCR2820720534%3E3.0.CO;2-E
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0923753419404468
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: of the impact of early detection—detection in the asymptomatic  cancer events in women  with a past history of breast cancer. Our objectives are to estimate the effect of early detection of
+Journal: Annals of oncology
+Publish_Year: 2009
+URL: https://www.sciencedirect.com/science/article/pii/S0923753419404468
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/article/S1470-2045(09)70042-7/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: In this Review, we give an update of the methods available for early detection of cardiac  damage caused by cancer treatment. Each method is assigned a level of evidence backing up
+Journal: The lancet …
+Publish_Year: 2009
+URL: https://www.thelancet.com/article/S1470-2045(09)70042-7/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2011/343582
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer control will be greatly aided by early detection so as to diagnose and treat breast  cancer  For breast cancer, the second leading cause of cancer-related death among women in
+Journal: International journal of proteomics
+Publish_Year: 2011
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2011/343582
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2011/343582?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer control will be greatly aided by early detection so as to diagnose and treat breast  cancer  For breast cancer, the second leading cause of cancer-related death among women in
+Journal: International journal of proteomics
+Publish_Year: 2011
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2011/343582?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0923753419377701
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: breast carcinogenesis and is an early event in this process.  Simultaneous detection of  methylation of a panel of genes in  recent developments in methylation detection in breast fluids,
+Journal: Annals of Oncology
+Publish_Year: 2011
+URL: https://www.sciencedirect.com/science/article/pii/S0923753419377701
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ascopubs.org/doi/abs/10.1200/JGO.18.00213
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: early detection of colorectal cancer and the management of any polyps found during colorectal  cancer  those at average risk as well as the workup and diagnosis of colorectal cancer.
+Journal: Journal of global …
+Publish_Year: 2019
+URL: https://ascopubs.org/doi/abs/10.1200/JGO.18.00213
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.tandfonline.com/doi/abs/10.2144/fsoa-2019-0028
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: is to detect it early. In this paper, an integrated smart wearable and biomarker detection  system to help in the early detection, prognosis, diagnosis and treatment of cancer is proposed.
+Journal: Future science OA
+Publish_Year: 2020
+URL: https://www.tandfonline.com/doi/abs/10.2144/fsoa-2019-0028
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470204503009604/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Lung cancer is the most common cancer in the world. In men,  about 375 000 cases of lung  cancer in Europe in 2000; 303 000  as the main cause of lung cancer and about 90% of cases
+Journal: The lancet oncology
+Publish_Year: 2003
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470204503009604/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pubs.rsc.org/en/content/articlehtml/2020/lc/c9lc01108k
+Title: A modular 3D printed lab-on-a-chip for early cancer detection - Lab on a Chip (RSC Publishing)
+Author: A Chiadò, G Palmara, A Chiappone, C Tanzanu
+Abstract: A functional polymeric 3D device is produced in a single step printing process using a stereolithography based 3D printer. The photocurable formulation is designed for introducing a controlled amount of carboxyl groups (–COOH), in order to perform a covalent immobilization of bioreceptors on the device. The
+Journal: Lab on a Chip
+Publish_Year: 2020
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/0025556478900743
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: negative rates for the detection of early breast cancer. A woman enters  Some women with  early breast cancer would not be considered  Detection of the tumor at subsequent screening
+Journal: Mathematical Biosciences
+Publish_Year: 1978
+URL: https://www.sciencedirect.com/science/article/pii/0025556478900743
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.22331
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: very early lung cancer.7 It is unclear at the present time whether lung cancer mortality can be   Individuals at high risk of developing lung cancer are natural candidates for early detection
+Journal: … journal of cancer
+Publish_Year: 2007
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.22331
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.22331?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: very early lung cancer.7 It is unclear at the present time whether lung cancer mortality can be   Individuals at high risk of developing lung cancer are natural candidates for early detection
+Journal: … journal of cancer
+Publish_Year: 2007
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.22331?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thieme-connect.com/products/ejournals/abstract/10.4103/0971-5851.92808
+Title: Thieme E-Journals - Indian Journal of Medical and Paediatric Oncology / Abstract
+Author: GA Mishra, SA Pimple
+Abstract: Thieme E-Books & E-Journals
+Journal: Indian Journal of Medical …
+Publish_Year: 2011
+================================================================================
+URL: https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00014-9?dgcid=raven_jbs_etoc_email
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: allow detection of signals from cancers in blood, giving rise to a new paradigm of multi-cancer  early detection (MCED). Blood is inherently suited for detecting cancer biomarkers (
+Journal: Cancer cell
+Publish_Year: 2022
+URL: https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00014-9?dgcid=raven_jbs_etoc_email
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://books.google.com/books?hl=en&lr=&id=tSuU_d8-Sj8C&oi=fnd&pg=PA1&dq=early+cancer+detection&ots=X_vcDPHw44&sig=6U95NLiUh7IdT9VrjcD3laEbJqc
+Title: Mammography and Beyond: Developing Technologies for the Early Detection of ... - National Research Council, Division on Earth and Life Studies, Institute of Medicine, National Cancer Policy Board, Committee on Technologies for the Early Detection of Breast Cancer - Google Books
+Author: JC Lashof, IC Henderson, SJ Nass
+Abstract: Each year more than 180,000 new cases of breast cancer are diagnosed in women in the U.S. If cancer is detected when small and local, treatment options are less dangerous, intrusive, and costly-and more likely to lead to a cure.  Yet those simple facts belie the complexity of developing and disseminating acceptable techniques for breast cancer diagnosis. Even the most exciting new technologies remain clouded with uncertainty. Mammography and Beyond provides a comprehensive and up-to-date perspective on the state of breast cancer screening and diagnosis and recommends steps for developing the most reliable breast cancer detection methods possible.  This book reviews the dramatic expansion of breast cancer awareness and screening, examining the capabilities and limitations of current and emerging technologies for breast cancer detection and their effectiveness at actually reducing deaths. The committee discusses issues including national policy toward breast cancer detection, roles of public and private agencies, problems in determining the success of a technique, availability of detection methods to specific populations of women, women's experience during the detection process, cost-benefit analyses, and more.  Examining current practices and specifying research and other needs, Mammography and Beyond will be an indispensable resource to policy makers, public health officials, medical practitioners, researchers, women's health advocates, and concerned women and their families.
+Journal: NA
+Publish_Year: 2001
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S009082580800334X
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: detection of early stage ovarian cancer and 76.9%/99.7% to 89.2%/97.2% for detection of late  stage cancer.  for possible use in an ovarian cancer screening population. A subset of this
+Journal: Gynecologic …
+Publish_Year: 2008
+URL: https://www.sciencedirect.com/science/article/pii/S009082580800334X
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://books.google.com/books?hl=en&lr=&id=Ulz1CgAAQBAJ&oi=fnd&pg=PA85&dq=early+cancer+detection&ots=P_PFkoFmVY&sig=414aIKwbT0W7qDcK5k5B7DrZZ4g
+Title: Disease Control Priorities, Third Edition (Volume 3): Cancer - Google Books
+Author: R Sankaranarayanan, K Ramadas
+Abstract: Volume 3, Cancer, presents the complex patterns of cancer incidence and death around the world and evidence on effective and cost-effective ways to control cancers. The DCP3 evaluation of cancer will indicate where cancer treatment is ineffective and wasteful, and offer alternative cancer care packages that are cost-effective and suited to low-resource settings. Main messages from the volume include: -Quality matters in all aspects of cancer treatment and palliation. -Cancer registries that track incidence, mortality, and survival †“ paired with systems to capture causes of death are important to understanding the national cancer burden and the effect of interventions over time. -Effective interventions exist at a range of prices. Adopting "resource appropriate" measures which allow the most effective treatment for the greatest number of people will be advantageous to countries. -Prioritizing resources toward early stage and curable cancers is likely to have the greatest health impact in low income settings. -Research prioritization is no longer just a global responsibility. Providing cancer treatment requires adequate numbers of trained healthcare professionals and infrastructure beyond what is available in most LMICs, especially low income countries. Careful patient monitoring is a requirement of good quality cancer care and this often involves laboratory tests in addition to clinical examination. Even if financing were immediately available to build or expand a cancer control system, reaching capacity will take many years.
+Journal: Cancer: disease …
+Publish_Year: 2015
+================================================================================
+URL: https://www.science.org/doi/abs/10.1126/sciadv.abh0534
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to develop an early cancer detection assay (1) cancer progression and treatment (2–4).  However, genetic alterations are challenging to detect given the low fraction of tumor DNA in early
+Journal: Science …
+Publish_Year: 2021
+URL: https://www.science.org/doi/abs/10.1126/sciadv.abh0534
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S1521691806000047
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: efficiently detect and treat early gastric cancer (EGC) in high-risk populations. For detection,  we first assess the value of known risk factors from the viewpoint of availability for cancer
+Journal: Best Practice & Research Clinical …
+Publish_Year: 2006
+URL: https://www.sciencedirect.com/science/article/pii/S1521691806000047
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0165993619306223
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: early detection of cancer, as well as the recent developments in aptamer-based platforms for  cancer exosome detection.  a perspective on the future of aptasensors for cancer detection.
+Journal: TrAC Trends in Analytical Chemistry
+Publish_Year: 2020
+URL: https://www.sciencedirect.com/science/article/pii/S0165993619306223
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ieeexplore.ieee.org/abstract/document/5974581/
+Title: Review on automatic early skin cancer detection | IEEE Conference Publication | IEEE Xplore
+Author: AN Hoshyar, A Al-Jumaily
+Abstract: As the importance of early detection of skin cancer in treatment, this paper reviewed a  on  automatic cancer detection, also defined required steps for automating skin cancer detection. In
+Journal: … Conference on Computer …
+Publish_Year: 2011
+================================================================================
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5974581
+Title: 無標題
+Author: AN Hoshyar, A Al-Jumaily
+Abstract: As the importance of early detection of skin cancer in treatment, this paper reviewed a  on  automatic cancer detection, also defined required steps for automating skin cancer detection. In
+Journal: … Conference on Computer …
+Publish_Year: 2011
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/102/4/222/2568923
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: to compare the types of symptoms in patients with early-stage ovarian cancer (FIGO stage I  or II) with those of patients with advanced-stage invasive ovarian cancer (FIGO stage III or IV)
+Journal: … the National Cancer …
+Publish_Year: 2010
+URL: https://academic.oup.com/jnci/article-abstract/102/4/222/2568923
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0065242318300313
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Standard methods used to detect oral cancers remain comprehensive clinical examination,   has the potential of early diagnosis. The use of saliva for early cancer detection in the search
+Journal: Advances in clinical …
+Publish_Year: 2018
+URL: https://www.sciencedirect.com/science/article/pii/S0065242318300313
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://ieeexplore.ieee.org/abstract/document/9089849/
+Title: Deep Learning Assisted Efficient AdaBoost Algorithm for Breast Cancer Detection and Early Diagnosis | IEEE Journals & Magazine | IEEE Xplore
+Author: J Zheng, D Lin, Z Gao, S Wang, M He, J Fan
+Abstract: The breast cancer classification is a medical  in cancer data classification. In this paper,  Deep Learning assisted Efficient Adaboost Algorithm (DLA-EABA) for breast cancer detection
+Journal: Ieee Access
+Publish_Year: 2020
+================================================================================
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089849
+Title: 無標題
+Author: J Zheng, D Lin, Z Gao, S Wang, M He, J Fan
+Abstract: The breast cancer classification is a medical  in cancer data classification. In this paper,  Deep Learning assisted Efficient Adaboost Algorithm (DLA-EABA) for breast cancer detection
+Journal: Ieee Access
+Publish_Year: 2020
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0923753421020469
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: -cancer early detection (MCED) test used to complement existing screening could increase  the number of cancers  could detect cancer signals across multiple cancer types and predict
+Journal: Annals of …
+Publish_Year: 2021
+URL: https://www.sciencedirect.com/science/article/pii/S0923753421020469
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.mdpi.com/1424-8220/24/1/37
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: A potential ten-year window for early cancer detection is suggested by multicompartment  models and studies on the genomic timeline. However, current screening techniques can find
+Journal: Sensors
+Publish_Year: 2023
+URL: https://www.mdpi.com/1424-8220/24/1/37
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.tandfonline.com/doi/abs/10.2217/nnm.15.180
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: and detect tumor specific biomarkers, circulating tumor cells, or extracellular vesicles shed  by the tumor holds the promise to detect cancer  for the early diagnosis of cancer and for the
+Journal: Nanomedicine
+Publish_Year: 2015
+URL: https://www.tandfonline.com/doi/abs/10.2217/nnm.15.180
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lancet/article/PIIS0140673603141888/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: in early stage is higher than 80%.Early-detection trials funded by the US National Cancer  Institute in the 1970s did not reduce lung-cancer mortality or prevent advanced disease
+Journal: The Lancet
+Publish_Year: 2003
+URL: https://www.thelancet.com/journals/lancet/article/PIIS0140673603141888/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://jnccn.org/abstract/journals/jnccn/14/5/article-p509.xml
+Title: NCCN Guidelines Insights: Prostate Cancer Early Detection, Version 2.2016 in: Journal of the National Comprehensive Cancer Network Volume 14 Issue 5 (2016)
+Author: PR Carroll, JK Parsons, G Andriole
+Abstract: The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Prostate Cancer Early Detection provide recommendations for prostate cancer screening in healthy men who have elected to participate in an early detection program. The NCCN Guidelines focus on minimizing unnecessary procedures and limiting the detection of indolent disease. These NCCN Guidelines Insights summarize the NCCN Prostate Cancer Early Detection Panel's most significant discussions for the 2016 guideline update, which included issues surrounding screening in high-risk populations (ie, African Americans, BRCA1/2 mutation carriers), approaches to refine patient selection for initial and repeat biopsies, and approaches to improve biopsy specificity.
+Journal: … Comprehensive Cancer …
+Publish_Year: 2016
+================================================================================
+URL: https://www.annualreviews.org/content/journals/10.1146/annurev-med-050710-134421
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: eg, lung cancer, stomach cancer) or effective early detection (eg, breast cancer, cervical  cancer).  carcinogen associated with prostate cancer, it is therefore early detection that holds the
+Journal: Annual review of medicine
+Publish_Year: 2012
+URL: https://www.annualreviews.org/content/journals/10.1146/annurev-med-050710-134421
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029770
+Title: Circulating Micro-RNAs as Potential Blood-Based Markers for Early Stage Breast Cancer Detection | PLOS One
+Author: MG Schrauder, R Strick, R Schulz-Wendtland
+Abstract: Introduction MicroRNAs (miRNAs, miRs) are a class of small, non-coding RNA molecules with relevance as regulators of gene expression thereby affecting crucial processes in cancer development. MiRNAs offer great potential as biomarkers for cancer detection due to their remarkable stability in blood and their characteristic expression in many different diseases. We investigated whether microarray-based miRNA profiling on whole blood could discriminate between early stage breast cancer patients and healthy controls.   Methods We performed microarray-based miRNA profiling on whole blood of 48 early stage breast cancer patients at diagnosis along with 57 healthy individuals as controls. This was followed by a real-time semi-quantitative Polymerase Chain Reaction (RT-qPCR) validation in a separate cohort of 24 early stage breast cancer patients from a breast cancer screening unit and 24 age matched controls using two differentially expressed miRNAs (miR-202, miR-718).   Results Using the significance level of p<0.05, we found that 59 miRNAs were differentially expressed in whole blood of early stage breast cancer patients compared to healthy controls. 13 significantly up-regulated miRNAs and 46 significantly down-regulated miRNAs in our microarray panel of 1100 miRNAs and miRNA star sequences could be detected. A set of 240 miRNAs that was evaluated by radial basis function kernel support vector machines and 10-fold cross validation yielded a specificity of 78.8%, and a sensitivity of 92.5%, as well as an accuracy of 85.6%. Two miRNAs were validated by RT-qPCR in an independent cohort. The relative fold changes of the RT-qPCR validation were in line with the microarray data for both miRNAs, and statistically significant differences in miRNA-expression were found for miR-202.   Conclusions MiRNA profiling in whole blood has potential as a novel method for early stage breast cancer detection, but there are still challenges that need to be addressed to establish these new biomarkers in clinical use.
+Journal: PloS one
+Publish_Year: 2012
+================================================================================
+URL: https://www.bmj.com/content/339/bmj.b3537.short
+Title: Prostate specific antigen for early detection of prostate cancer: longitudinal study | The BMJ
+Author: B Holmström, M Johansson, A Bergh, UH Stenman
+Abstract: prostate cancer diagnosis during the follow-up. Additional biomarkers for early detection of  prostate cancer are needed before population based screening for prostate cancer should be
+Journal: Bmj
+Publish_Year: 2009
+================================================================================
+URL: https://www.nature.com/articles/s41571-020-0388-9
+Title: Personalized early detection and prevention of breast cancer: ENVISION consensus statement | Nature Reviews Clinical Oncology
+Author: N Pashayan, AC Antoniou, U Ivanus
+Abstract: The European Collaborative on Personalized Early Detection and Prevention of Breast Cancer (ENVISION) brings together several international research consortia working on different aspects of the personalized early detection and prevention of breast cancer. In a consensus conference held in 2019, the members of this network identified research areas requiring development to enable evidence-based personalized interventions that might improve the benefits and reduce the harms of existing breast cancer screening and prevention programmes. The priority areas identified were: 1) breast cancer subtype-specific risk assessment tools applicable to women of all ancestries; 2) intermediate surrogate markers of response to preventive measures; 3) novel non-surgical preventive measures to reduce the incidence of breast cancer of poor prognosis; and 4) hybrid effectiveness–implementation research combined with modelling studies to evaluate the long-term population outcomes of risk-based early detection strategies. The implementation of such programmes would require health-care systems to be open to learning and adapting, the engagement of a diverse range of stakeholders and tailoring to societal norms and values, while also addressing the ethical and legal issues. In this Consensus Statement, we discuss the current state of breast cancer risk prediction, risk-stratified prevention and early detection strategies, and their implementation. Throughout, we highlight priorities for advancing each of these areas. Risk-adapted approaches to breast cancer prevention and screening could potentially be more effective than universal approaches, which have important limitations. In this Consensus Statement, representatives of the European Collaborative on Personalized Early Detection and Prevention of Breast Cancer (ENVISION) discuss the current state of breast cancer risk prediction, risk-stratified prevention and early detection strategies, and their implementation. They also present the ENVISION recommendations on priorities for future research in each of these areas with the aim of stimulating and guiding risk-adapted breast cancer prevention and screening programmes.
+Journal: Nature reviews Clinical …
+Publish_Year: 2020
+================================================================================
+URL: https://link.springer.com/article/10.1007/s11760-021-01882-w
+Title: Automated early breast cancer detection and classification system | Signal, Image and Video Processing
+Author: AA Hekal, A Elnakib, HED Moustafa
+Abstract: Early detection of breast cancer is clinically important to reduce the mortality rate. In this study, a new computer-aided detection (CAD) and classificati
+Journal: Signal, Image and Video Processing
+Publish_Year: 2021
+================================================================================
+URL: https://www.mdpi.com/2313-433X/8/5/123
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: cancer is detected early, the five-year survival rate can become as high as 90% [2]. In this  work, we focus on the early detection of breast cancer  costs associated with cancer treatment.
+Journal: Journal of imaging
+Publish_Year: 2022
+URL: https://www.mdpi.com/2313-433X/8/5/123
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1186/1471-2288-2-4
+Title: Markers for early detection of cancer: Statistical guidelines for nested case-control studies | BMC Medical Research Methodology
+Author: SG Baker, BS Kramer, S Srivastava
+Abstract: Recently many long-term prospective studies have involved serial collection and storage of blood or tissue specimens. This has spurred nested case-control studies that involve testing some specimens for various markers that might predict cancer. Until now there has been little guidance in statistical design and analysis of these studies. To develop statistical guidelines, we considered the purpose, the types of biases, and the opportunities for extracting additional information. The following guidelines: (1) For the clearest interpretation, statistics should be based on false and true positive rates – not odds ratios or relative risks (2) To avoid overdiagnosis bias, cases should be diagnosed as a result of symptoms rather than on screening. (3) To minimize selection bias, the spectrum of control conditions should be the same in study and target screening populations. (4) To extract additional information, criteria for a positive test should be based on combinations of individual markers and changes in marker levels over time. (5) To avoid overfitting, the criteria for a positive marker combination developed in a training sample should be evaluated in a random test sample from the same study and, if possible, a validation sample from another study. (6) To identify biomarkers with true and false positive rates similar to mammography, the training, test, and validation samples should each include at least 110 randomly selected subjects without cancer and 70 subjects with cancer. These guidelines ensure good practice in the design and analysis of nested case-control studies of early detection biomarkers.
+Journal: BMC medical research methodology
+Publish_Year: 2002
+================================================================================
+URL: https://www.thelancet.com/article/S2468-1253(21)00426-X/abstract
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: focuses on sporadic early-onset colorectal cancer, unless  colorectal cancer syndromes  to early-onset colorectal cancer can be  and early detection of early-onset colorectal cancer.
+Journal: The lancet …
+Publish_Year: 2022
+URL: https://www.thelancet.com/article/S2468-1253(21)00426-X/abstract
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.auajournals.org/doi/abs/10.1016/j.juro.2008.04.015
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: the accuracy of prostate cancer early detection. These findings  early detection of prostate  cancer. These enzymatically inactive forms include proPSA, associated with prostate cancer
+Journal: The Journal of …
+Publish_Year: 2008
+URL: https://www.auajournals.org/doi/abs/10.1016/j.juro.2008.04.015
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://scholar.archive.org/work/4k4ie7ad6jfrpjabrnlcgjgbda/access/wayback/http://pacificcancer.org/Resources/Cancer/Prostate/ACS_guidelines_prostate.pdf
+Title: Data limit reached
+Author: A Von Eschenbach, R Ho, GP Murphy
+Abstract: Cancer Society issued the following prostate cancer  data about prostate cancer screening  and early detection. Based  cancer screening may result in the discovery of more early-stage
+Journal: CA: a cancer journal …
+Publish_Year: 1997
+================================================================================
+URL: https://scholar.archive.org/work/4k4ie7ad6jfrpjabrnlcgjgbda/access/wayback/http://pacificcancer.org/Resources/Cancer/Prostate/ACS_guidelines_prostate.pdf
+Title: Data limit reached
+Author: A Von Eschenbach, R Ho, GP Murphy
+Abstract: Cancer Society issued the following prostate cancer  data about prostate cancer screening  and early detection. Based  cancer screening may result in the discovery of more early-stage
+Journal: CA: a cancer journal …
+Publish_Year: 1997
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0958166904000072
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: This approach has recently shown tremendous promise in the detection of early-stage  cancers. The biomarkers found by SELDI-TOF-based pattern recognition analysis are mostly low
+Journal: Current Opinion in Biotechnology
+Publish_Year: 2004
+URL: https://www.sciencedirect.com/science/article/pii/S0958166904000072
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/2610628
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: challenging compared to the detection of microcalcifications, not  cancer [4]. ANN applications  in mammography, ultrasound, and MRI and IR imaging for early detection of breast cancer
+Journal: … methods in medicine
+Publish_Year: 2017
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/2610628
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2017/2610628?download=true
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: challenging compared to the detection of microcalcifications, not  cancer [4]. ANN applications  in mammography, ultrasound, and MRI and IR imaging for early detection of breast cancer
+Journal: … methods in medicine
+Publish_Year: 2017
+URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2017/2610628?download=true
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1007/s00330-006-0389-9
+Title: Breast MR imaging in women at high-risk of breast cancer. Is something changing in early breast cancer detection? | European Radiology
+Author: F Sardanelli, F Podo
+Abstract: In the last few years, several papers have addressed the introduction of contrast-enhanced MR imaging for screening women at high risk for breast cancer. T
+Journal: European radiology
+Publish_Year: 2007
+================================================================================
+URL: https://journals.sagepub.com/doi/abs/10.1177/1178223417752677
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: This review highlights that there is a need to emphasize on breast cancer education,  promoting early diagnosis of breast cancer, and the provision of more public facilities for breast
+Journal: Breast cancer: basic and …
+Publish_Year: 2018
+URL: https://journals.sagepub.com/doi/abs/10.1177/1178223417752677
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0002937808004006
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+Author: LS Caplan, DS May
+Abstract: Unfortunately, current screening methods for the detection of early stage ovarian cancer are   cancer. In this review, we hope to provide an overview of the early detection ovarian cancer
+Journal: American journal of …
+Publish_Year: 2008
+URL: https://www.sciencedirect.com/science/article/pii/S0002937808004006
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC1446126/
+Title: Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995 - PMC
+Author: LS Caplan, DS May
+Abstract: OBJECTIVES: This study examined times to diagnosis and treatment for medically underserved women screened for breast cancer. METHODS: Intervals from first positive screening test to diagnosis to initiation of treatment were determined for 1659 women ...
+Journal: American journal of public …
+Publish_Year: 2000
+================================================================================

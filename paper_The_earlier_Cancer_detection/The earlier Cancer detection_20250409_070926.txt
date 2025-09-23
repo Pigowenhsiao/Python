@@ -1,0 +1,1394 @@
+title	pub_year	author	abstract	venue	pub_url	pdf_url
+論文標題:The future of early cancer detection
+作者: RC Fitzgerald, AC Antoniou, L Fruk, N Rosenfeld
+摘要: Hence, the concept of early cancer detection can include the  or in situ stage, before the  abnormal cells invade beyond their  as technologies improve to allow the detection of cell and 
+期刊: Nature medicine
+發表年份: 2022
+出版網址: https://www.nature.com/articles/s41591-022-01746-x
+PDF網址: 
+論文標題:Early detection of cancer: past, present, and future
+作者: JD Schiffman, PG Fisher, P Gibbs
+摘要: Screening in both healthy and high-risk populations offers the opportunity to detect cancer  early and with an increased opportunity for treatment and curative intent. Currently, a defined 
+期刊: American Society of Clinical …
+發表年份: 2015
+出版網址: https://ascopubs.org/doi/pdfdirect/10.14694/EDBK.2015.35#page=145
+PDF網址: 
+論文標題:Early detection of cancer
+作者: D Crosby, S Bhatia, KM Brindle, LM Coussens, C Dive
+摘要: A key challenge is how to detect the very small signal of the earliest cancers amid the noise  of  , we are at the tipping point for early cancer detection research and its translation to 
+期刊: Science
+發表年份: 2022
+出版網址: https://www.science.org/doi/abs/10.1126/science.aay9040
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of cancer
+作者: RA Smith, V Cokkinides
+摘要: While there are many remaining, as well as emerging questions related to early breast  cancer detection, the inherent value of detecting and treating smaller cancers in asymptomatic 
+期刊: CA: a cancer journal …
+發表年份: 2002
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.52.1.8
+PDF網址: 
+論文標題:The challenge of early detection in cancer
+作者: N Pashayan, PDP Pharoah
+摘要: cancers, then early detection will likely increase the incidence of cancer without a comparable  reduction in cancer- Detection of smaller tumors could be achieved by screening at shorter 
+期刊: Science
+發表年份: 2020
+出版網址: https://www.science.org/doi/abs/10.1126/science.aaz2078
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of cancer, 2003
+作者: RA Smith, V Cokkinides, HJ Eyre
+摘要: technologies for colorectal cancer screening in order to determine if the evidence was  for  early cancer detection, in this issue, we provide: (1) a description of an additional option to the 
+期刊: … cancer journal for clinicians
+發表年份: 2003
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.53.1.27
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of cancer, 2004
+作者: RA Smith, V Cokkinides, HJ Eyre
+摘要: recommendations for fecal occult blood testing for colorectal cancer  for early cancer  detection, in this issue we provide (1) a brief summary of updated ACS guidelines for breast cancer 
+期刊: … cancer journal for clinicians
+發表年份: 2004
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.54.1.41
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of cancer, 2006
+作者: RA Smith, V Cokkinides, HJ Eyre
+摘要: health care professional's role in raising and regularly reinforcing awareness about  breast cancer, early breast cancer detection, the importance of prompt reporting of any new 
+期刊: … cancer journal for clinicians
+發表年份: 2006
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.56.1.11
+PDF網址: 
+論文標題:Phases of biomarker development for early detection of cancer
+作者: MS Pepe, R Etzioni, Z Feng, JD Potter
+摘要: -screening biomarkers prompted the establishment of the Early Detection Research  In this  commentary, we use the term “biomarker” for cancer detection in a broad sense. Cancer is a 
+期刊: … the National Cancer …
+發表年份: 2001
+出版網址: https://academic.oup.com/jnci/article-abstract/93/14/1054/2906203
+PDF網址: 
+論文標題:… detection of cancer: update of early detection guidelines for prostate, colorectal, and endometrial cancers: Also: update 2001—testing for early lung cancer detection
+作者: RA Smith, AC von Eschenbach
+摘要: tests for lung cancer. This report includes the recom-mendations and rationale for the  updated guidelines, as well as a summary table of all ACS early cancer detection 
+期刊: CA: a cancer journal …
+發表年份: 2001
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.51.1.38
+PDF網址: 
+論文標題:Emerging nanomedicines for early cancer detection and improved treatment: current perspective and future promise
+作者: DJ Bharali, SA Mousa
+摘要: to as ‘nanomedicine’, has the potential to transform our approach to human  the nanoscale  level affords the opportunity to address some of the most confounding human diseases at the 
+期刊: Pharmacology & therapeutics
+發表年份: 2010
+出版網址: https://www.sciencedirect.com/science/article/pii/S0163725810001506
+PDF網址: 
+論文標題:Nanotechnology for early cancer detection
+作者: YE Choi, JW Kwak, JW Park
+摘要: biomarkers and have been used as targets in cancer detection and monitoring. It is highly  anticipated that in the near future, we might be able to detect cancer at a very early stage, 
+期刊: Sensors
+發表年份: 2010
+出版網址: https://www.mdpi.com/1424-8220/10/1/428
+PDF網址: 
+論文標題:Trends in biomarker research for cancer detection
+作者: PR Srinivas, BS Kramer, S Srivastava
+摘要: to detect these changes in signatures during the early stages  us to overcome the challenges  in early detection. In this  signatures, the technologies being developed to detect them, 
+期刊: The lancet oncology
+發表年份: 2001
+出版網址: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(01)00560-5/abstract
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of cancer, 2005
+作者: RA Smith, V Cokkinides, HJ Eyre
+摘要: guidelines that have been recently updated in the prior year, announcements of upcoming   to early cancer detection, and a summary of the most recent data on adult cancer screening 
+期刊: … cancer journal for clinicians
+發表年份: 2005
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.55.1.31
+PDF網址: 
+論文標題:miRNAs as biomarkers for early cancer detection and their application in the development of new diagnostic tools
+作者: LJ Galvão-Lima, AHF Morais, RAM Valentim
+摘要: to detect the cancer development, this review summarizes the major findings related to the  role of miRNAs during cancer development and the  to breast, prostate, and cervical cancers. 
+期刊: Biomedical engineering …
+發表年份: 2021
+出版網址: https://link.springer.com/article/10.1186/s12938-021-00857-9
+PDF網址: 
+論文標題:The potential of liquid biopsies for the early detection of cancer
+作者: E Heitzer, S Perakis, JB Geigl, MR Speicher
+摘要: tissues or the accumulation of cancer-associated mutations with age, and the incomplete   and clinical significance for early cancer detection and their impact on precision oncology. 
+期刊: NPJ precision oncology
+發表年份: 2017
+出版網址: https://www.nature.com/articles/s41698-017-0039-5
+PDF網址: 
+論文標題:The American cancer society national prostate cancer detection project. Findings on the detection of early prostate cancer in 2425 men
+作者: ,  Cancer Society National Prostate Cancer Detection 
+摘要: Detection Project (ACSNPCDP) is a multidisciplinary, multicenter effort to assess the feasibility  of early prostate cancer detection by  of having prostate cancer had been examined in ten 
+期刊: Cancer
+發表年份: 1991
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(19910615)67:12%3C2949::AID-CNCR2820671202%3E3.0.CO;2-X
+PDF網址: 
+論文標題:The importance of early symptom recognition in the context of early detection and cancer survival
+作者: JJ Ott, A Ullrich, AB Miller
+摘要: and detection of small, early-stage oral cancers significantly  The fact that early oral cancer  detection can be performed in  the general need and feasability of early cancer detection in 
+期刊: European Journal of Cancer
+發表年份: 2009
+出版網址: https://www.sciencedirect.com/science/article/pii/S0959804909006467
+PDF網址: 
+論文標題:Early detection of prostate cancer
+作者: PT Scardino, R Weaver, AH M'Liss
+摘要: basis for the early delection that is essential if the morrality  , the tests available for the early  detection of prostate cancer  the addition of PSA and TRUS to DRE will facilitate the early 
+期刊: Human pathology
+發表年份: 1992
+出版網址: https://www.sciencedirect.com/science/article/pii/0046817792901029
+PDF網址: 
+論文標題:Cancer screening and early detection in the 21st century
+作者: JT Loud, J Murphy
+摘要: The goal of cancer screening and early detection is to cure cancer by detecting the malignancy,  or its precursor lesion, at an early stage, before the onset of symptoms, when treatment 
+期刊: Seminars in oncology nursing
+發表年份: 2017
+出版網址: https://www.sciencedirect.com/science/article/pii/S0749208117300128
+PDF網址: 
+論文標題:Early lung cancer detection
+作者: T Inage, T Nakajima, I Yoshino
+摘要: detection of early lung cancer is the key to improve survival. The initial screening method for  centrally located early  The early lung cancer arising in the peripheral lung fields requires 
+期刊: Clinics in chest …
+發表年份: 2018
+出版網址: https://www.chestmed.theclinics.com/article/S0272-5231(17)30107-7/abstract
+PDF網址: 
+論文標題:CancerSEEK and destroy—A blood test for early cancer detection
+作者: D Killock
+摘要: “The ability to accurately detect the tumour location is a major step forward,” states Lennon.  The prospect of early cancer detection  are needed to establish the diagnostic potential of 
+期刊: Nature Reviews Clinical Oncology
+發表年份: 2018
+出版網址: https://www.nature.com/articles/nrclinonc.2018.21
+PDF網址: 
+論文標題:Challenges for biomarkers in cancer detection
+作者: PD Wagner, M Verma
+摘要: of cancer, the earlier the detection, the greater the chances of survival.1 For instance, when  colorectal cancer is detected in its earliest stages, the  it has metastasized, the survival rate is 
+期刊: … of the New York Academy …
+發表年份: 2004
+出版網址: https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1196/annals.1318.003
+PDF網址: 
+論文標題:Synthetic biomarkers: a twenty-first century path to early cancer detection
+作者: GA Kwong, S Ghosh, L Gamboa, C Patriotis
+摘要: First, we highlight the challenges associated with early cancer detection that have  motivated research into synthetic biomarkers. We then review advances in activity-based and 
+期刊: … Reviews Cancer
+發表年份: 2021
+出版網址: https://www.nature.com/articles/s41568-021-00389-3
+PDF網址: 
+論文標題:Early lung cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Johns Hopkins study
+作者: JK Frost, WC Ball Jr, ML Levin
+摘要: determine whether the addition of cytologic screening to the radiographic screening  the  early detection of asymptomatic lung cancer and whether early therapeutic intervention in detect 
+期刊: American Review of …
+發表年份: 1984
+出版網址: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.549
+PDF網址: 
+論文標題:Early diagnosis and detection of breast cancer
+作者: M Milosevic, D Jankovic
+摘要: the organized preventive examinations and have made significant contributions to the early  breast cancer detection.  The improvement of the early breast cancer diagnosis process 
+期刊: … and Health Care
+發表年份: 2018
+出版網址: https://journals.sagepub.com/doi/abs/10.3233/THC-181277
+PDF網址: 
+論文標題:Progress and prospects of early detection in lung cancer
+作者: S Blandin Knight, PA Crosbie, H Balata
+摘要: as well as some of the challenges in early detection of lung cancer. There are many  possible means of early detection of lung cancer and those discussed here are non-exhaustive. 
+期刊: Open …
+發表年份: 2017
+出版網址: https://royalsocietypublishing.org/doi/abs/10.1098/rsob.170070
+PDF網址: 
+論文標題:Early detection of prostate cancer
+作者: PT Scardino
+摘要: As the male population ages and the mortality rate from other  for early detection and effective  treatment of prostate cancer will  the value of new techniques for detecting prostate cancer 
+期刊: Urologic Clinics of North America
+發表年份: 1989
+出版網址: https://www.sciencedirect.com/science/article/pii/S0094014321018000
+PDF網址: 
+論文標題:American Cancer Society guideline for the early detection of prostate cancer: update 2010
+作者: AMD Wolf, RC Wender, RB Etzioni
+摘要: future advances in the early detection of prostate cancer will lead to the ability to  cancers  and that the adverse effects of prostate cancer treatment will be reduced sufficiently to tip the 
+期刊: CA: a cancer journal …
+發表年份: 2010
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.20066
+PDF網址: 
+論文標題:Prostate cancer early detection
+作者: MH Kawachi, RR Bahnson, M Barry, JE Busby
+摘要: /mL increases the chance of detecting prostate cancer at biopsy 30% to 35%. Large programs  for the early detection of prostate cancer have shown that nearly 70% of cancer cases can 
+期刊: … Comprehensive Cancer …
+發表年份: 2010
+出版網址: https://jnccn.org/view/journals/jnccn/8/2/article-p240.xml
+PDF網址: 
+論文標題:The role of primary care in early detection and follow-up of cancer
+作者: JD Emery, K Shaw, B Williams, D Mazza
+摘要: of primary care, focusing on the most common cancers managed at the GP office—breast,   review of the literature on the role of primary care in early detection and follow-up of cancer. 
+期刊: Nature reviews Clinical …
+發表年份: 2014
+出版網址: https://www.nature.com/articles/nrclinonc.2013.212
+PDF網址: 
+論文標題:The results of a five‐year early prostate cancer detection intervention
+作者: C Mettlin, GP Murphy, RJ Babaian
+摘要: of early prostate cancer detection interventions. This report summarizes the experience of the  investigators to date and dcscribes the  different detection modalities studied in this project. 
+期刊: … the American Cancer …
+發表年份: 1996
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0142(19960101)77:1%3C150::AID-CNCR25%3E3.0.CO;2-3
+PDF網址: 
+論文標題:Liquid biopsies: the future of cancer early detection
+作者: S Connal, JM Cameron, A Sala, PM Brennan
+摘要: strengths and drawbacks of techniques in achieving early cancer detection. We explore  the clinical utility of liquid biopsy technologies for the earlier detection of solid cancers, with a 
+期刊: Journal of translational …
+發表年份: 2023
+出版網址: https://link.springer.com/article/10.1186/s12967-023-03960-8
+PDF網址: 
+論文標題:Advances in cancer detection
+作者: D Sidransky
+摘要: detect cancers earlier and more accurately but also to catch tumors in their precancerous  state, when the  to know the early symptoms of cancer through the American Cancer Society’s 
+期刊: Scientific American
+發表年份: 1996
+出版網址: https://www.jstor.org/stable/24993355
+PDF網址: 
+論文標題:Breast cancer in the 21st century: from early detection to new therapies
+作者: JAM Bonilla, MT Tabanera, LHR Mendoza
+摘要: classification of breast cancer. Our aim is to present an updated overview of the epidemiological  situation of breast cancer, as well as some relevant issues from the point of view of 
+期刊: Radiología (English Edition)
+發表年份: 2017
+出版網址: https://www.sciencedirect.com/science/article/pii/S2173510717300551
+PDF網址: 
+論文標題:Autoantibody signatures: progress and perspectives for early cancer detection
+作者: C Desmetz, A Mangé, T Maudelonde
+摘要: in sera from cancer patients. Interestingly, in  early detection of cancer in high-risk cancer  patients. In this review, we highlight the concept that immunogenic epitopes associated with the 
+期刊: Journal of cellular and …
+發表年份: 2011
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1582-4934.2011.01355.x
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1582-4934.2011.01355.x?download=true
+論文標題:Biomarkers for early detection of cancer: molecular aspects
+作者: PS Tappia, B Ramjiawan
+摘要: tools with high selectivity and specificity for cancer detection. This Special  for the early  detection of different types of cancer. Novel approaches in the early detection of different cancer 
+期刊: International journal of molecular sciences
+發表年份: 2023
+出版網址: https://www.mdpi.com/1422-0067/24/6/5272
+PDF網址: 
+論文標題:Early detection of prostate cancer: AUA Guideline
+作者: HB Carter, PC Albertsen, MJ Barry, R Etzioni
+摘要: , was more relevant to cancer detection in higher risk men than  the efficacy of PSA screening  for the early detection of prostate cancer with the specific intent to reduce prostate cancer 
+期刊: The Journal of …
+發表年份: 2013
+出版網址: https://www.auajournals.org/doi/abs/10.1016/j.juro.2013.04.119
+PDF網址: 
+論文標題:Autoantibodies: opportunities for early cancer detection
+作者: IK Macdonald, CB Parsy-Kowalska, CJ Chapman
+摘要: method for early detection of cancer but only where early diagnosis will  the gold standard  for cancer detection and localization; however, they are generally unable to detect the early 
+期刊: Trends in cancer
+發表年份: 2017
+出版網址: https://www.cell.com/trends/cancer/fulltext/S2405803317300419?dgcid=twitter_social_trecan-backlist-7&sf183699184=1
+PDF網址: 
+論文標題:Early cancer detection at the epithelial surface
+作者: S Rogalla, CH Contag
+摘要: These tissues are a valuable resource for the development of reagents for cancer detection  using the optical imaging tools that we have developed and, as previously reported, using 
+期刊: The Cancer Journal
+發表年份: 2015
+出版網址: https://journals.lww.com/journalppo/fulltext/2015/05000/early_cancer_detection_at_the_epithelial_surface.8.aspx
+PDF網址: 
+論文標題:Early detection of ovarian cancer
+作者: D Badgwell, RC Bast Jr
+摘要: We also found that urinary mesothelin values provide some complementarity to serum  CA125 values in the detection of early stage ovarian cancer. CA125 levels were elevated (>35 
+期刊: Disease markers
+發表年份: 2007
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1155/2007/309382
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2007/309382?download=true
+論文標題:A roadmap for the early detection and diagnosis of cancer
+作者: D Crosby, N Lyons, E Greenwood, S Harrison
+摘要: beat cancer, early detection and diagnosis are arguably the  the past 40 years has transformed  the prospects of people diagnosed with cancer in the UK, with survival doubling since the 
+期刊: The Lancet …
+發表年份: 2020
+出版網址: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30593-3/abstract
+PDF網址: 
+論文標題:Telomerase in the early detection of cancer.
+作者: JW Shay, AF Gazdar
+摘要: There are increasing numbers of studies indicating the utility of telomerase assays in the  early detection of cancer, and in the present review, we summarise the state of the field. 
+期刊: Journal of clinical pathology
+發表年份: 1997
+出版網址: https://jcp.bmj.com/content/50/2/106.short
+PDF網址: 
+論文標題:Global challenges in breast cancer detection and treatment
+作者: CH Barrios
+摘要: early breast cancer detection should consider two very clear clinical scenarios. Either the  diagnosis is made by a screening test that identifies the  , is the result of the early investigation 
+期刊: The Breast
+發表年份: 2022
+出版網址: https://www.sciencedirect.com/science/article/pii/S0960977622000303
+PDF網址: 
+論文標題:The evidence base for circulating tumour DNA blood-based biomarkers for the early detection of cancer: a systematic mapping review
+作者: , J Shaw, UK Early Cancer Detection Consortium
+摘要: We have systematically reviewed ctDNA blood biomarkers for the early detection of cancer.  Pre-analytical, analytical, and post-analytical considerations were identified which need to 
+期刊: BMC cancer
+發表年份: 2017
+出版網址: https://link.springer.com/article/10.1186/s12885-017-3693-7
+PDF網址: 
+論文標題:Prevention and early detection of prostate cancer
+作者: J Cuzick, MA Thorat, G Andriole, OW Brawley
+摘要: management of, early prostate cancer is one of the most challenging  the evidence regarding  risk assessment, early detection, and management of early prostate cancer, and identify the 
+期刊: The lancet …
+發表年份: 2014
+出版網址: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70211-6/fulltext?fromsource=nelm&code=lancet-site
+PDF網址: 
+論文標題:Early detection of pancreatic cancer
+作者: SP Pereira, L Oldfield, A Ney, PA Hart
+摘要: practices with symptoms that suggest this cancer. We review early detection biomarkers,  explore the potential of using social media for detection, appraise prediction models developed 
+期刊: The lancet …
+發表年份: 2020
+出版網址: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(19)30416-9/abstract
+PDF網址: 
+論文標題:The case for early detection
+作者: R Etzioni, N Urban, S Ramsey, M McIntosh
+摘要: a plan for early-detection research in the post-genome  early detection and what does it  offer that other cancer-control approaches do not; what are the requirements for early detection to 
+期刊: … reviews cancer
+發表年份: 2003
+出版網址: https://www.nature.com/articles/nrc1041
+PDF網址: 
+論文標題:Early detection of lung cancer: clinical perspectives of recent advances in biology and radiology
+作者: FR Hirsch, WA Franklin, AF Gazdar
+摘要: The failure of clinical trials to demonstrate the efficacy of  diagnostic approaches for early  lung cancer detection that take  the role of sputum cytology for screening and early detection 
+期刊: Clinical Cancer …
+發表年份: 2001
+出版網址: https://aacrjournals.org/clincancerres/article-abstract/7/1/5/288203
+PDF網址: 
+論文標題:Non-invasive early detection of cancer four years before conventional diagnosis using a blood test
+作者: X Chen, J Gole, A Gore, Q He, M Lu, J Min
+摘要: cancer screening test, and demonstrate the early detection of  cancer earlier than conventional  methods 21 . We therefore  the ability of the ensemble LR classifier to detect cancer in 
+期刊: Nature …
+發表年份: 2020
+出版網址: https://www.nature.com/articles/s41467-020-17316-z
+PDF網址: 
+論文標題:Proteomics in early detection of cancer
+作者: PR Srinivas, S Srivastava, S Hanash
+摘要: into focus the efforts of the Early Detection Research Network at the National Cancer Institute  in  institutions to identify and validate biomarkers for early detection and risk assessment. 
+期刊: Clinical …
+發表年份: 2001
+出版網址: https://academic.oup.com/clinchem/article-abstract/47/10/1901/5639259
+PDF網址: 
+論文標題:A blueprint for cancer screening and early detection: Advancing screening's contribution to cancer control
+作者: RC Wender, OW Brawley, SA Fedewa
+摘要: the early detection of both symptomatic and occult cancers, and  the efficacy of a test for the  early detection of an occult cancer,  the real-world effectiveness of screening for that cancer in 
+期刊: CA: a cancer journal …
+發表年份: 2019
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.21550
+PDF網址: 
+論文標題:Gender differences in early detection of cancer
+作者: REC Evans, H Brotherstone, A Miles
+摘要: help seeking, efforts must be made to increase awareness, understanding and adherence  among men if they are to share the health rewards screening and early detection can bring. 
+期刊: Journal of Men's Health …
+發表年份: 2005
+出版網址: https://www.liebertpub.com/doi/abs/10.1016/j.jmhg.2004.12.012
+PDF網址: 
+論文標題:Early detection of pancreatic cancer: Where are we now and where are we going?
+作者: B Zhou, JW Xu, YG Cheng, JY Gao
+摘要: We also discuss the current status of molecular markers for early detection of PC, and  highlight some encouraging preliminary results of new research fields that may provide new 
+期刊: … journal of cancer
+發表年份: 2017
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.30670
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.30670?download=true
+論文標題:Serum autoantibodies as biomarkers for early cancer detection
+作者: HT Tan, J Low, SG Lim, MCM Chung
+摘要: Further work involving the elucidation of autoantibodies against gastritis and stomach cancer  should aid in early cancer detection as well as improve our understanding of the cancer. 
+期刊: The FEBS journal
+發表年份: 2009
+出版網址: https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-4658.2009.07396.x
+PDF網址: 
+論文標題:Mathematical model identifies blood biomarker–based early cancer detection strategies and limitations
+作者: SS Hori, SS Gambhir
+摘要: that the goal of this study (and, more generally, of the early cancer detection problem) is not  to detect advanced cancers that have already metastasized, but to detect the primary tumor 
+期刊: Science translational medicine
+發表年份: 2011
+出版網址: https://www.science.org/doi/abs/10.1126/scitranslmed.3003110
+PDF網址: 
+論文標題:American Cancer Society guidelines for the early detection of breast cancer: update 1997
+作者: AM Leitch, GD Dodd, M Costanza, M Linver
+摘要: related to breast cancer screening and to determine whether these new findings warrant a  change in the existing ACS guidelines for the early detection of breast cancer. This meeting 
+期刊: CA: A cancer Journal …
+發表年份: 1997
+出版網址: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+PDF網址: https://www.academia.edu/download/101500312/23ae6746e1f424281d583ad5438daab81322.pdf
+論文標題:Early lung cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Memorial Sloan-Kettering study
+作者: BJ Flehinger, MR Melamed, MB Zaman
+摘要: lung cancer who eventually prove to be free of the disease. A high level of suspicion is essential  in order to detect lung cancer at an early  mimicking lung cancer. A final decision about 
+期刊: American Review of …
+發表年份: 1984
+出版網址: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.555
+PDF網址: 
+論文標題:… , multicenter, National Cancer Institute Early Detection Research Network study of [− 2] proPSA: improving prostate cancer detection and correlating with cancer …
+作者: LJ Sokoll, MG Sanda, Z Feng, J Kagan
+摘要: The purpose of this study was to further characterize the potential clinical utility for [−2]proPSA  for prostate cancer detection  the utility of %[−2]proPSA for the early detection of prostate 
+期刊: Cancer epidemiology …
+發表年份: 2010
+出版網址: https://aacrjournals.org/cebp/article-abstract/19/5/1193/67925
+PDF網址: 
+論文標題:Circulating tumor DNA as an early cancer detection tool
+作者: A Campos-Carrillo, JN Weitzel, P Sahoo
+摘要: early cancer detection test that leverages ctDNA. Although some hurdles (like early stage   into healthcare, ctDNA assays hold substantial potential as an early cancer screening test. 
+期刊: Pharmacology & …
+發表年份: 2020
+出版網址: https://www.sciencedirect.com/science/article/pii/S0163725819302104
+PDF網址: 
+論文標題:Fulfilling the potential of cancer prevention and early detection
+作者: M Hewitt, T Byers, SJ Curry
+摘要: evidence that cancer incidence rates can be dramatically reduced and outlines a national  strategy to realize the promise of cancer prevention and early detection. The report examines 
+期刊: NA
+發表年份: 2003
+出版網址: https://books.google.com/books?hl=en&lr=&id=wyS0Q-QFai0C&oi=fnd&pg=PP19&dq=The+earlier+Cancer+detection&ots=8dGrEsxPOg&sig=Ecp5QhSSZsQnIdRnsxxmZst_N1s
+PDF網址: 
+論文標題:Diagnostic markers for early detection of ovarian cancer
+作者: I Visintin, Z Feng, G Longton, DC Ward
+摘要: In summary, we have shown the specificity of this test for detection of ovarian cancer using  three different platforms, four types of statistical analysis, and two different sample cohorts. 
+期刊: Clinical cancer …
+發表年份: 2008
+出版網址: https://aacrjournals.org/clincancerres/article-abstract/14/4/1065/73384
+PDF網址: 
+論文標題:Early detection of breast cancer in countries with limited resources
+作者: BO Anderson, S Braun, S Lim, RA Smith
+摘要: detection” and “screening” (Fig. 1). We define early detection as the identification of breast  cancer at a  that have the least physical impact and the greatest chance of producing a cure. 
+期刊: The breast …
+發表年份: 2003
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1524-4741.9.s2.4.x
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1524-4741.9.s2.4.x?download=true
+論文標題:The benefit and cost of prostate cancer early detection
+作者: PJ Littrup, AC Goodman
+摘要: an improvement in the percentage of earlier-stage cancer diagnosed, an  and the application  of earlydetection techniques. However, the effectiveness of prostate cancer early detection 
+期刊: CA: A Cancer Journal for …
+發表年份: 1993
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.43.3.134
+PDF網址: 
+論文標題:Early detection of gastric cancer.
+作者: MT Hallissey, WH Allum, AJ Jewkes, DJ Ellis
+摘要: with dyspepsia for the first time have been referred for early endoscopy to determine the  pattern of detection of gastric cancer and to see whether the proportions of early and curable 
+期刊: British Medical …
+發表年份: 1990
+出版網址: https://www.bmj.com/content/301/6751/513.short
+PDF網址: 
+論文標題:Early lung cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Mayo Clinic study
+作者: RS Fontana, DR Sanderson, WF Taylor
+摘要: early-stage lung cancer sponsored by the National Cancer Institute (1). The MLP data  complement data being generated by the 2 other trials, but the design of the MLP is different in two 
+期刊: American Review of …
+發表年份: 1984
+出版網址: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.561
+PDF網址: 
+論文標題:The central role of receiver operating characteristic (ROC) curves in evaluating tests for the early detection of cancer
+作者: SG Baker
+摘要: or not always used in the best manner. This commentary explains why ROC curves should  be the primary method for evaluating the performance of early detection tests of cancer. It also 
+期刊: Journal of the National Cancer Institute
+發表年份: 2003
+出版網址: https://academic.oup.com/jnci/article-abstract/95/7/511/2520685
+PDF網址: 
+論文標題:Cancer detection and treatment: the role of nanomedicines
+作者: J LaRocque, DJ Bharali, SA Mousa
+摘要: Various nano-carriers such as nanoshells, nanocrystals, nanopolymers, quantum dots, and  dendrimers, and their role in early cancer detection and treatment have been discussed in 
+期刊: Molecular biotechnology
+發表年份: 2009
+出版網址: https://link.springer.com/article/10.1007/s12033-009-9161-0
+PDF網址: 
+論文標題:Biomarkers for early detection of breast cancer: what, when, and where?
+作者: VV Levenson
+摘要: This review discusses different tactics applied to breast cancer detection and provides a  broad view of the field. For obvious reasons, detailed description of each technique is beyond 
+期刊: Biochimica et Biophysica Acta (BBA)-General Subjects
+發表年份: 2007
+出版網址: https://www.sciencedirect.com/science/article/pii/S0304416507000402
+PDF網址: 
+論文標題:Screening for the early detection of cancer—I. The temporal natural history of a progressive disease state
+作者: A Albert, PM Gertman, TA Louis
+摘要: In the last section we show that a number of questions about the natural history of cervical  cancer which bear heavily upon the design of mass screening programs can be couched in 
+期刊: Mathematical Biosciences
+發表年份: 1978
+出版網址: https://www.sciencedirect.com/science/article/pii/0025556478900743
+PDF網址: 
+論文標題:Emerging technologies for salivaomics in cancer detection
+作者: KE Kaczor‐Urbanowicz
+摘要: purpose of this review is to give a comprehensive update on the emerging diagnostic  technologies and tools for the early detection of cancerous diseases based on saliva. 
+期刊: Journal of cellular …
+發表年份: 2017
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1111/jcmm.13007
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcmm.13007?download=true
+論文標題:Impact of early detection on the clinical course of lung cancer
+作者: MR Melamed, BJ Flehinger, MB Zaman
+摘要: two techniques for detection of early and asymptomatic lung cancer-the chest  cancer  mortality by early detection and treatment, we undertook a long-term controlled clinical trial of the 
+期刊: Surgical Clinics of North America
+發表年份: 1987
+出版網址: https://www.sciencedirect.com/science/article/pii/S003961091644329X
+PDF網址: 
+論文標題:Novel artificial neural network for early detection of prostate cancer
+作者: B Djavan, M Remzi, A Zlotta, C Seitz, P Snow
+摘要: the way patients referred for early prostate cancer detection  to enhance the sensitivity and  specificity of detection within  on the early detection of prostate cancer focus on the need for an 
+期刊: Journal of Clinical …
+發表年份: 2002
+出版網址: https://ascopubs.org/doi/abs/10.1200/jco.2002.20.4.921
+PDF網址: 
+論文標題:The National Cancer Institute Cooperative Early Lung Cancer Detection Program: Results of the Initial Screen (Prevalence) Early Lung Cancer Detection: Introduction
+作者: NI Berlin, CR Buncher, RS Fontana
+摘要: though those with the disease  The cooperative early lung cancer detection program was  created to determine whether a program of lung cancer screening might lead to "early" detection 
+期刊: American Review of …
+發表年份: 1984
+出版網址: https://www.atsjournals.org/doi/abs/10.1164/arrd.1984.130.4.545
+PDF網址: 
+論文標題:Early cancer detection among rural and urban Californians
+作者: SL Blair, GR Sadler, R Bristol, C Summers, Z Tahir
+摘要: proportion of cancers found in the early stage. This study compared stage of detection for  members of  in the rates of diagnosis of early stage cancers could be found among patients in 
+期刊: BMC Public …
+發表年份: 2006
+出版網址: https://link.springer.com/article/10.1186/1471-2458-6-194
+PDF網址: 
+論文標題:Delays in breast cancer detection and treatment in developing countries
+作者: MM Rivera-Franco
+摘要: comparison with the United States and Sweden. Paucity of early detection programs explain   , to promote early diagnosis of breast cancer, highlighting the importance of creating more 
+期刊: Breast cancer: basic and …
+發表年份: 2018
+出版網址: https://journals.sagepub.com/doi/abs/10.1177/1178223417752677
+PDF網址: 
+論文標題:The early detection of cancer in the primary-care setting: factors associated with the acceptance and completion of recommended procedures
+作者: RC Burack, J Liang
+摘要: The Health Belief Model (14) proposes that patient decisions  of the likelihood and severity  of an outcome, and the costs and  offered early cancer detection services during the course of 
+期刊: Preventive Medicine
+發表年份: 1987
+出版網址: https://www.sciencedirect.com/science/article/pii/0091743587900144
+PDF網址: 
+論文標題:Modeled reductions in late-stage cancer with a multi-cancer early detection test
+作者: E Hubbell, CA Clarke, AM Aravanis
+摘要: Cancer is the second leading cause of death  multi-cancer early detection (MCED) may  make “universal cancer screening” possible. We extend single-cancer models to understand the 
+期刊: Cancer Epidemiology …
+發表年份: 2021
+出版網址: https://aacrjournals.org/cebp/article-abstract/30/3/460/72416
+PDF網址: 
+論文標題:Guidelines for the early detection and screening of breast cancer
+作者: OMN Khatib, A Modjtabai
+摘要: understanding that cancer detection at the earliest stages promotes more successful treatment  and cost-effective interventions. The major components of an early detection programme 
+期刊: … Organization, Regional Office for the …
+發表年份: 2006
+出版網址: https://apps.who.int/iris/bitstream/handle/10665/119805/dsa696.pdf
+PDF網址: https://apps.who.int/iris/bitstream/handle/10665/119805/dsa696.pdf
+論文標題:Early detection and screening for breast cancer
+作者: C Coleman
+摘要: cancer remains a complex, heterogeneous disease. Serial screening with mammography  is the most effective method to detect early  in many countries, the judicious use of proficient 
+期刊: Seminars in oncology nursing
+發表年份: 2017
+出版網址: https://www.sciencedirect.com/science/article/pii/S0749208117300190
+PDF網址: 
+論文標題:Evaluating diagnostic strategies for early detection of cancer: the CanTest framework
+作者: FM Walter, MJ Thompson, I Wellwood, GA Abel
+摘要: of early stage biomarker research like ‘a promising new test to detect cancer early’ [32],  when the framework will demonstrate that a test may only be in an early phase of evidence 
+期刊: Bmc Cancer
+發表年份: 2019
+出版網址: https://link.springer.com/article/10.1186/s12885-019-5746-6
+PDF網址: 
+論文標題:A comparative study of lung cancer detection using machine learning algorithms
+作者: PR Radhika, RAS Nair, G Veena
+摘要: So detection of lung cancer at the earliest is crucial for the survival rate of patients.  The  keyobjective of this paper is the early diagnosis of lung cancer by examining the performance of 
+期刊: 2019 IEEE international …
+發表年份: 2019
+出版網址: https://ieeexplore.ieee.org/abstract/document/8869001/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869001
+論文標題:Early detection of ovarian cancer
+作者: PM Das, RC Bast Jr
+摘要: CA125 values in the detection of early-stage ovarian cancer.  the serum and urine of early-  and late-stage ovarian cancer  , but the urine assay exhibited greater sensitivity for early-stage 
+期刊: Biomarkers in medicine
+發表年份: 2008
+出版網址: https://www.tandfonline.com/doi/abs/10.2217/17520363.2.3.291
+PDF網址: 
+論文標題:Cancer molecular markers: A guide to cancer detection and management
+作者: M Nair, SS Sandhu, AK Sharma
+摘要: the management of cancer; where, we have witnessed a number of molecular markers which  allow the early detection of cancers  the discovery of cancer markers that has allowed early 
+期刊: Seminars in cancer biology
+發表年份: 2018
+出版網址: https://www.sciencedirect.com/science/article/pii/S1044579X17301189
+PDF網址: 
+論文標題:Precision prevention and early detection of cancer: fundamental principles
+作者: TR Rebbeck, K Burns-White, AT Chan
+摘要: cancer prevention and early-detection approaches have the potential to reduce a large  proportion of the cancer burden in the  the cancer burden. New PPED approaches that exploit 
+期刊: Cancer …
+發表年份: 2018
+出版網址: https://aacrjournals.org/cancerdiscovery/article-abstract/8/7/803/10141
+PDF網址: 
+論文標題:Advances in oral cancer detection
+作者: D Chakraborty, C Natarajan, A Mukherjee
+摘要: the usage of these screening techniques in clinics. In this review, we  the importance of  early diagnosis of oral cancer as well as discuss about the effectiveness and limitations of the 
+期刊: Advances in clinical chemistry
+發表年份: 2019
+出版網址: https://www.sciencedirect.com/science/article/pii/S0065242319300265
+PDF網址: 
+論文標題:Telomerase and early detection of cancer: a National Cancer Institute workshop
+作者: RA Breslow, JW Shay, AF Gazdar
+摘要: The nature of an ideal early detection biomarker,  for the early detection of cancer, the  National Cancer Institute (NCI) convened the “ International Workshop on Telomerase in the Early 
+期刊: … of the National Cancer …
+發表年份: 1997
+出版網址: https://academic.oup.com/jnci/article-abstract/89/9/618/2526945
+PDF網址: 
+論文標題:Prostate-specific antigen in the early detection of prostate cancer
+作者: IM Thompson, DP Ankerst
+摘要: We found that, for cancer detection, the area under the receiver–operating characteristic   of the performance of a test; the area under the receiver–operating characteristic curve of the 
+期刊: Cmaj
+發表年份: 2007
+出版網址: https://www.cmaj.ca/content/176/13/1853.short
+PDF網址: 
+論文標題:Effects of health insurance and race on early detection of cancer
+作者: RG Roetzheim, N Pal, C Tennant, L Voti
+摘要: in stage of cancer at diagnosis may be  cancer in Florida in 1994 for whom the stage at  diagnosis and insurance status were known. METHODS: The effects of insurance and race on the 
+期刊: … the National Cancer …
+發表年份: 1999
+出版網址: https://academic.oup.com/jnci/article-abstract/91/16/1409/2543802
+PDF網址: 
+論文標題:Early detection of cancer recurrence: 18F-FDG PET/CT can make a difference in diagnosis and patient care
+作者: O Israel, A Kuten
+摘要: A relevant example is the case of colorectal cancer, in which early detection of local  recurrence or liver metastases, at a stage when still resectable, can provide up to 40% long-term 
+期刊: Journal of Nuclear Medicine
+發表年份: 2007
+出版網址: https://jnm.snmjournals.org/content/48/1_suppl/28S.short
+PDF網址: 
+論文標題:Opportunities for early cancer detection: the rise of ctDNA methylation-based pan-cancer screening technologies
+作者: N Constantin, AAI Sina, D Korbie, M Trau
+摘要: is often ineffective for early cancer detection as it  detection of multiple cancer types  simultaneously are emerging as novel strategies for improving early cancer detection rate with the 
+期刊: Epigenomes
+發表年份: 2022
+出版網址: https://www.mdpi.com/2075-4655/6/1/6
+PDF網址: 
+論文標題:Mammography and beyond: developing technologies for the early detection of breast cancer
+作者: JC Lashof, IC Henderson, SJ Nass
+摘要: to review the breast cancer detection technologies in development and to examine the many   development as they specifically apply to methods for the early detection of breast cancer. 
+期刊: NA
+發表年份: 2001
+出版網址: https://books.google.com/books?hl=en&lr=&id=tSuU_d8-Sj8C&oi=fnd&pg=PA1&dq=The+earlier+Cancer+detection&ots=X_vcDPGx4b&sig=0KzL8gUIzmMJmrLkkgkIPSrcvOk
+PDF網址: 
+論文標題:The future of blood-based biomarkers for the early detection of breast cancer
+作者: SY Loke, ASG Lee
+摘要: Although none of the currently used blood-based biomarkers are sensitive enough for  the early detection of BC, a plethora of significant findings pertaining to the development of 
+期刊: European journal of cancer
+發表年份: 2018
+出版網址: https://www.sciencedirect.com/science/article/pii/S0959804918300029
+PDF網址: 
+論文標題:The Liquid Biopsy Consortium: Challenges and opportunities for early cancer detection and monitoring
+作者: SM Batool, A Yekula, P Khanna, T Hsia
+摘要: In this commentary, we highlight the need for advanced liquid biopsy-based tests for the  early diagnosis of cancers. We review the current understanding of existing liquid biopsy-based 
+期刊: Cell Reports …
+發表年份: 2023
+出版網址: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00365-8?dgcid=raven_jbs_etoc_email
+PDF網址: 
+論文標題:Breast cancer early detection: A phased approach to implementation
+作者: O Ginsburg, CH Yip, A Brooks, A Cabanes, M Caleffi
+摘要: for the early detection and diagnosis of breast cancer. In this  INTRODUCTION The World  Health Organization (WHO) has  the early detection of cancer: early diagnosis, which is the 
+期刊: Cancer
+發表年份: 2020
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/cncr.32887
+PDF網址: 
+論文標題:Early lung-cancer detection with spiral CT and positron emission tomography in heavy smokers: 2-year results
+作者: U Pastorino, M Bellomi, C Landoni, E De Fiori
+摘要: We report the findings for lung cancer detected at the baseline (year 1) screen and at the  first follow-up screening round (year 2). This study is not a randomised trial but a demonstration 
+期刊: The Lancet
+發表年份: 2003
+出版網址: https://www.thelancet.com/journals/lancet/article/PIIS0140673603141888/abstract
+PDF網址: 
+論文標題:Molecular markers for early cancer detection
+作者: FE Ahmed
+摘要: in approximately 90% of human cancers (3,4). The goal of early detection and screening is  the diagnosis and treatment of cancer before it spreads beyond the organ of origin, perhaps 
+期刊: Journal of Environmental Science & Health Part C
+發表年份: 2000
+出版網址: https://www.tandfonline.com/doi/pdf/10.1080/10590500009373517
+PDF網址: 
+論文標題:Lung cancer and its early detection using biomarker-based biosensors
+作者: SK Arya, S Bhansali
+摘要: transcriptase polymerase chain reaction (RT-PCR), DNA sequencing, fluorescent in situ  hybridization (FISH), etc., to detect the genetic alterations occurring in the cancerous state. On 
+期刊: Chemical reviews
+發表年份: 2011
+出版網址: https://pubs.acs.org/doi/full/10.1021/cr100420s
+PDF網址: 
+論文標題:EarlyCDT-Lung: An Immunobiomarker Test as an Aid to Early Detection of Lung Cancer
+作者: S Lam, P Boyle, GF Healey, P Maddison
+摘要: The need for an aid to detect lung cancer early is undisputed. Lung cancer is the worldwide  leading cause of cancer Outcomes are substantially better with early, localized disease 
+期刊: Cancer prevention …
+發表年份: 2011
+出版網址: https://aacrjournals.org/cancerpreventionresearch/article-abstract/4/7/1126/49829
+PDF網址: 
+論文標題:Advances in early lung cancer detection: A systematic review
+作者: VA Binson, M Subramoniam
+摘要: The death rate from lung cancer can be reduced by effective screening that leads to early  detection of the  The early detection of lung cancer can be done by many methods such as 
+期刊: 2018 International Conference …
+發表年份: 2018
+出版網址: https://ieeexplore.ieee.org/abstract/document/8821188/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8821188
+論文標題:Early detection of ovarian cancer
+作者: KM Elias, J Guo, RC Bast
+摘要: The rationale for early detection of ovarian cancer is compelling. Ovarian cancer confined  to the ovaries (stage I) can be cured in up to 90% of patients, and disease confined to the 
+期刊: Hematology/Oncology Clinics
+發表年份: 2018
+出版網址: https://www.hemonc.theclinics.com/article/S0889-8588(18)30753-6/abstract
+PDF網址: 
+論文標題:Breast cancer early detection methods for low and middle income countries, a review of the evidence
+作者: M Corbex, R Burton, H Sancho-Garnier
+摘要: The objective of this review is to provide health  the various approaches to BC early detection  available to date, including mammographic screening, in order to help them to select the 
+期刊: The Breast
+發表年份: 2012
+出版網址: https://www.sciencedirect.com/science/article/pii/S0960977612000033
+PDF網址: 
+論文標題:Survival experience in the breast cancer detection demonstration project
+作者: H Seidman, SK Gelb, E Silverberg
+摘要: the National Cancer Institute to organize a program to show that the HIP study techniques of  early detection of breast cancer  enlisting the cooperation of both the general public and the 
+期刊: CA: a cancer journal …
+發表年份: 1987
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.37.5.258
+PDF網址: 
+論文標題:Twenty‐year follow‐up of the breast cancers diagnosed during the Breast Cancer Detection Demonstration Project
+作者: CR Smart, C Byrne, RA Smith
+摘要: groups: the rate of cancer detection was greatest on the initial screening with mammography.  The rate per  The decrease was attributed to both earlier detection and improved treatment. 
+期刊: CA: a cancer journal …
+發表年份: 1997
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.47.3.134
+PDF網址: 
+論文標題:Prospective study of early detection for primary liver cancer
+作者: B Yang, B Zhang, Y Xu, W Wang, Y Shen
+摘要: that early detection is the key to secondary prevention in PLC. To evaluate the effectiveness  of early detection  The working hypothesis of the study was that the use of the serum alpha- 
+期刊: Journal of cancer …
+發表年份: 1997
+出版網址: https://link.springer.com/article/10.1007/BF01438313
+PDF網址: 
+論文標題:Molecular biomarkers for the early detection of ovarian cancer
+作者: R Zhang, MKY Siu, HYS Ngan, KKL Chan
+摘要: for the improvement of early ovarian cancer detection at very  , the CA125-STn approach  remains limited for the detection  cancer histologies such as clear cell and mucinous cancers. 
+期刊: International Journal of …
+發表年份: 2022
+出版網址: https://www.mdpi.com/1422-0067/23/19/12041
+PDF網址: 
+論文標題:The state of molecular biomarkers for the early detection of lung cancer
+作者: M Hassanein, JC Callison
+摘要: In an effort to identify the most relevant lung cancer biomarkers of early detection, we   PubMed on the basis of the keywords biomarkers, risk, diagnosis, early detection, and lung cancer. 
+期刊: Cancer prevention …
+發表年份: 2012
+出版網址: https://aacrjournals.org/cancerpreventionresearch/article-abstract/5/8/992/50003
+PDF網址: 
+論文標題:Early detection and diagnosis of oral cancer: Strategies for improvement
+作者: PJ Ford, CS Farah
+摘要: We reviewed the evidence for current oral mucosal  behavioural influences on the early  detection of oral cancer, and to  for the early detection of oral cancer and PMD, that we also take 
+期刊: Journal of Cancer Policy
+發表年份: 2013
+出版網址: https://www.sciencedirect.com/science/article/pii/S2213538313000039
+PDF網址: 
+論文標題:Screening for the early detection of cancer
+作者: PC Prorok, RJ Connor
+摘要: the disease being detected early is cancer. Thus, there is a strong belief that the development  of cancer screening programs will result in a decline in cancer mortality. Evidence of this is 
+期刊: Cancer investigation
+發表年份: 1986
+出版網址: https://www.tandfonline.com/doi/pdf/10.3109/07357908609018453
+PDF網址: 
+論文標題:Early detection of second breast cancers improves prognosis in breast cancer survivors
+作者: N Houssami, S Ciatto, F Martinelli, R Bonardi
+摘要: of the impact of early detection—detection in the asymptomatic relative to the symptomatic  phase—of second breast cancer events in women with a past history of breast cancer. Our 
+期刊: Annals of oncology
+發表年份: 2009
+出版網址: https://www.sciencedirect.com/science/article/pii/S0923753419404468
+PDF網址: 
+論文標題:American Cancer Society guideline for the early detection of prostate cancer: update 1997
+作者: A Von Eschenbach, R Ho, GP Murphy
+摘要: in recent years about the techniques and impact of early prostate cancer detection. Many   summary, the 1997 revision of the ACS guideline for the early detection of prostate cancer is 
+期刊: CA: a cancer journal …
+發表年份: 1997
+出版網址: https://scholar.archive.org/work/4k4ie7ad6jfrpjabrnlcgjgbda/access/wayback/http://pacificcancer.org/Resources/Cancer/Prostate/ACS_guidelines_prostate.pdf
+PDF網址: https://scholar.archive.org/work/4k4ie7ad6jfrpjabrnlcgjgbda/access/wayback/http://pacificcancer.org/Resources/Cancer/Prostate/ACS_guidelines_prostate.pdf
+論文標題:Breast MR imaging in women at high-risk of breast cancer. Is something changing in early breast cancer detection?
+作者: F Sardanelli, F Podo
+摘要: change in the world of early diagnosis of breast cancer, even  a niche indication, the  possibility of detecting the malignant lesion  tool to be used for an earlier breast cancer detection. 
+期刊: European radiology
+發表年份: 2007
+出版網址: https://link.springer.com/article/10.1007/s00330-006-0389-9
+PDF網址: 
+論文標題:Cancer: improving early detection and prevention. A community practice randomised trial.
+作者: AJ Dietrich, GT O'Connor, A Keller, PA Carney
+摘要: impact of physician education and facilitator assisted office administrative system interventions  on the cancer early detection and prevention services provided in practices in the United 
+期刊: British Medical …
+發表年份: 1992
+出版網址: https://www.bmj.com/content/304/6828/687.short
+PDF網址: 
+論文標題:Radiomics improves cancer screening and early detection
+作者: RJ Gillies, MB Schabath
+摘要: in the early detection of cancers,  The first section of this review will briefly describe the  various imaging modalities and their use as primary or secondary screens in an early detection 
+期刊: Cancer Epidemiology, Biomarkers & …
+發表年份: 2020
+出版網址: https://aacrjournals.org/cebp/article-abstract/29/12/2556/71998
+PDF網址: 
+論文標題:New techniques for early detection of lung cancer
+作者: G Sutedja
+摘要: The resurgence of interest in lung cancer screening and the application of new techniques  for the management of early cancer have raised various issues regarding this global epidemic 
+期刊: European Respiratory Journal
+發表年份: 2003
+出版網址: https://publications.ersnet.org/content/erj/21/39suppl/57s
+PDF網址: 
+論文標題:Cancer detection in primary care: insights from general practitioners
+作者: T Green, K Atkin, U Macleod
+摘要: the burden of early cancer detection in general practice, both related to the anxiety and  symptoms patients bring to GPs and the need for GPs to recognise patterns of cancer symptoms 
+期刊: British journal of cancer
+發表年份: 2015
+出版網址: https://www.nature.com/articles/bjc201541
+PDF網址: 
+論文標題:Early lung cancer detection using spiral computed tomography and positron emission tomography
+作者: G Bastarrika, MJ García-Velloso
+摘要: to be effective in diagnosing lung cancer in the early stages. In ELCAP, 89% of lung  early  detection of lung cancer after a carefully designed low-dose spiral CT–based protocol with the 
+期刊: American journal of …
+發表年份: 2005
+出版網址: https://www.atsjournals.org/doi/abs/10.1164/rccm.200411-1479oc
+PDF網址: 
+論文標題:Epigenetics in cancer: implications for early detection and prevention
+作者: M Verma, S Srivastava
+摘要: The study of epigenetics offers great potential for the  be used to detect and diagnose  cancer in its earliest stages and  in the methylation of DNA have been shown to be the most 
+期刊: The lancet oncology
+發表年份: 2002
+出版網址: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(02)00932-4/abstract
+PDF網址: 
+論文標題:Early detection of prostate cancer: European Association of Urology recommendation
+作者: A Heidenreich, PA Abrahamsson, W Artibani, J Catto
+摘要: early detection of PCa should be adapted to the  the current evidence in the literature, the  European Association of Urology (EAU) has a different recommendation for the early detection 
+期刊: European urology
+發表年份: 2013
+出版網址: https://www.sciencedirect.com/science/article/pii/S0302283813006660
+PDF網址: 
+論文標題:Early detection of lung cancer: role of biomarkers
+作者: C Brambilla, F Fievet, M Jeanmart
+摘要: of oncogene activation and the range of molecular and  of the groups working on lung  cancer are currently trying to validate accurate biomarkers for the early detection of lung cancer. 
+期刊: European …
+發表年份: 2003
+出版網址: https://publications.ersnet.org/content/erj/21/39suppl/36s
+PDF網址: 
+論文標題:Screening and early—detection of lung cancer
+作者: J Vansteenkiste, C Dooms, C Mascaux, K Nackaerts
+摘要: The greatest news of the past year in this field was the first large-scale early detection  trial that could prove a 20% reduction in lung cancer-related mortality by screening high-risk 
+期刊: Annals of oncology
+發表年份: 2012
+出版網址: https://www.sciencedirect.com/science/article/pii/S0923753419417560
+PDF網址: 
+論文標題:Cancer-associated mutations but no cancer: insights into the early steps of carcinogenesis and implications for early cancer detection
+作者: SR Kennedy, Y Zhang, RA Risques
+摘要: to what occurs in cancer, but within normal tissue. Here we discuss some of the most important   novel findings, with a special focus on their impact for cancer detection and prediction. 
+期刊: Trends in cancer
+發表年份: 2019
+出版網址: https://www.cell.com/trends/cancer/fulltext/S2405-8033(19)30146-3?sf222264895=1
+PDF網址: 
+論文標題:Biomarkers for early detection of colon cancer
+作者: S Srivastava, M Verma, DE Henson
+摘要: The focus of the study was on early detection by the following algorithm: tyrosine kinases  expressed by (a) normal colonic mucosa, (b) colonic polyps (both tubular and villous adenomas 
+期刊: Clinical Cancer Research
+發表年份: 2001
+出版網址: https://aacrjournals.org/clincancerres/article-abstract/7/5/1118/288685
+PDF網址: 
+論文標題:Carcinogenesis, prevention and early detection of gastric cancer: where we are and where we should go
+作者: CA González, A Agudo
+摘要: is among the earliest and most common alterations in human cancers, leading to  abnormal expression of a broad spectrum of tumour-suppressor genes and other cancer-associated 
+期刊: International journal of cancer
+發表年份: 2012
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.26430
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.26430?download=true
+論文標題:Breast cancer in limited‐resource countries: early detection and access to care
+作者: , Global Summit Early Detection and Access to 
+摘要: Presentations in the early detection and access to care session at the summit focused on  the value of detecting breast cancer at an earlier stage and the potential of various disease 
+期刊: The breast …
+發表年份: 2006
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1075-122X.2006.00200.x
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1075-122X.2006.00200.x?download=true
+論文標題:Challenges in using ctDNA to achieve early detection of cancer
+作者: IS Haque, O Elemento
+摘要: We reanalyze published data on the expected ctDNA allele fraction in early-stage cancer   to reach the sensitivity of existing assays for early cancer detection, making the exorbitant cost 
+期刊: BioRxiv
+發表年份: 2017
+出版網址: https://www.biorxiv.org/content/10.1101/237578.abstract
+PDF網址: 
+論文標題:Prostate cancer early detection, version 1.2014
+作者: PR Carroll, JK Parsons, G Andriole
+摘要: The guidelines provide a set of sequential recommendations on  the detection of the subset  of prostate cancers that are potentially curable and, if left undetected, represent a risk to the 
+期刊: … Comprehensive Cancer …
+發表年份: 2014
+出版網址: https://jnccn.org/abstract/journals/jnccn/12/9/article-p1211.xml
+PDF網址: 
+論文標題:Integrating genomic features for non-invasive early lung cancer detection
+作者: JJ Chabon, EG Hamilton, DM Kurtz, MS Esfahani
+摘要: for the  in early-stage lung cancers, ctDNA is present prior to treatment in most patients  and its presence is strongly prognostic. We also find that the majority of somatic mutations in the 
+期刊: Nature
+發表年份: 2020
+出版網址: https://www.nature.com/articles/s41586-020-2140-0
+PDF網址: 
+論文標題:Advances in lung cancer screening and early detection
+作者: C Li, H Wang, Y Jiang, W Fu, X Liu
+摘要: of the current evidence and techniques for lung cancer screening, and explores feasible  strategies for the early detection and diagnosis of lung cancer. We focus on the evidence for 
+期刊: Cancer biology & …
+發表年份: 2022
+出版網址: https://www.cancerbiomed.org/content/19/5/591
+PDF網址: 
+論文標題:Biomarkers in molecular medicine: cancer detection and diagnosis
+作者: P Maruvada, W Wang, PD Wagner, S Srivastava
+摘要: the presence of early stage cancers is a particularly challenging problem. The American  Cancer  tests to screen populations for the early detection of many cancers of high incidence 
+期刊: Biotechniques
+發表年份: 2005
+出版網址: https://www.tandfonline.com/doi/abs/10.2144/05384su04
+PDF網址: 
+論文標題:Circulating tumor DNA for early cancer detection
+作者: C Fiala, V Kulasingam
+摘要: The utility of ctDNA for early cancer detection is being studied. However, a blood test for cancer   Detecting cancer early means that the tumor is not only smaller but also less complex, so 
+期刊: The Journal of Applied …
+發表年份: 2018
+出版網址: https://academic.oup.com/jalm/article-abstract/3/2/300/5603171
+PDF網址: 
+論文標題:Early detection and prevention of pancreatic cancer: is it really possible today?
+作者: M Del Chiaro, R Segersvärd, M Lohr
+摘要: discovery of new therapeutic agents, but to a significant extent it has also been the result of  the development of early detection and prevention programs. Born from this concept is a new 
+期刊: World journal of …
+發表年份: 2014
+出版網址: https://pmc.ncbi.nlm.nih.gov/articles/PMC4161798/
+PDF網址: 
+論文標題:Evaluation of biomarker panels for early stage ovarian cancer detection and monitoring for disease recurrence
+作者: LJ Havrilesky, CM Whitehead, JM Rubatt, RL Cheek
+摘要: performance for the detection of early ovarian cancer versus normal using the 2SD cutoff was:   our test positives may further increase the overall PPV for the detection of ovarian cancer. 
+期刊: Gynecologic …
+發表年份: 2008
+出版網址: https://www.sciencedirect.com/science/article/pii/S009082580800334X
+PDF網址: 
+論文標題:Early colorectal cancer detection—Current and evolving challenges in evidence, guidelines, policy, and practices
+作者: RA Smith, S Fedewa, R Siegel
+摘要: The clinical and scientific foundation for understanding the natural history of colorectal  cancer, and the potential for prevention and early detection of localized cancers through 
+期刊: Advances in cancer research
+發表年份: 2021
+出版網址: https://www.sciencedirect.com/science/article/pii/S0065230X21000294
+PDF網址: 
+論文標題:Multicancer early detection: learning from the past to meet the future
+作者: R Etzioni, R Gulati, NS Weiss
+摘要: Taking lessons from the history of cancer early detection, we  of early detection tests  translates into benefit and benefit-harm trade-offs: the ability to readily confirm a cancer signal, the 
+期刊: … : Journal of the National Cancer …
+發表年份: 2022
+出版網址: https://academic.oup.com/jnci/article-abstract/114/3/349/6358734
+PDF網址: 
+論文標題:Skin cancer detection: a review using deep learning techniques
+作者: M Dildar, S Akram, M Irfan, HU Khan
+摘要: developed various early detection techniques for skin cancer.  to detect skin cancer and to  distinguish benign skin cancer  techniques for the early detection of skin cancer. Research 
+期刊: International journal of …
+發表年份: 2021
+出版網址: https://www.mdpi.com/1660-4601/18/10/5479
+PDF網址: 
+論文標題:Early detection of prostate cancer in 2007: part 1: PSA and PSA kinetics
+作者: FH Schröder, HB Carter, T Wolters
+摘要: in the early detection of PCa but may be useful in detecting aggressive PCa selectively. For   The purpose of this review is to advise about the best way to detect PCa early in those men 
+期刊: European urology
+發表年份: 2008
+出版網址: https://www.sciencedirect.com/science/article/pii/S0302283807013590
+PDF網址: 
+論文標題:Impact of efforts to increase participation in repetitive screenings for early breast cancer detection.
+作者: R Fink, S Shapiro, R Roester
+摘要: The impact of these efforts on breast cancer detection is  examinations for the purpose of  earlier detection of disease  the detection of breast cancer at an early stage of development. 
+期刊: American Journal of …
+發表年份: 1972
+出版網址: https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.62.3.328
+PDF網址: 
+論文標題:Time to diagnosis and treatment of breast cancer: results from the National Breast and Cervical Cancer Early Detection Program, 1991-1995
+作者: LS Caplan, DS May
+摘要: cancers diagnosed through the program, we used the first. Thus, 1659 women with breast  cancer diagnoses formed the  Yet, our validation study (see the Methods section earlier in this 
+期刊: American journal of public …
+發表年份: 2000
+出版網址: https://pmc.ncbi.nlm.nih.gov/articles/PMC1446126/
+PDF網址: 
+論文標題:Early detection of sporadic pancreatic cancer: summative review
+作者: ST Chari, K Kelly, MA Hollingsworth, SP Thayer
+摘要: finding that PC was undetectable by CT scan in a subset of patients 6 months prior their  diagnosis underscores that CT scanning is not a good method for the earlier detection of PC; for 
+期刊: Pancreas
+發表年份: 2015
+出版網址: https://journals.lww.com/pancreasjournal/fulltext/2015/07000/Early_Detection_of_Sporadic_Pancreatic_Cancer_.3.aspx
+PDF網址: 
+論文標題:The early detection of ovarian cancer: from traditional methods to proteomics. Can we really do better than serum CA-125?
+作者: V Nossov, M Amneus, F Su, J Lang, JMT Janco
+摘要: , including ovarian cancer. In this review, we hope to provide an overview of the early  detection ovarian cancer from traditional methods to recent promises in the proteomics pipeline. 
+期刊: American journal of …
+發表年份: 2008
+出版網址: https://www.sciencedirect.com/science/article/pii/S0002937808004006
+PDF網址: 
+論文標題:Lung cancer in Europe in 2000: epidemiology, prevention, and early detection
+作者: JE Tyczynski, F Bray, DM Parkin
+摘要: Lung cancer is the most common cancer in the world. In men, the highest incidence rates are   It is estimated that there were about 375 000 cases of lung cancer in Europe in 2000; 303 
+期刊: The lancet oncology
+發表年份: 2003
+出版網址: https://www.thelancet.com/journals/lanonc/article/PIIS1470204503009604/abstract
+PDF網址: 
+論文標題:Ovarian cancer screening and early detection in the general population
+作者: JA Rauh-Hain, TC Krivak
+摘要: ; therefore, early detection of ovarian cancer represents the best hope for  The authors  concluded that TVUS screening was a viable method for the early detection of ovarian cancer 
+期刊: … in obstetrics and …
+發表年份: 2011
+出版網址: https://pmc.ncbi.nlm.nih.gov/articles/PMC3100094/
+PDF網址: 
+論文標題:Breast cancer detection using machine learning algorithms
+作者: S Sharma, A Aggarwal
+摘要: with the disease[10]. Thus, early detection of breast cancer can save a lot of valuable life.   machine learning algorithms, for the detection of breast cancer. Performance comparison of 
+期刊: … and mechanical systems …
+發表年份: 2018
+出版網址: https://ieeexplore.ieee.org/abstract/document/8769187/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8769187
+論文標題:Lead time in breast cancer detection and implications for periodicity of screening
+作者: SAM Shapiro, JD Goldberg
+摘要: the experience in the HIP study was used to estimate the average lead time gained through  screening in the detection of breast cancer among the  the early detection of disease and the 
+期刊: American Journal of …
+發表年份: 1974
+出版網址: https://academic.oup.com/aje/article-abstract/100/5/357/48591
+PDF網址: 
+論文標題:Implementation of artificial intelligence techniques for cancer detection
+作者: D Patel, Y Shah, N Thakkar, K Shah, M Shah
+摘要: It is found that early detection of cancer is the key to lower death rate. In this  cancer  detection. Various techniques used for the detection of lung cancer, liver cancer and breast cancer 
+期刊: Augmented Human …
+發表年份: 2020
+出版網址: https://link.springer.com/article/10.1007/s41133-019-0024-3
+PDF網址: 
+論文標題:Role of salivary biomarkers in oral cancer detection
+作者: Z Khurshid, MS Zafar, RS Khan, S Najeeb
+摘要: ) has the potential of early diagnosis. The use of saliva for early cancer detection in the search  for  This diagnostic modality in the field of molecular biology has led to the discovery and 
+期刊: Advances in clinical …
+發表年份: 2018
+出版網址: https://www.sciencedirect.com/science/article/pii/S0065242318300313
+PDF網址: 
+論文標題:The preclinical natural history of serous ovarian cancer: defining the target for early detection
+作者: PO Brown, C Palmer
+摘要: the duration of the window of opportunity for early detection by comparing the prevalence of  nonadvanced occult serous cancers  define the performance requirements for early detection 
+期刊: PLoS medicine
+發表年份: 2009
+出版網址: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000114
+PDF網址: 
+論文標題:The early detection of colorectal cancer
+作者: SF Miller, AR Knight
+摘要: stools for occult blood as an aid in early diagnosis of colon and rectal cancer. This paper  represents the results of a screening program for the early detection of colorectal cancer that 
+期刊: Cancer
+發表年份: 1977
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142(197708)40:2%3C945::AID-CNCR2820400253%3E3.0.CO;2-F
+PDF網址: 
+論文標題:PSA markers in prostate cancer detection
+作者: MB Gretzer, AW Partin
+摘要: improvement in early detection is recognized by the stage migration to T1c cancers, current   clearly room for improvement for the early detection of clinically significant prostate cancer. 
+期刊: Urologic Clinics
+發表年份: 2003
+出版網址: https://www.urologic.theclinics.com/article/S0094-0143(03)00057-0/abstract
+PDF網址: 
+論文標題:Saving women's lives: strategies for improving breast cancer detection and diagnosis
+作者: DB Petitti, EE Penhoet, JE Joy
+摘要: the early detection and diagnosis of breast cancer, the committee was also given  the early  detection of breast cancer and that accurate risk assessment is an essential step toward the 
+期刊: NA
+發表年份: 2005
+出版網址: https://books.google.com/books?hl=en&lr=&id=irJTAgAAQBAJ&oi=fnd&pg=PA1&dq=The+earlier+Cancer+detection&ots=JSIv1DJCwJ&sig=SHGZVQIs8eqg3TFRY-tlMd4eZgA
+PDF網址: 
+論文標題:Skin cancer detection using image processing
+作者: UB Ansari, T Sarode
+摘要: early and fast detection of skin cancer can save the patient’s life. With the new technology,  early detection of skin cancer  Formal method for diagnosis skin cancer detection is Biopsy 
+期刊: Int Res J Eng Technol
+發表年份: 2017
+出版網址: https://www.academia.edu/download/53555135/IRJET-V4I4702.pdf
+PDF網址: https://www.academia.edu/download/53555135/IRJET-V4I4702.pdf
+論文標題:Development of a multimarker assay for early detection of ovarian cancer
+作者: Z Yurkovetsky, S Skates, A Lomakin, B Nolen
+摘要: A multimarker approach seems to hold substantial promise for detection of early-stage  ovarian cancers. The goal of the present study was to select a panel of biomarkers that would 
+期刊: Journal of Clinical …
+發表年份: 2010
+出版網址: https://ascopubs.org/doi/abs/10.1200/JCO.2008.19.2484
+PDF網址: 
+論文標題:Shifting the cancer screening paradigm: the rising potential of blood-based multi-cancer early detection tests
+作者: T Brito-Rocha, V Constâncio, R Henrique, C Jerónimo
+摘要: early in the carcinogenic process, rendering DNA methylation an attractive biomarker for early  cancer detection,  for early cancer early detection as the PanTum Detect ® blood test [111]. 
+期刊: Cells
+發表年份: 2023
+出版網址: https://www.mdpi.com/2073-4409/12/6/935
+PDF網址: 
+論文標題:Novel blood-based early cancer detection: diagnostics in development.
+作者: TM Beer
+摘要: However, many current screening methods have high false-positive rates, increasing the   detecting multiple types of cancer represent an emerging approach to early cancer detection 
+期刊: The American journal of managed care
+發表年份: 2020
+出版網址: https://europepmc.org/article/med/33200893
+PDF網址: 
+論文標題:Heredity and malignant melanoma: implications for early cancer detection
+作者: HT Lynch, AJ Krush
+摘要: early for signs and symp¬ toms of cancer. He may react with fear, guilt and anxiety to the   critically the possibility of a generalized cancer diathesis in the familial form of this disease. 
+期刊: Canadian Medical Association Journal
+發表年份: 1968
+出版網址: https://pmc.ncbi.nlm.nih.gov/articles/PMC1924270/
+PDF網址: 
+論文標題:Cancer detection using infrared hyperspectral imaging
+作者: H Akbari, K Uto, Y Kosugi, K Kojima
+摘要: last few decades, many studies have been performed on the early detection of cancer using   Early detection can make an immense difference because cancer treatment is often simpler 
+期刊: Cancer science
+發表年份: 2011
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1349-7006.2011.01849.x
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1349-7006.2011.01849.x?download=true
+論文標題:Early stage screening of breast cancer using electrochemical biomarker detection
+作者: M Hasanzadeh, N Shadjou, M de la Guardia
+摘要: their attention in the development of biosensors for breast cancer detection using different   of the usefulness of marker-based electrochemical biosensors in breast cancer and its early 
+期刊: TrAC Trends in Analytical …
+發表年份: 2017
+出版網址: https://www.sciencedirect.com/science/article/pii/S0165993617301048
+PDF網址: 
+論文標題:Multi-cancer early detection test in symptomatic patients referred for cancer investigation in England and Wales (SYMPLIFY): a large-scale, observational cohort study
+作者: BD Nicholson, J Oke, PS Virdee, DA Harris
+摘要: Analysis of circulating tumour DNA could stratify cancer risk in symptomatic patients. We  aimed to evaluate the performance of a methylation-based multicancer early detection (MCED) 
+期刊: The Lancet …
+發表年份: 2023
+出版網址: https://www.thelancet.com/article/S1470-2045(23)00277-2/fulltext
+PDF網址: 
+論文標題:Screening programmes for the early detection and prevention of oral cancer
+作者: P Brocklehurst, O Kujan, L O'Malley
+摘要: major cancers and have proved effective in their early detection. Given the high morbidity  and mortality rates associated with oral cancer, there is a need to determine the effectiveness 
+期刊: Cochrane database …
+發表年份: 2013
+出版網址: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004150.pub4/abstract
+PDF網址: 
+論文標題:Non-invasive biomarkers for early detection of breast cancer
+作者: J Li, X Guan, Z Fan, LM Ching, Y Li, X Wang, WM Cao
+摘要: clinical approaches to earlier detection of breast cancer. In this review, we summarize the  current  Thus, they have the potential to serve as markers for cancer detection [62]. A number of 
+期刊: Cancers
+發表年份: 2020
+出版網址: https://www.mdpi.com/2072-6694/12/10/2767
+PDF網址: 
+論文標題:Biomarkers and strategies for early detection of ovarian cancer
+作者: RC Bast Jr, Z Lu, CY Han, KH Lu
+摘要: Panels of autoantibodies and antigen–autoantibody complexes are being evaluated with  the goal of detecting >90% of early-stage ovarian cancers, alone or in combination with CA125 
+期刊: Cancer Epidemiology …
+發表年份: 2020
+出版網址: https://aacrjournals.org/cebp/article-abstract/29/12/2504/72126
+PDF網址: 
+論文標題:Skin cancer detection technology
+作者: DN Dorrell, LC Strowd
+摘要: These statistics represent a rapidly rising incidence of skin cancers over the past 30 years.   skin cancers early and treat them quickly. The earlier skin cancers are treated, the less likely 
+期刊: Dermatologic clinics
+發表年份: 2019
+出版網址: https://www.derm.theclinics.com/article/S0733-8635(19)30052-X/abstract
+PDF網址: 
+論文標題:Lung cancer detection by using artificial neural network and fuzzy clustering methods
+作者: F Taher, R Sammouda
+摘要: the manual analysis. A numbers of medical researchers utilized the analysis of sputum cells  for early detection of lung cancer [3] for detecting lung cancer in its early stages based on the 
+期刊: 2011 IEEE GCC conference and …
+發表年份: 2011
+出版網址: https://ieeexplore.ieee.org/abstract/document/5752535/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5752535
+論文標題:Serum PSA-based early detection of prostate cancer in Europe and globally: past, present and future
+作者: H Van Poppel, T Albreht, P Basu, R Hogenhout
+摘要: as part of a risk-adapted strategy for the early detection of aggressive prostate cancer.   for the early detection of prostate cancer. New tests for early detection of prostate cancer show 
+期刊: Nature Reviews …
+發表年份: 2022
+出版網址: https://www.nature.com/articles/s41585-022-00638-6
+PDF網址: 
+論文標題:Microwave imaging for early breast cancer detection: Current state, challenges, and future directions
+作者: N AlSawaftah, S El-Abed, S Dhou, A Zakaria
+摘要: In this work, we focus on the early detection of breast cancer that has the potential to  on  the application of MWI in breast cancer detection. In comparison to normal cells, the water 
+期刊: Journal of imaging
+發表年份: 2022
+出版網址: https://www.mdpi.com/2313-433X/8/5/123
+PDF網址: 
+論文標題:Measurement of biomarker proteins for point-of-care early detection and monitoring of cancer
+作者: JF Rusling, CV Kumar, JS Gutkind, V Patel
+摘要: This approach is well suited to early cancer detection and monitoring since it has the potential  for relatively rapid high sensitivity determinations of limited panels of biomarkers in serum 
+期刊: Analyst
+發表年份: 2010
+出版網址: https://pubs.rsc.org/en/content/articlehtml/2010/an/c0an00204f
+PDF網址: 
+論文標題:Breast cancer detection using deep learning: Datasets, methods, and challenges ahead
+作者: RA Dar, M Rasool, A Assad
+摘要: At the early stages of cancer, researchers have  cancer 8–10 years earlier than Mammography  [15]. Infrared Thermography is employed for different cancer detection processes at the 
+期刊: Computers in biology and medicine
+發表年份: 2022
+出版網址: https://www.sciencedirect.com/science/article/pii/S0010482522007818
+PDF網址: 
+論文標題:Early detection of prostate cancer by routine screening
+作者: GW Chodak, HW Schoenberg
+摘要: In an attempt to detect prostate cancer when the disease was  of the patients with prostate  cancer had metastases to the bone  The cost of detecting each cancerous prostate tumor was 
+期刊: Jama
+發表年份: 1984
+出版網址: https://jamanetwork.com/journals/jama/article-abstract/395730
+PDF網址: 
+論文標題:Biomarkers for prostate cancer detection
+作者: DJ Parekh, DP Ankerst, D Troyer, S Srivastava
+摘要: by the Early Detection Research Network for phases of biomarker studies were interpreted  for use in prostate cancer and the  development for the early detection of cancer 41 and 
+期刊: The Journal of …
+發表年份: 2007
+出版網址: https://www.sciencedirect.com/science/article/pii/S0022534707020629
+PDF網址: 
+論文標題:Nanostructured materials with plasmonic nanobiosensors for early cancer detection: a past and future prospect
+作者: S Sugumaran, MF Jamlos, MN Ahmad
+摘要: properties with nano-biosensors towards early cancer detection to preserve human health.   to explore the efficacy for early cancer tumour detection or single molecular detection and (iv) 
+期刊: Biosensors and …
+發表年份: 2018
+出版網址: https://www.sciencedirect.com/science/article/pii/S0956566317305791
+PDF網址: 
+論文標題:Single extracellular vesicle analysis for early cancer detection
+作者: S Ferguson, KS Yang, R Weissleder
+摘要: to the high shed rates in cancer. In this review, we provide an overview of EVs and the  rationale for using them for early cancer detection.  will be necessary for early cancer detection. 
+期刊: Trends in molecular medicine
+發表年份: 2022
+出版網址: https://www.cell.com/trends/molecular-medicine/fulltext/S1471-4914(22)00111-3?dgcid=raven_jbs_aip_email
+PDF網址: 
+論文標題:Deep learning solutions for skin cancer detection and diagnosis
+作者: H Nahata, SP Singh
+摘要: cancer detection CNN model which can classify the skin cancer types and help in early detection  [ Therefore, timely detection of skin cancer is the key factor in reducing the mortality rate. 
+期刊: Machine learning with health care perspective …
+發表年份: 2020
+出版網址: https://link.springer.com/chapter/10.1007/978-3-030-40850-3_8
+PDF網址: 
+論文標題:Role of image thermography in early breast cancer detection-Past, present and future
+作者: D Singh, AK Singh
+摘要: improved the accuracy of thermography in early diagnosis of  based on the main steps of  computer aided detection systems:  the field of breast thermography over the past few decades. 
+期刊: Computer methods and programs in biomedicine
+發表年份: 2020
+出版網址: https://www.sciencedirect.com/science/article/pii/S0169260719311277
+PDF網址: 
+論文標題:Look how far we have come: BREAST cancer detection education on the international stage
+作者: PD Trieu, CR Mello-Thoms, ML Barron
+摘要: to improve radiologists’ diagnostic efficacy for early breast cancer detection is undertaken.   The morality reduction in HICs is likely due to increasing early cancer detection by screening 
+期刊: Frontiers in oncology
+發表年份: 2023
+出版網址: https://www.frontiersin.org/articles/10.3389/fonc.2022.1023714/full
+PDF網址: 
+論文標題:Recent advancements in optical biosensors for cancer detection
+作者: B Kaur, S Kumar, BK Kaushik
+摘要: Current cancer detection methods are also costly, inconvenient, complex, time consuming,   for early detection of cancer. It is primarily concerned with advancements in the design of 
+期刊: Biosensors and Bioelectronics
+發表年份: 2022
+出版網址: https://www.sciencedirect.com/science/article/pii/S0956566321008423
+PDF網址: 
+論文標題:Application of deep learning to pancreatic cancer detection: lessons learned from our initial experience
+作者: LC Chu, S Park, S Kawamoto, Y Wang, Y Zhou
+摘要: the expectation that the information from both phases would be complementary in the detection   0.75-mm-thick slices to provide the highest resolution and, because our goal was early 
+期刊: … the American College of …
+發表年份: 2019
+出版網址: https://www.jacr.org/article/S1546-1440(19)30631-3/abstract
+PDF網址: 
+論文標題:Breast cancer incidence and mortality in the Breast Cancer Detection Demonstration Project
+作者: AS Morrison, J Brisson, N Khalid
+摘要: status at the end of the period of screening: (a) the "cancer" cohort included all women with  breast  The falling incidence is the result of the screening, which causes the early detection of 
+期刊: … of the National Cancer …
+發表年份: 1988
+出版網址: https://academic.oup.com/jnci/article-abstract/80/19/1540/929498
+PDF網址: 
+論文標題:The science of early detection
+作者: BS Kramer
+摘要: detect prevalent cancers will disproportionately detect slower growing cancers compared with  cancers discovered as the  overdiagnosis lead to the detection and cure of cancers that did 
+期刊: Urologic Oncology: Seminars and Original …
+發表年份: 2004
+出版網址: https://www.sciencedirect.com/science/article/pii/S1078143904000894
+PDF網址: 
+論文標題:Toward the early detection of cancer by decoding the epigenetic and environmental fingerprints of cell-free DNA
+作者: Y Van Der Pol, F Mouliere
+摘要: development mark the chromatin. These epigenetic marks are reflected by modifications in  the  immune signatures, boosts the potential of liquid biopsy for the early detection of cancer. 
+期刊: Cancer cell
+發表年份: 2019
+出版網址: https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30386-1
+PDF網址: 
+論文標題:Breast cancer detection techniques: issues and challenges
+作者: P Jaglan, R Dass, M Duhan
+摘要: X-ray mammography is the primary method used for early detection of the  the survival  rate. Therefore, we need to analyze the existing as well as emerging breast cancer detection 
+期刊: Journal of The Institution of Engineers (India) …
+發表年份: 2019
+出版網址: https://link.springer.com/article/10.1007/S40031-019-00391-2
+PDF網址: 
+論文標題:Early detection of colorectal cancer: from conventional methods to novel biomarkers
+作者: N Vatandoost, J Ghanbari, M Mojaver, A Avan
+摘要: cancer (CRC) is one of the major health problems worldwide and is often diagnosed at late  stage. There is growing body of evidence in early detection of  The aim of current review is to 
+期刊: Journal of cancer …
+發表年份: 2016
+出版網址: https://link.springer.com/article/10.1007/s00432-015-1928-z
+PDF網址: 
+論文標題:Early detection of breast cancer using machine learning techniques
+作者: M Tahmooresi, A Afshar, BB Rad
+摘要: This study also discusses the datasets used for breast cancer detection and diagnosis.   assist in the detection of cancer in earlier stages. Early detection of cancer boosts the increase of 
+期刊: Journal of …
+發表年份: 2018
+出版網址: https://jtec.utem.edu.my/jtec/article/view/4706
+PDF網址: 
+論文標題:Transforming the landscape of early cancer detection using blood tests—commentary on current methodologies and future prospects
+作者: MC Liu
+摘要: TOO was predicted in 96% of samples with a cancer-like signal, of which 93% were accurate  be leveraged for early multi-cancer detection, including detection of lethal cancers without 
+期刊: British journal of cancer
+發表年份: 2021
+出版網址: https://www.nature.com/articles/s41416-020-01223-7
+PDF網址: 
+論文標題:Can Grail find the trail to early cancer detection?
+作者: C Fiala, EP Diamandis
+摘要: spin-off company of the sequencing giant Illumina, with the goal of developing a blood test  for early cancer detection [1]. With close to $1 billion financing, Grail tops the list of the highest 
+期刊: Clinical Chemistry and Laboratory Medicine …
+發表年份: 2019
+出版網址: https://www.degruyter.com/document/doi/10.1515/cclm-2018-1249/html
+PDF網址: 
+論文標題:Breast cancer detection using machine learning techniques
+作者: S Bhise, S Gadekar, AS Gaur, S Bepari
+摘要: to detect cancer in the early phase so the person can start the treatment as early as possible  and try to stop the  Early diagnosis of any disease is often curable with a touch amount of 
+期刊: Int. J. Eng. Res …
+發表年份: 2021
+出版網址: https://www.academia.edu/download/68282624/breast_cancer_detection_using_machine_learning_IJERTV10IS070064.pdf
+PDF網址: https://www.academia.edu/download/68282624/breast_cancer_detection_using_machine_learning_IJERTV10IS070064.pdf
+論文標題:Early detection biomarkers for ovarian cancer
+作者: S Sarojini, A Tamir, H Lim, S Li, S Zhang
+摘要: results of this study suggest that even though HE4 has a higher diagnostic specificity than  CA125, a combination of both improves the early detection and diagnosis of ovarian cancer of 
+期刊: Journal of …
+發表年份: 2012
+出版網址: https://onlinelibrary.wiley.com/doi/abs/10.1155/2012/709049
+PDF網址: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2012/709049?download=true
+論文標題:Early cancer detection in blood vessels using mobile nanosensors
+作者: R Mosayebi, A Ahmadzadeh, W Wicke
+摘要: In this paper, we propose using mobile nanosensors (MNSs) for early stage  anomaly detection. For concreteness, we focus on the detection of cancer cells located in a 
+期刊: IEEE transactions on …
+發表年份: 2018
+出版網址: https://ieeexplore.ieee.org/abstract/document/8567997/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567997
+論文標題:Recent incidence trends for breast cancer in women and the relevanceof early detection: an update
+作者: BA Miller, EJ Feuer, BF Hankey
+摘要: to rise through 1987, but declined during the following two years. Of particular interest is  the role that early detection may have played in the the recent trend in survival to determine 
+期刊: … Cancer Journal for Clinicians
+發表年份: 1993
+出版網址: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.43.1.27
+PDF網址: 
+論文標題:… and surveillance for the early detection of colorectal cancer and adenomatous polyps, 2008: a joint guideline from the American Cancer Society, the US Multi-Society …
+作者: , American Cancer Society Colorectal Cancer Advisory 
+摘要: primarily is effective at early cancer detection and a screening test that is effective at both  early cancer detection and cancer prevention through the detection and removal of polyps. It is 
+期刊: Gastroenterology
+發表年份: 2008
+出版網址: https://www.sciencedirect.com/science/article/pii/S0016508508002321
+PDF網址: 
+論文標題:Mucins as potential biomarkers for early detection of cancer
+作者: SK Gautam, P Khan, G Natarajan, P Atri, A Aithal
+摘要: analysis of mucins as biomarkers for the early detection of major epithelial cancers that   biomarker candidates for early cancer detection [31]. Herein, we discuss the utility of mucins as 
+期刊: Cancers
+發表年份: 2023
+出版網址: https://www.mdpi.com/2072-6694/15/6/1640
+PDF網址: 
+論文標題:Detecting early pancreatic cancer: problems and prospects
+作者: ST Chari
+摘要: detection of early pancreatic cancer. Therefore, we believe that among the most compelling  needs in pancreatic cancer  and early detection programs, and (2) to develop biomarkers of 
+期刊: Seminars in oncology
+發表年份: 2007
+出版網址: https://www.sciencedirect.com/science/article/pii/S0093775407001005
+PDF網址: 
+論文標題:Artificial intelligence and early detection of pancreatic cancer: 2020 summative review
+作者: B Kenner, ST Chari, D Kelsen, DS Klimstra, SJ Pandol
+摘要: subsequent Summit debate and vigorous discussions resulted in a shared vision for the  future of early detection of pancreatic cancer and defined parameters for a new pathway. 
+期刊: Pancreas
+發表年份: 2021
+出版網址: https://journals.lww.com/pancreasjournal/fulltext/2021/03000/artificial_intelligence_and_early_detection_of.1.aspx
+PDF網址: 
+論文標題:Blood markers for early detection of colorectal cancer: a systematic review
+作者: S Hundt, U Haug, H Brenner
+摘要: The purpose of this review was to give an overview of published studies on blood markers   the early detection of CRC and to summarize their performance characteristics. Method: The 
+期刊: Cancer Epidemiology Biomarkers & …
+發表年份: 2007
+出版網址: https://aacrjournals.org/cebp/article-abstract/16/10/1935/174679
+PDF網址: 
+論文標題:miRNA biomarkers in breast cancer detection and management
+作者: SW Fu, L Chen, Y Man
+摘要: cancer biomarker discovery and validation, and the potential use of circulating miRNAs in   for early breast cancer detection. We envision the potential use of miRNAs in breast cancer 
+期刊: Journal of Cancer
+發表年份: 2011
+出版網址: https://pmc.ncbi.nlm.nih.gov/articles/PMC3072617/
+PDF網址: 
+論文標題:Screening for the early detection of cancer—II. The impact of screening on the natural history of the disease
+作者: A Albert, PM Gertman, TA Louis, S Liu
+摘要: the expected detection delay (where detection delay is defined to be the age of the tumor at  the time  In our terminology, the detection delay among members of the study group who are 
+期刊: Mathematical Biosciences
+發表年份: 1978
+出版網址: https://www.sciencedirect.com/science/article/pii/0025556478900755
+PDF網址: 
+論文標題:The automated eye cancer detection through machine learning and image analysis in healthcare
+作者: J Mistry, R Ramakrishnan
+摘要: early detection of diseases possible, including the early detection of retinoblastoma, a form  of eye cancer  This paper outlines the development of a computer vision system which uses 
+期刊: Journal of Xidian University
+發表年份: 2023
+出版網址: https://www.researchgate.net/profile/Jinal_Mistry4/publication/373137779_The_Automated_Eye_Cancer_Detection_through_Machine_Learning_and_Image_Analysis_in_Healthcare/links/64dba07878e40b48bd4c98f7/The-Automated-Eye-Cancer-Detection-through-Machine-Learning-and-Image-Analysis-in-Healthcare.pdf
+PDF網址: https://www.researchgate.net/profile/Jinal_Mistry4/publication/373137779_The_Automated_Eye_Cancer_Detection_through_Machine_Learning_and_Image_Analysis_in_Healthcare/links/64dba07878e40b48bd4c98f7/The-Automated-Eye-Cancer-Detection-through-Machine-Learning-and-Image-Analysis-in-Healthcare.pdf
+論文標題:Breast cancer detection based on deep learning technique
+作者: NS Ismail, C Sovuthy
+摘要: Early detection of cancer can reduce the risk of deaths for  The objective of this paper is  to compare the breast cancer detection with two model networks of deep learning technique. 
+期刊: 2019 International UNIMAS STEM 12th …
+發表年份: 2019
+出版網址: https://ieeexplore.ieee.org/abstract/document/8861256/
+PDF網址: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861256
+論文標題:Breast cancer detection using artificial intelligence techniques: A systematic literature review
+作者: AB Nassif, MA Talib, Q Nasir, Y Afadar
+摘要: were quite effective for early detection and diagnosis of breast cancer, leading to more   In this research, we focused on papers that implement the breast cancer detection using the 
+期刊: Artificial intelligence in …
+發表年份: 2022
+出版網址: https://www.sciencedirect.com/science/article/pii/S0933365722000410
+PDF網址: 

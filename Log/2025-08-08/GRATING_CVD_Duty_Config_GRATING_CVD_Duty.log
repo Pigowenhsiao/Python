@@ -1,0 +1,57 @@
+2025-08-08 09:47:08,214 - INFO - 2025-08-08 09:47:08 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-08 09:47:08,222 - ERROR - 2025-08-08 09:47:08 \u8655\u7406 INI Config_GRATING_CVD_Duty.ini \u6642\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 265, in main
+    if settings.output_mode == 'csv':
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'IniSettings' object has no attribute 'output_mode'. Did you mean: 'output_path'?
+
+2025-08-08 09:47:08,223 - INFO - 2025-08-08 09:47:08 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-08 09:47:45,133 - INFO - 2025-08-08 09:47:45 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-08 09:47:45,145 - ERROR - 2025-08-08 09:47:45 \u8655\u7406 INI Config_GRATING_CVD_Duty.ini \u6642\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 265, in main
+    if settings.output_mode == 'csv':
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'IniSettings' object has no attribute 'output_mode'. Did you mean: 'output_path'?
+
+2025-08-08 09:47:45,146 - INFO - 2025-08-08 09:47:45 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-08 09:49:42,289 - INFO - 2025-08-08 09:49:42 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-08 09:49:42,295 - ERROR - 2025-08-08 09:49:42 \u8655\u7406 INI Config_GRATING_CVD_Duty.ini \u6642\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 265, in main
+    if settings.output_mode == 'csv':
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'IniSettings' object has no attribute 'output_mode'. Did you mean: 'output_path'?
+
+2025-08-08 09:49:42,295 - INFO - 2025-08-08 09:49:42 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-08 09:52:20,166 - INFO - 2025-08-08 09:52:20 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-08 09:52:20,170 - ERROR - 2025-08-08 09:52:20 \u8655\u7406 INI Config_GRATING_CVD_Duty.ini \u6642\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 265, in main
+    if settings.output_mode == 'csv':
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'IniSettings' object has no attribute 'output_mode'. Did you mean: 'output_path'?
+
+2025-08-08 09:52:20,170 - INFO - 2025-08-08 09:52:20 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-08 09:55:19,730 - INFO - 2025-08-08 09:55:19 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-08 09:56:56,464 - ERROR - 2025-08-08 09:56:56 \u8b80\u53d6\u6216\u904e\u6ffe Excel \u6642\u767c\u751f\u932f\u8aa4. Error: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'key_Start_Date_Time'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 228, in process_excel_file
+    date_series = pd.to_datetime(df[date_col_name], errors='coerce')
+                                 ~~^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'key_Start_Date_Time'
+
+2025-08-08 09:56:56,465 - INFO - 2025-08-08 09:56:56 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-08 09:56:56,466 - INFO - 2025-08-08 09:56:56 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====

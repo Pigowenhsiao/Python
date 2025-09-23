@@ -1,0 +1,18 @@
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Dedicated logging for Config_GRATING_CVD_Duty configured at: ../Log/2025-08-08\Config_GRATING_CVD_Duty.log
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Continuing with settings from C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini using its dedicated log.
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Parsed 35 field mappings.
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Scanning input path: Z:/\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8/\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1/ with pattern: *SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx
+2025-08-08 10:13:20 - INFO [Log.Log_Info] - 2025-08-08 10:13:20 Copied Excel file: Z:/\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8/\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx -> ../DataFile/001_GRATING/QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 10:13:20 - INFO [Log.Log_Info] - 2025-08-08 10:13:20 Processing Excel file: ../DataFile/001_GRATING/QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 10:13:20 - INFO [Log.Log_Info] - 2025-08-08 10:13:20 Reading main data from sheet '004', columns 'AT:BP', skipping 100 rows in ../DataFile/001_GRATING/QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 10:13:48 - INFO [Log.Log_Info] - 2025-08-08 10:13:48 Attempting to read XY data from sheet '\u30a6\u30a7\u30cf\u5ea7\u6a19', columns 'A:C' in ../DataFile/001_GRATING/QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 10:13:59 - INFO [Log.Log_Info] - 2025-08-08 10:13:59 Successfully read XY data from sheet '\u30a6\u30a7\u30cf\u5ea7\u6a19'.
+2025-08-08 10:13:59 - INFO [Log.Log_Info] - 2025-08-08 10:13:59 Calculating processing start threshold based on Data_date (30 days ago): 2025-07-09 10:13:59
+2025-08-08 10:13:59 - INFO [Log.Log_Info] - 2025-08-08 10:13:59 The content of './CVD_Mask_StartRow.txt' (if it exists) will NOT be used to determine this start threshold, but the file will still be updated with the latest processed date.
+2025-08-08 10:13:59 - INFO [Log.Log_Info] - 2025-08-08 10:13:59 For informational purposes, content of running_rec file './CVD_Mask_StartRow.txt' is: '1000'.
+2025-08-08 10:13:59 - INFO [Log.Log_Info] - 2025-08-08 10:13:59 Date filter (2025-07-09 10:13:59): 3264 rows removed.
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 Data written to CSV file: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Config_GRATING_CVD_Duty_20250808101858.csv
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 XML File Created: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_Duty,Partnumber=UNKNOWNPN,Serialnumber=20250808101858,Testdate=2025-08-08T10.18.12.xml
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 Running record file ./CVD_Mask_StartRow.txt updated, end date is 2025-08-08 00:00:00
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 Successfully processed Excel file: ../DataFile/001_GRATING/QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 Finished processing all input paths for INI file: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/001_GRATING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/002_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/003_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/004_T2-EML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/005_BJ1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/006_BJ1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/007_BJ2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/008_WG-EML/F1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/008_WG-EML/F2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/008_WG-EML/F6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/008_WG-EML/F7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/008_WG-EML/F9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/009_GRATING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/010_GRATING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/011_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/012_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/013_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/014_PIX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/015_P-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/016_P-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/017_GRATING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/018_T2-DML/F5-10G" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/018_T2-DML/F5-25G" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/018_T2-DML/F6-10G" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/018_T2-DML/F6-25G" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/019_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/020_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/021_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/022_P-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/023_P-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/024_ISO-EML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/025_PIX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/026_PIX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/027_MESA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/028_TH-DML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/029_TH-DML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/030_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/031_SEM-EML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/032_SEM-DML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/033_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/034_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/035_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/036_N-electrode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/037_T1-DML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/038_EA-EML/F1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/038_EA-EML/F7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/039_Ru-EML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/040_LD-EML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/041_T-CVD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/042_PIX-DML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OtherPrograms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL_Program" vcs="Git" />
+  </component>
+</project>

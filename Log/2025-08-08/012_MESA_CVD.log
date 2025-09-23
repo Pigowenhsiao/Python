@@ -1,0 +1,34 @@
+2025-08-08 09:15:56,704 - INFO - 2025-08-08 09:15:56 Start processing INI config file: Config_GRATING_Crystal_Duty.ini
+2025-08-08 09:15:56,712 - INFO - 2025-08-08 09:15:56 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_08T09.15.56.csv
+2025-08-08 09:16:45,177 - INFO - 2025-08-08 09:16:45 Processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 09:16:45,193 - ERROR - 2025-08-08 09:16:45 Error processing file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 304, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 152, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-07-12 00:00:00'
+
+2025-08-08 09:16:45,203 - INFO - 2025-08-08 09:16:45 Start processing INI config file: Config_GRATING_CVD_Duty.ini
+2025-08-08 09:17:33,203 - INFO - 2025-08-08 09:17:33 Processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 09:17:33,215 - ERROR - 2025-08-08 09:17:33 Error processing file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 304, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 152, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\../MyModule\Row_Number_Func.py", line 5, in start_row_number
+    row_number = int(textfile.readline())
+ValueError: invalid literal for int() with base 10: '2025-07-12 00:00:00'
+
+2025-08-08 09:22:11,695 - INFO - 2025-08-08 09:22:11 Start processing INI config file: Config_GRATING_Crystal_Duty.ini
+2025-08-08 09:22:11,697 - INFO - 2025-08-08 09:22:11 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_08T09.22.11.csv
+2025-08-08 09:24:18,470 - INFO - 2025-08-08 09:24:18 Processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 09:24:57,288 - ERROR - 2025-08-08 09:24:57 Failed to read or filter Excel file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx. Error: invalid literal for int() with base 10: 'xy_2_2'
+2025-08-08 09:24:57,296 - INFO - 2025-08-08 09:24:57 Start processing INI config file: Config_GRATING_CVD_Duty.ini
+2025-08-08 09:26:24,568 - INFO - 2025-08-08 09:26:24 Processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-08 09:26:50,499 - ERROR - 2025-08-08 09:26:50 Failed to read or filter Excel file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx. Error: invalid literal for int() with base 10: 'xy_2_2'

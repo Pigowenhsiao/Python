@@ -1,0 +1,7 @@
+2025-07-17 15:05:40,427 - INFO - 2025-07-17 15:05:40 Program Start for config BE_Scriber_Cleaving.ini
+2025-07-17 15:05:42,306 - INFO - 2025-07-17 15:05:42 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-07-17 15:05:42,307 - INFO - 2025-07-17 15:05:42 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-07-17 15:05:42,323 - ERROR - 2025-07-17 15:05:42 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-07-17 15:05:51,434 - ERROR - 2025-07-17 15:05:51 Serial number 1A035 not found in database
+2025-07-17 15:06:52,759 - ERROR - 2025-07-17 15:06:52 SQL query failed: ('01000', '[01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionRead (recv()). (10053) (SQLExecDirectW); [01000] [Microsoft][ODBC SQL Server Driver][DBNETLIB]General network error. Check your network documentation. (11)')
+2025-07-17 15:06:52,764 - INFO - 2025-07-17 15:06:52 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT20,SerialNumber=D1BHJ,Testdate=2025-07-02T21.14.04.xml
