@@ -1,0 +1,31 @@
+[33mcommit be80d038b103db374ac30d5222f0ea9206bf11ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Pigo <pigowen@gail>
+Date:   Tue Oct 28 11:48:41 2025 +0800
+
+    update once
+
+[33mcommit fe77de6109e01ebe1fd43b5bbacc90a7a8f7f3e0[m[33m ([m[1;31mpython/master[m[33m, [m[1;31mpython/HEAD[m[33m)[m
+Merge: 73eebca 06b9fad
+Author: Pigo <pigowen@gail>
+Date:   Tue Sep 23 14:21:58 2025 +0800
+
+    Merge branch 'master' of https://github.com/Pigowenhsiao/Python
+    New add
+
+[33mcommit 73eebcac036bd02dfc19a1eb8875b4e070c6019b[m
+Author: Pigo <pigowen@gail>
+Date:   Tue Sep 23 14:12:40 2025 +0800
+
+    1st upload
+
+[33mcommit 06b9fad9745226341fbe8b33f78bf8d63b5e509e[m
+Author: Pigowenhsiao <46703634+Pigowenhsiao@users.noreply.github.com>
+Date:   Sun Dec 29 06:19:23 2024 +0800
+
+    使用 Colab 建立
+
+[33mcommit 6500a257390b0f4939885878714a91c7685d26b0[m
+Author: Pigowenhsiao <46703634+Pigowenhsiao@users.noreply.github.com>
+Date:   Fri Dec 6 21:20:37 2024 +0800
+
+    Add files via upload
