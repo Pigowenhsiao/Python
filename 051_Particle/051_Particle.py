@@ -9,6 +9,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime, date
 from configparser import ConfigParser
+import sys
 
 import pandas as pd
 import xml.etree.ElementTree as ET
@@ -242,12 +243,19 @@ def pick_by_filename_closest_date(input_dirs, patterns):
     return best[0], best[1], min_dist
 
 # ---------------- Serial Number generator ----------------
-def build_serial_from_prefix(prefix: str) -> str:
+def build_serial_from_prefix(prefix: str, date_source: str | datetime = None) -> str:
     """
-    Build Serial Number as <Prefix><YYMMDD>.
-    If prefix is empty/blank, returns just <YYMMDD>.
+    Build Serial Number as <Prefix><YYMMDD> from a given date source.
+    If date_source is not provided or invalid, defaults to today's date.
     """
-    yymmdd = datetime.today().strftime("%y%m%d")
+    yymmdd = ""
+    try:
+        if date_source:
+            yymmdd = pd.to_datetime(date_source).strftime("%y%m%d")
+    except (ValueError, TypeError):
+        pass # Will fall through to using today's date
+    if not yymmdd:
+        yymmdd = datetime.today().strftime("%y%m%d")
     prefix = (prefix or "").strip()
     return f"{prefix}{yymmdd}" if prefix else yymmdd
 
@@ -301,9 +309,6 @@ def main():
         sn_prefix = manual_items.pop("SerialNumber", manual_items.pop("serialnumber", "")).strip() if manual_items else ""
         part_no   = manual_items.pop("PartNumber",  manual_items.pop("partnumber",  "")).strip() if manual_items else ""
 
-        # Build actual Serial Number as <Prefix><YYMMDD>
-        generated_sn = build_serial_from_prefix(sn_prefix)
-
         # Options
         enforce_today_restime = cfg.getboolean("Options", "enforce_today_restime", fallback=False)
         tz_name = cfg.get("Options", "timezone", fallback="Asia/Taipei")  # reserved for future TZ handling
@@ -354,6 +359,7 @@ def main():
                 engine="xlrd",
                 dtype=str  # Read all as string to avoid type inference issues
             )
+            
             if df.empty:
                 raw = pd.read_excel(copied, sheet_name=use_sheet, header=None, engine="xlrd")
                 hdr_row, data_start = detect_header_row(raw, EXPECTED_HEADERS, min_hits=12)
@@ -416,17 +422,25 @@ def main():
                 before_resample_count = len(df)
                 # Ensure Start_Date_Time is a datetime object for time-based operations.
                 df['Start_Date_Time'] = pd.to_datetime(df['Start_Date_Time'], errors='coerce')
-                df.dropna(subset=['Start_Date_Time'], inplace=True)
                 
+                # 將所有 KeisokuData 欄位轉換為數值型別，以便比較大小
+                keisoku_cols = [col for col in df.columns if 'KeisokuData' in col]
+                for col in keisoku_cols:
+                    df[col] = pd.to_numeric(df[col], errors='coerce')
+
+                df.dropna(subset=['Start_Date_Time'], inplace=True)
+
                 # --- Efficient Resampling ---
-                # 1. 排序以確保在時間區間內選到的是第一筆資料
+
                 df = df.sort_values(['PtName', 'Start_Date_Time']).reset_index(drop=True)
                 
-                # 2. 建立一個 'time_bin' 欄位來標記每個時間區間的起始點
+                # 1. 建立時間區間標記
                 df['time_bin'] = df['Start_Date_Time'].dt.floor(f'{interval_minutes}min')
-                # 3. 找到每個 (PtName, time_bin) 群組中的第一筆資料的索引
-                idx_to_keep = df.groupby(['PtName', 'time_bin'])['Start_Date_Time'].idxmin()
-                # 4. 根據索引篩選 DataFrame，並移除輔助欄位
+                # 2. 找到每個 (PtName, time_bin) 群組中，'Ch1KeisokuData' 數值最大的那筆資料的索引
+                #    如果 'Ch1KeisokuData' 不存在，則退回使用時間戳記取第一筆
+                target_col_for_max = 'Ch1KeisokuData' if 'Ch1KeisokuData' in df.columns else 'Start_Date_Time'
+                idx_to_keep = df.groupby(['PtName', 'time_bin'])[target_col_for_max].idxmax()
+                # 3. 根據索引篩選 DataFrame，並移除輔助欄位
                 df = df.loc[idx_to_keep].drop(columns=['time_bin']).reset_index(drop=True)
                 
                 print(f"Resampling complete. Kept {len(df)} of {before_resample_count} rows.")
@@ -461,8 +475,14 @@ def main():
                 df["GrpName"] = df["GrpName"].str.replace(r'[^a-zA-Z]', '', regex=True)
             print("Applied cleaning rules to SenName, PtName, and GrpName columns.")
 
-            # Use generated Serial Number and provided Part Number
-            df["Serial_Number"] = generated_sn if generated_sn else "NA"
+            # Generate Serial Number for each row based on its own Start_Date_Time
+            if 'Start_Date_Time' in df.columns:
+                # Ensure Start_Date_Time is in datetime format before applying the function
+                df['Start_Date_Time_dt'] = pd.to_datetime(df['Start_Date_Time'], errors='coerce')
+                df['Serial_Number'] = df['Start_Date_Time_dt'].apply(lambda dt: build_serial_from_prefix(sn_prefix, dt))
+                df.drop(columns=['Start_Date_Time_dt'], inplace=True)
+            else:
+                df['Serial_Number'] = build_serial_from_prefix(sn_prefix) # Fallback
             df["Part_Number"] = part_no if part_no else "UNKNOWPN"
 
             # Any extra ManualAssign fields go to CSV too
@@ -478,12 +498,16 @@ def main():
         csv_path = Path(csv_dir) / f"{operation}_{ts_for_csv}.csv"
         write_to_csv(csv_path, df if not df.empty else pd.DataFrame())
 
-        # Write XML (points to CSV) — pass the generated Serial Number
+        # For the XML filename, use the first Serial Number as a representative value
+        representative_sn = ""
+        if not df.empty and "Serial_Number" in df.columns:
+            representative_sn = df["Serial_Number"].iloc[0]
+
         xml_fp = generate_pointer_xml(
             output_path=Path(output_dir),
             csv_path=csv_path,
             site=site, product_family=product_family, operation=operation, test_station=test_station,
-            serial_no=generated_sn, part_no=part_no,
+            serial_no=representative_sn, part_no=part_no,
             result_value=result_value, teststep_status_value=teststep_status_value
         )
 

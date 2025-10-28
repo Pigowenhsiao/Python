@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# This script processes Excel files (.xls) from specified input directories,
 
 
 import os
@@ -168,40 +169,18 @@ def debug_list_dir(d: str, patterns: list[str], max_show: int = 50):
         print(f"  - OSError: {e}")
         return []
 
-def pick_latest_two_days_files(input_dirs, patterns):
+def find_all_xls_files(input_dirs: list[str], patterns: list[str]) -> list[str]:
     """
-    Picks all .xls files from the latest two available dates.
+    Finds all files matching the patterns in the input directories.
     Returns a list of file paths.
     """
-    all_hits = []  # (path, file_date, mtime)
+    all_found_files = []
     for d in input_dirs:
         hits = debug_list_dir(d, patterns)
-        for f in hits:
-            name = os.path.basename(f)
-            if not name.lower().endswith(".xls"):
-                continue
-            m = re.match(r"^(\d{8})", name)
-            if not m:
-                continue
-            try:
-                fdate = datetime.strptime(m.group(1), "%Y%m%d").date()
-            except ValueError:
-                continue
-            all_hits.append((f, fdate, os.path.getmtime(f)))
-
-    print(f"\nFiles matching YYYYMMDD.xls: {len(all_hits)}")
-    if not all_hits:
-        return []
-
-    # Find all unique dates and sort them in descending order
-    unique_dates = sorted(list(set(c[1] for c in all_hits)), reverse=True)
+        all_found_files.extend(hits)
     
-    # Get the latest two dates
-    latest_two_dates = unique_dates[:2]
-    
-    # Filter files that match these two dates
-    selected_files = [c[0] for c in all_hits if c[1] in latest_two_dates]
-    return selected_files
+    # Return a unique list of file paths
+    return sorted(list(set(all_found_files)))
 
 def pick_by_filename_closest_date(input_dirs, patterns):
     today = datetime.today().date()
@@ -316,10 +295,10 @@ def main():
         patterns = [s.strip() for s in cfg.get("Basic_info", "file_name_patterns", fallback="*.xls").split(",")]
         patterns = [p for p in patterns if p.lower().endswith(".xls")] or ["*.xls"]
 
-        # Pick files from the latest two days
-        source_files = pick_latest_two_days_files(input_paths, patterns)
+        # Find all .xls files in the specified directories
+        source_files = find_all_xls_files(input_paths, patterns)
         if not source_files:
-            print("\n❌ No .xls files with leading YYYYMMDD found in any input_paths.")
+            print("\n❌ No .xls files found in any of the specified input_paths.")
             print("   Please confirm: 1) path reachable (UNC mounted / VPN / permission), 2) correct folder level, 3) extension is .xls.")
             continue
 
@@ -329,38 +308,47 @@ def main():
 
         all_data_frames = []
         for src_file in source_files:
-            # Copy to intermediate
-            copied = shutil.copy(src_file, intermediate / os.path.basename(src_file))
+            try:
+                # Copy to intermediate
+                copied = shutil.copy(src_file, intermediate / os.path.basename(src_file))
 
-            # List sheets and choose best match
-            xls = pd.ExcelFile(copied, engine="xlrd")  # .xls requires xlrd
-            sheets = xls.sheet_names
-            print(f"\nAvailable sheets: {sheets}")
-            norm = lambda s: re.sub(r"\s+", "", s).lower()
-            nd = norm(desired_sheet)
-            use_sheet = desired_sheet if desired_sheet in sheets else \
-                        next((s for s in sheets if norm(s) == nd), None) or \
-                        next((s for s in sheets if nd in norm(s)), sheets[0])
-            print(f"Using sheet: {use_sheet}")
+                # List sheets and choose best match
+                xls = pd.ExcelFile(copied, engine="xlrd")  # .xls requires xlrd
+                sheets = xls.sheet_names
+                print(f"\nAvailable sheets for {os.path.basename(copied)}: {sheets}")
+                norm = lambda s: re.sub(r"\s+", "", s).lower()
+                nd = norm(desired_sheet)
+                use_sheet = desired_sheet if desired_sheet in sheets else \
+                            next((s for s in sheets if norm(s) == nd), None) or \
+                            next((s for s in sheets if nd in norm(s)), sheets[0])
+                print(f"Using sheet: {use_sheet}")
 
-            # Read with header (as configured). If empty, try header detection.
-            df = pd.read_excel(
-                copied,
-                sheet_name=use_sheet,
-                header=0,
-                usecols=cols,
-                skiprows=skiprows - 1,
-                engine="xlrd",
-                dtype=str  # Read all as string to avoid type inference issues
-            )
-            if df.empty:
-                raw = pd.read_excel(copied, sheet_name=use_sheet, header=None, engine="xlrd")
-                hdr_row, data_start = detect_header_row(raw, EXPECTED_HEADERS, min_hits=12)
-                print(f"Header auto-detected at row: {hdr_row+1} (data start: {data_start+1})")
-                df = pd.read_excel(copied, sheet_name=use_sheet, header=hdr_row, usecols=cols, engine="xlrd", dtype=str)
-            
-            if not df.empty:
-                all_data_frames.append(df)
+                # Read with header (as configured). If empty, try header detection.
+                df = pd.read_excel(
+                    copied,
+                    sheet_name=use_sheet,
+                    header=0,
+                    usecols=cols,
+                    skiprows=skiprows - 1,
+                    engine="xlrd",
+                    dtype=str  # Read all as string to avoid type inference issues
+                )
+                if df.empty:
+                    raw = pd.read_excel(copied, sheet_name=use_sheet, header=None, engine="xlrd")
+                    hdr_row, data_start = detect_header_row(raw, EXPECTED_HEADERS, min_hits=12)
+                    print(f"Header auto-detected at row: {hdr_row+1} (data start: {data_start+1})")
+                    df = pd.read_excel(copied, sheet_name=use_sheet, header=hdr_row, usecols=cols, engine="xlrd", dtype=str)
+                
+                if not df.empty:
+                    all_data_frames.append(df)
+                else:
+                    print(f"⚠️  Warning: No data extracted from {os.path.basename(src_file)}. The file might be empty or have an unexpected format.")
+
+            except Exception as e:
+                error_message = f"❌ Error processing file '{os.path.basename(src_file)}': {e}. Skipping this file."
+                print(error_message)
+                logging.error(error_message, exc_info=True)
+                continue
 
         # Merge all dataframes into one
         try:
@@ -410,15 +398,31 @@ def main():
             if "PtName" in df.columns and "Start_Date_Time" in df.columns and not df.empty:
                 print("Resampling data: keeping one point every 2 hours per PtName...")
                 before_resample_count = len(df)
-                # 確保 Start_Date_Time 是 datetime 物件
+                # Ensure Start_Date_Time is a datetime object for time-based operations.
                 df['Start_Date_Time'] = pd.to_datetime(df['Start_Date_Time'], errors='coerce')
                 df.dropna(subset=['Start_Date_Time'], inplace=True)
                 
-                # 排序並按 PtName 分組，然後每 2 小時取樣一次
-                df.sort_values(['PtName', 'Start_Date_Time'], inplace=True)
-                df = df.groupby('PtName').resample('2H', on='Start_Date_Time').first().reset_index(drop=True)
+                # --- Efficient Resampling ---
+                # Sort to ensure consistent selection (first entry in a time bin).
+                df = df.sort_values(['PtName', 'Start_Date_Time']).reset_index(drop=True)
+                
+                # 1. Create a 'time_bin' column to mark the start of each 2-hour interval.
+                df['time_bin'] = df['Start_Date_Time'].dt.floor('2h')
+                # 2. Find the index of the first entry within each group of (PtName, time_bin).
+                idx_to_keep = df.groupby(['PtName', 'time_bin'])['Start_Date_Time'].idxmin()
+                # 3. Filter the DataFrame to keep only these rows, then clean up.
+                df = df.loc[idx_to_keep].drop(columns=['time_bin']).reset_index(drop=True)
                 
                 print(f"Resampling complete. Kept {len(df)} of {before_resample_count} rows.")
+
+            # --- Filter out rows with None/NaN in critical columns ---
+            if not df.empty:
+                before_dropna_count = len(df)
+                # Define critical columns to check for nulls, e.g., PtName and measurement data.
+                critical_cols = [col for col in df.columns if 'KeisokuData' in col or col == 'PtName']
+                df.dropna(subset=critical_cols, how='any', inplace=True)
+                after_dropna_count = len(df)
+                print(f"Filtering None/NaN values in critical columns. Kept {after_dropna_count} of {before_dropna_count} rows.")
 
             # --- Data Cleaning for specific columns ---
             # Convert full-width to half-width characters
