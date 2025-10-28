@@ -68,7 +68,7 @@ echo Commit successful: "%commit_msg%"
 :: --- Execute Push ---
 echo.
 echo 4. Pushing changes to remote 'python' (Branch: master)...
-git push -u python master
+git push -u python main
 if %errorlevel% neq 0 (
     echo ----------------------------------------------------
     echo ❌ PUSH FAILED! Check network or PAT token validity.
