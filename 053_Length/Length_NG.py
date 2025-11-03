@@ -34,21 +34,32 @@ from xml.dom import minidom
 
 # ========= Logging =========
 
-def setup_logger(log_root: str, operation: str) -> logging.Logger:
-    """Create a rotating logger under ../Log/YYYY-MM-DD/operation.log"""
+def setup_logger(log_root: str, operation: str, is_main_logger: bool = False) -> logging.Logger:
+    """
+    Create a rotating logger.
+    For main logger: ../Log/YYYY-MM-DD/main.log
+    For operation logger: ../Log/YYYY-MM-DD/operation.log
+    """
     date_folder = Path(log_root) / datetime.now().strftime("%Y-%m-%d")
     date_folder.mkdir(parents=True, exist_ok=True)
-    logfile = date_folder / f"{operation}.log"
+    log_name = "main" if is_main_logger else operation
+    logfile = date_folder / f"{log_name}.log"
 
-    logger = logging.getLogger(f"{operation}")
+    logger = logging.getLogger(log_name)
     logger.setLevel(logging.INFO)
     logger.handlers.clear()
 
+    # File handler
     handler = RotatingFileHandler(str(logfile), maxBytes=5_000_000,
                                   backupCount=5, encoding="utf-8")
     fmt = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
     handler.setFormatter(fmt)
     logger.addHandler(handler)
+
+    # Console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setFormatter(fmt)
+    logger.addHandler(console_handler)
     return logger
 
 
@@ -198,46 +209,59 @@ def select_files_per_rules(input_dir: Path, pattern: str, s: IniSettings, logger
     """
     files = [p for p in input_dir.glob(pattern) if p.is_file()]
     logger.info(f"[Select] scanning {input_dir} with pattern '{pattern}', found {len(files)} files")
+    print(f"[條件1] 副檔名為.csv，總數: {len(files)}")
 
+    # 條件2: prefix
+    files_prefix = [f for f in files if not s.fs_prefix or f.name.startswith(s.fs_prefix)]
+    print(f"[條件2] prefix='{s.fs_prefix}'，符合數: {len(files_prefix)}")
+
+    # 條件3: 25+19碼
+    files_25_19 = []
+    seg_dict = {}
+    for f in files_prefix:
+        m = re.search(r"25([A-Za-z0-9]{19})_", f.name)
+        if m:
+            files_25_19.append(f)
+            seg_dict[f] = m.group(1)
+    print(f"[條件3] 25+19碼，符合數: {len(files_25_19)}")
+
+    # 條件4: lot_filter_pos_5_6
+    files_lot = []
+    for f in files_25_19:
+        seg = seg_dict[f]
+        # 修改這一行：第 8–9 字元需為 '1B'
+        if not s.fs_lot_filter_pos_5_6 or (len(seg) >= 9 and seg[2:4] == (s.fs_lot_filter_pos_5_6)):
+            files_lot.append(f)
+    print(f"[條件4] lot_filter_pos_5_6='{s.fs_lot_filter_pos_5_6}'，符合數: {len(files_lot)}")
+
+    # 條件5: timestamp
     ts_re = re.compile(s.fs_timestamp_pattern or r"\d{8}_\d{6}")
-    grouped: Dict[str, Tuple[Path, datetime]] = {}
+    files_ts = []
+    ts_dict = {}
+    date_dict = {}
+    for f in files_lot:
+        m_ts = ts_re.search(f.name)
+        if m_ts:
+            files_ts.append(f)
+            ts_dict[f] = m_ts.group(0)
+            # 取日期部分 (YYYYMMDD)
+            date_part = m_ts.group(0).split("_")[0]
+            date_dict[f] = date_part
+    print(f"[條件5] timestamp_pattern='{s.fs_timestamp_pattern}'，符合數: {len(files_ts)}")
+
+    # 只保留日期最新的那一個檔案（只取一個）
     selected: List[Path] = []
-
-    for f in files:
-        name = f.name
-        if s.fs_prefix and not name.startswith(s.fs_prefix):
-            continue
-
-        # 25 + 19 alnum + _
-        m = re.search(r"25([A-Za-z0-9]{19})_", name)
-        if not m:
-            continue
-        seg = m.group(1)
-        if s.fs_lot_filter_pos_5_6:
-            # positions 5-6 (1-based) => seg[4:6]
-            if len(seg) < 6 or seg[4:6] != s.fs_lot_filter_pos_5_6:
-                continue
-
-        m_ts = ts_re.search(name)
-        if not m_ts:
-            continue
-        ts_str = m_ts.group(0)  # e.g., 20251013_092124
-        try:
-            dt = datetime.strptime(ts_str, "%Y%m%d_%H%M%S")
-        except ValueError:
-            logger.warning(f"[Select] timestamp parse failed: {name}")
-            continue
-
-        if s.fs_select_latest_per_day:
-            day_key = ts_str.split("_")[0]
-            prev = grouped.get(day_key)
-            if prev is None or dt > prev[1]:
-                grouped[day_key] = (f, dt)
-        else:
-            selected.append(f)
-
-    if s.fs_select_latest_per_day:
-        selected = [pair[0] for pair in grouped.values()]
+    if files_ts:
+        all_dates = [date_dict[f] for f in files_ts]
+        if all_dates:
+            latest_date = max(all_dates)
+            # 取得該日期下所有檔案，並選擇時間戳記最新的那一個
+            latest_files = [f for f in files_ts if date_dict[f] == latest_date]
+            if latest_files:
+                # 依照完整時間戳記排序，取最大者
+                latest_file = max(latest_files, key=lambda f: ts_dict[f])
+                selected = [latest_file]
+    print(f"[條件6] 最新日期({latest_date if files_ts else 'N/A'})，符合數: {len(selected)}")
 
     logger.info(f"[Select] selected {len(selected)} file(s)")
     return sorted(selected)
@@ -309,29 +333,36 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     uid = uuid.uuid4().hex[:6]
     out_csv = Path(s.csv_path) / f"{s.operation}_{ts}_{uid}.csv"
 
+    # 取得 Serial_Number (LNG+YYMMDD) 與 Part_Number/Operator
+    m = re.search(r"_(\d{8})_", str(out_csv))
+    if m:
+        yymmdd = m.group(1)[2:]  # 取YYMMDD
+    else:
+        yymmdd = now.strftime("%y%m%d")
+    serial_number = f"LNG{yymmdd}"
+    part_number = s.xml_part_number_value if s.xml_part_number_value else "Dummy"
+
     # Build final DataFrame
     base = pd.DataFrame({
-        "Serial_Number": ["Wait assign"] * len(counts),
-        "Part_Number": [s.xml_part_number_value or "Wait assign"] * len(counts),
+        "Serial_Number": [serial_number] * len(counts),
+        "Part_Number": [part_number] * len(counts),
         "Start_Date_Time": [now.strftime("%Y-%m-%d %H:%M:%S")] * len(counts),
         "Operation": [s.operation] * len(counts),
         "TestStation": [s.test_station] * len(counts),
         "Site": [s.site] * len(counts),
+        "Operator": ["None"] * len(counts),
     })
-    # domain fields
     dom = counts.rename(columns={"Judge": "Judge", "Count": "Count"})
     df_out = pd.concat([base.reset_index(drop=True), dom.reset_index(drop=True)], axis=1)
 
-    # Optional: STARTTIME_SORTED / SORTNUMBER placeholders to align with legacy headers
     if "STARTTIME_SORTED" not in df_out.columns:
         df_out["STARTTIME_SORTED"] = "Wait assign"
     if "SORTNUMBER" not in df_out.columns:
         df_out["SORTNUMBER"] = "Wait assign"
 
-    # Column order
     ordered_cols = [
         "Serial_Number", "Part_Number", "Start_Date_Time",
-        "Operation", "TestStation", "Site",
+        "Operation", "TestStation", "Site", "Operator",
         "Judge", "Count", "STARTTIME_SORTED", "SORTNUMBER"
     ]
     df_out = df_out[ordered_cols]
@@ -353,14 +384,24 @@ def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger)
     """
     Path(s.output_path).mkdir(parents=True, exist_ok=True)
     now_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-    serial_no = csv_path.stem
+
+    # 取得 SerialNumber (LNG+YYMMDD) 與 Operator, LotNumber
+    m = re.search(r"_(\d{8})_", str(csv_path))
+    if m:
+        yymmdd = m.group(1)[2:]  # 取YYMMDD
+    else:
+        yymmdd = datetime.now().strftime("%y%m%d")
+    serial_number = f"LNG{yymmdd}"
+    operator_value = "None"
+    lot_number_value = "Dummy"
+    part_number_value = s.xml_part_number_value if s.xml_part_number_value else "Dummy"
 
     xml_file_name = (
         f"Site={s.site},"
         f"ProductFamily={s.product_family},"
         f"Operation={s.operation},"
-        f"Partnumber={s.xml_part_number_value if s.xml_part_number_value else 'Wait assign'},"
-        f"Serialnumber={serial_no},"
+        f"Partnumber={part_number_value},"
+        f"Serialnumber={serial_number},"
         f"Testdate={now_iso}.xml"
     ).replace(":", ".")
     xml_path = Path(s.output_path) / xml_file_name
@@ -377,14 +418,14 @@ def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger)
     # Header
     ET.SubElement(
         result, "Header",
-        SerialNumber="Wait assign",
-        PartNumber=(s.xml_part_number_value if s.xml_part_number_value else "Wait assign"),
+        SerialNumber=serial_number,
+        PartNumber=part_number_value,
         Operation=s.operation,
         TestStation=s.test_station,
-        Operator="Wait assign",
+        Operator=operator_value,
         StartTime=now_iso,
         Site=s.site,
-        LotNumber="Wait assign",
+        LotNumber=lot_number_value,
     )
     # TestStep
     test_step = ET.SubElement(
@@ -419,34 +460,57 @@ def process_one_ini(ini_path: Path) -> None:
         base = Path(in_dir)
         if not base.exists():
             logger.warning(f"[WARN] input path not found: {base}")
+            print(f"[WARN] input path not found: {base}")
             continue
 
-        # file selection
         matched_files: List[Path] = []
         for pat in s.file_name_patterns:
             selected = select_files_per_rules(base, pat, s, logger)
             matched_files.extend(selected)
 
+        # 新增：印出找到的檔案 list
+        file_list = [str(f) for f in matched_files]
+        print(f"\n[找到的檔案 list]:\n{file_list}")
+
+        print(f"\n[STEP] 取得檔案清單 ({base}):")
+        for f in matched_files:
+            print(f"  - {f}")
+
         if not matched_files:
             logger.info("[INFO] no files matched selection rules")
+            print("[INFO] no files matched selection rules")
             continue
 
         # process each file independently (your rule #4)
         for csv_file in matched_files:
             try:
+                print(f"\n[STEP] 讀取檔案內容: {csv_file}")
                 df = read_csv_data(csv_file, s, logger)
+                print(f"[STEP] 讀取完成，資料筆數: {len(df)}，欄位數: {len(df.columns)}")
+                print(f"[STEP] 前5筆資料：\n{df.head()}")
+
                 counts = count_category_g(df, s, logger)
+                print(f"[STEP] G欄(判定)分類統計結果：\n{counts}")
+
                 if counts.empty:
                     logger.info(f"[SKIP] no categories found in G column for {csv_file.name}")
+                    print(f"[SKIP] no categories found in G column for {csv_file.name}")
                     continue
+
                 out_csv = write_result_csv(counts, s, logger)
-                generate_pointer_xml(out_csv, s, logger)
+                #print(f"[STEP] 統計結果已寫入 CSV：{out_csv}")
+
+                xml_fp = generate_pointer_xml(out_csv, s, logger)
+                #print(f"[STEP] 產生 XML 指標檔：{xml_fp}")
+
                 total_outputs += 1
             except Exception as e:
                 logger.error(f"[ERROR] processing {csv_file.name}: {e}\n{traceback.format_exc()}")
+                print(f"[ERROR] processing {csv_file.name}: {e}")
+                continue  # 修正：except 區塊需有內容
 
     logger.info(f"===== Finished INI: {ini_path.name} ; outputs={total_outputs} =====")
-
+    print(f"===== Finished INI: {ini_path.name} ; outputs={total_outputs} =====")
 
 def main() -> None:
     # run in current directory: find all .ini
@@ -458,7 +522,6 @@ def main() -> None:
 
     for ini in ini_files:
         process_one_ini(ini)
-
 
 if __name__ == "__main__":
     main()
