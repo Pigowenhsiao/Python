@@ -7,3 +7,30 @@
 2025-11-04 09:14:32,517 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\chip_length_NG_20251104_091432_8e3a96.csv
 2025-11-04 09:14:32,625 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=chip_length_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.14.32.xml
 2025-11-04 09:14:32,626 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 09:16:14,351 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:16:34,103 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:16:34,107 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:16:34,109 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:16:34,479 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:16:34,517 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:16:34,578 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\chip_length_NG_20251104_091634_2912ac.csv
+2025-11-04 09:16:34,661 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=chip_length_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.16.34.xml
+2025-11-04 09:16:34,662 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 09:23:21,521 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:24:00,387 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:24:00,396 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:24:00,397 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:24:00,762 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:24:00,781 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:24:00,842 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Chip_Length_NG_20251104_092400_f1a0f5.csv
+2025-11-04 09:24:00,941 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=Chip_Length_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.24.00.xml
+2025-11-04 09:24:00,942 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 09:27:03,719 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:27:25,233 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:27:25,240 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:27:25,242 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:27:25,603 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:27:25,611 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:27:25,682 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Chip_Length_NG_20251104_092725_0d14a7.csv
+2025-11-04 09:27:25,804 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=Chip_Length_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.27.25.xml
+2025-11-04 09:27:25,805 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====

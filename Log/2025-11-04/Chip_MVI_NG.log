@@ -1,0 +1,27 @@
+2025-11-04 09:28:47,373 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:29:09,555 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:29:09,565 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:29:09,567 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:29:09,924 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:29:09,928 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:29:09,959 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Chip_MVI_NG_20251104_092909_390016.csv
+2025-11-04 09:29:10,010 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=Chip_MVI_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.29.09.xml
+2025-11-04 09:29:10,011 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 09:35:33,587 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:35:54,605 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:35:54,615 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:35:54,617 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:35:54,999 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:35:55,003 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:35:56,388 - INFO - [CSV OUT] \\thaapptdsdev03.li.lumentuminc.net\Data\SAG\052_FACET\Chip_MVI_NG_20251104_093555_ed3b26.csv
+2025-11-04 09:35:57,510 - INFO - [XML OUT] \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=Chip_MVI_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.35.56.xml
+2025-11-04 09:35:57,511 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 09:43:49,292 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:44:09,861 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:44:09,865 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:44:09,865 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:44:10,256 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:44:10,263 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:44:11,635 - INFO - [CSV OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\001_GRATING\Chip_MVI_NG_20251104_094411_40d0fe.csv
+2025-11-04 09:44:12,089 - INFO - [XML OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=Chip_MVI_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.44.11.xml
+2025-11-04 09:44:12,090 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====

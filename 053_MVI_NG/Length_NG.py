@@ -209,13 +209,13 @@ def select_files_per_rules(input_dir: Path, pattern: str, s: IniSettings, logger
     """
     files = [p for p in input_dir.glob(pattern) if p.is_file()]
     logger.info(f"[Select] scanning {input_dir} with pattern '{pattern}', found {len(files)} files")
-    print(f"[條件1] 副檔名為.csv，總數: {len(files)}")
+    print(f"[Cond1] .csv files, total: {len(files)}")
 
-    # 條件2: prefix
+    # Condition 2: prefix
     files_prefix = [f for f in files if not s.fs_prefix or f.name.startswith(s.fs_prefix)]
-    print(f"[條件2] prefix='{s.fs_prefix}'，符合數: {len(files_prefix)}")
+    print(f"[Cond2] prefix='{s.fs_prefix}', matched: {len(files_prefix)}")
 
-    # 條件3: 25+19碼
+    # Condition 3: 25+19 chars
     files_25_19 = []
     seg_dict = {}
     for f in files_prefix:
@@ -223,18 +223,18 @@ def select_files_per_rules(input_dir: Path, pattern: str, s: IniSettings, logger
         if m:
             files_25_19.append(f)
             seg_dict[f] = m.group(1)
-    print(f"[條件3] 25+19碼，符合數: {len(files_25_19)}")
+    print(f"[Cond3] 25+19 chars, matched: {len(files_25_19)}")
 
-    # 條件4: lot_filter_pos_5_6
+    # Condition 4: lot_filter_pos_5_6
     files_lot = []
     for f in files_25_19:
         seg = seg_dict[f]
-        # 修改這一行：第 8–9 字元需為 '1B'
+        # 8th-9th char must be '1B'
         if not s.fs_lot_filter_pos_5_6 or (len(seg) >= 9 and seg[2:4] == (s.fs_lot_filter_pos_5_6)):
             files_lot.append(f)
-    print(f"[條件4] lot_filter_pos_5_6='{s.fs_lot_filter_pos_5_6}'，符合數: {len(files_lot)}")
+    print(f"[Cond4] lot_filter_pos_5_6='{s.fs_lot_filter_pos_5_6}', matched: {len(files_lot)}")
 
-    # 條件5: timestamp
+    # Condition 5: timestamp
     ts_re = re.compile(s.fs_timestamp_pattern or r"\d{8}_\d{6}")
     files_ts = []
     ts_dict = {}
@@ -244,24 +244,21 @@ def select_files_per_rules(input_dir: Path, pattern: str, s: IniSettings, logger
         if m_ts:
             files_ts.append(f)
             ts_dict[f] = m_ts.group(0)
-            # 取日期部分 (YYYYMMDD)
             date_part = m_ts.group(0).split("_")[0]
             date_dict[f] = date_part
-    print(f"[條件5] timestamp_pattern='{s.fs_timestamp_pattern}'，符合數: {len(files_ts)}")
+    print(f"[Cond5] timestamp_pattern='{s.fs_timestamp_pattern}', matched: {len(files_ts)}")
 
-    # 只保留日期最新的那一個檔案（只取一個）
+    # Only keep the latest date file (only one)
     selected: List[Path] = []
     if files_ts:
         all_dates = [date_dict[f] for f in files_ts]
         if all_dates:
             latest_date = max(all_dates)
-            # 取得該日期下所有檔案，並選擇時間戳記最新的那一個
             latest_files = [f for f in files_ts if date_dict[f] == latest_date]
             if latest_files:
-                # 依照完整時間戳記排序，取最大者
                 latest_file = max(latest_files, key=lambda f: ts_dict[f])
                 selected = [latest_file]
-    print(f"[條件6] 最新日期({latest_date if files_ts else 'N/A'})，符合數: {len(selected)}")
+    print(f"[Cond6] Latest date ({latest_date if files_ts else 'N/A'}), matched: {len(selected)}")
 
     logger.info(f"[Select] selected {len(selected)} file(s)")
     return sorted(selected)
@@ -316,7 +313,7 @@ def count_category_g(df: pd.DataFrame, s: IniSettings, logger: logging.Logger) -
     series = series[series.notna() & (series != "")]
 
     counts = series.value_counts(dropna=True).rename_axis("Judge").reset_index(name="Count")
-    # 過濾掉 Judge 為 "nan" 或 "0" 的資料
+    # Exclude Judge == "nan" or "0"
     counts = counts[~counts["Judge"].isin(["nan", "0"])]
     logger.info(f"[COUNT] unique categories={counts.shape[0]}, total rows={len(series)}")
     return counts
@@ -335,16 +332,15 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     uid = uuid.uuid4().hex[:6]
     out_csv = Path(s.csv_path) / f"{s.operation}_{ts}_{uid}.csv"
 
-    # 取得 Serial_Number (LNG+YYMMDD) 與 Part_Number/Operator
+    # Get Serial_Number (LNG+YYMMDD) and Part_Number/Operator
     m = re.search(r"_(\d{8})_", str(out_csv))
     if m:
-        yymmdd = m.group(1)[2:]  # 取YYMMDD
+        yymmdd = m.group(1)[2:]  # YYMMDD
     else:
         yymmdd = now.strftime("%y%m%d")
     serial_number = f"LNG{yymmdd}"
     part_number = s.xml_part_number_value if s.xml_part_number_value else "Dummy"
 
-    # Build final DataFrame
     base = pd.DataFrame({
         "Serial_Number": [serial_number] * len(counts),
         "Part_Number": [part_number] * len(counts),
@@ -357,8 +353,7 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     dom = counts.rename(columns={"Judge": "Judge", "Count": "Count"})
     df_out = pd.concat([base.reset_index(drop=True), dom.reset_index(drop=True)], axis=1)
 
-    # 移除 STARTTIME_SORTED 與 SORTNUMBER 欄位
-    # 不再加入 STARTTIME_SORTED 與 SORTNUMBER
+    # Remove STARTTIME_SORTED and SORTNUMBER columns
 
     ordered_cols = [
         "Serial_Number", "Part_Number", "Start_Date_Time",
@@ -468,11 +463,11 @@ def process_one_ini(ini_path: Path) -> None:
             selected = select_files_per_rules(base, pat, s, logger)
             matched_files.extend(selected)
 
-        # 新增：印出找到的檔案 list
+        # Print found file list in English
         file_list = [str(f) for f in matched_files]
-        print(f"\n[找到的檔案 list]:\n{file_list}")
+        #print(f"\n[Found file list]:\n{file_list}")
 
-        print(f"\n[STEP] 取得檔案清單 ({base}):")
+        #print(f"\n[STEP] File list ({base}):")
         for f in matched_files:
             print(f"  - {f}")
 
@@ -484,13 +479,13 @@ def process_one_ini(ini_path: Path) -> None:
         # process each file independently (your rule #4)
         for csv_file in matched_files:
             try:
-                print(f"\n[STEP] 讀取檔案內容: {csv_file}")
+                #print(f"\n[STEP] Reading file: {csv_file}")
                 df = read_csv_data(csv_file, s, logger)
-                print(f"[STEP] 讀取完成，資料筆數: {len(df)}，欄位數: {len(df.columns)}")
-                print(f"[STEP] 前5筆資料：\n{df.head()}")
+                #print(f"[STEP] Read complete, rows: {len(df)}, columns: {len(df.columns)}")
+                #print(f"[STEP] First 5 rows:\n{df.head()}")
 
                 counts = count_category_g(df, s, logger)
-                print(f"[STEP] G欄(判定)分類統計結果：\n{counts}")
+                #print(f"[STEP] Judge column category count:\n{counts}")
 
                 if counts.empty:
                     logger.info(f"[SKIP] no categories found in G column for {csv_file.name}")
@@ -498,16 +493,16 @@ def process_one_ini(ini_path: Path) -> None:
                     continue
 
                 out_csv = write_result_csv(counts, s, logger)
-                #print(f"[STEP] 統計結果已寫入 CSV：{out_csv}")
+                #print(f"[STEP] Result written to CSV: {out_csv}")
 
                 xml_fp = generate_pointer_xml(out_csv, s, logger)
-                #print(f"[STEP] 產生 XML 指標檔：{xml_fp}")
+                #print(f"[STEP] XML pointer file generated: {xml_fp}")
 
                 total_outputs += 1
             except Exception as e:
                 logger.error(f"[ERROR] processing {csv_file.name}: {e}\n{traceback.format_exc()}")
                 print(f"[ERROR] processing {csv_file.name}: {e}")
-                continue  # 修正：except 區塊需有內容
+                continue  # except block must have content
 
     logger.info(f"===== Finished INI: {ini_path.name} ; outputs={total_outputs} =====")
     print(f"===== Finished INI: {ini_path.name} ; outputs={total_outputs} =====")
