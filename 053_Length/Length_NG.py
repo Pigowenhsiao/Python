@@ -316,6 +316,8 @@ def count_category_g(df: pd.DataFrame, s: IniSettings, logger: logging.Logger) -
     series = series[series.notna() & (series != "")]
 
     counts = series.value_counts(dropna=True).rename_axis("Judge").reset_index(name="Count")
+    # 過濾掉 Judge 為 "nan" 或 "0" 的資料
+    counts = counts[~counts["Judge"].isin(["nan", "0"])]
     logger.info(f"[COUNT] unique categories={counts.shape[0]}, total rows={len(series)}")
     return counts
 
@@ -355,15 +357,13 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     dom = counts.rename(columns={"Judge": "Judge", "Count": "Count"})
     df_out = pd.concat([base.reset_index(drop=True), dom.reset_index(drop=True)], axis=1)
 
-    if "STARTTIME_SORTED" not in df_out.columns:
-        df_out["STARTTIME_SORTED"] = "Wait assign"
-    if "SORTNUMBER" not in df_out.columns:
-        df_out["SORTNUMBER"] = "Wait assign"
+    # 移除 STARTTIME_SORTED 與 SORTNUMBER 欄位
+    # 不再加入 STARTTIME_SORTED 與 SORTNUMBER
 
     ordered_cols = [
         "Serial_Number", "Part_Number", "Start_Date_Time",
         "Operation", "TestStation", "Site", "Operator",
-        "Judge", "Count", "STARTTIME_SORTED", "SORTNUMBER"
+        "Judge", "Count"
     ]
     df_out = df_out[ordered_cols]
 

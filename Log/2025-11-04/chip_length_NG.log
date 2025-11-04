@@ -1,0 +1,9 @@
+2025-11-04 09:14:11,185 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 09:14:31,765 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 250 files
+2025-11-04 09:14:31,775 - INFO - [Select] selected 1 file(s)
+2025-11-04 09:14:31,778 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 09:14:32,394 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 09:14:32,441 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 09:14:32,517 - INFO - [CSV OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\chip_length_NG_20251104_091432_8e3a96.csv
+2025-11-04 09:14:32,625 - INFO - [XML OUT] C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=chip_length_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.14.32.xml
+2025-11-04 09:14:32,626 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
