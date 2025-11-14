@@ -1,0 +1,47 @@
+2025-11-12 13:39:58,978 - INFO - 2025-11-12 13:39:58 ===== Universal Script Start =====
+2025-11-12 13:39:58,979 - INFO - 2025-11-12 13:39:58 No .ini or .txt config files found in the current directory. Exiting.
+2025-11-12 13:40:38,002 - INFO - 2025-11-12 13:40:38 ===== Universal Script Start =====
+2025-11-12 13:40:38,003 - INFO - 2025-11-12 13:40:38 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:40:38,013 - ERROR - 2025-11-12 13:40:38 FATAL Error with INI HTL13B2_etc_StartRow_PPW.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\035_N-electrode\PhotoPattern_Width_New.py", line 405, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\035_N-electrode\PhotoPattern_Width_New.py", line 118, in _extract_settings_from_config
+    s.retention_date = config.getint('Basic_info', 'retention_date', fallback=30)
+                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\configparser.py", line 847, in getint
+    return self._get_conv(section, option, int, raw=raw, vars=vars,
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                          fallback=fallback, **kwargs)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\configparser.py", line 837, in _get_conv
+    return self._get(section, conv, option, raw=raw, vars=vars,
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     **kwargs)
+                     ^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\configparser.py", line 832, in _get
+    return conv(self.get(section, option, **kwargs))
+ValueError: invalid literal for int() with base 10: '30 ; \u6578\u64da\u4fdd\u7559\u671f\u9650\uff0c\u7528\u65bc\u7be9\u9078\u6700\u8fd1 1 \u500b\u6708\u7684\u6578\u64da'
+
+2025-11-12 13:40:38,017 - INFO - 2025-11-12 13:40:38 ===== Universal Script End =====
+2025-11-12 13:41:34,642 - INFO - 2025-11-12 13:41:34 ===== Universal Script Start =====
+2025-11-12 13:41:34,643 - INFO - 2025-11-12 13:41:34 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:42:18,182 - INFO - 2025-11-12 13:42:18 ===== Universal Script Start =====
+2025-11-12 13:42:18,182 - INFO - 2025-11-12 13:42:18 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:48:37,982 - INFO - 2025-11-12 13:48:37 ===== Universal Script Start =====
+2025-11-12 13:48:37,983 - INFO - 2025-11-12 13:48:37 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:51:19,891 - INFO - 2025-11-12 13:51:19 ===== Universal Script Start =====
+2025-11-12 13:51:19,891 - INFO - 2025-11-12 13:51:19 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:52:06,179 - INFO - 2025-11-12 13:52:06 ===== Universal Script Start =====
+2025-11-12 13:52:06,180 - INFO - 2025-11-12 13:52:06 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:52:55,584 - INFO - 2025-11-12 13:52:55 ===== Universal Script Start =====
+2025-11-12 13:52:55,585 - INFO - 2025-11-12 13:52:55 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 13:58:02,522 - INFO - 2025-11-12 13:58:02 ===== Universal Script Start =====
+2025-11-12 13:58:02,523 - INFO - 2025-11-12 13:58:02 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 14:00:19,461 - INFO - 2025-11-12 14:00:19 ===== Universal Script Start =====
+2025-11-12 14:00:19,462 - INFO - 2025-11-12 14:00:19 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 14:18:01,567 - INFO - 2025-11-12 14:18:01 ===== Universal Script Start =====
+2025-11-12 14:18:01,568 - INFO - 2025-11-12 14:18:01 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 14:22:00,030 - INFO - 2025-11-12 14:22:00 ===== Universal Script Start =====
+2025-11-12 14:22:00,032 - INFO - 2025-11-12 14:22:00 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini
+2025-11-12 14:26:06,595 - INFO - 2025-11-12 14:26:06 ===== Universal Script Start =====
+2025-11-12 14:26:06,597 - INFO - 2025-11-12 14:26:06 Found 1 config file(s): HTL13B2_etc_StartRow_PPW.ini

@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-053_ChipLength_NG.py
-Batch runner:
-1) Load all .ini in current directory
-2) Parse settings
-3) Select CSV files per [FileSelection] rules
-4) Read CSV (cp932), count categories in column G (7th col) from row 8
-5) Emit CSV + pointer XML using the same structure as existing system
-   Unknown values are filled with "Wait assign".
-"""
 
 from __future__ import annotations
 
@@ -244,21 +234,34 @@ def select_files_per_rules(input_dir: Path, pattern: str, s: IniSettings, logger
         if m_ts:
             files_ts.append(f)
             ts_dict[f] = m_ts.group(0)
-            date_part = m_ts.group(0).split("_")[0]
+            date_match = re.search(r"_(\d{8})_\d{6}\.csv$", f.name)
+            if date_match:
+                date_part = date_match.group(1)
+            else:
+                date_part = ""
             date_dict[f] = date_part
     print(f"[Cond5] timestamp_pattern='{s.fs_timestamp_pattern}', matched: {len(files_ts)}")
+
+    # Show all matched files and their date
+    print("[Matched files and date]:")
+    for f in files_ts:
+        print(f"  {f.name}  date={date_dict[f]}")
 
     # Only keep the latest date file (only one)
     selected: List[Path] = []
     if files_ts:
-        all_dates = [date_dict[f] for f in files_ts]
+        all_dates = [date_dict[f] for f in files_ts if date_dict[f]]
         if all_dates:
             latest_date = max(all_dates)
+            # 找出最新日期的所有檔案
             latest_files = [f for f in files_ts if date_dict[f] == latest_date]
             if latest_files:
+                # 從最新日期的檔案中，挑選時間戳記最大的那一個
                 latest_file = max(latest_files, key=lambda f: ts_dict[f])
                 selected = [latest_file]
     print(f"[Cond6] Latest date ({latest_date if files_ts else 'N/A'}), matched: {len(selected)}")
+    if selected:
+        print(f"[Selected latest file]: {selected[0].name}")
 
     logger.info(f"[Select] selected {len(selected)} file(s)")
     return sorted(selected)
@@ -319,7 +322,7 @@ def count_category_g(df: pd.DataFrame, s: IniSettings, logger: logging.Logger) -
     return counts
 
 
-def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logger) -> Path:
+def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logger, src_csv_filename: str) -> Path:
     """
     Emit CSV with the SAME header style as existing system:
       Always include: Serial_Number, Part_Number, Start_Date_Time, Operation, TestStation, Site
@@ -327,19 +330,21 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
       Unknowns are "Wait assign"
     """
     Path(s.csv_path).mkdir(parents=True, exist_ok=True)
-    now = datetime.now()
-    ts = now.strftime("%Y%m%d_%H%M%S")
-    uid = uuid.uuid4().hex[:6]
-    out_csv = Path(s.csv_path) / f"{s.operation}_{ts}_{uid}.csv"
-
-    # Get Serial_Number (LNG+YYMMDD) and Part_Number/Operator
-    m = re.search(r"_(\d{8})_", str(out_csv))
+    # Extract yyyymmdd from RAW CSV filename
+    m = re.search(r"_(\d{8})_", src_csv_filename)
     if m:
-        yymmdd = m.group(1)[2:]  # YYMMDD
+        yyyymmdd = m.group(1)  # YYYYMMDD
+        yymmdd = yyyymmdd[2:]  # YYMMDD
     else:
-        yymmdd = now.strftime("%y%m%d")
+        yyyymmdd = datetime.now().strftime("%Y%m%d")
+        yymmdd = datetime.now().strftime("%y%m%d")
     serial_number = f"LNG{yymmdd}"
     part_number = s.xml_part_number_value if s.xml_part_number_value else "Dummy"
+
+    # Use RAW CSV date for output CSV filename
+    now = datetime.now()
+    uid = uuid.uuid4().hex[:6]
+    out_csv = Path(s.csv_path) / f"{s.operation}_{yyyymmdd}_{uid}.csv"
 
     base = pd.DataFrame({
         "Serial_Number": [serial_number] * len(counts),
@@ -353,8 +358,6 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     dom = counts.rename(columns={"Judge": "Judge", "Count": "Count"})
     df_out = pd.concat([base.reset_index(drop=True), dom.reset_index(drop=True)], axis=1)
 
-    # Remove STARTTIME_SORTED and SORTNUMBER columns
-
     ordered_cols = [
         "Serial_Number", "Part_Number", "Start_Date_Time",
         "Operation", "TestStation", "Site", "Operator",
@@ -367,7 +370,7 @@ def write_result_csv(counts: pd.DataFrame, s: IniSettings, logger: logging.Logge
     return out_csv
 
 
-def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger) -> Path:
+def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger, src_csv_filename: str) -> Path:
     """
     Generate pointer XML with the SAME element/attributes as legacy:
     <Results>
@@ -378,12 +381,10 @@ def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger)
           <Data DataType="Table" Name="tbl_<OPERATION_UPPER>" Value="<csv_path>" CompOperation="LOG" />
     """
     Path(s.output_path).mkdir(parents=True, exist_ok=True)
-    now_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-
-    # 取得 SerialNumber (LNG+YYMMDD) 與 Operator, LotNumber
-    m = re.search(r"_(\d{8})_", str(csv_path))
+    # Extract yyyymmdd from RAW CSV filename
+    m = re.search(r"_(\d{8})_", src_csv_filename)
     if m:
-        yymmdd = m.group(1)[2:]  # 取YYMMDD
+        yymmdd = m.group(1)[2:]  # YYMMDD
     else:
         yymmdd = datetime.now().strftime("%y%m%d")
     serial_number = f"LNG{yymmdd}"
@@ -391,6 +392,7 @@ def generate_pointer_xml(csv_path: Path, s: IniSettings, logger: logging.Logger)
     lot_number_value = "Dummy"
     part_number_value = s.xml_part_number_value if s.xml_part_number_value else "Dummy"
 
+    now_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     xml_file_name = (
         f"Site={s.site},"
         f"ProductFamily={s.product_family},"
@@ -492,10 +494,10 @@ def process_one_ini(ini_path: Path) -> None:
                     print(f"[SKIP] no categories found in G column for {csv_file.name}")
                     continue
 
-                out_csv = write_result_csv(counts, s, logger)
+                out_csv = write_result_csv(counts, s, logger, src_csv_filename=csv_file.name)
                 #print(f"[STEP] Result written to CSV: {out_csv}")
 
-                xml_fp = generate_pointer_xml(out_csv, s, logger)
+                xml_fp = generate_pointer_xml(out_csv, s, logger, src_csv_filename=csv_file.name)
                 #print(f"[STEP] XML pointer file generated: {xml_fp}")
 
                 total_outputs += 1
@@ -520,3 +522,30 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Example comparison code for two filenames:
+def compare_csv_dates(file1: str, file2: str) -> str:
+    # Extract YYYYMMDD_HHMMSS from filenames
+    def get_datetime(fname):
+        m = re.search(r"_(\d{8}_\d{6})\.csv$", fname)
+        if m:
+            return datetime.strptime(m.group(1), "%Y%m%d_%H%M%S")
+        return None
+    dt1 = get_datetime(file1)
+    dt2 = get_datetime(file2)
+    if dt1 and dt2:
+        if dt1 > dt2:
+            return f"{file1} is newer"
+        elif dt2 > dt1:
+            return f"{file2} is newer"
+        else:
+            return "Both files have the same timestamp"
+    return "Cannot compare, invalid filename format"
+
+# Usage example:
+result = compare_csv_dates(
+    "RC_25CS1B301Ba0000000001_20251101_230722.csv",
+    "RC_25FJ1B658Ba0000000000_20251104_222429.csv"
+)
+print(result)
+# Output: RC_25FJ1B658Ba0000000000_20251104_222429.csv is newer

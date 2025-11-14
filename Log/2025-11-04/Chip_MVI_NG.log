@@ -25,3 +25,12 @@
 2025-11-04 09:44:11,635 - INFO - [CSV OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\001_GRATING\Chip_MVI_NG_20251104_094411_40d0fe.csv
 2025-11-04 09:44:12,089 - INFO - [XML OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=Chip_MVI_NG,Partnumber=Dummy,Serialnumber=LNG251104,Testdate=2025-11-04T09.44.11.xml
 2025-11-04 09:44:12,090 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====
+2025-11-04 11:31:39,382 - INFO - ===== Start processing INI: Config_Length_NG.ini =====
+2025-11-04 11:31:59,400 - INFO - [Select] scanning Y:\LD\Sorting_Map_data\GainChipAfterLength with pattern 'RC_*.csv', found 252 files
+2025-11-04 11:31:59,404 - INFO - [Select] selected 1 file(s)
+2025-11-04 11:31:59,405 - INFO - [CSV] reading RC_25CS1B301Ba0000000001_20251101_230722.csv, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], skiprows=7
+2025-11-04 11:31:59,790 - INFO - [CSV] loaded shape=(460, 12)
+2025-11-04 11:31:59,794 - INFO - [COUNT] unique categories=14, total rows=460
+2025-11-04 11:32:00,831 - INFO - [CSV OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\001_GRATING\Chip_MVI_NG_20251104_113200_6e2581.csv
+2025-11-04 11:32:01,283 - INFO - [XML OUT] \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=Chip_MVI_NG,Partnumber=XQJ-30150,Serialnumber=LNG251104,Testdate=2025-11-04T11.32.01.xml
+2025-11-04 11:32:01,284 - INFO - ===== Finished INI: Config_Length_NG.ini ; outputs=1 =====

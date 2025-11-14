@@ -1,0 +1,885 @@
+INFO:root:2025-11-12 14:13:10 Program Start
+INFO:root:2025-11-12 14:13:10 Excel File Copy
+INFO:root:2025-11-12 14:13:12 Get The Starting Row Count
+INFO:root:2025-11-12 14:13:12 Read Excel
+INFO:root:2025-11-12 14:13:21 Setting Columns Number
+INFO:root:2025-11-12 14:13:27 Get DataFrame End Index Number
+
+INFO:root:2025-11-12 14:13:27 Blank Check
+INFO:root:2025-11-12 14:13:27 Data Acquisition
+INFO:root:2025-11-12 14:13:30 Date Format Conversion
+INFO:root:2025-11-12 14:13:30 Check Data Type
+INFO:root:2025-11-12 14:14:22 Program Start
+INFO:root:2025-11-12 14:14:22 Excel File Copy
+INFO:root:2025-11-12 14:14:24 Get The Starting Row Count
+INFO:root:2025-11-12 14:14:24 Read Excel
+INFO:root:2025-11-12 14:14:34 Setting Columns Number
+INFO:root:2025-11-12 14:14:40 Get DataFrame End Index Number
+
+INFO:root:2025-11-12 14:14:40 Blank Check
+INFO:root:2025-11-12 14:14:40 Data Acquisition
+INFO:root:2025-11-12 14:14:44 Date Format Conversion
+INFO:root:2025-11-12 14:14:44 Check Data Type
+INFO:root:2025-11-12 14:14:44 EU023 : OK
+
+INFO:root:2025-11-12 14:14:44 Blank Check
+INFO:root:2025-11-12 14:14:44 Data Acquisition
+INFO:root:2025-11-12 14:14:48 Date Format Conversion
+INFO:root:2025-11-12 14:14:48 Check Data Type
+INFO:root:2025-11-12 14:14:48 EU024 : OK
+
+INFO:root:2025-11-12 14:14:48 Blank Check
+INFO:root:2025-11-12 14:14:48 Data Acquisition
+INFO:root:2025-11-12 14:14:52 Date Format Conversion
+INFO:root:2025-11-12 14:14:52 Check Data Type
+INFO:root:2025-11-12 14:14:52 EU025 : OK
+
+INFO:root:2025-11-12 14:14:52 Blank Check
+INFO:root:2025-11-12 14:14:52 Data Acquisition
+INFO:root:2025-11-12 15:09:56 Program Start
+INFO:root:2025-11-12 15:09:56 Excel File Copy
+INFO:root:2025-11-12 15:10:00 Get The Starting Row Count
+INFO:root:2025-11-12 15:10:00 Read Excel
+INFO:root:2025-11-12 15:10:13 Setting Columns Number
+INFO:root:2025-11-12 15:10:20 Get DataFrame End Index Number
+
+INFO:root:2025-11-12 15:10:20 Blank Check
+INFO:root:2025-11-12 15:10:20 Data Acquisition
+INFO:root:2025-11-12 15:10:24 Date Format Conversion
+INFO:root:2025-11-12 15:10:24 Check Data Type
+INFO:root:2025-11-12 15:10:24 EU023 : OK
+
+INFO:root:2025-11-12 15:10:24 Blank Check
+INFO:root:2025-11-12 15:10:24 Data Acquisition
+INFO:root:2025-11-12 15:10:28 Date Format Conversion
+INFO:root:2025-11-12 15:10:28 Check Data Type
+INFO:root:2025-11-12 15:10:28 EU024 : OK
+
+INFO:root:2025-11-12 15:10:28 Blank Check
+INFO:root:2025-11-12 15:10:28 Data Acquisition
+INFO:root:2025-11-12 15:10:33 Date Format Conversion
+INFO:root:2025-11-12 15:10:33 Check Data Type
+INFO:root:2025-11-12 15:10:33 EU025 : OK
+
+INFO:root:2025-11-12 15:10:33 Blank Check
+INFO:root:2025-11-12 15:10:33 Data Acquisition
+INFO:root:2025-11-12 15:10:37 Date Format Conversion
+INFO:root:2025-11-12 15:10:37 Check Data Type
+INFO:root:2025-11-12 15:10:37 EU026 : OK
+
+INFO:root:2025-11-12 15:10:37 Blank Check
+INFO:root:2025-11-12 15:10:37 Data Acquisition
+INFO:root:2025-11-12 15:10:40 Date Format Conversion
+INFO:root:2025-11-12 15:10:40 Check Data Type
+INFO:root:2025-11-12 15:10:40 DHALZ : OK
+
+INFO:root:2025-11-12 15:10:40 Blank Check
+INFO:root:2025-11-12 15:10:40 Data Acquisition
+INFO:root:2025-11-12 15:10:43 Date Format Conversion
+INFO:root:2025-11-12 15:10:43 Check Data Type
+INFO:root:2025-11-12 15:10:44 DHAM0 : OK
+
+INFO:root:2025-11-12 15:10:44 Blank Check
+INFO:root:2025-11-12 15:10:44 Data Acquisition
+INFO:root:2025-11-12 15:10:47 Date Format Conversion
+INFO:root:2025-11-12 15:10:47 Check Data Type
+INFO:root:2025-11-12 15:10:47 DHAM1 : OK
+
+INFO:root:2025-11-12 15:10:47 Blank Check
+INFO:root:2025-11-12 15:10:47 Data Acquisition
+INFO:root:2025-11-12 15:10:50 Date Format Conversion
+INFO:root:2025-11-12 15:10:50 Check Data Type
+INFO:root:2025-11-12 15:10:50 DHAM2 : OK
+
+INFO:root:2025-11-12 15:10:50 Blank Check
+INFO:root:2025-11-12 15:10:50 Data Acquisition
+INFO:root:2025-11-12 15:10:55 Date Format Conversion
+INFO:root:2025-11-12 15:10:55 Check Data Type
+INFO:root:2025-11-12 15:10:55 DHAKR : OK
+
+INFO:root:2025-11-12 15:10:55 Blank Check
+INFO:root:2025-11-12 15:10:55 Data Acquisition
+INFO:root:2025-11-12 15:10:58 Date Format Conversion
+INFO:root:2025-11-12 15:10:58 Check Data Type
+INFO:root:2025-11-12 15:10:59 DHAKS : OK
+
+INFO:root:2025-11-12 15:10:59 Blank Check
+INFO:root:2025-11-12 15:10:59 Data Acquisition
+INFO:root:2025-11-12 15:11:02 Date Format Conversion
+INFO:root:2025-11-12 15:11:02 Check Data Type
+INFO:root:2025-11-12 15:11:02 DHAKT : OK
+
+INFO:root:2025-11-12 15:11:02 Blank Check
+INFO:root:2025-11-12 15:11:02 Data Acquisition
+INFO:root:2025-11-12 15:11:07 Date Format Conversion
+INFO:root:2025-11-12 15:11:07 Check Data Type
+INFO:root:2025-11-12 15:11:07 DHAKU : OK
+
+INFO:root:2025-11-12 15:11:07 Blank Check
+INFO:root:2025-11-12 15:11:07 Data Acquisition
+INFO:root:2025-11-12 15:11:10 Date Format Conversion
+INFO:root:2025-11-12 15:11:10 Check Data Type
+INFO:root:2025-11-12 15:11:10 EV013 : OK
+
+INFO:root:2025-11-12 15:11:10 Blank Check
+INFO:root:2025-11-12 15:11:10 Data Acquisition
+INFO:root:2025-11-12 15:11:14 Date Format Conversion
+INFO:root:2025-11-12 15:11:14 Check Data Type
+INFO:root:2025-11-12 15:11:14 EV014 : OK
+
+INFO:root:2025-11-12 15:11:14 Blank Check
+INFO:root:2025-11-12 15:11:14 Data Acquisition
+INFO:root:2025-11-12 15:11:19 Date Format Conversion
+INFO:root:2025-11-12 15:11:19 Check Data Type
+INFO:root:2025-11-12 15:11:19 EV016 : OK
+
+INFO:root:2025-11-12 15:11:19 Blank Check
+INFO:root:2025-11-12 15:11:19 Data Acquisition
+INFO:root:2025-11-12 15:11:23 Date Format Conversion
+INFO:root:2025-11-12 15:11:23 Check Data Type
+INFO:root:2025-11-12 15:11:23 DHAKV : OK
+
+INFO:root:2025-11-12 15:11:23 Blank Check
+INFO:root:2025-11-12 15:11:23 Data Acquisition
+INFO:root:2025-11-12 15:11:28 Date Format Conversion
+INFO:root:2025-11-12 15:11:28 Check Data Type
+INFO:root:2025-11-12 15:11:28 DHAKW : OK
+
+INFO:root:2025-11-12 15:11:28 Blank Check
+INFO:root:2025-11-12 15:11:28 Data Acquisition
+INFO:root:2025-11-12 15:11:33 Date Format Conversion
+INFO:root:2025-11-12 15:11:33 Check Data Type
+INFO:root:2025-11-12 15:11:33 DHAKX : OK
+
+INFO:root:2025-11-12 15:11:33 Blank Check
+INFO:root:2025-11-12 15:11:33 Data Acquisition
+ERROR:root:2025-11-12 15:11:34 WH100 : PartNumber Error
+
+INFO:root:2025-11-12 15:11:34 Blank Check
+INFO:root:2025-11-12 15:11:34 Data Acquisition
+ERROR:root:2025-11-12 15:11:36 WH101 : PartNumber Error
+
+INFO:root:2025-11-12 15:11:36 Blank Check
+INFO:root:2025-11-12 15:11:36 Data Acquisition
+ERROR:root:2025-11-12 15:11:38 WH102 : PartNumber Error
+
+INFO:root:2025-11-12 15:11:38 Blank Check
+INFO:root:2025-11-12 15:11:38 Data Acquisition
+ERROR:root:2025-11-12 15:11:41 WH103 : PartNumber Error
+
+INFO:root:2025-11-12 15:11:41 Blank Check
+INFO:root:2025-11-12 15:11:41 Data Acquisition
+INFO:root:2025-11-12 15:11:48 Date Format Conversion
+INFO:root:2025-11-12 15:11:48 Check Data Type
+INFO:root:2025-11-12 15:11:48 EU009 : OK
+
+INFO:root:2025-11-12 15:11:48 Blank Check
+INFO:root:2025-11-12 15:11:48 Data Acquisition
+INFO:root:2025-11-12 15:11:53 Date Format Conversion
+INFO:root:2025-11-12 15:11:53 Check Data Type
+INFO:root:2025-11-12 15:11:53 EU010 : OK
+
+INFO:root:2025-11-12 15:11:53 Blank Check
+INFO:root:2025-11-12 15:11:53 Data Acquisition
+INFO:root:2025-11-12 15:11:57 Date Format Conversion
+INFO:root:2025-11-12 15:11:57 Check Data Type
+INFO:root:2025-11-12 15:11:57 EU011 : OK
+
+INFO:root:2025-11-12 15:11:57 Blank Check
+INFO:root:2025-11-12 15:11:57 Data Acquisition
+INFO:root:2025-11-12 15:12:02 Date Format Conversion
+INFO:root:2025-11-12 15:12:02 Check Data Type
+INFO:root:2025-11-12 15:12:02 EU012 : OK
+
+INFO:root:2025-11-12 15:12:02 Blank Check
+INFO:root:2025-11-12 15:12:02 Data Acquisition
+INFO:root:2025-11-12 15:12:08 Date Format Conversion
+INFO:root:2025-11-12 15:12:08 Check Data Type
+INFO:root:2025-11-12 15:12:08 DEAK3 : OK
+
+INFO:root:2025-11-12 15:12:08 Blank Check
+INFO:root:2025-11-12 15:12:08 Data Acquisition
+INFO:root:2025-11-12 15:12:13 Date Format Conversion
+INFO:root:2025-11-12 15:12:13 Check Data Type
+INFO:root:2025-11-12 15:12:13 DEAK4 : OK
+
+INFO:root:2025-11-12 15:12:13 Blank Check
+INFO:root:2025-11-12 15:12:13 Data Acquisition
+INFO:root:2025-11-12 15:12:17 Date Format Conversion
+INFO:root:2025-11-12 15:12:17 Check Data Type
+INFO:root:2025-11-12 15:12:17 DEAK5 : OK
+
+INFO:root:2025-11-12 15:12:17 Blank Check
+INFO:root:2025-11-12 15:12:17 Data Acquisition
+INFO:root:2025-11-12 15:12:22 Date Format Conversion
+INFO:root:2025-11-12 15:12:22 Check Data Type
+INFO:root:2025-11-12 15:12:22 DEAK6 : OK
+
+INFO:root:2025-11-12 15:12:22 Blank Check
+INFO:root:2025-11-12 15:12:22 Data Acquisition
+INFO:root:2025-11-12 15:12:26 Date Format Conversion
+INFO:root:2025-11-12 15:12:26 Check Data Type
+INFO:root:2025-11-12 15:12:26 DEAKK : OK
+
+INFO:root:2025-11-12 15:12:26 Blank Check
+INFO:root:2025-11-12 15:12:26 Data Acquisition
+INFO:root:2025-11-12 15:12:30 Date Format Conversion
+INFO:root:2025-11-12 15:12:30 Check Data Type
+INFO:root:2025-11-12 15:12:30 DEAKL : OK
+
+INFO:root:2025-11-12 15:12:30 Blank Check
+INFO:root:2025-11-12 15:12:30 Data Acquisition
+INFO:root:2025-11-12 15:12:34 Date Format Conversion
+INFO:root:2025-11-12 15:12:34 Check Data Type
+INFO:root:2025-11-12 15:12:34 DEAKM : OK
+
+INFO:root:2025-11-12 15:12:34 Blank Check
+INFO:root:2025-11-12 15:12:34 Data Acquisition
+INFO:root:2025-11-12 15:12:38 Date Format Conversion
+INFO:root:2025-11-12 15:12:38 Check Data Type
+INFO:root:2025-11-12 15:12:38 DEAKN : OK
+
+INFO:root:2025-11-12 15:12:38 Blank Check
+INFO:root:2025-11-12 15:12:38 Data Acquisition
+INFO:root:2025-11-12 15:12:42 Date Format Conversion
+INFO:root:2025-11-12 15:12:42 Check Data Type
+INFO:root:2025-11-12 15:12:42 DHALF : OK
+
+INFO:root:2025-11-12 15:12:42 Blank Check
+INFO:root:2025-11-12 15:12:42 Data Acquisition
+INFO:root:2025-11-12 15:12:46 Date Format Conversion
+INFO:root:2025-11-12 15:12:46 Check Data Type
+INFO:root:2025-11-12 15:12:46 DHALG : OK
+
+INFO:root:2025-11-12 15:12:46 Blank Check
+INFO:root:2025-11-12 15:12:46 Data Acquisition
+INFO:root:2025-11-12 15:12:50 Date Format Conversion
+INFO:root:2025-11-12 15:12:50 Check Data Type
+INFO:root:2025-11-12 15:12:50 DHALH : OK
+
+INFO:root:2025-11-12 15:12:50 Blank Check
+INFO:root:2025-11-12 15:12:50 Data Acquisition
+INFO:root:2025-11-12 15:12:53 Date Format Conversion
+INFO:root:2025-11-12 15:12:53 Check Data Type
+INFO:root:2025-11-12 15:12:53 DHALJ : OK
+
+INFO:root:2025-11-12 15:12:53 Blank Check
+INFO:root:2025-11-12 15:12:53 Data Acquisition
+INFO:root:2025-11-12 15:12:56 Date Format Conversion
+INFO:root:2025-11-12 15:12:56 Check Data Type
+INFO:root:2025-11-12 15:12:56 DHALC : OK
+
+INFO:root:2025-11-12 15:12:56 Blank Check
+INFO:root:2025-11-12 15:12:56 Data Acquisition
+INFO:root:2025-11-12 15:12:59 Date Format Conversion
+INFO:root:2025-11-12 15:12:59 Check Data Type
+INFO:root:2025-11-12 15:13:00 DHALD : OK
+
+INFO:root:2025-11-12 15:13:00 Blank Check
+INFO:root:2025-11-12 15:13:00 Data Acquisition
+INFO:root:2025-11-12 15:13:03 Date Format Conversion
+INFO:root:2025-11-12 15:13:03 Check Data Type
+INFO:root:2025-11-12 15:13:03 DHALE : OK
+
+INFO:root:2025-11-12 15:13:03 Blank Check
+INFO:root:2025-11-12 15:13:03 Data Acquisition
+INFO:root:2025-11-12 15:13:06 Date Format Conversion
+INFO:root:2025-11-12 15:13:06 Check Data Type
+INFO:root:2025-11-12 15:13:06 EV030 : OK
+
+INFO:root:2025-11-12 15:13:06 Blank Check
+INFO:root:2025-11-12 15:13:06 Data Acquisition
+INFO:root:2025-11-12 15:13:09 Date Format Conversion
+INFO:root:2025-11-12 15:13:09 Check Data Type
+INFO:root:2025-11-12 15:13:10 EV031 : OK
+
+INFO:root:2025-11-12 15:13:10 Blank Check
+INFO:root:2025-11-12 15:13:10 Data Acquisition
+INFO:root:2025-11-12 15:13:13 Date Format Conversion
+INFO:root:2025-11-12 15:13:13 Check Data Type
+INFO:root:2025-11-12 15:13:13 EV032 : OK
+
+INFO:root:2025-11-12 15:13:13 Blank Check
+INFO:root:2025-11-12 15:13:13 Data Acquisition
+INFO:root:2025-11-12 15:13:16 Date Format Conversion
+INFO:root:2025-11-12 15:13:16 Check Data Type
+INFO:root:2025-11-12 15:13:16 DFAKS : OK
+
+INFO:root:2025-11-12 15:13:16 Blank Check
+INFO:root:2025-11-12 15:13:16 Data Acquisition
+INFO:root:2025-11-12 15:13:21 Date Format Conversion
+INFO:root:2025-11-12 15:13:21 Check Data Type
+INFO:root:2025-11-12 15:13:21 DFAKT : OK
+
+INFO:root:2025-11-12 15:13:21 Blank Check
+INFO:root:2025-11-12 15:13:21 Data Acquisition
+INFO:root:2025-11-12 15:13:25 Date Format Conversion
+INFO:root:2025-11-12 15:13:25 Check Data Type
+INFO:root:2025-11-12 15:13:25 DFAKU : OK
+
+INFO:root:2025-11-12 15:13:25 Blank Check
+INFO:root:2025-11-12 15:13:25 Data Acquisition
+INFO:root:2025-11-12 15:13:29 Date Format Conversion
+INFO:root:2025-11-12 15:13:29 Check Data Type
+INFO:root:2025-11-12 15:13:29 DFAKV : OK
+
+INFO:root:2025-11-12 15:13:29 Blank Check
+INFO:root:2025-11-12 15:13:29 Data Acquisition
+INFO:root:2025-11-12 15:13:32 Date Format Conversion
+INFO:root:2025-11-12 15:13:32 Check Data Type
+INFO:root:2025-11-12 15:13:32 DFAKE : OK
+
+INFO:root:2025-11-12 15:13:32 Blank Check
+INFO:root:2025-11-12 15:13:32 Data Acquisition
+INFO:root:2025-11-12 15:13:36 Date Format Conversion
+INFO:root:2025-11-12 15:13:36 Check Data Type
+INFO:root:2025-11-12 15:13:36 DFAKF : OK
+
+INFO:root:2025-11-12 15:13:36 Blank Check
+INFO:root:2025-11-12 15:13:36 Data Acquisition
+INFO:root:2025-11-12 15:13:39 Date Format Conversion
+INFO:root:2025-11-12 15:13:39 Check Data Type
+INFO:root:2025-11-12 15:13:39 DFAKG : OK
+
+INFO:root:2025-11-12 15:13:39 Blank Check
+INFO:root:2025-11-12 15:13:39 Data Acquisition
+INFO:root:2025-11-12 15:13:42 Date Format Conversion
+INFO:root:2025-11-12 15:13:42 Check Data Type
+INFO:root:2025-11-12 15:13:42 DFAKH : OK
+
+INFO:root:2025-11-12 15:13:42 Blank Check
+INFO:root:2025-11-12 15:13:42 Data Acquisition
+INFO:root:2025-11-12 15:13:45 Date Format Conversion
+INFO:root:2025-11-12 15:13:45 Check Data Type
+INFO:root:2025-11-12 15:13:46 DHAL7 : OK
+
+INFO:root:2025-11-12 15:13:46 Blank Check
+INFO:root:2025-11-12 15:13:46 Data Acquisition
+INFO:root:2025-11-12 15:13:49 Date Format Conversion
+INFO:root:2025-11-12 15:13:49 Check Data Type
+INFO:root:2025-11-12 15:13:49 DHAL8 : OK
+
+INFO:root:2025-11-12 15:13:49 Blank Check
+INFO:root:2025-11-12 15:13:49 Data Acquisition
+INFO:root:2025-11-12 15:13:53 Date Format Conversion
+INFO:root:2025-11-12 15:13:53 Check Data Type
+INFO:root:2025-11-12 15:13:53 DHAL9 : OK
+
+INFO:root:2025-11-12 15:13:53 Blank Check
+INFO:root:2025-11-12 15:13:53 Data Acquisition
+INFO:root:2025-11-12 15:13:57 Date Format Conversion
+INFO:root:2025-11-12 15:13:57 Check Data Type
+INFO:root:2025-11-12 15:13:57 DHALA : OK
+
+INFO:root:2025-11-12 15:13:57 Blank Check
+INFO:root:2025-11-12 15:13:57 Data Acquisition
+INFO:root:2025-11-12 15:14:02 Date Format Conversion
+INFO:root:2025-11-12 15:14:02 Check Data Type
+INFO:root:2025-11-12 15:14:02 DHALK : OK
+
+INFO:root:2025-11-12 15:14:02 Blank Check
+INFO:root:2025-11-12 15:14:02 Data Acquisition
+INFO:root:2025-11-12 15:14:07 Date Format Conversion
+INFO:root:2025-11-12 15:14:07 Check Data Type
+INFO:root:2025-11-12 15:14:07 DHALL : OK
+
+INFO:root:2025-11-12 15:14:07 Blank Check
+INFO:root:2025-11-12 15:14:07 Data Acquisition
+INFO:root:2025-11-12 15:14:11 Date Format Conversion
+INFO:root:2025-11-12 15:14:11 Check Data Type
+INFO:root:2025-11-12 15:14:11 DHALN : OK
+
+INFO:root:2025-11-12 15:14:11 Blank Check
+INFO:root:2025-11-12 15:14:11 Data Acquisition
+INFO:root:2025-11-12 15:14:16 Date Format Conversion
+INFO:root:2025-11-12 15:14:16 Check Data Type
+INFO:root:2025-11-12 15:14:16 DHALP : OK
+
+INFO:root:2025-11-12 15:14:16 Blank Check
+INFO:root:2025-11-12 15:14:16 Data Acquisition
+INFO:root:2025-11-12 15:14:20 Date Format Conversion
+INFO:root:2025-11-12 15:14:20 Check Data Type
+INFO:root:2025-11-12 15:14:20 DEAKP : OK
+
+INFO:root:2025-11-12 15:14:20 Blank Check
+INFO:root:2025-11-12 15:14:20 Data Acquisition
+INFO:root:2025-11-12 15:14:24 Date Format Conversion
+INFO:root:2025-11-12 15:14:24 Check Data Type
+INFO:root:2025-11-12 15:14:24 DEAKQ : OK
+
+INFO:root:2025-11-12 15:14:24 Blank Check
+INFO:root:2025-11-12 15:14:24 Data Acquisition
+INFO:root:2025-11-12 15:14:28 Date Format Conversion
+INFO:root:2025-11-12 15:14:28 Check Data Type
+INFO:root:2025-11-12 15:14:28 DEAKR : OK
+
+INFO:root:2025-11-12 15:14:28 Blank Check
+INFO:root:2025-11-12 15:14:28 Data Acquisition
+INFO:root:2025-11-12 15:14:33 Date Format Conversion
+INFO:root:2025-11-12 15:14:33 Check Data Type
+INFO:root:2025-11-12 15:14:33 EV020 : OK
+
+INFO:root:2025-11-12 15:14:33 Blank Check
+INFO:root:2025-11-12 15:14:33 Data Acquisition
+INFO:root:2025-11-12 15:14:37 Date Format Conversion
+INFO:root:2025-11-12 15:14:37 Check Data Type
+INFO:root:2025-11-12 15:14:37 EV021 : OK
+
+INFO:root:2025-11-12 15:14:37 Blank Check
+INFO:root:2025-11-12 15:14:37 Data Acquisition
+INFO:root:2025-11-12 15:14:40 Date Format Conversion
+INFO:root:2025-11-12 15:14:40 Check Data Type
+INFO:root:2025-11-12 15:14:40 EV022 : OK
+
+INFO:root:2025-11-12 15:14:40 Blank Check
+INFO:root:2025-11-12 15:14:40 Data Acquisition
+INFO:root:2025-11-12 15:14:43 Date Format Conversion
+INFO:root:2025-11-12 15:14:43 Check Data Type
+INFO:root:2025-11-12 15:14:43 EV024 : OK
+
+INFO:root:2025-11-12 15:14:43 Blank Check
+INFO:root:2025-11-12 15:14:43 Data Acquisition
+INFO:root:2025-11-12 15:14:47 Date Format Conversion
+INFO:root:2025-11-12 15:14:47 Check Data Type
+INFO:root:2025-11-12 15:14:47 DFAKE : OK
+
+INFO:root:2025-11-12 15:14:47 Blank Check
+INFO:root:2025-11-12 15:14:47 Data Acquisition
+INFO:root:2025-11-12 15:14:51 Date Format Conversion
+INFO:root:2025-11-12 15:14:51 Check Data Type
+INFO:root:2025-11-12 15:14:51 DFAKF : OK
+
+INFO:root:2025-11-12 15:14:51 Blank Check
+INFO:root:2025-11-12 15:14:51 Data Acquisition
+INFO:root:2025-11-12 15:14:55 Date Format Conversion
+INFO:root:2025-11-12 15:14:55 Check Data Type
+INFO:root:2025-11-12 15:14:56 DFAKG : OK
+
+INFO:root:2025-11-12 15:14:56 Blank Check
+INFO:root:2025-11-12 15:14:56 Data Acquisition
+INFO:root:2025-11-12 15:15:00 Date Format Conversion
+INFO:root:2025-11-12 15:15:00 Check Data Type
+INFO:root:2025-11-12 15:15:00 DFAKH : OK
+
+INFO:root:2025-11-12 15:15:00 Blank Check
+INFO:root:2025-11-12 15:15:00 Data Acquisition
+INFO:root:2025-11-12 15:15:04 Date Format Conversion
+INFO:root:2025-11-12 15:15:04 Check Data Type
+INFO:root:2025-11-12 15:15:04 EW061 : OK
+
+INFO:root:2025-11-12 15:15:04 Blank Check
+INFO:root:2025-11-12 15:15:04 Data Acquisition
+INFO:root:2025-11-12 15:15:08 Date Format Conversion
+INFO:root:2025-11-12 15:15:08 Check Data Type
+INFO:root:2025-11-12 15:15:09 EW062 : OK
+
+INFO:root:2025-11-12 15:15:09 Blank Check
+INFO:root:2025-11-12 15:15:09 Data Acquisition
+INFO:root:2025-11-12 15:15:12 Date Format Conversion
+INFO:root:2025-11-12 15:15:12 Check Data Type
+INFO:root:2025-11-12 15:15:13 EW063 : OK
+
+INFO:root:2025-11-12 15:15:13 Blank Check
+INFO:root:2025-11-12 15:15:13 Data Acquisition
+INFO:root:2025-11-12 15:15:16 Date Format Conversion
+INFO:root:2025-11-12 15:15:16 Check Data Type
+INFO:root:2025-11-12 15:15:16 EV025 : OK
+
+INFO:root:2025-11-12 15:15:16 Blank Check
+INFO:root:2025-11-12 15:15:16 Data Acquisition
+INFO:root:2025-11-12 15:15:19 Date Format Conversion
+INFO:root:2025-11-12 15:15:19 Check Data Type
+INFO:root:2025-11-12 15:15:19 EV026 : OK
+
+INFO:root:2025-11-12 15:15:19 Blank Check
+INFO:root:2025-11-12 15:15:19 Data Acquisition
+INFO:root:2025-11-12 15:15:22 Date Format Conversion
+INFO:root:2025-11-12 15:15:22 Check Data Type
+INFO:root:2025-11-12 15:15:22 EV027 : OK
+
+INFO:root:2025-11-12 15:15:22 Blank Check
+INFO:root:2025-11-12 15:15:22 Data Acquisition
+INFO:root:2025-11-12 15:15:25 Date Format Conversion
+INFO:root:2025-11-12 15:15:25 Check Data Type
+INFO:root:2025-11-12 15:15:25 EV028 : OK
+
+INFO:root:2025-11-12 15:15:25 Blank Check
+INFO:root:2025-11-12 15:15:25 Data Acquisition
+INFO:root:2025-11-12 15:15:28 Date Format Conversion
+INFO:root:2025-11-12 15:15:28 Check Data Type
+INFO:root:2025-11-12 15:15:28 EU013 : OK
+
+INFO:root:2025-11-12 15:15:28 Blank Check
+INFO:root:2025-11-12 15:15:28 Data Acquisition
+INFO:root:2025-11-12 15:15:30 Date Format Conversion
+INFO:root:2025-11-12 15:15:30 Check Data Type
+INFO:root:2025-11-12 15:15:30 EU014 : OK
+
+INFO:root:2025-11-12 15:15:30 Blank Check
+INFO:root:2025-11-12 15:15:30 Data Acquisition
+INFO:root:2025-11-12 15:15:33 Date Format Conversion
+INFO:root:2025-11-12 15:15:33 Check Data Type
+INFO:root:2025-11-12 15:15:33 EU017 : OK
+
+INFO:root:2025-11-12 15:15:33 Blank Check
+INFO:root:2025-11-12 15:15:33 Data Acquisition
+INFO:root:2025-11-12 15:15:37 Date Format Conversion
+INFO:root:2025-11-12 15:15:37 Check Data Type
+INFO:root:2025-11-12 15:15:37 EU018 : OK
+
+INFO:root:2025-11-12 15:15:37 Blank Check
+INFO:root:2025-11-12 15:15:37 Data Acquisition
+INFO:root:2025-11-12 15:15:40 Date Format Conversion
+INFO:root:2025-11-12 15:15:40 Check Data Type
+INFO:root:2025-11-12 15:15:40 ET084 : OK
+
+INFO:root:2025-11-12 15:15:40 Blank Check
+INFO:root:2025-11-12 15:15:40 Data Acquisition
+INFO:root:2025-11-12 15:15:43 Date Format Conversion
+INFO:root:2025-11-12 15:15:43 Check Data Type
+INFO:root:2025-11-12 15:15:43 ET085 : OK
+
+INFO:root:2025-11-12 15:15:43 Blank Check
+INFO:root:2025-11-12 15:15:43 Data Acquisition
+INFO:root:2025-11-12 15:15:46 Date Format Conversion
+INFO:root:2025-11-12 15:15:46 Check Data Type
+INFO:root:2025-11-12 15:15:46 ET086 : OK
+
+INFO:root:2025-11-12 15:15:46 Blank Check
+INFO:root:2025-11-12 15:15:46 Data Acquisition
+INFO:root:2025-11-12 15:15:49 Date Format Conversion
+INFO:root:2025-11-12 15:15:49 Check Data Type
+INFO:root:2025-11-12 15:15:49 ET087 : OK
+
+INFO:root:2025-11-12 15:15:49 Blank Check
+INFO:root:2025-11-12 15:15:49 Data Acquisition
+INFO:root:2025-11-12 15:15:53 Date Format Conversion
+INFO:root:2025-11-12 15:15:53 Check Data Type
+INFO:root:2025-11-12 15:15:53 EW076 : OK
+
+INFO:root:2025-11-12 15:15:53 Blank Check
+INFO:root:2025-11-12 15:15:53 Data Acquisition
+INFO:root:2025-11-12 15:15:55 Date Format Conversion
+INFO:root:2025-11-12 15:15:55 Check Data Type
+INFO:root:2025-11-12 15:15:55 EW077 : OK
+
+INFO:root:2025-11-12 15:15:55 Blank Check
+INFO:root:2025-11-12 15:15:55 Data Acquisition
+INFO:root:2025-11-12 15:15:58 Date Format Conversion
+INFO:root:2025-11-12 15:15:58 Check Data Type
+INFO:root:2025-11-12 15:15:58 EW078 : OK
+
+INFO:root:2025-11-12 15:15:58 Blank Check
+INFO:root:2025-11-12 15:15:58 Data Acquisition
+INFO:root:2025-11-12 15:16:01 Date Format Conversion
+INFO:root:2025-11-12 15:16:01 Check Data Type
+INFO:root:2025-11-12 15:16:01 EW079 : OK
+
+INFO:root:2025-11-12 15:16:01 Blank Check
+INFO:root:2025-11-12 15:16:01 Data Acquisition
+INFO:root:2025-11-12 15:16:04 Date Format Conversion
+INFO:root:2025-11-12 15:16:04 Check Data Type
+INFO:root:2025-11-12 15:16:04 EW073 : OK
+
+INFO:root:2025-11-12 15:16:04 Blank Check
+INFO:root:2025-11-12 15:16:04 Data Acquisition
+INFO:root:2025-11-12 15:16:07 Date Format Conversion
+INFO:root:2025-11-12 15:16:07 Check Data Type
+INFO:root:2025-11-12 15:16:07 EW074 : OK
+
+INFO:root:2025-11-12 15:16:07 Blank Check
+INFO:root:2025-11-12 15:16:07 Data Acquisition
+INFO:root:2025-11-12 15:16:09 Date Format Conversion
+INFO:root:2025-11-12 15:16:09 Check Data Type
+INFO:root:2025-11-12 15:16:09 EW075 : OK
+
+INFO:root:2025-11-12 15:16:09 Blank Check
+INFO:root:2025-11-12 15:16:09 Data Acquisition
+INFO:root:2025-11-12 15:16:12 Date Format Conversion
+INFO:root:2025-11-12 15:16:12 Check Data Type
+INFO:root:2025-11-12 15:16:12 EV033 : OK
+
+INFO:root:2025-11-12 15:16:12 Blank Check
+INFO:root:2025-11-12 15:16:12 Data Acquisition
+INFO:root:2025-11-12 15:16:15 Date Format Conversion
+INFO:root:2025-11-12 15:16:15 Check Data Type
+INFO:root:2025-11-12 15:16:16 EV034 : OK
+
+INFO:root:2025-11-12 15:16:16 Blank Check
+INFO:root:2025-11-12 15:16:16 Data Acquisition
+INFO:root:2025-11-12 15:16:19 Date Format Conversion
+INFO:root:2025-11-12 15:16:19 Check Data Type
+INFO:root:2025-11-12 15:16:19 EV035 : OK
+
+INFO:root:2025-11-12 15:16:19 Blank Check
+INFO:root:2025-11-12 15:16:19 Data Acquisition
+INFO:root:2025-11-12 15:16:23 Date Format Conversion
+INFO:root:2025-11-12 15:16:23 Check Data Type
+INFO:root:2025-11-12 15:16:23 EV036 : OK
+
+INFO:root:2025-11-12 15:16:23 Blank Check
+INFO:root:2025-11-12 15:16:23 Data Acquisition
+INFO:root:2025-11-12 15:16:26 Date Format Conversion
+INFO:root:2025-11-12 15:16:26 Check Data Type
+INFO:root:2025-11-12 15:16:26 ET102 : OK
+
+INFO:root:2025-11-12 15:16:26 Blank Check
+INFO:root:2025-11-12 15:16:26 Data Acquisition
+INFO:root:2025-11-12 15:16:30 Date Format Conversion
+INFO:root:2025-11-12 15:16:30 Check Data Type
+INFO:root:2025-11-12 15:16:30 ET104 : OK
+
+INFO:root:2025-11-12 15:16:30 Blank Check
+INFO:root:2025-11-12 15:16:30 Data Acquisition
+INFO:root:2025-11-12 15:16:34 Date Format Conversion
+INFO:root:2025-11-12 15:16:34 Check Data Type
+INFO:root:2025-11-12 15:16:34 ET105 : OK
+
+INFO:root:2025-11-12 15:16:34 Blank Check
+INFO:root:2025-11-12 15:16:34 Data Acquisition
+INFO:root:2025-11-12 15:16:39 Date Format Conversion
+INFO:root:2025-11-12 15:16:39 Check Data Type
+INFO:root:2025-11-12 15:16:39 EW069 : OK
+
+INFO:root:2025-11-12 15:16:39 Blank Check
+INFO:root:2025-11-12 15:16:39 Data Acquisition
+INFO:root:2025-11-12 15:16:44 Date Format Conversion
+INFO:root:2025-11-12 15:16:44 Check Data Type
+INFO:root:2025-11-12 15:16:44 EW070 : OK
+
+INFO:root:2025-11-12 15:16:44 Blank Check
+INFO:root:2025-11-12 15:16:44 Data Acquisition
+INFO:root:2025-11-12 15:16:47 Date Format Conversion
+INFO:root:2025-11-12 15:16:47 Check Data Type
+INFO:root:2025-11-12 15:16:48 EW071 : OK
+
+INFO:root:2025-11-12 15:16:48 Blank Check
+INFO:root:2025-11-12 15:16:48 Data Acquisition
+INFO:root:2025-11-12 15:16:52 Date Format Conversion
+INFO:root:2025-11-12 15:16:52 Check Data Type
+INFO:root:2025-11-12 15:16:52 EW072 : OK
+
+INFO:root:2025-11-12 15:16:52 Blank Check
+INFO:root:2025-11-12 15:16:52 Data Acquisition
+INFO:root:2025-11-12 15:16:56 Date Format Conversion
+INFO:root:2025-11-12 15:16:56 Check Data Type
+INFO:root:2025-11-12 15:16:56 DHAM4 : OK
+
+INFO:root:2025-11-12 15:16:56 Blank Check
+INFO:root:2025-11-12 15:16:56 Data Acquisition
+INFO:root:2025-11-12 15:16:59 Date Format Conversion
+INFO:root:2025-11-12 15:16:59 Check Data Type
+INFO:root:2025-11-12 15:16:59 EW080 : OK
+
+INFO:root:2025-11-12 15:16:59 Blank Check
+INFO:root:2025-11-12 15:16:59 Data Acquisition
+INFO:root:2025-11-12 15:17:03 Date Format Conversion
+INFO:root:2025-11-12 15:17:03 Check Data Type
+INFO:root:2025-11-12 15:17:03 EW081 : OK
+
+INFO:root:2025-11-12 15:17:03 Blank Check
+INFO:root:2025-11-12 15:17:03 Data Acquisition
+INFO:root:2025-11-12 15:17:07 Date Format Conversion
+INFO:root:2025-11-12 15:17:07 Check Data Type
+INFO:root:2025-11-12 15:17:07 EW082 : OK
+
+INFO:root:2025-11-12 15:17:07 Blank Check
+INFO:root:2025-11-12 15:17:07 Data Acquisition
+INFO:root:2025-11-12 15:17:11 Date Format Conversion
+INFO:root:2025-11-12 15:17:11 Check Data Type
+INFO:root:2025-11-12 15:17:11 ET072 : OK
+
+INFO:root:2025-11-12 15:17:11 Blank Check
+INFO:root:2025-11-12 15:17:11 Data Acquisition
+INFO:root:2025-11-12 15:17:15 Date Format Conversion
+INFO:root:2025-11-12 15:17:15 Check Data Type
+INFO:root:2025-11-12 15:17:15 ET073 : OK
+
+INFO:root:2025-11-12 15:17:15 Blank Check
+INFO:root:2025-11-12 15:17:15 Data Acquisition
+INFO:root:2025-11-12 15:17:19 Date Format Conversion
+INFO:root:2025-11-12 15:17:19 Check Data Type
+INFO:root:2025-11-12 15:17:19 ET074 : OK
+
+INFO:root:2025-11-12 15:17:19 Blank Check
+INFO:root:2025-11-12 15:17:19 Data Acquisition
+INFO:root:2025-11-12 15:17:23 Date Format Conversion
+INFO:root:2025-11-12 15:17:23 Check Data Type
+INFO:root:2025-11-12 15:17:23 ET075 : OK
+
+INFO:root:2025-11-12 15:17:23 Blank Check
+INFO:root:2025-11-12 15:17:23 Data Acquisition
+INFO:root:2025-11-12 15:17:27 Date Format Conversion
+INFO:root:2025-11-12 15:17:27 Check Data Type
+INFO:root:2025-11-12 15:17:27 EU029 : OK
+
+INFO:root:2025-11-12 15:17:27 Blank Check
+INFO:root:2025-11-12 15:17:27 Data Acquisition
+INFO:root:2025-11-12 15:17:31 Date Format Conversion
+INFO:root:2025-11-12 15:17:31 Check Data Type
+INFO:root:2025-11-12 15:17:31 EU030 : OK
+
+INFO:root:2025-11-12 15:17:31 Blank Check
+INFO:root:2025-11-12 15:17:31 Data Acquisition
+INFO:root:2025-11-12 15:17:35 Date Format Conversion
+INFO:root:2025-11-12 15:17:35 Check Data Type
+INFO:root:2025-11-12 15:17:35 EU041 : OK
+
+INFO:root:2025-11-12 15:17:35 Blank Check
+INFO:root:2025-11-12 15:17:35 Data Acquisition
+INFO:root:2025-11-12 15:17:40 Date Format Conversion
+INFO:root:2025-11-12 15:17:40 Check Data Type
+INFO:root:2025-11-12 15:17:40 EU042 : OK
+
+INFO:root:2025-11-12 15:17:40 Blank Check
+INFO:root:2025-11-12 15:17:40 Data Acquisition
+INFO:root:2025-11-12 15:17:43 Date Format Conversion
+INFO:root:2025-11-12 15:17:43 Check Data Type
+INFO:root:2025-11-12 15:17:43 ET098 : OK
+
+INFO:root:2025-11-12 15:17:43 Blank Check
+INFO:root:2025-11-12 15:17:43 Data Acquisition
+INFO:root:2025-11-12 15:17:46 Date Format Conversion
+INFO:root:2025-11-12 15:17:46 Check Data Type
+INFO:root:2025-11-12 15:17:46 ET099 : OK
+
+INFO:root:2025-11-12 15:17:46 Blank Check
+INFO:root:2025-11-12 15:17:46 Data Acquisition
+INFO:root:2025-11-12 15:17:49 Date Format Conversion
+INFO:root:2025-11-12 15:17:49 Check Data Type
+INFO:root:2025-11-12 15:17:49 ET100 : OK
+
+INFO:root:2025-11-12 15:17:49 Blank Check
+INFO:root:2025-11-12 15:17:49 Data Acquisition
+INFO:root:2025-11-12 15:17:53 Date Format Conversion
+INFO:root:2025-11-12 15:17:53 Check Data Type
+INFO:root:2025-11-12 15:17:53 ET101 : OK
+
+INFO:root:2025-11-12 15:17:53 Blank Check
+INFO:root:2025-11-12 15:17:53 Data Acquisition
+INFO:root:2025-11-12 15:17:56 Date Format Conversion
+INFO:root:2025-11-12 15:17:56 Check Data Type
+INFO:root:2025-11-12 15:17:56 ET076 : OK
+
+INFO:root:2025-11-12 15:17:56 Blank Check
+INFO:root:2025-11-12 15:17:56 Data Acquisition
+INFO:root:2025-11-12 15:17:58 Date Format Conversion
+INFO:root:2025-11-12 15:17:58 Check Data Type
+INFO:root:2025-11-12 15:17:58 ET077 : OK
+
+INFO:root:2025-11-12 15:17:58 Blank Check
+INFO:root:2025-11-12 15:17:58 Data Acquisition
+INFO:root:2025-11-12 15:18:01 Date Format Conversion
+INFO:root:2025-11-12 15:18:01 Check Data Type
+INFO:root:2025-11-12 15:18:01 ET078 : OK
+
+INFO:root:2025-11-12 15:18:01 Blank Check
+INFO:root:2025-11-12 15:18:01 Data Acquisition
+INFO:root:2025-11-12 15:18:04 Date Format Conversion
+INFO:root:2025-11-12 15:18:04 Check Data Type
+INFO:root:2025-11-12 15:18:05 ET079 : OK
+
+INFO:root:2025-11-12 15:18:05 Blank Check
+INFO:root:2025-11-12 15:18:05 Data Acquisition
+INFO:root:2025-11-12 15:18:07 Date Format Conversion
+INFO:root:2025-11-12 15:18:07 Check Data Type
+INFO:root:2025-11-12 15:18:07 EU035 : OK
+
+INFO:root:2025-11-12 15:18:07 Blank Check
+INFO:root:2025-11-12 15:18:07 Data Acquisition
+INFO:root:2025-11-12 15:18:11 Date Format Conversion
+INFO:root:2025-11-12 15:18:11 Check Data Type
+INFO:root:2025-11-12 15:18:11 EU036 : OK
+
+INFO:root:2025-11-12 15:18:11 Blank Check
+INFO:root:2025-11-12 15:18:11 Data Acquisition
+INFO:root:2025-11-12 15:18:13 Date Format Conversion
+INFO:root:2025-11-12 15:18:13 Check Data Type
+INFO:root:2025-11-12 15:18:13 EU037 : OK
+
+INFO:root:2025-11-12 15:18:13 Blank Check
+INFO:root:2025-11-12 15:18:13 Data Acquisition
+INFO:root:2025-11-12 15:18:16 Date Format Conversion
+INFO:root:2025-11-12 15:18:16 Check Data Type
+INFO:root:2025-11-12 15:18:16 EU038 : OK
+
+INFO:root:2025-11-12 15:18:16 Blank Check
+INFO:root:2025-11-12 15:18:16 Data Acquisition
+INFO:root:2025-11-12 15:18:19 Date Format Conversion
+INFO:root:2025-11-12 15:18:19 Check Data Type
+INFO:root:2025-11-12 15:18:19 EW069 : OK
+
+INFO:root:2025-11-12 15:18:19 Blank Check
+INFO:root:2025-11-12 15:18:19 Data Acquisition
+INFO:root:2025-11-12 15:18:22 Date Format Conversion
+INFO:root:2025-11-12 15:18:22 Check Data Type
+INFO:root:2025-11-12 15:18:22 EW070 : OK
+
+INFO:root:2025-11-12 15:18:22 Blank Check
+INFO:root:2025-11-12 15:18:22 Data Acquisition
+INFO:root:2025-11-12 15:18:25 Date Format Conversion
+INFO:root:2025-11-12 15:18:25 Check Data Type
+INFO:root:2025-11-12 15:18:25 EW071 : OK
+
+INFO:root:2025-11-12 15:18:25 Blank Check
+INFO:root:2025-11-12 15:18:25 Data Acquisition
+INFO:root:2025-11-12 15:18:28 Date Format Conversion
+INFO:root:2025-11-12 15:18:28 Check Data Type
+INFO:root:2025-11-12 15:18:28 EW072 : OK
+
+INFO:root:2025-11-12 15:18:28 Blank Check
+INFO:root:2025-11-12 15:18:28 Data Acquisition
+INFO:root:2025-11-12 15:18:31 Date Format Conversion
+INFO:root:2025-11-12 15:18:31 Check Data Type
+INFO:root:2025-11-12 15:18:31 EW073 : OK
+
+INFO:root:2025-11-12 15:18:31 Blank Check
+INFO:root:2025-11-12 15:18:31 Data Acquisition
+INFO:root:2025-11-12 15:18:34 Date Format Conversion
+INFO:root:2025-11-12 15:18:34 Check Data Type
+INFO:root:2025-11-12 15:18:34 EW074 : OK
+
+INFO:root:2025-11-12 15:18:34 Blank Check
+INFO:root:2025-11-12 15:18:34 Data Acquisition
+INFO:root:2025-11-12 15:18:38 Date Format Conversion
+INFO:root:2025-11-12 15:18:38 Check Data Type
+INFO:root:2025-11-12 15:18:38 EW075 : OK
+
+INFO:root:2025-11-12 15:18:38 Blank Check
+INFO:root:2025-11-12 15:18:38 Data Acquisition
+INFO:root:2025-11-12 15:18:41 Date Format Conversion
+INFO:root:2025-11-12 15:18:41 Check Data Type
+INFO:root:2025-11-12 15:18:41 EU051 : OK
+
+INFO:root:2025-11-12 15:18:41 Blank Check
+INFO:root:2025-11-12 15:18:41 Data Acquisition
+INFO:root:2025-11-12 15:18:45 Date Format Conversion
+INFO:root:2025-11-12 15:18:45 Check Data Type
+INFO:root:2025-11-12 15:18:45 EU052 : OK
+
+INFO:root:2025-11-12 15:18:45 Blank Check
+INFO:root:2025-11-12 15:18:45 Data Acquisition
+INFO:root:2025-11-12 15:18:49 Date Format Conversion
+INFO:root:2025-11-12 15:18:49 Check Data Type
+INFO:root:2025-11-12 15:18:49 EU053 : OK
+
+INFO:root:2025-11-12 15:18:49 Blank Check
+INFO:root:2025-11-12 15:18:49 Data Acquisition
+INFO:root:2025-11-12 15:18:53 Date Format Conversion
+INFO:root:2025-11-12 15:18:53 Check Data Type
+INFO:root:2025-11-12 15:18:53 EU054 : OK
+
+INFO:root:2025-11-12 15:18:53 Blank Check
+INFO:root:2025-11-12 15:18:53 Data Acquisition
+INFO:root:2025-11-12 15:18:56 Date Format Conversion
+INFO:root:2025-11-12 15:18:56 Check Data Type
+INFO:root:2025-11-12 15:18:57 EU031 : OK
+
+INFO:root:2025-11-12 15:18:57 Blank Check
+INFO:root:2025-11-12 15:18:57 Data Acquisition
+INFO:root:2025-11-12 15:19:00 Date Format Conversion
+INFO:root:2025-11-12 15:19:00 Check Data Type
+INFO:root:2025-11-12 15:19:01 EU032 : OK
+
+INFO:root:2025-11-12 15:19:01 Blank Check
+INFO:root:2025-11-12 15:19:01 Data Acquisition
