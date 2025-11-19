@@ -1,0 +1,68 @@
+INFO:root:2025-11-14 15:18:15 Program Start
+INFO:root:2025-11-14 15:18:15 Excel File Copy
+INFO:root:2025-11-14 15:18:17 Get The Starting Row Count
+INFO:root:2025-11-14 15:20:09 Program Start
+INFO:root:2025-11-14 15:20:09 Excel File Copy
+INFO:root:2025-11-14 15:20:10 Get The Starting Row Count
+INFO:root:2025-11-14 15:20:35 Program Start
+INFO:root:2025-11-14 15:20:35 Excel File Copy
+INFO:root:2025-11-14 15:20:37 Get The Starting Row Count
+INFO:root:2025-11-14 15:21:24 Program Start
+INFO:root:2025-11-14 15:21:24 Excel File Copy
+INFO:root:2025-11-14 15:21:26 Get The Starting Row Count
+INFO:root:2025-11-14 15:21:50 Program Start
+INFO:root:2025-11-14 15:21:50 Excel File Copy
+INFO:root:2025-11-14 15:21:52 Get The Starting Row Count
+INFO:root:2025-11-14 15:21:52 Read Excel
+INFO:root:2025-11-14 15:21:58 Setting Columns Number
+INFO:root:2025-11-14 15:22:01 Get DataFrame End Index Number
+
+INFO:root:2025-11-14 15:22:01 Blank Check
+INFO:root:2025-11-14 15:22:01 Data Acquisition
+INFO:root:2025-11-14 15:22:04 Date Format Conversion
+INFO:root:2025-11-14 15:22:04 Check Data Type
+INFO:root:2025-11-14 15:22:04 EU009 : OK
+
+INFO:root:2025-11-14 15:22:04 Blank Check
+INFO:root:2025-11-14 15:22:04 Data Acquisition
+INFO:root:2025-11-14 15:22:08 Date Format Conversion
+INFO:root:2025-11-14 15:22:08 Check Data Type
+INFO:root:2025-11-14 15:22:08 EU010 : OK
+
+INFO:root:2025-11-14 15:22:08 Blank Check
+INFO:root:2025-11-14 15:22:08 Data Acquisition
+INFO:root:2025-11-14 15:22:12 Date Format Conversion
+INFO:root:2025-11-14 15:22:12 Check Data Type
+INFO:root:2025-11-14 15:22:13 EU011 : OK
+
+INFO:root:2025-11-14 15:22:13 Blank Check
+INFO:root:2025-11-14 15:22:13 Data Acquisition
+INFO:root:2025-11-14 15:22:17 Date Format Conversion
+INFO:root:2025-11-14 15:22:17 Check Data Type
+INFO:root:2025-11-14 15:22:17 EU012 : OK
+
+INFO:root:2025-11-14 15:22:17 Blank Check
+INFO:root:2025-11-14 15:22:17 Data Acquisition
+INFO:root:2025-11-14 15:23:00 Program Start
+INFO:root:2025-11-14 15:23:00 Excel File Copy
+INFO:root:2025-11-14 15:23:01 Get The Starting Row Count
+INFO:root:2025-11-14 15:23:01 Read Excel
+INFO:root:2025-11-14 15:23:09 Setting Columns Number
+INFO:root:2025-11-14 15:23:12 Get DataFrame End Index Number
+
+INFO:root:2025-11-14 15:23:12 Blank Check
+INFO:root:2025-11-14 15:23:12 Data Acquisition
+INFO:root:2025-11-14 15:23:16 Date Format Conversion
+INFO:root:2025-11-14 15:23:16 Check Data Type
+INFO:root:2025-11-14 15:23:16 EU009 : OK
+
+INFO:root:2025-11-14 15:23:16 Blank Check
+INFO:root:2025-11-14 15:23:16 Data Acquisition
+INFO:root:2025-11-14 15:23:19 Date Format Conversion
+INFO:root:2025-11-14 15:23:19 Check Data Type
+INFO:root:2025-11-14 15:23:19 EU010 : OK
+
+INFO:root:2025-11-14 15:23:19 Blank Check
+INFO:root:2025-11-14 15:23:19 Data Acquisition
+INFO:root:2025-11-14 15:23:22 Date Format Conversion
+INFO:root:2025-11-14 15:23:22 Check Data Type

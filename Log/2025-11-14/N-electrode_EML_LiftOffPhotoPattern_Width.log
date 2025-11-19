@@ -1,0 +1,182 @@
+2025-11-14 15:17:12,682 - INFO - 2025-11-14 15:17:12 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:17:12,686 - INFO - 2025-11-14 15:17:12 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.17.12.csv
+2025-11-14 15:17:12,687 - INFO - 2025-11-14 15:17:12 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:17:12,788 - INFO - 2025-11-14 15:17:12 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:17:13,955 - INFO - 2025-11-14 15:17:13 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:17:13,956 - INFO - 2025-11-14 15:17:13 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:17:21,789 - INFO - 2025-11-14 15:17:21 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:17:21,789 - INFO - 2025-11-14 15:17:21 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:17:21,811 - INFO - 2025-11-14 15:17:21 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:17:21,811 - INFO - 2025-11-14 15:17:21 Step 4: Starting database query and custom filtering...
+2025-11-14 15:17:21,812 - INFO - 2025-11-14 15:17:21 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:17:22,740 - INFO - 2025-11-14 15:17:22 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:23,461 - INFO - 2025-11-14 15:17:23 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:24,144 - INFO - 2025-11-14 15:17:24 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:24,785 - INFO - 2025-11-14 15:17:24 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:25,490 - INFO - 2025-11-14 15:17:25 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:17:26,135 - INFO - 2025-11-14 15:17:26 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:26,780 - INFO - 2025-11-14 15:17:26 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:27,429 - INFO - 2025-11-14 15:17:27 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:28,069 - INFO - 2025-11-14 15:17:28 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:28,722 - INFO - 2025-11-14 15:17:28 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:29,370 - INFO - 2025-11-14 15:17:29 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:30,007 - INFO - 2025-11-14 15:17:30 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:30,770 - INFO - 2025-11-14 15:17:30 [DB QUERY] serial=HL13B5-BT, result=(None, None)
+2025-11-14 15:17:31,415 - INFO - 2025-11-14 15:17:31 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:32,103 - INFO - 2025-11-14 15:17:32 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:32,751 - INFO - 2025-11-14 15:17:32 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:33,399 - INFO - 2025-11-14 15:17:33 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:34,089 - INFO - 2025-11-14 15:17:34 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:34,764 - INFO - 2025-11-14 15:17:34 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:35,427 - INFO - 2025-11-14 15:17:35 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:36,076 - INFO - 2025-11-14 15:17:36 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:17:36,744 - INFO - 2025-11-14 15:17:36 Main Database connection closed.
+2025-11-14 15:24:29,000 - INFO - 2025-11-14 15:24:29 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:24:29,008 - INFO - 2025-11-14 15:24:29 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.24.29.csv
+2025-11-14 15:24:29,010 - INFO - 2025-11-14 15:24:29 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:24:29,228 - INFO - 2025-11-14 15:24:29 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:24:31,714 - INFO - 2025-11-14 15:24:31 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:24:31,715 - INFO - 2025-11-14 15:24:31 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:24:39,090 - INFO - 2025-11-14 15:24:39 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:24:39,091 - INFO - 2025-11-14 15:24:39 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:24:39,109 - INFO - 2025-11-14 15:24:39 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:24:39,109 - INFO - 2025-11-14 15:24:39 Step 4: Starting database query and custom filtering...
+2025-11-14 15:24:39,109 - INFO - 2025-11-14 15:24:39 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:24:40,723 - INFO - 2025-11-14 15:24:40 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:43,268 - INFO - 2025-11-14 15:24:43 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:44,224 - INFO - 2025-11-14 15:24:44 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:45,451 - INFO - 2025-11-14 15:24:45 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:46,643 - INFO - 2025-11-14 15:24:46 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:24:47,777 - INFO - 2025-11-14 15:24:47 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:49,004 - INFO - 2025-11-14 15:24:49 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:50,284 - INFO - 2025-11-14 15:24:50 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:51,617 - INFO - 2025-11-14 15:24:51 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:24:52,920 - INFO - 2025-11-14 15:24:52 Main Database connection closed.
+2025-11-14 15:27:16,484 - INFO - 2025-11-14 15:27:16 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:27:16,490 - INFO - 2025-11-14 15:27:16 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.27.16.csv
+2025-11-14 15:27:16,494 - INFO - 2025-11-14 15:27:16 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:27:16,543 - INFO - 2025-11-14 15:27:16 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:27:17,698 - INFO - 2025-11-14 15:27:17 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:27:17,699 - INFO - 2025-11-14 15:27:17 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:27:25,579 - INFO - 2025-11-14 15:27:25 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:27:25,580 - INFO - 2025-11-14 15:27:25 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:27:25,603 - INFO - 2025-11-14 15:27:25 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:27:25,604 - INFO - 2025-11-14 15:27:25 Step 4: Starting database query and custom filtering...
+2025-11-14 15:27:25,604 - INFO - 2025-11-14 15:27:25 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:27:26,400 - INFO - 2025-11-14 15:27:26 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:27,045 - INFO - 2025-11-14 15:27:27 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:27,705 - INFO - 2025-11-14 15:27:27 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:28,355 - INFO - 2025-11-14 15:27:28 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:28,999 - INFO - 2025-11-14 15:27:28 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:27:29,642 - INFO - 2025-11-14 15:27:29 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:30,297 - INFO - 2025-11-14 15:27:30 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:31,022 - INFO - 2025-11-14 15:27:31 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:31,726 - INFO - 2025-11-14 15:27:31 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:32,380 - INFO - 2025-11-14 15:27:32 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:33,056 - INFO - 2025-11-14 15:27:33 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:33,779 - INFO - 2025-11-14 15:27:33 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:34,426 - INFO - 2025-11-14 15:27:34 [DB QUERY] serial=HL13B5-BT, result=(None, None)
+2025-11-14 15:27:35,082 - INFO - 2025-11-14 15:27:35 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:35,724 - INFO - 2025-11-14 15:27:35 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:36,379 - INFO - 2025-11-14 15:27:36 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:37,034 - INFO - 2025-11-14 15:27:37 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:37,690 - INFO - 2025-11-14 15:27:37 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:38,342 - INFO - 2025-11-14 15:27:38 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:39,004 - INFO - 2025-11-14 15:27:39 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:39,796 - INFO - 2025-11-14 15:27:39 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:40,511 - INFO - 2025-11-14 15:27:40 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:27:40,584 - INFO - 2025-11-14 15:27:40 Main Database connection closed.
+2025-11-14 15:27:40,584 - INFO - 2025-11-14 15:27:40 No data left after primary database lookup and filter A. Ending process for this file.
+2025-11-14 15:27:40,585 - INFO - 2025-11-14 15:27:40 --- Finished processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:27:40,585 - INFO - 2025-11-14 15:27:40 ===== Universal Script End =====
+2025-11-14 15:28:12,851 - INFO - 2025-11-14 15:28:12 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:28:12,855 - INFO - 2025-11-14 15:28:12 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.28.12.csv
+2025-11-14 15:28:12,856 - INFO - 2025-11-14 15:28:12 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:28:12,948 - INFO - 2025-11-14 15:28:12 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:28:14,492 - INFO - 2025-11-14 15:28:14 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:28:14,492 - INFO - 2025-11-14 15:28:14 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:28:22,037 - INFO - 2025-11-14 15:28:22 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:28:22,038 - INFO - 2025-11-14 15:28:22 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:28:22,066 - INFO - 2025-11-14 15:28:22 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:28:22,066 - INFO - 2025-11-14 15:28:22 Step 4: Starting database query and custom filtering...
+2025-11-14 15:28:22,066 - INFO - 2025-11-14 15:28:22 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:28:22,890 - INFO - 2025-11-14 15:28:22 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:23,609 - INFO - 2025-11-14 15:28:23 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:24,288 - INFO - 2025-11-14 15:28:24 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:24,919 - INFO - 2025-11-14 15:28:24 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:25,676 - INFO - 2025-11-14 15:28:25 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:28:26,332 - INFO - 2025-11-14 15:28:26 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:26,976 - INFO - 2025-11-14 15:28:26 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:27,631 - INFO - 2025-11-14 15:28:27 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:28,290 - INFO - 2025-11-14 15:28:28 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:28,951 - INFO - 2025-11-14 15:28:28 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:29,611 - INFO - 2025-11-14 15:28:29 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:30,260 - INFO - 2025-11-14 15:28:30 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:30,963 - INFO - 2025-11-14 15:28:30 [DB QUERY] serial=HL13B5-BT, result=(None, None)
+2025-11-14 15:28:31,651 - INFO - 2025-11-14 15:28:31 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:32,299 - INFO - 2025-11-14 15:28:32 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:32,939 - INFO - 2025-11-14 15:28:32 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:33,621 - INFO - 2025-11-14 15:28:33 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:34,281 - INFO - 2025-11-14 15:28:34 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:34,918 - INFO - 2025-11-14 15:28:34 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:35,566 - INFO - 2025-11-14 15:28:35 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:36,212 - INFO - 2025-11-14 15:28:36 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:36,863 - INFO - 2025-11-14 15:28:36 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:36,875 - INFO - 2025-11-14 15:28:36 Main Database connection closed.
+2025-11-14 15:28:36,875 - INFO - 2025-11-14 15:28:36 No data left after primary database lookup and filter A. Ending process for this file.
+2025-11-14 15:28:36,876 - INFO - 2025-11-14 15:28:36 --- Finished processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:28:36,876 - INFO - 2025-11-14 15:28:36 ===== Universal Script End =====
+2025-11-14 15:28:48,261 - INFO - 2025-11-14 15:28:48 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:28:48,265 - INFO - 2025-11-14 15:28:48 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.28.48.csv
+2025-11-14 15:28:48,266 - INFO - 2025-11-14 15:28:48 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:28:48,312 - INFO - 2025-11-14 15:28:48 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:28:50,205 - INFO - 2025-11-14 15:28:50 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:28:50,206 - INFO - 2025-11-14 15:28:50 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:28:57,710 - INFO - 2025-11-14 15:28:57 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:28:57,711 - INFO - 2025-11-14 15:28:57 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:28:57,738 - INFO - 2025-11-14 15:28:57 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:28:57,739 - INFO - 2025-11-14 15:28:57 Step 4: Starting database query and custom filtering...
+2025-11-14 15:28:57,739 - INFO - 2025-11-14 15:28:57 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:28:58,845 - INFO - 2025-11-14 15:28:58 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:28:59,875 - INFO - 2025-11-14 15:28:59 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:29:01,095 - INFO - 2025-11-14 15:29:01 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:29:02,291 - INFO - 2025-11-14 15:29:02 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:29:03,548 - INFO - 2025-11-14 15:29:03 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:29:05,592 - INFO - 2025-11-14 15:29:05 Main Database connection closed.
+2025-11-14 15:31:23,134 - INFO - 2025-11-14 15:31:23 --- Start processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:31:23,144 - INFO - 2025-11-14 15:31:23 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\N-electrode_EML_LiftOffPhotoPattern_Width_HTL13B2_etc_StartRow_PPW_2025_11_14T15.31.23.csv
+2025-11-14 15:31:23,146 - INFO - 2025-11-14 15:31:23 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u96fb\u6975\u30fb\u7814\u78e8' with pattern '*N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84*.xlsx'
+2025-11-14 15:31:23,652 - INFO - 2025-11-14 15:31:23 Found latest source file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:31:47,068 - INFO - 2025-11-14 15:31:47 File copied successfully -> ..\DataFile\035_N-electrode\QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx
+2025-11-14 15:31:47,068 - INFO - 2025-11-14 15:31:47 --- Start processing file: QC-K-022-R08\u3000N\u96fb\u6975\u5bf8\u6cd5\u6e2c\u5b9a\uff83\uff9e\uff70\uff80\uff7c\uff70\uff84.xlsx for sheet HTL13B2\u30fbB4\u30fbB5\u30fbB6 ---
+2025-11-14 15:31:57,784 - INFO - 2025-11-14 15:31:57 Step 1: Successfully read main sheet 'HTL13B2\u30fbB4\u30fbB5\u30fbB6', 12764 rows loaded.
+2025-11-14 15:31:57,784 - INFO - 2025-11-14 15:31:57 No XY coordinate sheet setting detected. Processing in CVD/PhotoPattern mode.
+2025-11-14 15:31:57,813 - INFO - 2025-11-14 15:31:57 Step 3: Initial filtering (date, serial number) complete. 22 rows remaining.
+2025-11-14 15:31:57,814 - INFO - 2025-11-14 15:31:57 Step 4: Starting database query and custom filtering...
+2025-11-14 15:31:57,814 - INFO - 2025-11-14 15:31:57 Step 4-1: Starting main database connection for Lot/Part lookup...
+2025-11-14 15:32:01,035 - INFO - 2025-11-14 15:32:01 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:02,270 - INFO - 2025-11-14 15:32:02 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:03,359 - INFO - 2025-11-14 15:32:03 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:04,369 - INFO - 2025-11-14 15:32:04 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:05,576 - INFO - 2025-11-14 15:32:05 [DB QUERY] serial=HL13B4-BT, result=(None, None)
+2025-11-14 15:32:06,483 - INFO - 2025-11-14 15:32:06 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:07,287 - INFO - 2025-11-14 15:32:07 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:08,245 - INFO - 2025-11-14 15:32:08 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:09,529 - INFO - 2025-11-14 15:32:09 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:10,761 - INFO - 2025-11-14 15:32:10 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:11,816 - INFO - 2025-11-14 15:32:11 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:12,607 - INFO - 2025-11-14 15:32:12 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:13,465 - INFO - 2025-11-14 15:32:13 [DB QUERY] serial=HL13B5-BT, result=(None, None)
+2025-11-14 15:32:14,321 - INFO - 2025-11-14 15:32:14 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:15,427 - INFO - 2025-11-14 15:32:15 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:16,285 - INFO - 2025-11-14 15:32:16 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:17,063 - INFO - 2025-11-14 15:32:17 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:17,844 - INFO - 2025-11-14 15:32:17 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:18,580 - INFO - 2025-11-14 15:32:18 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:19,779 - INFO - 2025-11-14 15:32:19 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:20,501 - INFO - 2025-11-14 15:32:20 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:21,474 - INFO - 2025-11-14 15:32:21 [DB QUERY] serial=HL13B5-BFL, result=(None, None)
+2025-11-14 15:32:21,580 - INFO - 2025-11-14 15:32:21 Main Database connection closed.
+2025-11-14 15:32:21,580 - INFO - 2025-11-14 15:32:21 No data left after primary database lookup and filter A. Ending process for this file.
+2025-11-14 15:32:21,582 - INFO - 2025-11-14 15:32:21 --- Finished processing config file: HTL13B2_etc_StartRow_PPW.ini ---
+2025-11-14 15:32:21,582 - INFO - 2025-11-14 15:32:21 ===== Universal Script End =====

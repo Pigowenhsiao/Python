@@ -1,0 +1,198 @@
+2025-11-19 09:26:12,175 - INFO - 2025-11-19 09:26:12 ===== Script Start =====
+2025-11-19 09:26:12,190 - INFO - 2025-11-19 09:26:12 Processing INI: MG3_Reflectance.ini
+2025-11-19 09:26:12,588 - INFO - 2025-11-19 09:26:12 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:26:12,590 - INFO - 2025-11-19 09:26:12 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:26:15,470 - INFO - 2025-11-19 09:26:15 Read sheet '25G', rows=3799
+2025-11-19 09:26:19,874 - INFO - 2025-11-19 09:26:19 Writing CSV with 6 rows...
+2025-11-19 09:26:19,934 - INFO - 2025-11-19 09:26:19 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_19T09.26.12.csv
+2025-11-19 09:26:19,992 - INFO - 2025-11-19 09:26:19 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T09.26.12,Testdate=2025-11-19T09.26.19.xml
+2025-11-19 09:26:19,992 - INFO - 2025-11-19 09:26:19 Finished INI: MG3_Reflectance.ini
+2025-11-19 09:26:20,001 - INFO - 2025-11-19 09:26:20 Processing INI: MG4_Reflectance.ini
+2025-11-19 09:26:20,683 - INFO - 2025-11-19 09:26:20 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:26:20,683 - INFO - 2025-11-19 09:26:20 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:26:21,842 - INFO - 2025-11-19 09:26:21 Read sheet '25G', rows=1716
+2025-11-19 09:27:06,721 - INFO - 2025-11-19 09:27:06 Writing CSV with 45 rows...
+2025-11-19 09:27:06,758 - INFO - 2025-11-19 09:27:06 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_19T09.26.20.csv
+2025-11-19 09:27:06,805 - INFO - 2025-11-19 09:27:06 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T09.26.20,Testdate=2025-11-19T09.27.06.xml
+2025-11-19 09:27:06,805 - INFO - 2025-11-19 09:27:06 Finished INI: MG4_Reflectance.ini
+2025-11-19 09:27:06,805 - INFO - 2025-11-19 09:27:06 ===== Script End =====
+2025-11-19 09:29:01,494 - INFO - 2025-11-19 09:29:01 ===== Script Start =====
+2025-11-19 09:29:01,504 - INFO - 2025-11-19 09:29:01 Processing INI: MG3_Reflectance.ini
+2025-11-19 09:29:02,484 - INFO - 2025-11-19 09:29:02 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:29:02,484 - INFO - 2025-11-19 09:29:02 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:29:05,015 - INFO - 2025-11-19 09:29:05 Read sheet '25G', rows=3799
+2025-11-19 09:29:05,289 - ERROR - 2025-11-19 09:29:05 Error in MG3_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 478, in main
+    process_excel_file(str(dst_path), settings, log_file, str(csv_file))
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 342, in process_excel_file
+    df_all["_ROW_IDX_ORIG"] = all_row_indices_flat
+    ~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4316, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4529, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 5273, in _sanitize_column
+    com.require_length_match(value, self.index)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\common.py", line 573, in require_length_match
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: Length of values (3798) does not match length of index (21)
+
+2025-11-19 09:29:05,303 - INFO - 2025-11-19 09:29:05 Processing INI: MG4_Reflectance.ini
+2025-11-19 09:29:05,602 - INFO - 2025-11-19 09:29:05 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:29:05,604 - INFO - 2025-11-19 09:29:05 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:29:06,762 - INFO - 2025-11-19 09:29:06 Read sheet '25G', rows=1716
+2025-11-19 09:29:06,787 - ERROR - 2025-11-19 09:29:06 Error in MG4_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 478, in main
+    process_excel_file(str(dst_path), settings, log_file, str(csv_file))
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 342, in process_excel_file
+    df_all["_ROW_IDX_ORIG"] = all_row_indices_flat
+    ~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4316, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4529, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 5273, in _sanitize_column
+    com.require_length_match(value, self.index)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\common.py", line 573, in require_length_match
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: Length of values (1715) does not match length of index (18)
+
+2025-11-19 09:29:06,788 - INFO - 2025-11-19 09:29:06 ===== Script End =====
+2025-11-19 09:34:14,388 - INFO - 2025-11-19 09:34:14 ===== Script Start =====
+2025-11-19 09:34:14,410 - INFO - 2025-11-19 09:34:14 Processing INI: MG3_Reflectance.ini
+2025-11-19 09:34:15,425 - INFO - 2025-11-19 09:34:15 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:34:15,427 - INFO - 2025-11-19 09:34:15 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:34:18,590 - INFO - 2025-11-19 09:34:18 Read sheet '25G', rows=3799
+2025-11-19 09:34:18,800 - ERROR - 2025-11-19 09:34:18 Error in MG3_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 477, in main
+    process_excel_file(str(dst_path), settings, log_file, str(csv_file))
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 341, in process_excel_file
+    df_all["_ROW_IDX_ORIG"] = filtered_row_indices
+    ~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4316, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4529, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 5273, in _sanitize_column
+    com.require_length_match(value, self.index)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\common.py", line 573, in require_length_match
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: Length of values (3798) does not match length of index (21)
+
+2025-11-19 09:34:18,815 - INFO - 2025-11-19 09:34:18 Processing INI: MG4_Reflectance.ini
+2025-11-19 09:34:19,101 - INFO - 2025-11-19 09:34:19 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:34:19,102 - INFO - 2025-11-19 09:34:19 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:34:21,272 - INFO - 2025-11-19 09:34:21 Read sheet '25G', rows=1716
+2025-11-19 09:34:21,349 - ERROR - 2025-11-19 09:34:21 Error in MG4_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 477, in main
+    process_excel_file(str(dst_path), settings, log_file, str(csv_file))
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1_E.py", line 341, in process_excel_file
+    df_all["_ROW_IDX_ORIG"] = filtered_row_indices
+    ~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4316, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4529, in _set_item
+    value, refs = self._sanitize_column(value)
+                  ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 5273, in _sanitize_column
+    com.require_length_match(value, self.index)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\common.py", line 573, in require_length_match
+    raise ValueError(
+    ...<4 lines>...
+    )
+ValueError: Length of values (1715) does not match length of index (18)
+
+2025-11-19 09:34:21,350 - INFO - 2025-11-19 09:34:21 ===== Script End =====
+2025-11-19 09:35:10,364 - INFO - 2025-11-19 09:35:10 ===== Script Start =====
+2025-11-19 09:35:10,397 - INFO - 2025-11-19 09:35:10 Processing INI: MG3_Reflectance.ini
+2025-11-19 09:35:11,089 - INFO - 2025-11-19 09:35:11 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:35:11,090 - INFO - 2025-11-19 09:35:11 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 09:35:14,003 - INFO - 2025-11-19 09:35:14 Read sheet '25G', rows=3799
+2025-11-19 09:35:17,822 - INFO - 2025-11-19 09:35:17 Writing CSV with 6 rows...
+2025-11-19 09:35:17,935 - INFO - 2025-11-19 09:35:17 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_19T09.35.10.csv
+2025-11-19 09:35:18,042 - INFO - 2025-11-19 09:35:18 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T09.35.10,Testdate=2025-11-19T09.35.17.xml
+2025-11-19 09:35:18,043 - INFO - 2025-11-19 09:35:18 Finished INI: MG3_Reflectance.ini
+2025-11-19 09:35:18,070 - INFO - 2025-11-19 09:35:18 Processing INI: MG4_Reflectance.ini
+2025-11-19 09:35:18,367 - INFO - 2025-11-19 09:35:18 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:35:18,368 - INFO - 2025-11-19 09:35:18 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 09:35:20,058 - INFO - 2025-11-19 09:35:20 Read sheet '25G', rows=1716
+2025-11-19 09:36:01,417 - INFO - 2025-11-19 09:36:01 Writing CSV with 45 rows...
+2025-11-19 09:36:01,479 - INFO - 2025-11-19 09:36:01 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_19T09.35.18.csv
+2025-11-19 09:36:01,548 - INFO - 2025-11-19 09:36:01 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T09.35.18,Testdate=2025-11-19T09.36.01.xml
+2025-11-19 09:36:01,549 - INFO - 2025-11-19 09:36:01 Finished INI: MG4_Reflectance.ini
+2025-11-19 09:36:01,550 - INFO - 2025-11-19 09:36:01 ===== Script End =====
+2025-11-19 10:17:03,079 - INFO - 2025-11-19 10:17:03 ===== Script Start =====
+2025-11-19 10:17:03,091 - INFO - 2025-11-19 10:17:03 Processing INI: MG3_Reflectance.ini
+2025-11-19 10:17:03,975 - INFO - 2025-11-19 10:17:03 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:17:03,976 - INFO - 2025-11-19 10:17:03 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:17:08,201 - INFO - 2025-11-19 10:17:08 Read sheet '25G', rows=3800
+2025-11-19 10:17:13,944 - INFO - 2025-11-19 10:17:13 Writing CSV with 6 rows...
+2025-11-19 10:17:14,111 - INFO - 2025-11-19 10:17:14 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.17.03.csv
+2025-11-19 10:17:14,184 - INFO - 2025-11-19 10:17:14 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.17.03,Testdate=2025-11-19T10.17.14.xml
+2025-11-19 10:17:14,184 - INFO - 2025-11-19 10:17:14 Finished INI: MG3_Reflectance.ini
+2025-11-19 10:17:14,199 - INFO - 2025-11-19 10:17:14 Processing INI: MG4_Reflectance.ini
+2025-11-19 10:17:14,873 - INFO - 2025-11-19 10:17:14 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:17:14,873 - INFO - 2025-11-19 10:17:14 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:17:15,915 - INFO - 2025-11-19 10:17:15 Read sheet '25G', rows=1716
+2025-11-19 10:17:47,896 - INFO - 2025-11-19 10:17:47 Writing CSV with 45 rows...
+2025-11-19 10:17:47,983 - INFO - 2025-11-19 10:17:47 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.17.14.csv
+2025-11-19 10:17:48,081 - INFO - 2025-11-19 10:17:48 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.17.14,Testdate=2025-11-19T10.17.48.xml
+2025-11-19 10:17:48,147 - INFO - 2025-11-19 10:17:48 Finished INI: MG4_Reflectance.ini
+2025-11-19 10:17:48,183 - INFO - 2025-11-19 10:17:48 ===== Script End =====
+2025-11-19 10:21:52,896 - INFO - 2025-11-19 10:21:52 ===== Script Start =====
+2025-11-19 10:21:52,908 - INFO - 2025-11-19 10:21:52 Processing INI: MG3_Reflectance.ini
+2025-11-19 10:21:53,287 - INFO - 2025-11-19 10:21:53 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:21:53,288 - INFO - 2025-11-19 10:21:53 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:21:55,697 - INFO - 2025-11-19 10:21:55 Read sheet '25G', rows=3800
+2025-11-19 10:21:59,649 - INFO - 2025-11-19 10:21:59 Writing CSV with 6 rows...
+2025-11-19 10:21:59,789 - INFO - 2025-11-19 10:21:59 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.21.52.csv
+2025-11-19 10:21:59,850 - INFO - 2025-11-19 10:21:59 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.21.52,Testdate=2025-11-19T10.21.59.xml
+2025-11-19 10:21:59,851 - INFO - 2025-11-19 10:21:59 Finished INI: MG3_Reflectance.ini
+2025-11-19 10:21:59,864 - INFO - 2025-11-19 10:21:59 Processing INI: MG4_Reflectance.ini
+2025-11-19 10:22:00,968 - INFO - 2025-11-19 10:22:00 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:22:00,968 - INFO - 2025-11-19 10:22:00 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:22:02,373 - INFO - 2025-11-19 10:22:02 Read sheet '25G', rows=1716
+2025-11-19 10:22:40,763 - INFO - 2025-11-19 10:22:40 Writing CSV with 45 rows...
+2025-11-19 10:22:40,829 - INFO - 2025-11-19 10:22:40 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.21.59.csv
+2025-11-19 10:22:40,907 - INFO - 2025-11-19 10:22:40 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.21.59,Testdate=2025-11-19T10.22.40.xml
+2025-11-19 10:22:40,908 - INFO - 2025-11-19 10:22:40 Finished INI: MG4_Reflectance.ini
+2025-11-19 10:22:40,908 - INFO - 2025-11-19 10:22:40 ===== Script End =====
+2025-11-19 10:22:44,019 - INFO - 2025-11-19 10:22:44 ===== Script Start =====
+2025-11-19 10:22:44,031 - INFO - 2025-11-19 10:22:44 Processing INI: MG3_Reflectance.ini
+2025-11-19 10:22:44,283 - INFO - 2025-11-19 10:22:44 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:22:44,284 - INFO - 2025-11-19 10:22:44 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-19 10:22:46,430 - INFO - 2025-11-19 10:22:46 Read sheet '25G', rows=3800
+2025-11-19 10:22:50,453 - INFO - 2025-11-19 10:22:50 Writing CSV with 6 rows...
+2025-11-19 10:22:50,545 - INFO - 2025-11-19 10:22:50 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.22.44.csv
+2025-11-19 10:22:50,610 - INFO - 2025-11-19 10:22:50 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.22.44,Testdate=2025-11-19T10.22.50.xml
+2025-11-19 10:22:50,611 - INFO - 2025-11-19 10:22:50 Finished INI: MG3_Reflectance.ini
+2025-11-19 10:22:50,631 - INFO - 2025-11-19 10:22:50 Processing INI: MG4_Reflectance.ini
+2025-11-19 10:22:50,939 - INFO - 2025-11-19 10:22:50 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:22:50,939 - INFO - 2025-11-19 10:22:50 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-19 10:22:52,089 - INFO - 2025-11-19 10:22:52 Read sheet '25G', rows=1716
+2025-11-19 10:23:37,375 - INFO - 2025-11-19 10:23:37 Writing CSV with 45 rows...
+2025-11-19 10:23:37,491 - INFO - 2025-11-19 10:23:37 CSV written: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG_FE\047_COATING\Coating_MG_Reflectance_2025_11_19T10.22.50.csv
+2025-11-19 10:23:37,575 - INFO - 2025-11-19 10:23:37 Pointer XML generated: //li.lumentuminc.net/data/SAG/TDS/Data/Files to Insert/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_19T10.22.50,Testdate=2025-11-19T10.23.37.xml
+2025-11-19 10:23:37,575 - INFO - 2025-11-19 10:23:37 Finished INI: MG4_Reflectance.ini
+2025-11-19 10:23:37,575 - INFO - 2025-11-19 10:23:37 ===== Script End =====

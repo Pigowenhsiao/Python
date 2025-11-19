@@ -1,0 +1,648 @@
+2025-11-18 15:16:57,217 - INFO - 2025-11-18 15:16:57 ===== Script Start =====
+2025-11-18 15:16:57,230 - ERROR - 2025-11-18 15:16:57 Error in MG3_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 355, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 125, in _extract_settings_from_config
+    int(x.strip()) for x in config.get("Excel", "sheet_name").split(",")
+    ~~~^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '25G'
+
+2025-11-18 15:16:57,244 - ERROR - 2025-11-18 15:16:57 Error in MG4_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 355, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 125, in _extract_settings_from_config
+    int(x.strip()) for x in config.get("Excel", "sheet_name").split(",")
+    ~~~^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '25G'
+
+2025-11-18 15:16:57,245 - INFO - 2025-11-18 15:16:57 ===== Script End =====
+2025-11-18 15:20:45,219 - INFO - 2025-11-18 15:20:45 ===== Script Start =====
+2025-11-18 15:20:45,249 - ERROR - 2025-11-18 15:20:45 Error in HTL13B2_etc_StartRow_PPW.ini: Traceback (most recent call last):
+  File "C:\Program Files\Python313\Lib\configparser.py", line 818, in get
+    value = d[option]
+            ~^^^^^^^^
+  File "C:\Program Files\Python313\Lib\collections\__init__.py", line 1019, in __getitem__
+    return self.__missing__(key)            # support subclasses that define __missing__
+           ~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Program Files\Python313\Lib\collections\__init__.py", line 1011, in __missing__
+    raise KeyError(key)
+KeyError: 'tool_name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\035_N-electrode\PhotoPattern_Width_New.py", line 357, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\035_N-electrode\PhotoPattern_Width_New.py", line 113, in _extract_settings_from_config
+    s.tool_name = config.get("Basic_info", "Tool_Name")
+                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\configparser.py", line 821, in get
+    raise NoOptionError(option, section)
+configparser.NoOptionError: No option 'tool_name' in section: 'Basic_info'
+
+2025-11-18 15:20:45,250 - INFO - 2025-11-18 15:20:45 ===== Script End =====
+2025-11-18 15:22:31,029 - INFO - 2025-11-18 15:22:31 ===== Script Start =====
+2025-11-18 15:22:31,044 - INFO - 2025-11-18 15:22:31 Processing INI: MG3_Reflectance.ini
+2025-11-18 15:22:31,196 - ERROR - 2025-11-18 15:22:31 Error in MG3_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 372, in main
+    dst_path = shutil.copy(latest, settings.intermediate_data_path)
+  File "C:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: '../DataFile/Coating_MG_Reflectance/'
+
+2025-11-18 15:22:31,206 - INFO - 2025-11-18 15:22:31 Processing INI: MG4_Reflectance.ini
+2025-11-18 15:22:31,267 - ERROR - 2025-11-18 15:22:31 Error in MG4_Reflectance.ini: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\047_Coating-MG\Coating_MG-Reflectance_E1.py", line 372, in main
+    dst_path = shutil.copy(latest, settings.intermediate_data_path)
+  File "C:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: '../DataFile/Coating_MG_Reflectance/'
+
+2025-11-18 15:22:31,267 - INFO - 2025-11-18 15:22:31 ===== Script End =====
+2025-11-18 15:23:55,318 - INFO - 2025-11-18 15:23:55 ===== Script Start =====
+2025-11-18 15:23:55,329 - INFO - 2025-11-18 15:23:55 Processing INI: MG3_Reflectance.ini
+2025-11-18 15:23:56,111 - INFO - 2025-11-18 15:23:56 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 15:23:56,112 - INFO - 2025-11-18 15:23:56 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 15:23:59,474 - INFO - 2025-11-18 15:23:59 Read sheet 25G, 3797 rows
+2025-11-18 15:23:59,498 - INFO - 2025-11-18 15:23:59 No data after date filter
+2025-11-18 15:23:59,570 - INFO - 2025-11-18 15:23:59 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T15.23.55,Testdate=2025-11-18T15.23.59.xml
+2025-11-18 15:23:59,570 - INFO - 2025-11-18 15:23:59 Finished INI: MG3_Reflectance.ini
+2025-11-18 15:23:59,584 - INFO - 2025-11-18 15:23:59 Processing INI: MG4_Reflectance.ini
+2025-11-18 15:23:59,904 - INFO - 2025-11-18 15:23:59 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 15:23:59,904 - INFO - 2025-11-18 15:23:59 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 15:24:01,378 - INFO - 2025-11-18 15:24:01 Read sheet 25G, 1716 rows
+2025-11-18 15:24:01,398 - INFO - 2025-11-18 15:24:01 No data after date filter
+2025-11-18 15:24:01,489 - INFO - 2025-11-18 15:24:01 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T15.23.59,Testdate=2025-11-18T15.24.01.xml
+2025-11-18 15:24:01,489 - INFO - 2025-11-18 15:24:01 Finished INI: MG4_Reflectance.ini
+2025-11-18 15:24:01,490 - INFO - 2025-11-18 15:24:01 ===== Script End =====
+2025-11-18 15:58:57,809 - INFO - 2025-11-18 15:58:57 ===== Script Start =====
+2025-11-18 15:58:57,838 - INFO - 2025-11-18 15:58:57 Processing INI: MG3_Reflectance.ini
+2025-11-18 15:58:58,450 - INFO - 2025-11-18 15:58:58 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 15:58:58,452 - INFO - 2025-11-18 15:58:58 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 15:59:02,060 - INFO - 2025-11-18 15:59:02 Read sheet 25G, 3797 rows
+2025-11-18 15:59:02,090 - INFO - 2025-11-18 15:59:02 Parsed date column: 1024   2019-07-05
+2451   2021-04-28
+2510   2021-05-27
+2511   2021-05-27
+2513   2021-05-28
+2514   2021-05-28
+2642   2021-10-09
+2644   2021-10-10
+2674          NaT
+2785   2022-08-30
+Name: 0, dtype: datetime64[ns]
+2025-11-18 15:59:02,095 - INFO - 2025-11-18 15:59:02 No data after date filter
+2025-11-18 15:59:02,177 - ERROR - 2025-11-18 15:59:02 XML generation failed: [Errno 28] No space left on device
+2025-11-18 15:59:02,177 - INFO - 2025-11-18 15:59:02 Finished INI: MG3_Reflectance.ini
+2025-11-18 15:59:02,194 - INFO - 2025-11-18 15:59:02 Processing INI: MG4_Reflectance.ini
+2025-11-18 15:59:02,707 - INFO - 2025-11-18 15:59:02 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 15:59:02,708 - INFO - 2025-11-18 15:59:02 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 15:59:04,241 - INFO - 2025-11-18 15:59:04 Read sheet 25G, 1716 rows
+2025-11-18 15:59:04,255 - INFO - 2025-11-18 15:59:04 Parsed date column: 60    2020-12-18
+61    2020-12-18
+109   2021-02-03
+110   2021-02-03
+193   2021-03-25
+194   2021-03-25
+195   2021-03-25
+280   2021-04-26
+281   2021-04-27
+284   2021-04-29
+Name: 0, dtype: datetime64[ns]
+2025-11-18 15:59:04,257 - INFO - 2025-11-18 15:59:04 No data after date filter
+2025-11-18 15:59:04,309 - ERROR - 2025-11-18 15:59:04 XML generation failed: [Errno 28] No space left on device
+2025-11-18 15:59:04,310 - INFO - 2025-11-18 15:59:04 Finished INI: MG4_Reflectance.ini
+2025-11-18 15:59:04,310 - INFO - 2025-11-18 15:59:04 ===== Script End =====
+2025-11-18 16:00:31,143 - INFO - 2025-11-18 16:00:31 ===== Script Start =====
+2025-11-18 16:00:31,159 - INFO - 2025-11-18 16:00:31 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:00:31,899 - INFO - 2025-11-18 16:00:31 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:00:31,900 - INFO - 2025-11-18 16:00:31 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:00:36,078 - INFO - 2025-11-18 16:00:36 Read sheet 25G, 3797 rows
+2025-11-18 16:00:36,092 - INFO - 2025-11-18 16:00:36 Parsed date column: 1024   2019-07-05
+2451   2021-04-28
+2510   2021-05-27
+2511   2021-05-27
+2513   2021-05-28
+2514   2021-05-28
+2642   2021-10-09
+2644   2021-10-10
+2674          NaT
+2785   2022-08-30
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:00:36,098 - INFO - 2025-11-18 16:00:36 No data after date filter
+2025-11-18 16:00:36,186 - ERROR - 2025-11-18 16:00:36 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:00:36,186 - INFO - 2025-11-18 16:00:36 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:00:36,201 - INFO - 2025-11-18 16:00:36 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:00:36,745 - INFO - 2025-11-18 16:00:36 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:00:36,746 - INFO - 2025-11-18 16:00:36 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:00:38,290 - INFO - 2025-11-18 16:00:38 Read sheet 25G, 1716 rows
+2025-11-18 16:00:38,304 - INFO - 2025-11-18 16:00:38 Parsed date column: 60    2020-12-18
+61    2020-12-18
+109   2021-02-03
+110   2021-02-03
+193   2021-03-25
+194   2021-03-25
+195   2021-03-25
+280   2021-04-26
+281   2021-04-27
+284   2021-04-29
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:00:38,309 - INFO - 2025-11-18 16:00:38 No data after date filter
+2025-11-18 16:00:38,393 - ERROR - 2025-11-18 16:00:38 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:00:38,393 - INFO - 2025-11-18 16:00:38 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:00:38,394 - INFO - 2025-11-18 16:00:38 ===== Script End =====
+2025-11-18 16:03:19,218 - INFO - 2025-11-18 16:03:19 ===== Script Start =====
+2025-11-18 16:03:19,246 - INFO - 2025-11-18 16:03:19 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:03:19,666 - INFO - 2025-11-18 16:03:19 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:03:19,666 - INFO - 2025-11-18 16:03:19 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:03:23,899 - INFO - 2025-11-18 16:03:23 Read sheet 25G, 3797 rows
+2025-11-18 16:04:03,080 - INFO - 2025-11-18 16:04:03 ===== Script Start =====
+2025-11-18 16:04:03,109 - INFO - 2025-11-18 16:04:03 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:04:03,574 - INFO - 2025-11-18 16:04:03 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:04:03,574 - INFO - 2025-11-18 16:04:03 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:04:06,749 - INFO - 2025-11-18 16:04:06 Read sheet 25G, 3797 rows
+2025-11-18 16:05:33,358 - INFO - 2025-11-18 16:05:33 ===== Script Start =====
+2025-11-18 16:05:33,374 - INFO - 2025-11-18 16:05:33 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:05:33,773 - INFO - 2025-11-18 16:05:33 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:05:33,774 - INFO - 2025-11-18 16:05:33 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:05:37,156 - INFO - 2025-11-18 16:05:37 Read sheet 25G, 3797 rows
+2025-11-18 16:07:19,141 - INFO - 2025-11-18 16:07:19 ===== Script Start =====
+2025-11-18 16:07:19,172 - INFO - 2025-11-18 16:07:19 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:07:19,691 - INFO - 2025-11-18 16:07:19 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:07:19,692 - INFO - 2025-11-18 16:07:19 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:07:22,571 - INFO - 2025-11-18 16:07:22 Read sheet 25G, 3797 rows
+2025-11-18 16:09:27,985 - INFO - 2025-11-18 16:09:27 ===== Script Start =====
+2025-11-18 16:09:27,998 - INFO - 2025-11-18 16:09:27 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:09:28,462 - INFO - 2025-11-18 16:09:28 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:09:28,464 - INFO - 2025-11-18 16:09:28 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:09:31,897 - INFO - 2025-11-18 16:09:31 Read sheet 25G, 3797 rows
+2025-11-18 16:09:32,051 - INFO - 2025-11-18 16:09:32 Parsed date column: 1024   2019-07-05
+2451   2021-04-28
+2510   2021-05-27
+2511   2021-05-27
+2513   2021-05-28
+2514   2021-05-28
+2642   2021-10-09
+2644   2021-10-10
+2674          NaT
+2785   2022-08-30
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:09:32,053 - INFO - 2025-11-18 16:09:32 No data after date filter
+2025-11-18 16:09:32,118 - ERROR - 2025-11-18 16:09:32 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:09:32,119 - INFO - 2025-11-18 16:09:32 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:09:32,131 - INFO - 2025-11-18 16:09:32 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:09:32,598 - INFO - 2025-11-18 16:09:32 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:09:32,598 - INFO - 2025-11-18 16:09:32 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:09:34,060 - INFO - 2025-11-18 16:09:34 Read sheet 25G, 1716 rows
+2025-11-18 16:09:34,184 - INFO - 2025-11-18 16:09:34 Parsed date column: 60    2020-12-18
+61    2020-12-18
+109   2021-02-03
+110   2021-02-03
+193   2021-03-25
+194   2021-03-25
+195   2021-03-25
+280   2021-04-26
+281   2021-04-27
+284   2021-04-29
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:09:34,187 - INFO - 2025-11-18 16:09:34 No data after date filter
+2025-11-18 16:09:34,252 - ERROR - 2025-11-18 16:09:34 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:09:34,252 - INFO - 2025-11-18 16:09:34 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:09:34,253 - INFO - 2025-11-18 16:09:34 ===== Script End =====
+2025-11-18 16:09:36,901 - INFO - 2025-11-18 16:09:36 ===== Script Start =====
+2025-11-18 16:09:36,932 - INFO - 2025-11-18 16:09:36 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:09:37,315 - INFO - 2025-11-18 16:09:37 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:09:37,316 - INFO - 2025-11-18 16:09:37 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:09:41,380 - INFO - 2025-11-18 16:09:41 Read sheet 25G, 3797 rows
+2025-11-18 16:09:41,575 - INFO - 2025-11-18 16:09:41 Parsed date column: 1024   2019-07-05
+2451   2021-04-28
+2510   2021-05-27
+2511   2021-05-27
+2513   2021-05-28
+2514   2021-05-28
+2642   2021-10-09
+2644   2021-10-10
+2674          NaT
+2785   2022-08-30
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:09:41,578 - INFO - 2025-11-18 16:09:41 No data after date filter
+2025-11-18 16:09:41,630 - ERROR - 2025-11-18 16:09:41 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:09:41,631 - INFO - 2025-11-18 16:09:41 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:09:41,647 - INFO - 2025-11-18 16:09:41 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:09:41,874 - INFO - 2025-11-18 16:09:41 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:09:41,874 - INFO - 2025-11-18 16:09:41 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:09:43,023 - INFO - 2025-11-18 16:09:43 Read sheet 25G, 1716 rows
+2025-11-18 16:09:43,123 - INFO - 2025-11-18 16:09:43 Parsed date column: 60    2020-12-18
+61    2020-12-18
+109   2021-02-03
+110   2021-02-03
+193   2021-03-25
+194   2021-03-25
+195   2021-03-25
+280   2021-04-26
+281   2021-04-27
+284   2021-04-29
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:09:43,127 - INFO - 2025-11-18 16:09:43 No data after date filter
+2025-11-18 16:09:43,173 - ERROR - 2025-11-18 16:09:43 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:09:43,174 - INFO - 2025-11-18 16:09:43 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:09:43,174 - INFO - 2025-11-18 16:09:43 ===== Script End =====
+2025-11-18 16:15:21,922 - INFO - 2025-11-18 16:15:21 ===== Script Start =====
+2025-11-18 16:15:21,956 - INFO - 2025-11-18 16:15:21 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:15:22,545 - INFO - 2025-11-18 16:15:22 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:15:22,547 - INFO - 2025-11-18 16:15:22 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:15:26,791 - INFO - 2025-11-18 16:15:26 Read sheet 25G, 3797 rows
+2025-11-18 16:15:26,923 - INFO - 2025-11-18 16:15:26 Parsed date column: 0   2018-03-06
+1   2018-03-07
+2   2018-03-08
+3   2018-03-09
+4   2018-03-12
+5   2018-03-13
+6   2018-03-14
+7          NaT
+8   2018-03-20
+9          NaT
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:15:27,237 - INFO - 2025-11-18 16:15:27 No N-series serial numbers found
+2025-11-18 16:15:27,334 - ERROR - 2025-11-18 16:15:27 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:15:27,335 - INFO - 2025-11-18 16:15:27 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:15:27,361 - INFO - 2025-11-18 16:15:27 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:15:27,650 - INFO - 2025-11-18 16:15:27 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:15:27,651 - INFO - 2025-11-18 16:15:27 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:15:29,174 - INFO - 2025-11-18 16:15:29 Read sheet 25G, 1716 rows
+2025-11-18 16:15:29,265 - INFO - 2025-11-18 16:15:29 Parsed date column: 0          NaT
+1   2020-11-05
+2   2020-11-05
+3          NaT
+4          NaT
+5   2020-11-06
+6          NaT
+7   2020-11-07
+8          NaT
+9   2020-11-08
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:15:29,546 - INFO - 2025-11-18 16:15:29 No N-series serial numbers found
+2025-11-18 16:15:29,614 - ERROR - 2025-11-18 16:15:29 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:15:29,615 - INFO - 2025-11-18 16:15:29 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:15:29,615 - INFO - 2025-11-18 16:15:29 ===== Script End =====
+2025-11-18 16:19:17,779 - INFO - 2025-11-18 16:19:17 ===== Script Start =====
+2025-11-18 16:19:17,795 - INFO - 2025-11-18 16:19:17 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:19:18,162 - INFO - 2025-11-18 16:19:18 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:19:18,163 - INFO - 2025-11-18 16:19:18 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:19:20,857 - INFO - 2025-11-18 16:19:20 Read sheet 25G, 3797 rows
+2025-11-18 16:19:20,899 - INFO - 2025-11-18 16:19:20 Parsed date column: 0   2018-03-06
+1   2018-03-07
+2   2018-03-08
+3   2018-03-09
+4   2018-03-12
+5   2018-03-13
+6   2018-03-14
+7          NaT
+8   2018-03-20
+9          NaT
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:19:20,915 - INFO - 2025-11-18 16:19:20 No N-series serial numbers found
+2025-11-18 16:19:20,990 - ERROR - 2025-11-18 16:19:20 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:19:20,991 - INFO - 2025-11-18 16:19:20 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:19:21,009 - INFO - 2025-11-18 16:19:21 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:19:21,432 - INFO - 2025-11-18 16:19:21 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:19:21,432 - INFO - 2025-11-18 16:19:21 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:19:22,918 - INFO - 2025-11-18 16:19:22 Read sheet 25G, 1716 rows
+2025-11-18 16:19:22,968 - INFO - 2025-11-18 16:19:22 Parsed date column: 0          NaT
+1   2020-11-05
+2   2020-11-05
+3          NaT
+4          NaT
+5   2020-11-06
+6          NaT
+7   2020-11-07
+8          NaT
+9   2020-11-08
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:19:22,983 - INFO - 2025-11-18 16:19:22 No N-series serial numbers found
+2025-11-18 16:19:23,042 - ERROR - 2025-11-18 16:19:23 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:19:23,042 - INFO - 2025-11-18 16:19:23 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:19:23,042 - INFO - 2025-11-18 16:19:23 ===== Script End =====
+2025-11-18 16:27:20,212 - INFO - 2025-11-18 16:27:20 ===== Script Start =====
+2025-11-18 16:27:20,226 - INFO - 2025-11-18 16:27:20 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:27:20,661 - INFO - 2025-11-18 16:27:20 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:27:20,662 - INFO - 2025-11-18 16:27:20 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:27:23,581 - INFO - 2025-11-18 16:27:23 Read sheet 25G, 3797 rows
+2025-11-18 16:27:23,611 - INFO - 2025-11-18 16:27:23 Parsed date column: 0   2018-03-06
+1   2018-03-07
+2   2018-03-08
+3   2018-03-09
+4   2018-03-12
+5   2018-03-13
+6   2018-03-14
+7          NaT
+8   2018-03-20
+9          NaT
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:27:23,629 - INFO - 2025-11-18 16:27:23 No N-series serial numbers found
+2025-11-18 16:27:23,701 - ERROR - 2025-11-18 16:27:23 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:27:23,701 - INFO - 2025-11-18 16:27:23 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:27:23,716 - INFO - 2025-11-18 16:27:23 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:27:24,060 - INFO - 2025-11-18 16:27:24 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:27:24,060 - INFO - 2025-11-18 16:27:24 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:27:25,423 - INFO - 2025-11-18 16:27:25 Read sheet 25G, 1716 rows
+2025-11-18 16:27:25,469 - INFO - 2025-11-18 16:27:25 Parsed date column: 0          NaT
+1   2020-11-05
+2   2020-11-05
+3          NaT
+4          NaT
+5   2020-11-06
+6          NaT
+7   2020-11-07
+8          NaT
+9   2020-11-08
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:27:25,487 - INFO - 2025-11-18 16:27:25 No N-series serial numbers found
+2025-11-18 16:27:25,539 - ERROR - 2025-11-18 16:27:25 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:27:25,540 - INFO - 2025-11-18 16:27:25 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:27:25,541 - INFO - 2025-11-18 16:27:25 ===== Script End =====
+2025-11-18 16:28:43,288 - INFO - 2025-11-18 16:28:43 ===== Script Start =====
+2025-11-18 16:28:43,311 - INFO - 2025-11-18 16:28:43 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:28:43,713 - INFO - 2025-11-18 16:28:43 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:28:43,714 - INFO - 2025-11-18 16:28:43 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:28:47,014 - INFO - 2025-11-18 16:28:47 Read sheet 25G, 3797 rows
+2025-11-18 16:28:47,060 - INFO - 2025-11-18 16:28:47 Parsed date column: 0   2018-03-06
+1   2018-03-07
+2   2018-03-08
+3   2018-03-09
+4   2018-03-12
+5   2018-03-13
+6   2018-03-14
+7          NaT
+8   2018-03-20
+9          NaT
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:28:47,075 - INFO - 2025-11-18 16:28:47 No N-series serial numbers found
+2025-11-18 16:28:47,148 - ERROR - 2025-11-18 16:28:47 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:28:47,149 - INFO - 2025-11-18 16:28:47 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:28:47,168 - INFO - 2025-11-18 16:28:47 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:28:47,480 - INFO - 2025-11-18 16:28:47 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:28:47,480 - INFO - 2025-11-18 16:28:47 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:28:49,410 - INFO - 2025-11-18 16:28:49 Read sheet 25G, 1716 rows
+2025-11-18 16:28:49,469 - INFO - 2025-11-18 16:28:49 Parsed date column: 0          NaT
+1   2020-11-05
+2   2020-11-05
+3          NaT
+4          NaT
+5   2020-11-06
+6          NaT
+7   2020-11-07
+8          NaT
+9   2020-11-08
+Name: 0, dtype: datetime64[ns]
+2025-11-18 16:28:49,502 - INFO - 2025-11-18 16:28:49 No N-series serial numbers found
+2025-11-18 16:28:49,579 - ERROR - 2025-11-18 16:28:49 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:28:49,579 - INFO - 2025-11-18 16:28:49 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:28:49,579 - INFO - 2025-11-18 16:28:49 ===== Script End =====
+2025-11-18 16:29:39,662 - INFO - 2025-11-18 16:29:39 ===== Script Start =====
+2025-11-18 16:29:39,694 - INFO - 2025-11-18 16:29:39 Processing INI: MG3_Reflectance.ini
+2025-11-18 16:29:40,118 - INFO - 2025-11-18 16:29:40 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:29:40,119 - INFO - 2025-11-18 16:29:40 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 16:29:42,915 - INFO - 2025-11-18 16:29:42 Read sheet 25G, 3797 rows
+2025-11-18 16:29:42,947 - INFO - 2025-11-18 16:29:42 Parsed date column
+2025-11-18 16:29:42,964 - INFO - 2025-11-18 16:29:42 No N-series serial numbers found
+2025-11-18 16:29:43,062 - ERROR - 2025-11-18 16:29:43 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:29:43,063 - INFO - 2025-11-18 16:29:43 Finished INI: MG3_Reflectance.ini
+2025-11-18 16:29:43,094 - INFO - 2025-11-18 16:29:43 Processing INI: MG4_Reflectance.ini
+2025-11-18 16:29:43,369 - INFO - 2025-11-18 16:29:43 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:29:43,369 - INFO - 2025-11-18 16:29:43 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 16:29:44,749 - INFO - 2025-11-18 16:29:44 Read sheet 25G, 1716 rows
+2025-11-18 16:29:44,781 - INFO - 2025-11-18 16:29:44 Parsed date column
+2025-11-18 16:29:44,794 - INFO - 2025-11-18 16:29:44 No N-series serial numbers found
+2025-11-18 16:29:44,848 - ERROR - 2025-11-18 16:29:44 XML generation failed: [Errno 28] No space left on device
+2025-11-18 16:29:44,848 - INFO - 2025-11-18 16:29:44 Finished INI: MG4_Reflectance.ini
+2025-11-18 16:29:44,848 - INFO - 2025-11-18 16:29:44 ===== Script End =====
+2025-11-18 17:18:42,393 - INFO - 2025-11-18 17:18:42 ===== Script Start =====
+2025-11-18 17:18:42,416 - INFO - 2025-11-18 17:18:42 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:18:43,251 - INFO - 2025-11-18 17:18:43 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:18:43,258 - INFO - 2025-11-18 17:18:43 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:18:47,686 - INFO - 2025-11-18 17:18:47 Read sheet 25G, 3797 rows
+2025-11-18 17:18:47,705 - INFO - 2025-11-18 17:18:47 Parsed date column
+2025-11-18 17:18:47,712 - INFO - 2025-11-18 17:18:47 No N-series serial numbers found
+2025-11-18 17:18:47,831 - INFO - 2025-11-18 17:18:47 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.18.42,Testdate=2025-11-18T17.18.47.xml
+2025-11-18 17:18:47,832 - INFO - 2025-11-18 17:18:47 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:18:47,852 - INFO - 2025-11-18 17:18:47 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:18:48,508 - INFO - 2025-11-18 17:18:48 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:18:48,509 - INFO - 2025-11-18 17:18:48 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:18:49,934 - INFO - 2025-11-18 17:18:49 Read sheet 25G, 1716 rows
+2025-11-18 17:18:49,971 - INFO - 2025-11-18 17:18:49 Parsed date column
+2025-11-18 17:18:49,980 - INFO - 2025-11-18 17:18:49 No N-series serial numbers found
+2025-11-18 17:18:50,036 - INFO - 2025-11-18 17:18:50 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.18.47,Testdate=2025-11-18T17.18.49.xml
+2025-11-18 17:18:50,036 - INFO - 2025-11-18 17:18:50 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:18:50,036 - INFO - 2025-11-18 17:18:50 ===== Script End =====
+2025-11-18 17:18:56,590 - INFO - 2025-11-18 17:18:56 ===== Script Start =====
+2025-11-18 17:18:56,634 - INFO - 2025-11-18 17:18:56 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:18:57,695 - INFO - 2025-11-18 17:18:57 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:18:57,697 - INFO - 2025-11-18 17:18:57 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:19:01,096 - INFO - 2025-11-18 17:19:01 Read sheet 25G, 3797 rows
+2025-11-18 17:19:01,114 - INFO - 2025-11-18 17:19:01 Parsed date column
+2025-11-18 17:19:01,123 - INFO - 2025-11-18 17:19:01 No N-series serial numbers found
+2025-11-18 17:19:02,435 - INFO - 2025-11-18 17:19:02 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.18.56,Testdate=2025-11-18T17.19.01.xml
+2025-11-18 17:19:02,436 - INFO - 2025-11-18 17:19:02 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:19:02,462 - INFO - 2025-11-18 17:19:02 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:19:03,048 - INFO - 2025-11-18 17:19:03 Copied file to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:19:03,049 - INFO - 2025-11-18 17:19:03 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:19:04,320 - INFO - 2025-11-18 17:19:04 Read sheet 25G, 1716 rows
+2025-11-18 17:19:04,362 - INFO - 2025-11-18 17:19:04 Parsed date column
+2025-11-18 17:19:04,375 - INFO - 2025-11-18 17:19:04 No N-series serial numbers found
+2025-11-18 17:19:04,567 - INFO - 2025-11-18 17:19:04 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.19.02,Testdate=2025-11-18T17.19.04.xml
+2025-11-18 17:19:04,567 - INFO - 2025-11-18 17:19:04 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:19:04,568 - INFO - 2025-11-18 17:19:04 ===== Script End =====
+2025-11-18 17:22:42,476 - INFO - 2025-11-18 17:22:42 ===== Script Start =====
+2025-11-18 17:22:42,497 - INFO - 2025-11-18 17:22:42 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:22:43,081 - INFO - 2025-11-18 17:22:43 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:22:43,081 - INFO - 2025-11-18 17:22:43 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:22:45,762 - INFO - 2025-11-18 17:22:45 Read sheet '25G', rows=3797
+2025-11-18 17:22:45,802 - INFO - 2025-11-18 17:22:45 No data after date/retention filtering.
+2025-11-18 17:22:45,808 - INFO - 2025-11-18 17:22:45 CSV not found; skip pointer XML generation.
+2025-11-18 17:22:45,809 - INFO - 2025-11-18 17:22:45 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:22:45,824 - INFO - 2025-11-18 17:22:45 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:22:46,123 - INFO - 2025-11-18 17:22:46 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:22:46,124 - INFO - 2025-11-18 17:22:46 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:22:47,610 - INFO - 2025-11-18 17:22:47 Read sheet '25G', rows=1716
+2025-11-18 17:23:34,414 - INFO - 2025-11-18 17:23:34 Writing CSV with 45 rows...
+2025-11-18 17:23:34,519 - INFO - 2025-11-18 17:23:34 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.22.45.csv
+2025-11-18 17:23:34,580 - INFO - 2025-11-18 17:23:34 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.22.45,Testdate=2025-11-18T17.23.34.xml
+2025-11-18 17:23:34,580 - INFO - 2025-11-18 17:23:34 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:23:34,580 - INFO - 2025-11-18 17:23:34 ===== Script End =====
+2025-11-18 17:26:58,066 - INFO - 2025-11-18 17:26:58 ===== Script Start =====
+2025-11-18 17:26:58,094 - INFO - 2025-11-18 17:26:58 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:26:58,101 - INFO - 2025-11-18 17:26:58 No matching source files found for this INI.
+2025-11-18 17:26:58,102 - INFO - 2025-11-18 17:26:58 CSV not found; skip pointer XML generation.
+2025-11-18 17:26:58,103 - INFO - 2025-11-18 17:26:58 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:26:58,125 - INFO - 2025-11-18 17:26:58 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:26:58,128 - INFO - 2025-11-18 17:26:58 No matching source files found for this INI.
+2025-11-18 17:26:58,135 - INFO - 2025-11-18 17:26:58 CSV not found; skip pointer XML generation.
+2025-11-18 17:26:58,137 - INFO - 2025-11-18 17:26:58 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:26:58,137 - INFO - 2025-11-18 17:26:58 ===== Script End =====
+2025-11-18 17:27:56,015 - INFO - 2025-11-18 17:27:56 ===== Script Start =====
+2025-11-18 17:27:56,050 - INFO - 2025-11-18 17:27:56 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:27:56,665 - INFO - 2025-11-18 17:27:56 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:27:56,666 - INFO - 2025-11-18 17:27:56 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:27:59,669 - INFO - 2025-11-18 17:27:59 Read sheet '25G', rows=3797
+2025-11-18 17:27:59,706 - INFO - 2025-11-18 17:27:59 No data after date/retention filtering.
+2025-11-18 17:27:59,707 - INFO - 2025-11-18 17:27:59 CSV not found; skip pointer XML generation.
+2025-11-18 17:27:59,708 - INFO - 2025-11-18 17:27:59 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:27:59,724 - INFO - 2025-11-18 17:27:59 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:27:59,957 - INFO - 2025-11-18 17:27:59 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:27:59,958 - INFO - 2025-11-18 17:27:59 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:28:01,350 - INFO - 2025-11-18 17:28:01 Read sheet '25G', rows=1716
+2025-11-18 17:28:33,408 - INFO - 2025-11-18 17:28:33 Writing CSV with 45 rows...
+2025-11-18 17:28:33,530 - INFO - 2025-11-18 17:28:33 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.27.59.csv
+2025-11-18 17:28:33,632 - INFO - 2025-11-18 17:28:33 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.27.59,Testdate=2025-11-18T17.28.33.xml
+2025-11-18 17:28:33,633 - INFO - 2025-11-18 17:28:33 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:28:33,634 - INFO - 2025-11-18 17:28:33 ===== Script End =====
+2025-11-18 17:34:44,098 - INFO - 2025-11-18 17:34:44 ===== Script Start =====
+2025-11-18 17:34:44,134 - INFO - 2025-11-18 17:34:44 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:34:45,110 - INFO - 2025-11-18 17:34:45 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:34:45,373 - INFO - 2025-11-18 17:34:45 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:34:52,926 - INFO - 2025-11-18 17:34:52 Read sheet '25G', rows=3797
+2025-11-18 17:34:53,045 - INFO - 2025-11-18 17:34:53 No data after date/retention filtering.
+2025-11-18 17:34:53,046 - INFO - 2025-11-18 17:34:53 CSV not found; skip pointer XML generation.
+2025-11-18 17:34:53,047 - INFO - 2025-11-18 17:34:53 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:34:53,066 - INFO - 2025-11-18 17:34:53 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:34:53,907 - INFO - 2025-11-18 17:34:53 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:34:53,908 - INFO - 2025-11-18 17:34:53 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:34:55,400 - INFO - 2025-11-18 17:34:55 Read sheet '25G', rows=1716
+2025-11-18 17:35:39,503 - INFO - 2025-11-18 17:35:39 Writing CSV with 45 rows...
+2025-11-18 17:35:39,564 - INFO - 2025-11-18 17:35:39 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.34.53.csv
+2025-11-18 17:35:39,623 - INFO - 2025-11-18 17:35:39 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.34.53,Testdate=2025-11-18T17.35.39.xml
+2025-11-18 17:35:39,623 - INFO - 2025-11-18 17:35:39 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:35:39,623 - INFO - 2025-11-18 17:35:39 ===== Script End =====
+2025-11-18 17:35:42,065 - INFO - 2025-11-18 17:35:42 ===== Script Start =====
+2025-11-18 17:35:42,082 - INFO - 2025-11-18 17:35:42 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:35:42,375 - INFO - 2025-11-18 17:35:42 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:35:42,376 - INFO - 2025-11-18 17:35:42 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:35:44,961 - INFO - 2025-11-18 17:35:44 Read sheet '25G', rows=3797
+2025-11-18 17:35:45,077 - INFO - 2025-11-18 17:35:45 No data after date/retention filtering.
+2025-11-18 17:35:45,079 - INFO - 2025-11-18 17:35:45 CSV not found; skip pointer XML generation.
+2025-11-18 17:35:45,079 - INFO - 2025-11-18 17:35:45 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:35:45,098 - INFO - 2025-11-18 17:35:45 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:35:45,292 - INFO - 2025-11-18 17:35:45 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:35:45,293 - INFO - 2025-11-18 17:35:45 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:35:46,474 - INFO - 2025-11-18 17:35:46 Read sheet '25G', rows=1716
+2025-11-18 17:36:21,813 - INFO - 2025-11-18 17:36:21 Writing CSV with 45 rows...
+2025-11-18 17:36:21,858 - INFO - 2025-11-18 17:36:21 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.35.45.csv
+2025-11-18 17:36:21,920 - INFO - 2025-11-18 17:36:21 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.35.45,Testdate=2025-11-18T17.36.21.xml
+2025-11-18 17:36:21,920 - INFO - 2025-11-18 17:36:21 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:36:21,921 - INFO - 2025-11-18 17:36:21 ===== Script End =====
+2025-11-18 17:40:36,813 - INFO - 2025-11-18 17:40:36 ===== Script Start =====
+2025-11-18 17:40:36,828 - INFO - 2025-11-18 17:40:36 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:40:37,452 - INFO - 2025-11-18 17:40:37 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:40:37,457 - INFO - 2025-11-18 17:40:37 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:40:39,913 - INFO - 2025-11-18 17:40:39 Read sheet '25G', rows=3797
+2025-11-18 17:40:40,056 - INFO - 2025-11-18 17:40:40 No data after date/retention filtering.
+2025-11-18 17:40:40,060 - INFO - 2025-11-18 17:40:40 CSV not found; skip pointer XML generation.
+2025-11-18 17:40:40,060 - INFO - 2025-11-18 17:40:40 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:40:40,096 - INFO - 2025-11-18 17:40:40 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:40:40,540 - INFO - 2025-11-18 17:40:40 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:40:40,541 - INFO - 2025-11-18 17:40:40 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:40:42,000 - INFO - 2025-11-18 17:40:42 Read sheet '25G', rows=1716
+2025-11-18 17:41:13,472 - INFO - 2025-11-18 17:41:13 Writing CSV with 45 rows...
+2025-11-18 17:41:13,561 - INFO - 2025-11-18 17:41:13 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.40.40.csv
+2025-11-18 17:41:13,673 - INFO - 2025-11-18 17:41:13 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.40.40,Testdate=2025-11-18T17.41.13.xml
+2025-11-18 17:41:13,673 - INFO - 2025-11-18 17:41:13 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:41:13,674 - INFO - 2025-11-18 17:41:13 ===== Script End =====
+2025-11-18 17:43:07,692 - INFO - 2025-11-18 17:43:07 ===== Script Start =====
+2025-11-18 17:43:07,721 - INFO - 2025-11-18 17:43:07 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:43:08,996 - INFO - 2025-11-18 17:43:08 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:43:09,007 - INFO - 2025-11-18 17:43:08 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:43:11,989 - INFO - 2025-11-18 17:43:11 Read sheet '25G', rows=3797
+2025-11-18 17:43:19,630 - INFO - 2025-11-18 17:43:19 Writing CSV with 9 rows...
+2025-11-18 17:43:19,708 - INFO - 2025-11-18 17:43:19 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.43.07.csv
+2025-11-18 17:43:19,800 - INFO - 2025-11-18 17:43:19 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.43.07,Testdate=2025-11-18T17.43.19.xml
+2025-11-18 17:43:19,800 - INFO - 2025-11-18 17:43:19 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:43:19,829 - INFO - 2025-11-18 17:43:19 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:43:20,085 - INFO - 2025-11-18 17:43:20 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:43:20,086 - INFO - 2025-11-18 17:43:20 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:43:21,530 - INFO - 2025-11-18 17:43:21 Read sheet '25G', rows=1716
+2025-11-18 17:43:50,856 - INFO - 2025-11-18 17:43:50 Writing CSV with 45 rows...
+2025-11-18 17:43:50,910 - INFO - 2025-11-18 17:43:50 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.43.19.csv
+2025-11-18 17:43:50,972 - INFO - 2025-11-18 17:43:50 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.43.19,Testdate=2025-11-18T17.43.50.xml
+2025-11-18 17:43:50,973 - INFO - 2025-11-18 17:43:50 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:43:50,973 - INFO - 2025-11-18 17:43:50 ===== Script End =====
+2025-11-18 17:44:32,417 - INFO - 2025-11-18 17:44:32 ===== Script Start =====
+2025-11-18 17:44:32,446 - INFO - 2025-11-18 17:44:32 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:44:33,261 - INFO - 2025-11-18 17:44:33 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:44:33,262 - INFO - 2025-11-18 17:44:33 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:44:36,620 - INFO - 2025-11-18 17:44:36 Read sheet '25G', rows=3797
+2025-11-18 17:44:47,228 - INFO - 2025-11-18 17:44:47 Writing CSV with 9 rows...
+2025-11-18 17:44:47,281 - INFO - 2025-11-18 17:44:47 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.44.32.csv
+2025-11-18 17:44:47,376 - INFO - 2025-11-18 17:44:47 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.44.32,Testdate=2025-11-18T17.44.47.xml
+2025-11-18 17:44:47,377 - INFO - 2025-11-18 17:44:47 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:44:47,441 - INFO - 2025-11-18 17:44:47 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:44:47,749 - INFO - 2025-11-18 17:44:47 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:44:47,750 - INFO - 2025-11-18 17:44:47 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:44:49,133 - INFO - 2025-11-18 17:44:49 Read sheet '25G', rows=1716
+2025-11-18 17:45:25,223 - INFO - 2025-11-18 17:45:25 Writing CSV with 45 rows...
+2025-11-18 17:45:25,270 - INFO - 2025-11-18 17:45:25 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.44.47.csv
+2025-11-18 17:45:25,360 - INFO - 2025-11-18 17:45:25 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.44.47,Testdate=2025-11-18T17.45.25.xml
+2025-11-18 17:45:25,360 - INFO - 2025-11-18 17:45:25 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:45:25,360 - INFO - 2025-11-18 17:45:25 ===== Script End =====
+2025-11-18 17:52:37,635 - INFO - 2025-11-18 17:52:37 ===== Script Start =====
+2025-11-18 17:52:37,649 - INFO - 2025-11-18 17:52:37 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:52:38,205 - INFO - 2025-11-18 17:52:38 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:52:38,206 - INFO - 2025-11-18 17:52:38 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:52:42,319 - INFO - 2025-11-18 17:52:42 Read sheet '25G', rows=3797
+2025-11-18 17:52:53,038 - INFO - 2025-11-18 17:52:53 Writing CSV with 9 rows...
+2025-11-18 17:52:53,098 - INFO - 2025-11-18 17:52:53 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.52.37.csv
+2025-11-18 17:52:53,153 - INFO - 2025-11-18 17:52:53 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.52.37,Testdate=2025-11-18T17.52.53.xml
+2025-11-18 17:52:53,154 - INFO - 2025-11-18 17:52:53 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:52:53,170 - INFO - 2025-11-18 17:52:53 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:52:53,355 - INFO - 2025-11-18 17:52:53 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:52:53,356 - INFO - 2025-11-18 17:52:53 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:52:54,508 - INFO - 2025-11-18 17:52:54 Read sheet '25G', rows=1716
+2025-11-18 17:53:28,843 - INFO - 2025-11-18 17:53:28 Writing CSV with 45 rows...
+2025-11-18 17:53:28,899 - INFO - 2025-11-18 17:53:28 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.52.53.csv
+2025-11-18 17:53:29,041 - INFO - 2025-11-18 17:53:29 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.52.53,Testdate=2025-11-18T17.53.28.xml
+2025-11-18 17:53:29,042 - INFO - 2025-11-18 17:53:29 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:53:29,042 - INFO - 2025-11-18 17:53:29 ===== Script End =====
+2025-11-18 17:55:47,905 - INFO - 2025-11-18 17:55:47 ===== Script Start =====
+2025-11-18 17:55:47,923 - INFO - 2025-11-18 17:55:47 Processing INI: MG3_Reflectance.ini
+2025-11-18 17:55:48,893 - INFO - 2025-11-18 17:55:48 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:55:48,894 - INFO - 2025-11-18 17:55:48 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 17:55:51,703 - INFO - 2025-11-18 17:55:51 Read sheet '25G', rows=3797
+2025-11-18 17:55:59,944 - INFO - 2025-11-18 17:55:59 Writing CSV with 9 rows...
+2025-11-18 17:56:00,021 - INFO - 2025-11-18 17:56:00 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.55.47.csv
+2025-11-18 17:56:00,139 - INFO - 2025-11-18 17:56:00 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.55.47,Testdate=2025-11-18T17.56.00.xml
+2025-11-18 17:56:00,139 - INFO - 2025-11-18 17:56:00 Finished INI: MG3_Reflectance.ini
+2025-11-18 17:56:00,174 - INFO - 2025-11-18 17:56:00 Processing INI: MG4_Reflectance.ini
+2025-11-18 17:56:00,443 - INFO - 2025-11-18 17:56:00 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:56:00,444 - INFO - 2025-11-18 17:56:00 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 17:56:01,738 - INFO - 2025-11-18 17:56:01 Read sheet '25G', rows=1716
+2025-11-18 17:56:33,883 - INFO - 2025-11-18 17:56:33 Writing CSV with 45 rows...
+2025-11-18 17:56:33,927 - INFO - 2025-11-18 17:56:33 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Coating_MG_Reflectance_2025_11_18T17.56.00.csv
+2025-11-18 17:56:33,996 - INFO - 2025-11-18 17:56:33 Pointer XML generated: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T17.56.00,Testdate=2025-11-18T17.56.33.xml
+2025-11-18 17:56:33,997 - INFO - 2025-11-18 17:56:33 Finished INI: MG4_Reflectance.ini
+2025-11-18 17:56:33,997 - INFO - 2025-11-18 17:56:33 ===== Script End =====
+2025-11-18 18:00:00,292 - INFO - 2025-11-18 18:00:00 ===== Script Start =====
+2025-11-18 18:00:00,307 - INFO - 2025-11-18 18:00:00 Processing INI: MG3_Reflectance.ini
+2025-11-18 18:00:02,348 - INFO - 2025-11-18 18:00:02 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 18:00:02,349 - INFO - 2025-11-18 18:00:02 Start processing ECR\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f191228.xlsx
+2025-11-18 18:00:05,620 - INFO - 2025-11-18 18:00:05 Read sheet '25G', rows=3797
+2025-11-18 18:00:29,874 - INFO - 2025-11-18 18:00:29 Writing CSV with 9 rows...
+2025-11-18 18:00:31,188 - INFO - 2025-11-18 18:00:31 CSV written: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_FE\047_GRATING\Coating_MG_Reflectance_2025_11_18T18.00.01.csv
+2025-11-18 18:00:33,126 - INFO - 2025-11-18 18:00:33 Pointer XML generated: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T18.00.01,Testdate=2025-11-18T18.00.32.xml
+2025-11-18 18:00:33,127 - INFO - 2025-11-18 18:00:33 Finished INI: MG3_Reflectance.ini
+2025-11-18 18:00:33,142 - INFO - 2025-11-18 18:00:33 Processing INI: MG4_Reflectance.ini
+2025-11-18 18:00:33,718 - INFO - 2025-11-18 18:00:33 Copied source to: ..\DataFile\Coating_MG_Reflectance\ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 18:00:33,719 - INFO - 2025-11-18 18:00:33 Start processing ECR#4_\u53cd\u5c04\u7387QC\u63a8\u79fb\uff3f20201106.xlsx
+2025-11-18 18:00:34,659 - INFO - 2025-11-18 18:00:34 Read sheet '25G', rows=1716
+2025-11-18 18:01:39,286 - INFO - 2025-11-18 18:01:39 Writing CSV with 45 rows...
+2025-11-18 18:01:40,587 - INFO - 2025-11-18 18:01:40 CSV written: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_FE\047_GRATING\Coating_MG_Reflectance_2025_11_18T18.00.33.csv
+2025-11-18 18:01:42,469 - INFO - 2025-11-18 18:01:42 Pointer XML generated: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=Coating_MG_Reflectance,Partnumber=UNKNOWPN,Serialnumber=Coating_MG_Reflectance_2025_11_18T18.00.33,Testdate=2025-11-18T18.01.41.xml
+2025-11-18 18:01:42,470 - INFO - 2025-11-18 18:01:42 Finished INI: MG4_Reflectance.ini
+2025-11-18 18:01:42,470 - INFO - 2025-11-18 18:01:42 ===== Script End =====
