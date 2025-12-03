@@ -1,0 +1,19 @@
+2025-11-19 16:08:03,997 - INFO - Pipeline bootstrap
+2025-11-19 16:08:04,013 - INFO - Run finished, rows written: 0
+2025-11-19 16:14:18,891 - INFO - Pipeline bootstrap
+2025-11-19 16:14:18,895 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)
+2025-11-19 16:14:18,905 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:20:44,053 - INFO - Pipeline bootstrap
+2025-11-19 16:20:44,056 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)
+2025-11-19 16:20:44,061 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:32:14,981 - INFO - Pipeline bootstrap
+2025-11-19 16:32:14,987 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)
+2025-11-19 16:32:14,997 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:19:02,024 - INFO - Pipeline bootstrap
+2025-11-19 17:19:02,025 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)
+2025-11-19 17:19:02,033 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:30:47,852 - INFO - Pipeline bootstrap
+2025-11-19 17:30:47,857 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)
+2025-11-19 17:30:47,869 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:40:31,083 - INFO - Pipeline bootstrap
+2025-11-19 17:40:31,085 - INFO - Searching files in Z:\PL-MAP\F11 (legacy=None)

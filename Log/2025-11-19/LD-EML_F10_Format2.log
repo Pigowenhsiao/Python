@@ -1,0 +1,23 @@
+2025-11-19 16:07:59,328 - INFO - Pipeline bootstrap
+2025-11-19 16:07:59,337 - INFO - Run finished, rows written: 0
+2025-11-19 16:14:14,464 - INFO - Pipeline bootstrap
+2025-11-19 16:14:14,467 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 16:14:14,480 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:20:40,402 - INFO - Pipeline bootstrap
+2025-11-19 16:20:40,406 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 16:20:40,413 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:32:10,981 - INFO - Pipeline bootstrap
+2025-11-19 16:32:10,986 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 16:32:10,997 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:18:57,538 - INFO - Pipeline bootstrap
+2025-11-19 17:18:57,540 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 17:18:57,546 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:30:15,738 - INFO - Pipeline bootstrap
+2025-11-19 17:30:15,742 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 17:30:15,752 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:30:42,498 - INFO - Pipeline bootstrap
+2025-11-19 17:30:42,501 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 17:30:43,003 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:40:27,369 - INFO - Pipeline bootstrap
+2025-11-19 17:40:27,371 - INFO - Searching files in Z:\PL-MAP\F10 (legacy=None)
+2025-11-19 17:40:27,379 - WARNING - Pipeline finished without any output rows

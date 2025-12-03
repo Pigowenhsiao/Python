@@ -1,0 +1,19 @@
+2025-11-19 16:07:22,823 - INFO - Pipeline bootstrap
+2025-11-19 16:07:22,835 - INFO - Run finished, rows written: 0
+2025-11-19 16:08:06,313 - INFO - Pipeline bootstrap
+2025-11-19 16:08:06,350 - INFO - Run finished, rows written: 0
+2025-11-19 16:14:21,390 - INFO - Pipeline bootstrap
+2025-11-19 16:14:21,396 - INFO - Searching files in Z:\MOCVD\F1 (legacy=None)
+2025-11-19 16:14:21,402 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:20:45,972 - INFO - Pipeline bootstrap
+2025-11-19 16:20:45,974 - INFO - Searching files in Z:\MOCVD\F1 (legacy=None)
+2025-11-19 16:20:45,983 - WARNING - Pipeline finished without any output rows
+2025-11-19 16:32:16,644 - INFO - Pipeline bootstrap
+2025-11-19 16:32:16,645 - INFO - Searching files in Z:\MOCVD\F1 (legacy=None)
+2025-11-19 16:32:16,674 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:19:04,180 - INFO - Pipeline bootstrap
+2025-11-19 17:19:04,182 - INFO - Searching files in Z:\MOCVD\F1 (legacy=None)
+2025-11-19 17:19:04,189 - WARNING - Pipeline finished without any output rows
+2025-11-19 17:30:49,612 - INFO - Pipeline bootstrap
+2025-11-19 17:30:49,614 - INFO - Searching files in Z:\MOCVD\F1 (legacy=None)
+2025-11-19 17:30:49,623 - WARNING - Pipeline finished without any output rows
