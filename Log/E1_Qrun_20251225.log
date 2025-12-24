@@ -1,0 +1,1395 @@
+2025-12-25 06:13:12,359 | INFO | E1_Qrun | ==== Start E1_Qrun uploader ====
+2025-12-25 06:13:12,360 | INFO | E1_Qrun | INI: C:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.INI
+2025-12-25 06:13:12,368 | INFO | E1_Qrun | CSV output: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\E1_Qrun_2025_12_25T06.13.12_bce49da7.csv
+2025-12-25 06:13:12,375 | INFO | E1_Qrun | Dedup enabled: ..\DataFile\054_E1_Qrun\dedup_registry.sqlite
+2025-12-25 06:16:36,720 | INFO | E1_Qrun | ==== Start E1_Qrun uploader ====
+2025-12-25 06:16:36,721 | INFO | E1_Qrun | INI: C:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.INI
+2025-12-25 06:16:36,749 | INFO | E1_Qrun | CSV output: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\E1_Qrun_2025_12_25T06.16.36_1e984de5.csv
+2025-12-25 06:16:36,756 | INFO | E1_Qrun | Dedup enabled: ..\DataFile\054_E1_Qrun\dedup_registry.sqlite
+2025-12-25 06:20:59,408 | INFO | E1_Qrun | Discovered 248 candidate files.
+2025-12-25 06:21:02,453 | INFO | E1_Qrun | Skip (dedup): N1250922_N1004先行結果.xlsm
+2025-12-25 06:21:05,252 | INFO | E1_Qrun | Skip (dedup): N1250923_N1001先行結果.xlsm
+2025-12-25 06:21:13,978 | ERROR | E1_Qrun | Failed processing file N1250927_N1002先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:21:25,918 | ERROR | E1_Qrun | Failed processing file N1250927_N1003先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:21:37,458 | ERROR | E1_Qrun | Failed processing file N1251120_N1007先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:21:49,962 | ERROR | E1_Qrun | Failed processing file N1251120_N1009先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:01,964 | ERROR | E1_Qrun | Failed processing file N1251122_N1005先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:13,793 | ERROR | E1_Qrun | Failed processing file N1251122_N1006先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:25,721 | ERROR | E1_Qrun | Failed processing file N1251122_N1008先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:36,380 | ERROR | E1_Qrun | Failed processing file N1251122_N1010先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:46,919 | ERROR | E1_Qrun | Failed processing file N1251123_N1005先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:22:57,994 | ERROR | E1_Qrun | Failed processing file N1251124_N1011先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    row = build_output_row(f, settings, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    db_fields = query_database(settings.db, lot_id, logger)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    conn_str = _build_connection_string(db)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:23:09,005 | ERROR | E1_Qrun | Failed processing file N1251124_N1012先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:23:20,063 | ERROR | E1_Qrun | Failed processing file N1251124_N1013先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:23:31,197 | ERROR | E1_Qrun | Failed processing file N1251125_N1014先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:23:42,525 | ERROR | E1_Qrun | Failed processing file N1251126_N1015先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:23:53,874 | ERROR | E1_Qrun | Failed processing file N1251126_N1016先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:24:05,026 | ERROR | E1_Qrun | Failed processing file N1251126_N1017先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:24:16,403 | ERROR | E1_Qrun | Failed processing file N1251126_N1021先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:24:27,238 | ERROR | E1_Qrun | Failed processing file N1251126_N1022先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:24:38,687 | ERROR | E1_Qrun | Failed processing file N1251127_N1018先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:24:49,641 | ERROR | E1_Qrun | Failed processing file N1251127_N1019先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:25:00,886 | ERROR | E1_Qrun | Failed processing file N1251127_N1023先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:25:12,104 | ERROR | E1_Qrun | Failed processing file N1251127_N1024先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:25:25,300 | ERROR | E1_Qrun | Failed processing file N1251128_N1020先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:25:36,938 | ERROR | E1_Qrun | Failed processing file N2251204_N2006先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:25:48,162 | ERROR | E1_Qrun | Failed processing file N2251204_N2007先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:00,083 | ERROR | E1_Qrun | Failed processing file N2251205_N2001先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:11,627 | ERROR | E1_Qrun | Failed processing file N2251205_N2004先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:23,197 | ERROR | E1_Qrun | Failed processing file N2251206_N2002先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:34,641 | ERROR | E1_Qrun | Failed processing file N2251206_N2003先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:46,436 | ERROR | E1_Qrun | Failed processing file N2251206_N2008先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:26:57,810 | ERROR | E1_Qrun | Failed processing file N2251213_N2005先行結果.xlsx: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:27:11,111 | ERROR | E1_Qrun | Failed processing file N3250302_N3035先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:27:22,581 | ERROR | E1_Qrun | Failed processing file N3250305_N3035先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:27:34,798 | ERROR | E1_Qrun | Failed processing file N3250317_N3025先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:27:47,506 | ERROR | E1_Qrun | Failed processing file N3250317_N3027先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:28:00,406 | ERROR | E1_Qrun | Failed processing file N3250317_N3029先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:28:12,670 | ERROR | E1_Qrun | Failed processing file N3250317_N3031先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:28:25,511 | ERROR | E1_Qrun | Failed processing file N3250317_N3032先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:28:38,422 | ERROR | E1_Qrun | Failed processing file N3250317_N3034先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:28:50,602 | ERROR | E1_Qrun | Failed processing file N3250318_N3033先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:29:03,758 | ERROR | E1_Qrun | Failed processing file N3250318_N3036先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:29:15,510 | ERROR | E1_Qrun | Failed processing file N3250319_N3032先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:29:27,427 | ERROR | E1_Qrun | Failed processing file N3250319_N3033先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:29:40,034 | ERROR | E1_Qrun | Failed processing file N3250319_N3036先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:29:52,344 | ERROR | E1_Qrun | Failed processing file N3250321_N3034先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:30:05,230 | ERROR | E1_Qrun | Failed processing file N3250709_N3027先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:30:17,685 | ERROR | E1_Qrun | Failed processing file N3250711_N3028先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:30:29,786 | ERROR | E1_Qrun | Failed processing file N3250711_N3030先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:30:42,422 | ERROR | E1_Qrun | Failed processing file N3250711_N3037先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:30:54,728 | ERROR | E1_Qrun | Failed processing file N3250711_N3038先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:31:07,494 | ERROR | E1_Qrun | Failed processing file N3250711_N3039先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:31:20,501 | ERROR | E1_Qrun | Failed processing file N3250716_N3037先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:31:31,907 | ERROR | E1_Qrun | Failed processing file N3251007_N3048先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:31:43,991 | ERROR | E1_Qrun | Failed processing file N3251007_N3049先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:31:55,708 | ERROR | E1_Qrun | Failed processing file N3251007_N3050先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:32:07,382 | ERROR | E1_Qrun | Failed processing file N3251007_N3051先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:32:20,114 | ERROR | E1_Qrun | Failed processing file N3251008_N3052先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:32:32,998 | ERROR | E1_Qrun | Failed processing file N3251008_N3054先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    parse_filename_ids(f)
+          ~~~~~~~~~~~~^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    回傳 dict 欄位：
+             ^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:32:45,568 | ERROR | E1_Qrun | Failed processing file N3251009_N3052先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:32:57,413 | ERROR | E1_Qrun | Failed processing file N3251009_N3053先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:33:09,818 | ERROR | E1_Qrun | Failed processing file N3251011_N3056先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:33:22,041 | ERROR | E1_Qrun | Failed processing file N3251013_N3057先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:33:34,267 | ERROR | E1_Qrun | Failed processing file N3251014_N3058先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:33:46,460 | ERROR | E1_Qrun | Failed processing file N3251014_N3059先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:33:58,123 | ERROR | E1_Qrun | Failed processing file N3251014_N3060先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:34:11,546 | ERROR | E1_Qrun | Failed processing file N3251020_N3063先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:34:23,878 | ERROR | E1_Qrun | Failed processing file N3251020_N3065先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:34:35,790 | ERROR | E1_Qrun | Failed processing file N3251020_N3067先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:34:48,012 | ERROR | E1_Qrun | Failed processing file N3251020_N3068先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:34:59,600 | ERROR | E1_Qrun | Failed processing file N3251021_N3063先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:35:11,817 | ERROR | E1_Qrun | Failed processing file N3251021_N3064先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:35:24,321 | ERROR | E1_Qrun | Failed processing file N3251023_N3067先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:35:36,058 | ERROR | E1_Qrun | Failed processing file N3251031_N3069先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:35:47,771 | ERROR | E1_Qrun | Failed processing file N3251031_N3070先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:35:59,055 | ERROR | E1_Qrun | Failed processing file N3251031_N3071先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:36:11,559 | ERROR | E1_Qrun | Failed processing file N3251031_N3072先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:36:24,738 | ERROR | E1_Qrun | Failed processing file N3251101_N3073先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:36:37,335 | ERROR | E1_Qrun | Failed processing file N3251101_N3075先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:36:50,171 | ERROR | E1_Qrun | Failed processing file N3251103_N3077先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:37:02,080 | ERROR | E1_Qrun | Failed processing file N3251104_N3073先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:37:13,786 | ERROR | E1_Qrun | Failed processing file N3251104_N3074先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:37:25,885 | ERROR | E1_Qrun | Failed processing file N3251104_N3075先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:37:37,456 | ERROR | E1_Qrun | Failed processing file N3251104_N3076先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:37:49,322 | ERROR | E1_Qrun | Failed processing file N3251104_N3077先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:38:00,904 | ERROR | E1_Qrun | Failed processing file N3251104_N3078先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:38:12,333 | ERROR | E1_Qrun | Failed processing file N3251104_N3080先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:38:23,793 | ERROR | E1_Qrun | Failed processing file N3251105_N3062先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:38:36,525 | ERROR | E1_Qrun | Failed processing file N3251105_N3079先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:38:48,800 | ERROR | E1_Qrun | Failed processing file N3251105_N3082先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:00,666 | ERROR | E1_Qrun | Failed processing file N3251105_N3083先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:13,263 | ERROR | E1_Qrun | Failed processing file N3251105_N3084先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:25,436 | ERROR | E1_Qrun | Failed processing file N3251106_N3081先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:36,751 | ERROR | E1_Qrun | Failed processing file N3251106_N3088先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:48,045 | ERROR | E1_Qrun | Failed processing file N3251106_N3089先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:39:57,903 | ERROR | E1_Qrun | Failed processing file N3251106_N3090先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:07,771 | ERROR | E1_Qrun | Failed processing file N3251107_N3085先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:18,486 | ERROR | E1_Qrun | Failed processing file N3251107_N3086先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:28,290 | ERROR | E1_Qrun | Failed processing file N3251108_N3087先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:38,325 | ERROR | E1_Qrun | Failed processing file N3251108_N3091先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:48,882 | ERROR | E1_Qrun | Failed processing file N3251108_N3092先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:40:58,772 | ERROR | E1_Qrun | Failed processing file N3251108_N3097先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:08,666 | ERROR | E1_Qrun | Failed processing file N3251109_N3098先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:19,514 | ERROR | E1_Qrun | Failed processing file N3251109_N3099先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:29,519 | ERROR | E1_Qrun | Failed processing file N3251109_N3100先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:39,609 | ERROR | E1_Qrun | Failed processing file N3251109_N3101先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:49,227 | ERROR | E1_Qrun | Failed processing file N3251110_N3093先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:41:59,939 | ERROR | E1_Qrun | Failed processing file N3251110_N3095先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:09,985 | ERROR | E1_Qrun | Failed processing file N3251110_N3102先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:19,871 | ERROR | E1_Qrun | Failed processing file N3251110_N3103先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:29,480 | ERROR | E1_Qrun | Failed processing file N3251111_N3094先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:39,404 | ERROR | E1_Qrun | Failed processing file N3251111_N3111先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:49,168 | ERROR | E1_Qrun | Failed processing file N3251111_N3112先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:42:59,962 | ERROR | E1_Qrun | Failed processing file N3251111_N3184先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:43:11,095 | ERROR | E1_Qrun | Failed processing file N3251111_N3185先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:43:22,764 | ERROR | E1_Qrun | Failed processing file N3251111_N3186先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:43:32,861 | ERROR | E1_Qrun | Failed processing file N3251112_N3110先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:43:42,786 | ERROR | E1_Qrun | Failed processing file N3251112_N3186先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:43:53,066 | ERROR | E1_Qrun | Failed processing file N3251113_N3156先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:03,457 | ERROR | E1_Qrun | Failed processing file N3251113_N3157先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:13,394 | ERROR | E1_Qrun | Failed processing file N3251113_N3158先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:23,307 | ERROR | E1_Qrun | Failed processing file N3251113_N3160先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:33,210 | ERROR | E1_Qrun | Failed processing file N3251113_N3161先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:43,459 | ERROR | E1_Qrun | Failed processing file N3251115_N3162先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:44:53,186 | ERROR | E1_Qrun | Failed processing file N3251115_N3187先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?
+2025-12-25 06:45:03,477 | ERROR | E1_Qrun | Failed processing file N3251116_N3153先行結果.xlsm: name '_build_connection_string' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 990, in run_for_ini
+    def run_for_ini(ini_path: Path) -> None:
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 916, in build_output_row
+    return wafer_id, lot_id
+                ^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.py", line 623, in query_database
+    SQL.selectSQL(cursor, lot_id)
+             ~~~~^^^^^^^^^^^^^^^^
+NameError: name '_build_connection_string' is not defined. Did you mean: 'build_connection_string'?

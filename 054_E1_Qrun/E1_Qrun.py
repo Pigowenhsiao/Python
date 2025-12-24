@@ -1,23 +1,26 @@
 """
-E1_Qrun_Uploader.py
+E1_Qrun.py (v1 - DB aligned with legacy SQL module)
 
-第一版：依 INI 掃描資料夾內所有符合命名規則的 Excel 檔（.xlsx/.xlsm），
-讀取指定 Sheet/Range，計算各量測欄位的 MAX/MIN/AVG/STD，並輸出 CSV + Pointer XML。
+功能：
+- 依 INI 掃描資料夾符合命名規則的 Excel 檔（.xlsx/.xlsm）
+- 讀取：
+  - 主表：HL13E1ﾃﾞｰﾀ D22:KT71（由 INI 定義）
+  - TESTER_ID：HL13E1ﾃﾞｰﾀ!AY23
+  - Start_Date_Time：ワイヤプル!Q1（由 INI 定義）
+- 由檔名擷取：
+  - Lot ID（第二段 N????）-> Serial_Number
+  - LotRule（LotID 前兩碼，如 N3）-> Waive_Leng_Cate (INI mapping)
+- Part_Number：固定輸出 HL13E1（你指定：對不到也塞 HL13E1）
+- 量測欄位：依 INI DataFields(col index) 對每欄計算 MAX/MIN/AVG/STD，欄名格式：{name}_{STAT}
+- DB 查詢：對齊範例程式碼，使用 ../MyModule/SQL.py
+  - SQL.connSQL() -> (conn, cursor)
+  - SQL.selectSQL(cursor, lot_id) -> (Part_Number?, LotNumber_9? ...) 依你們模組回傳
+- Dedup：SQLite registry 防止每日重複上傳（可由 INI 開關略過）
+- Logging：RotatingFileHandler
 
-特點：
-- 設定外部化：configparser 讀取 .ini（保留你既有 INI 結構，並支援你新增的區塊）
-- 高度模組化：掃檔 / dedup / excel 讀取 / 統計 / DB 查詢 / CSV/XML 輸出 分層
-- 日誌：RotatingFileHandler 依大小切檔
-- Dedup：SQLite registry（可用 INI 開關 skip）
-- 型別註解 + 中英 Docstring
-- 向量化統計：pandas.to_numeric(errors="coerce")，避免逐列迴圈
-
-注意（DB）：
-- 由於目前 INI 沒提供 SQL 查詢語句或表結構，本版提供「query_template」可選。
-  你可以在 [Database] 加上：
-      query_template = SELECT PartNumber, LotNumber_9 FROM YourTable WHERE LotID = ?
-  程式會用 pyodbc 執行並回填回傳欄位到 CSV。
-  若未提供 query_template 或環境沒有 pyodbc，程式會記錄 warning 並略過 DB 欄位。
+注意：
+- 本程式需要 ../MyModule/SQL.py 存在並可匯入（與你範例一致）。
+- ConfigParser interpolation 已關閉，避免 %Y... 格式字串報錯。
 """
 
 from __future__ import annotations
@@ -33,7 +36,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
+from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
 
 import pandas as pd
 from configparser import ConfigParser
@@ -43,15 +46,30 @@ try:
 except Exception as exc:  # pragma: no cover
     raise RuntimeError("openpyxl is required to read .xlsx/.xlsm") from exc
 
-# pyodbc is optional in v1 (depends on runtime environment)
+
+# -------------------------
+# Legacy module path & import (align with sample code)
+# -------------------------
+# Align with your legacy structure: sys.path.append('../MyModule')
+# This script assumes it's located under a project folder where ../MyModule exists.
+sys.path.append(str((Path(__file__).resolve().parent / "../MyModule").resolve()))
+
 try:
-    import pyodbc  # type: ignore
-except Exception:  # pragma: no cover
-    pyodbc = None  # type: ignore
+    import SQL  # type: ignore
+except Exception as exc:  # pragma: no cover
+    raise RuntimeError(
+        "Failed to import legacy SQL module. Ensure ../MyModule/SQL.py exists and is importable."
+    ) from exc
 
 
-FILENAME_RE = re.compile(r"^(N\d{7})_(N\d{4})\.(xlsx|xlsm)$", re.IGNORECASE)
-EXCEL_CELL_RE = re.compile(r"^([A-Z]+)(\d+)$", re.IGNORECASE)
+# -------------------------
+# Constants / Regex
+# -------------------------
+# Accept filenames like:
+#   N3250317_N3025先行結果.xlsm
+#   N1250922_N1004先行結果.xlsx
+# Exclude ones containing "- Copy" by logic (not regex)
+FILENAME_RE = re.compile(r"^(N\d{7})_(N\d{4}).*?\.(xlsx|xlsm)$", re.IGNORECASE)
 
 STAT_SUFFIXES = ("MAX", "MIN", "AVG", "STD")
 
@@ -70,6 +88,8 @@ class BasicInfo:
     file_name_patterns: List[str]
     retention_date_days: int
     tool_name_fallback: str
+    debug_discovery: bool
+    debug_limit_10_files: bool
 
 
 @dataclass(frozen=True)
@@ -116,8 +136,16 @@ class WaiveLengthSettings:
 
 @dataclass(frozen=True)
 class DatabaseSettings:
-    connection_string: str
-    query_template: str  # optional; can be empty
+    # Keep all INI fields (even if legacy SQL module doesn't use them directly)
+    db_connection_string: str
+    server: str
+    database: str
+    username: str
+    password: str
+    driver: str
+
+    # Output masking policy for CSV (default masked)
+    password_mask: str = "***"
 
 
 @dataclass(frozen=True)
@@ -135,6 +163,9 @@ class DataField:
 
     def excel_index(self) -> int:
         return int(self.col.strip())
+
+    def is_cell_ref(self) -> bool:
+        return self.col.strip().lower().startswith("cell_")
 
 
 @dataclass(frozen=True)
@@ -192,7 +223,12 @@ def setup_logging(log_dir: Path, operation: str) -> logging.Logger:
 # =========================
 
 def _read_ini(path: Path) -> ConfigParser:
-    cfg = ConfigParser()
+    """
+    Read INI with interpolation disabled.
+
+    關閉 interpolation，避免 %Y-%m-%d... 造成 InterpolationSyntaxError。
+    """
+    cfg = ConfigParser(interpolation=None)
     cfg.read(path, encoding="utf-8")
     return cfg
 
@@ -201,7 +237,6 @@ def _get_list(cfg: ConfigParser, section: str, key: str) -> List[str]:
     raw = cfg.get(section, key, fallback="").strip()
     if not raw:
         return []
-    # keep multi-line list style
     parts = [line.strip() for line in raw.splitlines() if line.strip()]
     if len(parts) == 1 and "," in parts[0]:
         return [p.strip() for p in parts[0].split(",") if p.strip()]
@@ -217,7 +252,6 @@ def _parse_fields(cfg: ConfigParser) -> List[DataField]:
             continue
         if ":" not in line:
             continue
-        # key:col:dtype
         parts = [p.strip() for p in line.split(":", 2)]
         if len(parts) != 3:
             continue
@@ -228,7 +262,6 @@ def _parse_fields(cfg: ConfigParser) -> List[DataField]:
 def _parse_waive_mapping(cfg: ConfigParser) -> Dict[str, str]:
     if not cfg.has_section("WaiveLengthCategoryMapping"):
         return {}
-    # ConfigParser lowercases keys by default; normalize to upper
     items = dict(cfg.items("WaiveLengthCategoryMapping"))
     return {k.strip().upper(): v.strip() for k, v in items.items()}
 
@@ -250,6 +283,8 @@ def load_settings(ini_path: Path) -> Settings:
         file_name_patterns=_get_list(cfg, "Basic_info", "file_name_patterns"),
         retention_date_days=cfg.getint("Basic_info", "Retention_date", fallback=7),
         tool_name_fallback=cfg.get("Basic_info", "Tool_Name", fallback="").strip(),
+        debug_discovery=cfg.getboolean("Basic_info", "debug_discovery", fallback=False),
+        debug_limit_10_files=cfg.getboolean("Basic_info", "debug_limit_10_files", fallback=False),
     )
 
     input_paths = _get_list(cfg, "Paths", "input_paths")
@@ -291,8 +326,12 @@ def load_settings(ini_path: Path) -> Settings:
     )
 
     db = DatabaseSettings(
-        connection_string=cfg.get("Database", "db_connection_string", fallback="").strip(),
-        query_template=cfg.get("Database", "query_template", fallback="").strip(),
+        db_connection_string=cfg.get("Database", "db_connection_string", fallback="").strip(),
+        server=cfg.get("Database", "server", fallback="").strip(),
+        database=cfg.get("Database", "database", fallback="").strip(),
+        username=cfg.get("Database", "username", fallback="").strip(),
+        password=cfg.get("Database", "password", fallback="").strip(),
+        driver=cfg.get("Database", "driver", fallback="").strip(),
     )
 
     fields = _parse_fields(cfg)
@@ -418,6 +457,7 @@ def _read_cell(workbook_path: Path, sheet_name: str, cell: str) -> Any:
     """
     wb = openpyxl.load_workbook(workbook_path, data_only=True, read_only=True)
     if sheet_name not in wb.sheetnames:
+        wb.close()
         raise KeyError(f"Sheet not found: {sheet_name}")
     ws = wb[sheet_name]
     value = ws[cell].value
@@ -437,17 +477,12 @@ def _coerce_datetime(value: Any, fmt_hint: str) -> Optional[datetime]:
         return None
     if isinstance(value, datetime):
         return value
-
     if isinstance(value, (int, float)):
-        # Excel serial date may appear; openpyxl usually converts to datetime if cell is date-type,
-        # but keep a safe fallback.
         try:
-            # Excel epoch is 1899-12-30 in many implementations
             base = datetime(1899, 12, 30)
             return base + pd.to_timedelta(float(value), unit="D")  # type: ignore[arg-type]
         except Exception:
             return None
-
     if isinstance(value, str):
         text = value.strip()
         if not text:
@@ -461,7 +496,6 @@ def _coerce_datetime(value: Any, fmt_hint: str) -> Optional[datetime]:
             return parsed.to_pydatetime()
         except Exception:
             return None
-
     return None
 
 
@@ -481,7 +515,12 @@ def read_start_datetime(
             value = _read_cell(file_path, settings.sheet_name, settings.cell)
             dt_obj = _coerce_datetime(value, settings.datetime_format)
     except Exception as exc:
-        logger.warning("Failed to read StartDateTime from %s!%s: %s", settings.sheet_name, settings.cell, exc)
+        logger.warning(
+            "Failed to read StartDateTime from %s!%s: %s",
+            settings.sheet_name,
+            settings.cell,
+            exc,
+        )
 
     if dt_obj is None:
         if settings.fallback_mode == "now":
@@ -489,7 +528,6 @@ def read_start_datetime(
         elif settings.fallback_mode == "blank":
             return ""
         else:
-            # default: file_mtime
             dt_obj = datetime.fromtimestamp(file_path.stat().st_mtime)
 
     return dt_obj.strftime(settings.output_format)
@@ -566,56 +604,74 @@ def compute_waive_leng_cate(
         raise ValueError(f"LotRule '{lot_rule}' not found (skip_file)")
     if behavior == "error":
         raise KeyError(f"LotRule '{lot_rule}' not found (error)")
-    # default: unknown
+
     logger.warning("LotRule '%s' not found in mapping; use %s", lot_rule, waive.unknown_value)
     return waive.unknown_value
 
 
 # =========================
-# DB query (optional template)
+# DB query (align with legacy SQL module)
 # =========================
 
-def query_database(
-    db: DatabaseSettings,
+def query_database_via_legacy_sql(
     lot_id: str,
     logger: logging.Logger,
 ) -> Dict[str, Any]:
     """
-    Query DB using lot_id and return a dict of fields.
+    Query DB using legacy SQL module (align with sample code).
 
-    使用 INI 的 query_template（若有）進行 DB 查詢。
-    - query_template 應使用 '?' 佔位符，例如：
-        SELECT PartNumber, LotNumber_9 FROM YourTable WHERE LotID = ?
-    - 回傳 dict：欄位名 -> 值
+    依範例程式碼：
+      conn, cursor = SQL.connSQL()
+      SQL.selectSQL(cursor, lot_id)
+
+    回傳 dict 欄位：
+    - 本版先假設 selectSQL 回傳 (Part_Number, LotNumber_9) 類似兩個欄位（如範例）。
+    - 若你們回傳欄位不同，只要在此函式調整 key 對應即可。
     """
-    if not db.connection_string:
-        logger.warning("DB connection_string is empty; skip DB query.")
-        return {}
-    if not db.query_template:
-        logger.warning("DB query_template is not set; skip DB query.")
-        return {}
-    if pyodbc is None:
-        logger.warning("pyodbc is not installed/available; skip DB query.")
-        return {}
-
+    conn = None
+    cursor = None
     try:
-        conn = pyodbc.connect(db.connection_string)  # type: ignore[union-attr]
-        cur = conn.cursor()
-        cur.execute(db.query_template, (lot_id,))
-        row = cur.fetchone()
-        if row is None:
-            logger.warning("DB query returned no result for LotID=%s", lot_id)
+        conn, cursor = SQL.connSQL()
+        if conn is None or cursor is None:
+            logger.error("Legacy SQL.connSQL() returned None (connection failed).")
             return {}
-        cols = [d[0] for d in cur.description] if cur.description else []
-        result: Dict[str, Any] = {}
-        for idx, col in enumerate(cols):
-            result[str(col)] = row[idx]
-        cur.close()
-        conn.close()
-        return result
+
+        result = SQL.selectSQL(cursor, str(lot_id))
+
+        # Normalize result to tuple/list
+        if result is None:
+            logger.warning("Legacy SQL.selectSQL() returned None for LotID=%s", lot_id)
+            return {}
+
+        if isinstance(result, (list, tuple)):
+            values = list(result)
+        else:
+            # Sometimes it might return a single scalar
+            values = [result]
+
+        # === Default mapping (adjust if your legacy SQL returns different columns) ===
+        out: Dict[str, Any] = {}
+        if len(values) >= 1:
+            out["DB_LOOKUP_Part_Number"] = values[0]
+        if len(values) >= 2:
+            out["DB_LOOKUP_LotNumber_9"] = values[1]
+
+        # If there are more fields, append generic names
+        for i in range(2, len(values)):
+            out[f"DB_LOOKUP_Field_{i+1}"] = values[i]
+
+        return out
+
     except Exception as exc:
-        logger.exception("DB query failed for LotID=%s: %s", lot_id, exc)
+        logger.exception("DB query failed via legacy SQL for LotID=%s: %s", lot_id, exc)
         return {}
+    finally:
+        try:
+            if conn is not None:
+                SQL.disconnSQL(conn, cursor)
+        except Exception:
+            # Don't crash on disconnect
+            pass
 
 
 # =========================
@@ -641,11 +697,10 @@ def compute_stats_for_fields(
     """
     Compute MAX/MIN/AVG/STD for each measurement field.
 
-    對每個數值欄位（col index）計算 MAX/MIN/AVG/STD，輸出欄名格式 A：{name}_{STAT}。
+    對每個數值欄位（col index）計算 MAX/MIN/AVG/STD，欄名格式 A：{name}_{STAT}。
     """
     out: Dict[str, Any] = {}
 
-    # measurement fields: numeric excel columns only
     meas = [f for f in fields if f.is_excel_col_index() and f.excel_index() >= 0]
     for f in meas:
         base = _stat_name_from_key(f.key)
@@ -784,26 +839,61 @@ def discover_source_files(
     input_paths: Sequence[Path],
     patterns: Sequence[str],
     logger: logging.Logger,
+    debug: bool = False,
 ) -> List[Path]:
     """
     Discover all files matching patterns in the input paths.
 
-    掃描所有符合 patterns 的檔案。
+    Debug mode:
+    - Print all files found in directories
+    - Print which files match / not match patterns
     """
     found: List[Path] = []
+
+    if debug:
+        print()
+        print("[DEBUG] ===== Discover Source Files =====")
+
     for base in input_paths:
+        if debug:
+            print(f"[DEBUG] Scan path: {base}")
+
         if not base.exists():
+            if debug:
+                print(f"[DEBUG] ❌ Path not exists: {base}")
             logger.warning("Input path not found: %s", base)
             continue
+
+        if debug:
+            all_files = list(base.iterdir())
+            print(f"[DEBUG]   Total files in dir: {len(all_files)}")
+            for p in all_files:
+                print(f"[DEBUG]     - {p.name}")
+
         for pat in patterns:
-            # Use glob in the directory only (not recursive); adjust if needed
-            for p in base.glob(pat):
+            if debug:
+                print(f"[DEBUG]   Try pattern: {pat}")
+            matched = list(base.glob(pat))
+            if debug:
+                print(f"[DEBUG]     Matched count: {len(matched)}")
+
+            for p in matched:
                 if p.name.startswith("~$"):
+                    if debug:
+                        print(f"[DEBUG]       Skip temp file: {p.name}")
                     continue
+
+                if debug:
+                    print(f"[DEBUG]       ✔ Matched: {p.name}")
                 found.append(p)
-    # de-duplicate
+
     uniq = sorted({p.resolve() for p in found})
+
+    if debug:
+        print(f"[DEBUG] ===== Result: {len(uniq)} candidate files =====")
+        print()
     logger.info("Discovered %d candidate files.", len(uniq))
+
     return uniq
 
 
@@ -811,18 +901,25 @@ def parse_filename_ids(file_path: Path) -> Tuple[str, str]:
     """
     Parse wafer_id and lot_id from filename.
 
-    從檔名取得 wafer_id(第一段) 與 lot_id(第二段)。
+    - 排除含 '- Copy' 的檔案
+    - 允許 '先行結果' 等後綴文字
     """
-    m = FILENAME_RE.match(file_path.name)
+    name = file_path.name
+
+    if "- Copy" in name or "copy" in name.lower():
+        raise ValueError(f"Excluded copied file: {name}")
+
+    m = FILENAME_RE.match(name)
     if not m:
-        raise ValueError(f"Invalid filename format: {file_path.name}")
+        raise ValueError(f"Invalid filename format: {name}")
+
     wafer_id = m.group(1).upper()
     lot_id = m.group(2).upper()
     return wafer_id, lot_id
 
 
 # =========================
-# Main processing per file
+# Per-file processing
 # =========================
 
 def build_output_row(
@@ -833,49 +930,57 @@ def build_output_row(
     """
     Build the final output row for one wafer file.
 
-    對單一檔案產生一列 CSV 輸出：
-    - Serial_Number / Start_Date_Time / Part_Number（必填）
-    - TESTER_ID（AY23）
-    - Waive_Leng_Cate（mapping）
-    - DB 欄位（若有）
-    - 各量測欄位統計（MAX/MIN/AVG/STD）
+    每個檔案輸出一列（summary row），包含：
+    - Serial_Number (Lot ID)
+    - Start_Date_Time (ワイヤプル!Q1)
+    - Part_Number (固定 HL13E1)
+    - TESTER_ID (AY23)
+    - Waive_Leng_Cate (INI mapping)
+    - DB connection info (from INI, assigned by Python)
+    - DB lookup fields (from legacy SQL module)
+    - Stats fields (MAX/MIN/AVG/STD)
     """
     _wafer_id, lot_id = parse_filename_ids(file_path)
 
     serial_number = lot_id
     start_dt_str = read_start_datetime(file_path, settings.start_dt, logger)
 
-    # Waive_Leng_Cate from INI mapping
     waive_leng = compute_waive_leng_cate(lot_id, settings.waive, logger)
 
-    # Part_Number rule: always "HL13E1" (even if mapping unknown)
+    # Your rule: always HL13E1
     part_number = "HL13E1"
 
     tester_id = read_tester_id_ay23(file_path, settings.excel.sheet_name, logger)
     if not tester_id:
         tester_id = settings.basic.tool_name_fallback
 
-    # DB lookup using Lot ID (N????)
-    db_fields = query_database(settings.db, lot_id, logger)
+    # DB query using legacy module
+    db_lookup_fields = query_database_via_legacy_sql(lot_id, logger)
 
-    # Read main data table and compute stats
+    # Read main data and compute stats
     df = read_main_table(file_path, settings.excel, logger)
     stats = compute_stats_for_fields(df, settings.fields, logger)
 
+    # DB connection info columns (write into CSV as requested)
+    # Password masked by default to prevent leakage
     row: Dict[str, Any] = {
         "Serial_Number": serial_number,
         "Start_Date_Time": start_dt_str,
         "Part_Number": part_number,
         "TESTER_ID": tester_id,
         "Waive_Leng_Cate": waive_leng,
-        "Source_File": file_path.name,  # traceability
+        "DB_SERVER": settings.db.server,
+        "DB_DATABASE": settings.db.database,
+        "DB_USERNAME": settings.db.username,
+        "DB_DRIVER": settings.db.driver,
+        "DB_PASSWORD": settings.db.password_mask,
+        "Source_File": file_path.name,
     }
 
-    # merge DB fields (if any)
-    for k, v in db_fields.items():
-        row[str(k)] = v
+    # Merge DB lookup results
+    row.update(db_lookup_fields)
 
-    # merge stats
+    # Merge stats
     row.update(stats)
     return row
 
@@ -903,14 +1008,22 @@ def run_for_ini(ini_path: Path) -> None:
         registry = DedupRegistry(settings.dedup.db_path, logger)
         logger.info("Dedup enabled: %s", settings.dedup.db_path)
     else:
-        logger.info("Dedup skipped (enable_dedup=%s, skip_dedup_check=%s)",
-                    settings.dedup.enable_dedup, settings.dedup.skip_dedup_check)
+        logger.info(
+            "Dedup skipped (enable_dedup=%s, skip_dedup_check=%s)",
+            settings.dedup.enable_dedup,
+            settings.dedup.skip_dedup_check,
+        )
 
     files = discover_source_files(
         settings.paths.input_paths,
         settings.basic.file_name_patterns,
         logger,
+        debug=settings.basic.debug_discovery,
     )
+
+    if settings.basic.debug_limit_10_files:
+        files = files[:10]
+        logger.info("Debug limit enabled: processing only %d files.", len(files))
 
     processed_count = 0
     skipped_count = 0
@@ -918,7 +1031,7 @@ def run_for_ini(ini_path: Path) -> None:
 
     for f in files:
         try:
-            # strict filename check
+            # strict filename check (also excludes "- Copy")
             parse_filename_ids(f)
 
             fp = compute_fingerprint(f, settings.dedup.fingerprint_mode)
@@ -929,15 +1042,12 @@ def run_for_ini(ini_path: Path) -> None:
                 logger.info("Skip (dedup): %s", f.name)
                 continue
 
-            # build row
             row = build_output_row(f, settings, logger)
-
-            # append to csv
             append_csv(csv_out, row)
+
             processed_count += 1
             logger.info("Processed: %s", f.name)
 
-            # dedup registry mark success
             if registry:
                 registry.add(
                     fingerprint=fp,
@@ -953,7 +1063,6 @@ def run_for_ini(ini_path: Path) -> None:
         except Exception as exc:
             error_count += 1
             logger.exception("Failed processing file %s: %s", f.name, exc)
-            # mark failure (optional)
             if not f.exists():
                 continue
             try:
@@ -971,21 +1080,23 @@ def run_for_ini(ini_path: Path) -> None:
                         message=str(exc),
                     )
             except Exception:
-                # ignore dedup logging errors
                 pass
 
     xml_out: Optional[Path] = None
     if csv_out.exists() and csv_out.stat().st_size > 0:
-        # Use a run-level serial as CSV stem; your legacy used csv stem as serial,
-        # but here we follow your new rule: Serial_Number is Lot ID per-row.
-        # For pointer XML, choose a unique serial for traceability:
         serial_for_xml = csv_out.stem
         xml_out = generate_pointer_xml(settings.paths.output_path, settings, csv_out, serial_for_xml)
         logger.info("Pointer XML generated: %s", xml_out)
 
     logger.info("==== End ====")
-    logger.info("Processed=%d Skipped=%d Errors=%d CSV=%s XML=%s",
-                processed_count, skipped_count, error_count, csv_out, xml_out)
+    logger.info(
+        "Processed=%d Skipped=%d Errors=%d CSV=%s XML=%s",
+        processed_count,
+        skipped_count,
+        error_count,
+        csv_out,
+        xml_out,
+    )
 
 
 def main(argv: Sequence[str]) -> int:
@@ -993,11 +1104,10 @@ def main(argv: Sequence[str]) -> int:
     CLI entry.
 
     用法：
-      python E1_Qrun_Uploader.py <your_config.ini>
+      python E1_Qrun.py <your_config.ini>
 
     若未提供參數，會在同目錄掃描所有 .ini 並逐一執行。
     """
-    # Ensure working directory is script dir
     os.chdir(Path(__file__).resolve().parent)
 
     if len(argv) >= 2:
@@ -1008,7 +1118,6 @@ def main(argv: Sequence[str]) -> int:
         run_for_ini(ini_path)
         return 0
 
-    # fallback: run all ini in current dir
     ini_files = sorted(Path(".").glob("*.ini"))
     if not ini_files:
         print("No .ini files found in current directory.")
