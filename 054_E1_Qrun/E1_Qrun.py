@@ -171,8 +171,9 @@ def setup_logging(log_dir: Path, operation: str) -> logging.Logger:
     Set up rotating loggers for file and console output.
     ファイルとコンソール出力用のローテーションログを設定する。
     """
-    log_dir.mkdir(parents=True, exist_ok=True)
-    log_file = log_dir / f"{operation}_{datetime.now().strftime('%Y%m%d')}.log"
+    date_folder = log_dir / datetime.now().strftime("%Y-%m-%d")
+    date_folder.mkdir(parents=True, exist_ok=True)
+    log_file = date_folder / f"{operation}_{datetime.now().strftime('%Y%m%d')}.log"
 
     logger = logging.getLogger(operation)
     logger.setLevel(logging.INFO)

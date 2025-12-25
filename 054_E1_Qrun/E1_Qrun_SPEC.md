@@ -28,8 +28,8 @@
 * 合法格式：
 
   ```
-  Nxxxxxxx_Nxxxx先行結果.xlsm
-  Nxxxxxxx_Nxxxx先行結果.xlsx
+  Nxxxxxxx_Nxxxx*.xlsm
+  Nxxxxxxx_Nxxxx*.xlsx
   ```
 
 * 說明：
@@ -49,7 +49,7 @@
 * Python 以 Regex 做最終驗證：
 
   ```
-  ^(N\d{7})_(N\d{4}).*?\.(xlsx|xlsm)$
+  ^(N[A-Z0-9]{7})_(N[A-Z0-9]{4}).*?\.(xlsx|xlsm)$
   ```
 
 ---
