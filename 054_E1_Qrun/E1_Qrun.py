@@ -5,6 +5,7 @@ E1_Qrun uploader: read INI, parse Excel, compute stats, output CSV/XML, optional
 
 from __future__ import annotations
 
+import fnmatch
 import hashlib
 import logging
 import os
@@ -101,7 +102,6 @@ class StartDateTimeSettings:
 @dataclass(frozen=True)
 class DedupSettings:
     enable_dedup: bool
-    skip_dedup_check: bool
     db_path: Path
     fingerprint_mode: str  # stat / sha256
     debug_discovery: bool
@@ -201,6 +201,16 @@ def setup_logging(log_dir: Path, operation: str) -> logging.Logger:
     return logger
 
 
+def debug_log(logger: logging.Logger, enabled: bool, msg: str, *args: Any) -> None:
+    """
+    Emit debug details when enabled.
+    デバッグ有効時のみ詳細ログを出力する。
+    """
+    if not enabled:
+        return
+    logger.info("[DEBUG] " + msg, *args)
+
+
 # =========================
 # Config parsing / 設定読み込み
 # =========================
@@ -294,7 +304,6 @@ def load_settings(ini_path: Path) -> Settings:
 
     dedup = DedupSettings(
         enable_dedup=cfg.getboolean("Dedup", "enable_dedup", fallback=True),
-        skip_dedup_check=cfg.getboolean("Dedup", "skip_dedup_check", fallback=False),
         db_path=Path(cfg.get("Dedup", "dedup_db_path", fallback="./dedup_registry.sqlite")),
         fingerprint_mode=cfg.get("Dedup", "fingerprint_mode", fallback="stat").strip().lower(),
         debug_discovery=cfg.getboolean("Dedup", "debug_discovery", fallback=False),
@@ -880,13 +889,15 @@ def discover_source_files(
     input_paths: Sequence[Path],
     patterns: Sequence[str],
     logger: logging.Logger,
+    cutoff_dt: Optional[datetime] = None,
     debug: bool = False,
 ) -> List[Path]:
     """
     Find source files matching patterns in input paths.
-    入力パスでパターン一致ファイルを探索する。
+    ?.??S>a?`a,1a??a?`a,?a??a?3?,???'a??a,?a,?a??a,'?Z??'?a?Ta,<a?,
     """
     found: List[Path] = []
+    skipped_by_mtime = 0
 
     if debug:
         print()
@@ -898,32 +909,42 @@ def discover_source_files(
 
         if not base.exists():
             if debug:
-                print(f"[DEBUG] ❌ Path not exists: {base}")
+                print(f"[DEBUG] ??O Path not exists: {base}")
             logger.warning("Input path not found: %s", base)
             continue
 
         if debug:
-            all_files = list(base.iterdir())
-            print(f"[DEBUG]   Total files in dir: {len(all_files)}")
-            for p in all_files:
-                print(f"[DEBUG]     - {p.name}")
+            entries = list(os.scandir(base))
+            print(f"[DEBUG]   Total files in dir: {len(entries)}")
+            for e in entries:
+                print(f"[DEBUG]     - {e.name}")
+        else:
+            entries = os.scandir(base)
 
-        for pat in patterns:
-            if debug:
+        if debug:
+            for pat in patterns:
                 print(f"[DEBUG]   Try pattern: {pat}")
-            matched = list(base.glob(pat))
-            if debug:
-                print(f"[DEBUG]     Matched count: {len(matched)}")
 
-            for p in matched:
-                if p.name.startswith("~$"):
+        for entry in entries:
+            if not entry.is_file():
+                continue
+            if entry.name.startswith("~$"):
+                if debug:
+                    print(f"[DEBUG]       Skip temp file: {entry.name}")
+                continue
+            if not any(fnmatch.fnmatch(entry.name, pat) for pat in patterns):
+                continue
+            if cutoff_dt is not None:
+                mtime = datetime.fromtimestamp(entry.stat().st_mtime)
+                if mtime < cutoff_dt:
+                    skipped_by_mtime += 1
                     if debug:
-                        print(f"[DEBUG]       Skip temp file: {p.name}")
+                        print(f"[DEBUG]       Skip by mtime: {entry.name}")
                     continue
 
-                if debug:
-                    print(f"[DEBUG]       ✔ Matched: {p.name}")
-                found.append(p)
+            if debug:
+                print(f"[DEBUG]       Matched: {entry.name}")
+            found.append(Path(entry.path))
 
     uniq = sorted({p.resolve() for p in found})
 
@@ -931,8 +952,14 @@ def discover_source_files(
         print(f"[DEBUG] ===== Result: {len(uniq)} candidate files =====")
         print()
     logger.info("Discovered %d candidate files.", len(uniq))
+    if cutoff_dt is not None:
+        logger.info("Skipped by mtime: %d", skipped_by_mtime)
 
     return uniq
+
+
+class SkipFile(Exception):
+    pass
 
 
 def parse_filename_ids(file_path: Path) -> Tuple[str, str]:
@@ -945,7 +972,7 @@ def parse_filename_ids(file_path: Path) -> Tuple[str, str]:
     name = file_path.name
 
     if "- Copy" in name or "copy" in name.lower():
-        raise ValueError(f"Excluded copied file: {name}")
+        raise SkipFile(f"Excluded copied file: {name}")
 
     m = FILENAME_RE.match(name)
     if not m:
@@ -1029,55 +1056,93 @@ def run_for_ini(ini_path: Path) -> None:
     """
     settings = load_settings(ini_path)
     logger = setup_logging(settings.paths.log_path, settings.basic.operation)
+    debug_enabled = settings.dedup.debug_discovery
 
     logger.info("==== Start E1_Qrun uploader ====")
     logger.info("INI: %s", ini_path.resolve())
+    debug_log(logger, debug_enabled, "Settings loaded.")
 
     ensure_dir(settings.paths.csv_path)
     ensure_dir(settings.paths.output_path)
     ensure_dir(settings.paths.intermediate_data_path)
+    debug_log(logger, debug_enabled, "Ensure dirs: csv=%s, xml=%s, intermediate=%s",
+             settings.paths.csv_path, settings.paths.output_path, settings.paths.intermediate_data_path)
 
     csv_out = make_output_csv_path(settings.paths.csv_path, settings.basic.operation)
     logger.info("CSV output: %s", csv_out)
+    debug_log(logger, debug_enabled, "CSV output path prepared.")
 
     registry: Optional[DedupRegistry] = None
-    if settings.dedup.enable_dedup and not settings.dedup.skip_dedup_check:
+    if settings.dedup.enable_dedup:
         registry = DedupRegistry(settings.dedup.db_path, logger)
         logger.info("Dedup enabled: %s", settings.dedup.db_path)
     else:
-        logger.info(
-            "Dedup skipped (enable_dedup=%s, skip_dedup_check=%s)",
-            settings.dedup.enable_dedup,
-            settings.dedup.skip_dedup_check,
+        logger.info("Dedup skipped (enable_dedup=%s)", settings.dedup.enable_dedup)
+    debug_log(logger, debug_enabled, "Dedup registry initialized=%s", registry is not None)
+
+    cutoff_dt: Optional[datetime] = None
+    if settings.dedup.db_filter_by_mtime:
+        cutoff_dt = datetime.now() - timedelta(days=settings.dedup.db_filter_days)
+        debug_log(
+            logger,
+            debug_enabled,
+            "Mtime filter on: cutoff=%s",
+            cutoff_dt.strftime("%Y-%m-%d %H:%M:%S"),
         )
 
     files = discover_source_files(
         settings.paths.input_paths,
         settings.basic.file_name_patterns,
         logger,
+        cutoff_dt=cutoff_dt,
         debug=settings.dedup.debug_discovery,
     )
+    debug_log(logger, debug_enabled, "Discovered %d files before debug limit.", len(files))
 
     if settings.dedup.debug_limit_10_files:
         files = files[:10]
         logger.info("Debug limit enabled: processing only %d files.", len(files))
+    debug_log(logger, debug_enabled, "Files to process: %d", len(files))
 
-    # Pre-collect Lot IDs for one-shot DB querying
+    processed_count = 0
+    skipped_count = 0
+    error_count = 0
+
+    # Step 2: filename check, Step 3: dedup
+    candidate_files: List[Path] = []
     lot_ids: List[str] = []
-    cutoff_dt: Optional[datetime] = None
-    if settings.dedup.db_filter_by_mtime:
-        cutoff_dt = datetime.now() - timedelta(days=settings.dedup.db_filter_days)
+    file_fps: Dict[Path, str] = {}
+    file_stats: Dict[Path, os.stat_result] = {}
+
     for f in files:
         try:
-            _wafer_id, lot_id = parse_filename_ids(f)
-            if cutoff_dt is not None:
-                mtime = datetime.fromtimestamp(f.stat().st_mtime)
-                if mtime < cutoff_dt:
-                    continue
-            lot_ids.append(lot_id)
-        except Exception:
-            continue
+            st: Optional[os.stat_result] = None
+            if registry:
+                st = f.stat()
 
+            _wafer_id, lot_id = parse_filename_ids(f)
+
+            if registry:
+                fp = compute_fingerprint(f, settings.dedup.fingerprint_mode)
+                if registry.has(fp):
+                    skipped_count += 1
+                    logger.info("Skip (dedup): %s", f.name)
+                    continue
+                file_fps[f] = fp
+                file_stats[f] = st if st is not None else f.stat()
+
+            candidate_files.append(f)
+            lot_ids.append(lot_id)
+        except SkipFile:
+            skipped_count += 1
+            logger.info("Skip (copied): %s", f.name)
+        except Exception as exc:
+            error_count += 1
+            logger.exception("Failed processing file %s: %s", f.name, exc)
+
+    logger.info("Candidates after filter: %d", len(candidate_files))
+
+    # Step 4: DB query (one-shot)
     db_lookup_map: Optional[Dict[str, Dict[str, Any]]] = None
     if lot_ids:
         if cutoff_dt is not None:
@@ -1087,31 +1152,24 @@ def run_for_ini(ini_path: Path) -> None:
                 settings.dedup.db_filter_days,
             )
         db_lookup_map = query_database_bulk_via_legacy_sql(lot_ids, logger)
+        debug_log(logger, debug_enabled, "DB bulk map size: %d", len(db_lookup_map))
 
-    processed_count = 0
-    skipped_count = 0
-    error_count = 0
-
-    for f in files:
+    # Step 5: data processing
+    for f in candidate_files:
         try:
-            # strict filename check (also excludes "- Copy") / 厳格なファイル名チェック（"- Copy" も除外）
-            parse_filename_ids(f)
-
-            fp = compute_fingerprint(f, settings.dedup.fingerprint_mode)
-            st = f.stat()
-
-            if registry and registry.has(fp):
-                skipped_count += 1
-                logger.info("Skip (dedup): %s", f.name)
-                continue
+            debug_log(logger, debug_enabled, "Start file: %s", f.name)
 
             row = build_output_row(f, settings, logger, db_lookup_map=db_lookup_map)
+            debug_log(logger, debug_enabled, "Row built: %s", f.name)
             append_csv(csv_out, row)
+            debug_log(logger, debug_enabled, "Row appended: %s", f.name)
 
             processed_count += 1
             logger.info("Processed: %s", f.name)
 
             if registry:
+                fp = file_fps.get(f, compute_fingerprint(f, settings.dedup.fingerprint_mode))
+                st = file_stats.get(f, f.stat())
                 registry.add(
                     fingerprint=fp,
                     file_path=f,
@@ -1129,8 +1187,8 @@ def run_for_ini(ini_path: Path) -> None:
             if not f.exists():
                 continue
             try:
-                fp = compute_fingerprint(f, settings.dedup.fingerprint_mode)
-                st = f.stat()
+                fp = file_fps.get(f, compute_fingerprint(f, settings.dedup.fingerprint_mode))
+                st = file_stats.get(f, f.stat())
                 if registry:
                     registry.add(
                         fingerprint=fp,

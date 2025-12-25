@@ -222,6 +222,14 @@ SQL.disconnSQL(conn, cursor)
 * ????? Lot ID?????? DB ?????????????????
 * ????? Lot ID ? key ????????? CSV?
 
+### 7.5 File processing order (performance)
+
+1. Filter by file mtime (when `db_filter_by_mtime = true`)
+2. Filename format check (also excludes `- Copy`)
+3. Dedup check (when `enable_dedup = true`)
+4. One-shot DB lookup for remaining Lot IDs
+5. File read + data processing + CSV output
+
 ---
 
 ## 8. Dedup（避免重複上傳）
@@ -236,7 +244,6 @@ SQL.disconnSQL(conn, cursor)
 ```ini
 [Dedup]
 enable_dedup = true
-skip_dedup_check = false
 dedup_db_path = ../DataFile/054_E1_Qrun/dedup_registry.sqlite
 fingerprint_mode = stat
 debug_discovery = false
