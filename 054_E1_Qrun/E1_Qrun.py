@@ -68,6 +68,7 @@ class BasicInfo:
     file_name_patterns: List[str]
     retention_date_days: int
     tool_name_fallback: str
+    part_number_default: str
 
 
 @dataclass(frozen=True)
@@ -263,6 +264,7 @@ def load_settings(ini_path: Path) -> Settings:
         file_name_patterns=_get_list(cfg, "Basic_info", "file_name_patterns"),
         retention_date_days=cfg.getint("Basic_info", "Retention_date", fallback=7),
         tool_name_fallback=cfg.get("Basic_info", "Tool_Name", fallback="").strip(),
+        part_number_default=cfg.get("Basic_info", "Part_Number", fallback="HL13E1").strip(),
     )
 
     input_paths = _get_list(cfg, "Paths", "input_paths")
@@ -811,7 +813,7 @@ def generate_pointer_xml(
         f"Site={settings.basic.site},"
         f"ProductFamily={settings.basic.product_family},"
         f"Operation={settings.basic.operation},"
-        f"Partnumber=HL13E1,"
+        f"Partnumber={settings.basic.part_number_default},"
         f"Serialnumber={serial_no},"
         f"Testdate={now_iso}.xml"
     ).replace(":", ".")
@@ -836,7 +838,7 @@ def generate_pointer_xml(
         result,
         "Header",
         SerialNumber=serial_no,
-        PartNumber="HL13E1",
+        PartNumber=settings.basic.part_number_default,
         Operation=settings.basic.operation,
         TestStation=settings.basic.test_station,
         Operator="NA",
@@ -976,8 +978,8 @@ def build_output_row(
 
     waive_leng = compute_waive_leng_cate(lot_id, settings.waive, logger)
 
-    # Default Part_Number is HL13E1; override when DB provides a value / 既定はHL13E1、DB値があれば上書き
-    part_number = "HL13E1"
+    # Default Part_Number comes from INI; override when DB provides a value / 既定はINIの値、DB値があれば上書き
+    part_number = settings.basic.part_number_default
 
     tester_id = read_tester_id_ay23(file_path, settings.excel.sheet_name, logger)
     if not tester_id:
