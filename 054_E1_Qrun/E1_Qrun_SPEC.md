@@ -60,7 +60,8 @@
 | --------------- | ----------------------------- |
 | Serial_Number   | Lot ID（檔名第二段 `N????`）         |
 | Start_Date_Time | Excel 指定工作表/儲存格（見 §4）         |
-| Part_Number     | 固定輸出 `HL13E1`（即使 mapping 對不到） |
+| Part_Number     | 預設 `HL13E1`，若 DB 回傳 Part_Number 則覆蓋 |
+| LotNumber_9     | 由 DB 回傳；若 DB 為空則保持空白 |
 | TESTER_ID       | Excel 主表 `HL13E1ﾃﾞｰﾀ!AY23`    |
 | Waive_Leng_Cate | Lot Rule 對照表（INI）             |
 
@@ -202,7 +203,7 @@ SQL.disconnSQL(conn, cursor)
 ```
 
 * `lot_id` = `N????`
-* 回傳欄位依既有模組定義（例：Part_Number, LotNumber_9）
+* 回傳欄位依既有模組定義（例：LotID, Part_Number, LotNumber_9）
 
 ### 7.3 DB 環境資訊輸出至 CSV
 
@@ -213,6 +214,13 @@ SQL.disconnSQL(conn, cursor)
   * `DB_USERNAME`
   * `DB_DRIVER`
   * `DB_PASSWORD`（**遮罩輸出 `***`**）
+
+---
+
+### 7.4 One-shot DB query (reduce connect/disconnect)
+
+* ????? Lot ID?????? DB ?????????????????
+* ????? Lot ID ? key ????????? CSV?
 
 ---
 
@@ -231,7 +239,15 @@ enable_dedup = true
 skip_dedup_check = false
 dedup_db_path = ../DataFile/054_E1_Qrun/dedup_registry.sqlite
 fingerprint_mode = stat
+debug_discovery = false
+debug_limit_10_files = true
+db_filter_by_mtime = false
+db_filter_days = 30
 ```
+* `debug_discovery` = true 時，會輸出檔案掃描的 debug log
+* `debug_limit_10_files` = true 時，只處理前 10 個檔案，處理完就結束
+* `db_filter_by_mtime` = true 時，僅查詢檔案修改時間在指定天數內的 Lot ID
+* `db_filter_days` = 篩選天數（以檔案修改時間為準）
 
 ---
 
@@ -256,7 +272,7 @@ CSV 由以下幾大區塊組成（由左至右）：
 
    * `Serial_Number`（Lot ID，N????）
    * `Start_Date_Time`（ワイヤプル!Q1）
-   * `Part_Number`（固定 `HL13E1`）
+   * `Part_Number` 預設 `HL13E1`，若 DB 回傳 Part_Number 則覆蓋
 
 2. **設備 / 分類欄位**
 
@@ -273,8 +289,9 @@ CSV 由以下幾大區塊組成（由左至右）：
 
 4. **DB 查詢結果欄位（Legacy SQL Module）**
 
-   * `DB_LOOKUP_Part_Number`
-   * `DB_LOOKUP_LotNumber_9`
+   * `DB_LOOKUP_Part_Number`（會用來覆蓋 `Part_Number`，本欄位不再輸出）
+   * `LotNumber_9`
+   * `LotNumber_9` 由 DB 回傳，空值則保持空白
    * 其他回傳欄位（若有）：`DB_LOOKUP_Field_N`
 
 5. **量測統計欄位（依 DataFields 定義展開）**
@@ -377,5 +394,18 @@ Site={Site},ProductFamily={ProductFamily},Operation={Operation},Partnumber=HL13E
 * 後續若有新增欄位 / 規則變更，需同步更新本 SPEC。
 
 ---
+
+---
+
+## 12. Static Validation Checklist
+
+* INI/encoding: `054_E1_Qrun/E1_Qrun.INI` is UTF-8; `[Excel] sheet_name` and `[StartDateTime] sheet_name` match Excel sheet names.
+* Filename rules: `FILENAME_RE` allows suffix; files containing `- Copy` or `copy` are excluded by `parse_filename_ids`.
+* Paths access: `input_paths/output_path/CSV_path/log_path/dedup_db_path` are reachable with read/write permissions.
+* Dependencies: `openpyxl`, `pandas` are importable; `pyodbc` is required only when DB query is enabled.
+* DB query: `query_template` is set and returns 1 row; only the first row is written to CSV.
+* DataFields: column indices map within `D:KT` and `main_nrows` range.
+* Debug toggles: `[Dedup] debug_discovery/debug_limit_10_files` behave as expected; `debug_limit_10_files=true` processes only the first 10 files.
+* Discovery scope: file scan is non-recursive; subfolders are not scanned.
 
 （End of SPEC）

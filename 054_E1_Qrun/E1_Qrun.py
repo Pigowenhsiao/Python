@@ -1,26 +1,6 @@
 """
-E1_Qrun.py (v1 - DB aligned with legacy SQL module)
-
-功能：
-- 依 INI 掃描資料夾符合命名規則的 Excel 檔（.xlsx/.xlsm）
-- 讀取：
-  - 主表：HL13E1ﾃﾞｰﾀ D22:KT71（由 INI 定義）
-  - TESTER_ID：HL13E1ﾃﾞｰﾀ!AY23
-  - Start_Date_Time：ワイヤプル!Q1（由 INI 定義）
-- 由檔名擷取：
-  - Lot ID（第二段 N????）-> Serial_Number
-  - LotRule（LotID 前兩碼，如 N3）-> Waive_Leng_Cate (INI mapping)
-- Part_Number：固定輸出 HL13E1（你指定：對不到也塞 HL13E1）
-- 量測欄位：依 INI DataFields(col index) 對每欄計算 MAX/MIN/AVG/STD，欄名格式：{name}_{STAT}
-- DB 查詢：對齊範例程式碼，使用 ../MyModule/SQL.py
-  - SQL.connSQL() -> (conn, cursor)
-  - SQL.selectSQL(cursor, lot_id) -> (Part_Number?, LotNumber_9? ...) 依你們模組回傳
-- Dedup：SQLite registry 防止每日重複上傳（可由 INI 開關略過）
-- Logging：RotatingFileHandler
-
-注意：
-- 本程式需要 ../MyModule/SQL.py 存在並可匯入（與你範例一致）。
-- ConfigParser interpolation 已關閉，避免 %Y... 格式字串報錯。
+E1_Qrun uploader: read INI, parse Excel, compute stats, output CSV/XML, optional DB lookup and dedup.
+スクリプトはINI読み込み、Excel解析、統計計算、CSV/XML出力、DB照会と重複除去（任意）を行う。
 """
 
 from __future__ import annotations
@@ -33,7 +13,7 @@ import sqlite3
 import sys
 import uuid
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timedelta
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
 from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
@@ -48,10 +28,10 @@ except Exception as exc:  # pragma: no cover
 
 
 # -------------------------
-# Legacy module path & import (align with sample code)
+# Legacy module path & import (align with sample code) / レガシーモジュールのパスと読み込み（サンプルに合わせる）
 # -------------------------
-# Align with your legacy structure: sys.path.append('../MyModule')
-# This script assumes it's located under a project folder where ../MyModule exists.
+# Align with your legacy structure: sys.path.append('../MyModule') / 既存構成に合わせて sys.path を追加
+# This script assumes it's located under a project folder where ../MyModule exists. / 本スクリプトは ../MyModule が存在する構成を前提とする
 sys.path.append(str((Path(__file__).resolve().parent / "../MyModule").resolve()))
 
 try:
@@ -63,19 +43,19 @@ except Exception as exc:  # pragma: no cover
 
 
 # -------------------------
-# Constants / Regex
+# Constants / Regex / 定数・正規表現
 # -------------------------
-# Accept filenames like:
+# Accept filenames like: / 例として許可されるファイル名
 #   N3250317_N3025先行結果.xlsm
 #   N1250922_N1004先行結果.xlsx
-# Exclude ones containing "- Copy" by logic (not regex)
-FILENAME_RE = re.compile(r"^(N\d{7})_(N\d{4}).*?\.(xlsx|xlsm)$", re.IGNORECASE)
+# Exclude ones containing "- Copy" by logic (not regex) / "- Copy" を含むものはロジックで除外
+FILENAME_RE = re.compile(r"^(N[A-Z0-9]{7})_(N[A-Z0-9]{4}).*?\.(xlsx|xlsm)$", re.IGNORECASE)
 
 STAT_SUFFIXES = ("MAX", "MIN", "AVG", "STD")
 
 
 # =========================
-# Dataclasses: Settings
+# Dataclasses: Settings / データクラス（設定）
 # =========================
 
 @dataclass(frozen=True)
@@ -88,8 +68,6 @@ class BasicInfo:
     file_name_patterns: List[str]
     retention_date_days: int
     tool_name_fallback: str
-    debug_discovery: bool
-    debug_limit_10_files: bool
 
 
 @dataclass(frozen=True)
@@ -125,6 +103,10 @@ class DedupSettings:
     skip_dedup_check: bool
     db_path: Path
     fingerprint_mode: str  # stat / sha256
+    debug_discovery: bool
+    debug_limit_10_files: bool
+    db_filter_by_mtime: bool
+    db_filter_days: int
 
 
 @dataclass(frozen=True)
@@ -136,7 +118,7 @@ class WaiveLengthSettings:
 
 @dataclass(frozen=True)
 class DatabaseSettings:
-    # Keep all INI fields (even if legacy SQL module doesn't use them directly)
+    # Keep all INI fields (even if legacy SQL module doesn't use them directly) / INI項目は未使用でも保持
     db_connection_string: str
     server: str
     database: str
@@ -144,7 +126,7 @@ class DatabaseSettings:
     password: str
     driver: str
 
-    # Output masking policy for CSV (default masked)
+    # Output masking policy for CSV (default masked) / CSV 出力のマスク方針（既定はマスク）
     password_mask: str = "***"
 
 
@@ -181,14 +163,13 @@ class Settings:
 
 
 # =========================
-# Logging
+# Logging / ロギング
 # =========================
 
 def setup_logging(log_dir: Path, operation: str) -> logging.Logger:
     """
-    Set up logging with rotation.
-
-    建立 RotatingFileHandler，依檔案大小自動分檔。
+    Set up rotating loggers for file and console output.
+    ファイルとコンソール出力用のローテーションログを設定する。
     """
     log_dir.mkdir(parents=True, exist_ok=True)
     log_file = log_dir / f"{operation}_{datetime.now().strftime('%Y%m%d')}.log"
@@ -219,14 +200,13 @@ def setup_logging(log_dir: Path, operation: str) -> logging.Logger:
 
 
 # =========================
-# Config parsing
+# Config parsing / 設定読み込み
 # =========================
 
 def _read_ini(path: Path) -> ConfigParser:
     """
-    Read INI with interpolation disabled.
-
-    關閉 interpolation，避免 %Y-%m-%d... 造成 InterpolationSyntaxError。
+    Read INI using UTF-8 (with BOM) and no interpolation.
+    UTF-8（BOM可）でINIを読み込み、補間を無効化する。
     """
     cfg = ConfigParser(interpolation=None)
     cfg.read(path, encoding="utf-8")
@@ -268,9 +248,8 @@ def _parse_waive_mapping(cfg: ConfigParser) -> Dict[str, str]:
 
 def load_settings(ini_path: Path) -> Settings:
     """
-    Load settings from INI.
-
-    從 INI 讀取所有設定並轉為 dataclass。
+    Parse INI into Settings dataclasses.
+    INIを読み取りSettingsデータクラスに変換する。
     """
     cfg = _read_ini(ini_path)
 
@@ -283,8 +262,6 @@ def load_settings(ini_path: Path) -> Settings:
         file_name_patterns=_get_list(cfg, "Basic_info", "file_name_patterns"),
         retention_date_days=cfg.getint("Basic_info", "Retention_date", fallback=7),
         tool_name_fallback=cfg.get("Basic_info", "Tool_Name", fallback="").strip(),
-        debug_discovery=cfg.getboolean("Basic_info", "debug_discovery", fallback=False),
-        debug_limit_10_files=cfg.getboolean("Basic_info", "debug_limit_10_files", fallback=False),
     )
 
     input_paths = _get_list(cfg, "Paths", "input_paths")
@@ -317,6 +294,10 @@ def load_settings(ini_path: Path) -> Settings:
         skip_dedup_check=cfg.getboolean("Dedup", "skip_dedup_check", fallback=False),
         db_path=Path(cfg.get("Dedup", "dedup_db_path", fallback="./dedup_registry.sqlite")),
         fingerprint_mode=cfg.get("Dedup", "fingerprint_mode", fallback="stat").strip().lower(),
+        debug_discovery=cfg.getboolean("Dedup", "debug_discovery", fallback=False),
+        debug_limit_10_files=cfg.getboolean("Dedup", "debug_limit_10_files", fallback=False),
+        db_filter_by_mtime=cfg.getboolean("Dedup", "db_filter_by_mtime", fallback=False),
+        db_filter_days=cfg.getint("Dedup", "db_filter_days", fallback=30),
     )
 
     waive = WaiveLengthSettings(
@@ -349,14 +330,13 @@ def load_settings(ini_path: Path) -> Settings:
 
 
 # =========================
-# Dedup registry (SQLite)
+# Dedup registry (SQLite) / 重複排除レジストリ（SQLite）
 # =========================
 
 class DedupRegistry:
     """
-    Dedup registry using SQLite.
-
-    使用 SQLite 紀錄已處理檔案 fingerprint，避免每日重複上傳。
+    SQLite-backed registry for processed files.
+    処理済みファイルを管理するSQLiteレジストリ。
     """
 
     def __init__(self, db_path: Path, logger: logging.Logger) -> None:
@@ -427,11 +407,8 @@ class DedupRegistry:
 
 def compute_fingerprint(path: Path, mode: str) -> str:
     """
-    Compute fingerprint for a file.
-
-    計算檔案指紋：
-    - stat：用 path+size+mtime（快速）
-    - sha256：對內容做 hash（最準但慢）
+    Compute a fingerprint for a file (stat or sha256).
+    ファイルの指紋を算出する（stat/sha256）。
     """
     st = path.stat()
     if mode == "sha256":
@@ -446,14 +423,13 @@ def compute_fingerprint(path: Path, mode: str) -> str:
 
 
 # =========================
-# Excel helpers
+# Excel helpers / Excel ヘルパー
 # =========================
 
 def _read_cell(workbook_path: Path, sheet_name: str, cell: str) -> Any:
     """
-    Read a single cell from an Excel workbook.
-
-    讀取指定工作表與儲存格（支援 .xlsx/.xlsm）。
+    Read one cell from an Excel sheet.
+    Excelシートから単一セルを読む。
     """
     wb = openpyxl.load_workbook(workbook_path, data_only=True, read_only=True)
     if sheet_name not in wb.sheetnames:
@@ -467,11 +443,8 @@ def _read_cell(workbook_path: Path, sheet_name: str, cell: str) -> Any:
 
 def _coerce_datetime(value: Any, fmt_hint: str) -> Optional[datetime]:
     """
-    Coerce a cell value into datetime.
-
-    將儲存格值轉為 datetime：
-    - 若已是 datetime -> 直接回傳
-    - 若是字串 -> 依 fmt_hint 或 pandas 自動解析
+    Coerce a value into datetime using format hints.
+    形式ヒントを使って値をdatetimeに変換する。
     """
     if value is None:
         return None
@@ -505,9 +478,8 @@ def read_start_datetime(
     logger: logging.Logger,
 ) -> str:
     """
-    Read Start_Date_Time from configured sheet/cell with fallback.
-
-    從 INI 指定的 sheet/cell 取得完成日期，若失敗則 fallback。
+    Read Start_Date_Time from sheet/cell with fallback.
+    シート/セルからStart_Date_Timeを取得し、フォールバックする。
     """
     dt_obj: Optional[datetime] = None
     try:
@@ -540,8 +512,7 @@ def read_tester_id_ay23(
 ) -> str:
     """
     Read TESTER_ID from AY23 in the main sheet.
-
-    從主資料表 HL13E1ﾃﾞｰﾀ 的 AY23 取得 TESTER_ID（文字）。
+    主シートAY23からTESTER_IDを読む。
     """
     try:
         value = _read_cell(file_path, main_sheet_name, "AY23")
@@ -559,11 +530,12 @@ def read_main_table(
     logger: logging.Logger,
 ) -> pd.DataFrame:
     """
-    Read main table range into a DataFrame.
-
-    讀取指定 sheet + columns + skiprows + nrows（對應 D22:KT71）。
+    Read the main table range into a DataFrame.
+    主テーブル範囲をDataFrameとして読み込む。
     """
     try:
+        t0 = datetime.now()
+        logger.info("Excel read start: %s", file_path.name)
         df = pd.read_excel(
             file_path,
             sheet_name=excel.sheet_name,
@@ -573,6 +545,7 @@ def read_main_table(
             header=None,
             engine="openpyxl",
         )
+        logger.info("Excel read end: %s (elapsed=%s)", file_path.name, datetime.now() - t0)
         logger.info("Loaded main table: %s rows x %s cols", df.shape[0], df.shape[1])
         return df
     except Exception as exc:
@@ -580,7 +553,7 @@ def read_main_table(
 
 
 # =========================
-# Waive length category
+# Waive length category / Waive 長さカテゴリ
 # =========================
 
 def compute_waive_leng_cate(
@@ -589,9 +562,8 @@ def compute_waive_leng_cate(
     logger: logging.Logger,
 ) -> str:
     """
-    Determine Waive_Leng_Cate from Lot ID prefix (first 2 chars).
-
-    依 LotID 前兩碼（例如 N3059 -> N3）查 INI 對照表。
+    Compute Waive_Leng_Cate from Lot ID prefix.
+    Lot ID先頭からWaive_Leng_Cateを算出する。
     """
     lot_rule = lot_id[:2].upper()
     value = waive.mapping.get(lot_rule)
@@ -610,7 +582,7 @@ def compute_waive_leng_cate(
 
 
 # =========================
-# DB query (align with legacy SQL module)
+# DB query (align with legacy SQL module) / DB クエリ（レガシーSQLに合わせる）
 # =========================
 
 def query_database_via_legacy_sql(
@@ -618,19 +590,14 @@ def query_database_via_legacy_sql(
     logger: logging.Logger,
 ) -> Dict[str, Any]:
     """
-    Query DB using legacy SQL module (align with sample code).
-
-    依範例程式碼：
-      conn, cursor = SQL.connSQL()
-      SQL.selectSQL(cursor, lot_id)
-
-    回傳 dict 欄位：
-    - 本版先假設 selectSQL 回傳 (Part_Number, LotNumber_9) 類似兩個欄位（如範例）。
-    - 若你們回傳欄位不同，只要在此函式調整 key 對應即可。
+    Query DB via legacy SQL module and map fields.
+    レガシーSQLモジュールでDB照会しフィールドにマップする。
     """
     conn = None
     cursor = None
     try:
+        t0 = datetime.now()
+        logger.info("DB query start: LotID=%s", lot_id)
         conn, cursor = SQL.connSQL()
         if conn is None or cursor is None:
             logger.error("Legacy SQL.connSQL() returned None (connection failed).")
@@ -638,7 +605,7 @@ def query_database_via_legacy_sql(
 
         result = SQL.selectSQL(cursor, str(lot_id))
 
-        # Normalize result to tuple/list
+        # Normalize result to tuple/list / 戻り値を tuple/list に正規化
         if result is None:
             logger.warning("Legacy SQL.selectSQL() returned None for LotID=%s", lot_id)
             return {}
@@ -646,43 +613,118 @@ def query_database_via_legacy_sql(
         if isinstance(result, (list, tuple)):
             values = list(result)
         else:
-            # Sometimes it might return a single scalar
+            # Sometimes it might return a single scalar / 単一値が返る場合に備える
             values = [result]
 
         # === Default mapping (adjust if your legacy SQL returns different columns) ===
+        # 既存SQLの戻り列に合わせて調整する
         out: Dict[str, Any] = {}
-        if len(values) >= 1:
-            out["DB_LOOKUP_Part_Number"] = values[0]
-        if len(values) >= 2:
-            out["DB_LOOKUP_LotNumber_9"] = values[1]
+        if len(values) >= 3:
+            # Expected: LotID, Part_Number, LotNumber_9 / 想定順序: LotID, Part_Number, LotNumber_9
+            out["DB_LOOKUP_Part_Number"] = values[1]
+            out["LotNumber_9"] = values[2]
+        else:
+            if len(values) >= 1:
+                out["DB_LOOKUP_Part_Number"] = values[0]
+            if len(values) >= 2:
+                out["LotNumber_9"] = values[1]
 
-        # If there are more fields, append generic names
-        for i in range(2, len(values)):
+        # If there are more fields, append generic names / 追加列は汎用名で追加
+        start_idx = 3 if len(values) >= 3 else 2
+        for i in range(start_idx, len(values)):
             out[f"DB_LOOKUP_Field_{i+1}"] = values[i]
 
+        logger.info("DB query end: LotID=%s (elapsed=%s)", lot_id, datetime.now() - t0)
         return out
 
     except Exception as exc:
         logger.exception("DB query failed via legacy SQL for LotID=%s: %s", lot_id, exc)
         return {}
     finally:
+        if "t0" in locals():
+            logger.info("DB query cleanup: LotID=%s (elapsed=%s)", lot_id, datetime.now() - t0)
         try:
             if conn is not None:
                 SQL.disconnSQL(conn, cursor)
         except Exception:
-            # Don't crash on disconnect
+            # Don't crash on disconnect / 切断失敗は無視
+            pass
+
+
+def query_database_bulk_via_legacy_sql(
+    lot_ids: Sequence[str],
+    logger: logging.Logger,
+) -> Dict[str, Dict[str, Any]]:
+    """
+    Query DB for multiple Lot IDs using one connection.
+    1接続で複数Lot IDを照会する。
+    """
+    if not lot_ids:
+        return {}
+
+    t0 = datetime.now()
+    logger.info("DB bulk query start: count=%d", len(lot_ids))
+    conn = None
+    cursor = None
+    out: Dict[str, Dict[str, Any]] = {}
+    try:
+        conn, cursor = SQL.connSQL()
+        if conn is None or cursor is None:
+            logger.error("Legacy SQL.connSQL() returned None (connection failed).")
+            return {}
+
+        for lot_id in lot_ids:
+            try:
+                result = SQL.selectSQL(cursor, str(lot_id))
+                if result is None:
+                    logger.warning("Legacy SQL.selectSQL() returned None for LotID=%s", lot_id)
+                    out[str(lot_id)] = {}
+                    continue
+
+                if isinstance(result, (list, tuple)):
+                    values = list(result)
+                else:
+                    values = [result]
+
+                mapped: Dict[str, Any] = {}
+                if len(values) >= 3:
+                    mapped["DB_LOOKUP_Part_Number"] = values[1]
+                    mapped["LotNumber_9"] = values[2]
+                    start_idx = 3
+                else:
+                    if len(values) >= 1:
+                        mapped["DB_LOOKUP_Part_Number"] = values[0]
+                    if len(values) >= 2:
+                        mapped["LotNumber_9"] = values[1]
+                    start_idx = 2
+
+                for i in range(start_idx, len(values)):
+                    mapped[f"DB_LOOKUP_Field_{i+1}"] = values[i]
+
+                out[str(lot_id)] = mapped
+            except Exception as exc:
+                logger.exception("DB query failed via legacy SQL for LotID=%s: %s", lot_id, exc)
+                out[str(lot_id)] = {}
+
+        logger.info("DB bulk query end: count=%d (elapsed=%s)", len(lot_ids), datetime.now() - t0)
+        return out
+    finally:
+        logger.info("DB bulk query cleanup: count=%d (elapsed=%s)", len(lot_ids), datetime.now() - t0)
+        try:
+            if conn is not None:
+                SQL.disconnSQL(conn, cursor)
+        except Exception:
             pass
 
 
 # =========================
-# Stats computation
+# Stats computation / 統計計算
 # =========================
 
 def _stat_name_from_key(key: str) -> str:
     """
-    Convert DataFields key_* to output base name.
-
-    例如：key_V_FWHM -> V_FWHM
+    Convert DataFields key_* to the base name.
+    DataFieldsのkey_*を基底名に変換する。
     """
     if key.startswith("key_"):
         return key[4:]
@@ -695,9 +737,8 @@ def compute_stats_for_fields(
     logger: logging.Logger,
 ) -> Dict[str, Any]:
     """
-    Compute MAX/MIN/AVG/STD for each measurement field.
-
-    對每個數值欄位（col index）計算 MAX/MIN/AVG/STD，欄名格式 A：{name}_{STAT}。
+    Compute MAX/MIN/AVG/STD for measurement fields.
+    計測フィールドのMAX/MIN/AVG/STDを計算する。
     """
     out: Dict[str, Any] = {}
 
@@ -721,7 +762,7 @@ def compute_stats_for_fields(
 
 
 # =========================
-# CSV / XML output
+# CSV / XML output / CSV・XML 出力
 # =========================
 
 def ensure_dir(p: Path) -> None:
@@ -730,9 +771,8 @@ def ensure_dir(p: Path) -> None:
 
 def make_output_csv_path(csv_dir: Path, operation: str) -> Path:
     """
-    Create unique CSV filename with timestamp + uuid.
-
-    產出自動檔名（含 timestamp + uuid）避免衝突。
+    Build a unique CSV output path.
+    一意なCSV出力パスを生成する。
     """
     ensure_dir(csv_dir)
     ts = datetime.now().strftime("%Y_%m_%dT%H.%M.%S")
@@ -742,9 +782,8 @@ def make_output_csv_path(csv_dir: Path, operation: str) -> Path:
 
 def append_csv(csv_path: Path, row: Mapping[str, Any]) -> None:
     """
-    Append a single row to CSV (create header if file doesn't exist).
-
-    追加一列到 CSV（若檔案不存在則寫入 header）。
+    Append one row to CSV, adding header if needed.
+    1行をCSVに追記し、必要ならヘッダを付ける。
     """
     df = pd.DataFrame([dict(row)])
     exists = csv_path.exists()
@@ -758,9 +797,8 @@ def generate_pointer_xml(
     serial_no: str,
 ) -> Path:
     """
-    Generate pointer XML pointing to CSV.
-
-    產生 Pointer XML（指向 CSV），維持與原本類似的格式。
+    Generate pointer XML referencing the CSV.
+    CSV参照のポインタXMLを生成する。
     """
     import xml.etree.ElementTree as ET
     from xml.dom import minidom
@@ -832,7 +870,7 @@ def generate_pointer_xml(
 
 
 # =========================
-# File discovery
+# File discovery / ファイル探索
 # =========================
 
 def discover_source_files(
@@ -842,11 +880,8 @@ def discover_source_files(
     debug: bool = False,
 ) -> List[Path]:
     """
-    Discover all files matching patterns in the input paths.
-
-    Debug mode:
-    - Print all files found in directories
-    - Print which files match / not match patterns
+    Find source files matching patterns in input paths.
+    入力パスでパターン一致ファイルを探索する。
     """
     found: List[Path] = []
 
@@ -900,9 +935,9 @@ def discover_source_files(
 def parse_filename_ids(file_path: Path) -> Tuple[str, str]:
     """
     Parse wafer_id and lot_id from filename.
-
-    - 排除含 '- Copy' 的檔案
-    - 允許 '先行結果' 等後綴文字
+    Exclude names containing "- Copy" and allow suffixes like "先行結果".
+    ファイル名からwafer_idとlot_idを抽出する。
+    "- Copy" を含むものは除外し、「先行結果」等の後継を許可する。
     """
     name = file_path.name
 
@@ -919,26 +954,19 @@ def parse_filename_ids(file_path: Path) -> Tuple[str, str]:
 
 
 # =========================
-# Per-file processing
+# Per-file processing / ファイル単位の処理
 # =========================
 
 def build_output_row(
     file_path: Path,
     settings: Settings,
     logger: logging.Logger,
+    db_lookup_map: Optional[Mapping[str, Dict[str, Any]]] = None,
 ) -> Dict[str, Any]:
     """
     Build the final output row for one wafer file.
-
-    每個檔案輸出一列（summary row），包含：
-    - Serial_Number (Lot ID)
-    - Start_Date_Time (ワイヤプル!Q1)
-    - Part_Number (固定 HL13E1)
-    - TESTER_ID (AY23)
-    - Waive_Leng_Cate (INI mapping)
-    - DB connection info (from INI, assigned by Python)
-    - DB lookup fields (from legacy SQL module)
-    - Stats fields (MAX/MIN/AVG/STD)
+    One output row per file (summary row).
+    1ファイルにつき1行（サマリー行）を出力する。
     """
     _wafer_id, lot_id = parse_filename_ids(file_path)
 
@@ -947,49 +975,55 @@ def build_output_row(
 
     waive_leng = compute_waive_leng_cate(lot_id, settings.waive, logger)
 
-    # Your rule: always HL13E1
+    # Default Part_Number is HL13E1; override when DB provides a value / 既定はHL13E1、DB値があれば上書き
     part_number = "HL13E1"
 
     tester_id = read_tester_id_ay23(file_path, settings.excel.sheet_name, logger)
     if not tester_id:
         tester_id = settings.basic.tool_name_fallback
 
-    # DB query using legacy module
-    db_lookup_fields = query_database_via_legacy_sql(lot_id, logger)
+    # DB query using legacy module (bulk map preferred) / レガシーSQLでDB参照
+    if db_lookup_map is not None:
+        db_lookup_fields = db_lookup_map.get(lot_id, {})
+    else:
+        db_lookup_fields = query_database_via_legacy_sql(lot_id, logger)
+    db_part_number = db_lookup_fields.pop("DB_LOOKUP_Part_Number", None)
+    if db_part_number is not None and str(db_part_number).strip():
+        part_number = str(db_part_number).strip()
+    db_lotnumber_9 = db_lookup_fields.get("LotNumber_9")
 
-    # Read main data and compute stats
+    # Read main data and compute stats / 主データ読込と統計計算
     df = read_main_table(file_path, settings.excel, logger)
     stats = compute_stats_for_fields(df, settings.fields, logger)
 
-    # DB connection info columns (write into CSV as requested)
-    # Password masked by default to prevent leakage
+    # DB connection info columns removed from CSV by request / DB接続情報はCSVに出力しない
     row: Dict[str, Any] = {
         "Serial_Number": serial_number,
         "Start_Date_Time": start_dt_str,
         "Part_Number": part_number,
         "TESTER_ID": tester_id,
         "Waive_Leng_Cate": waive_leng,
-        "DB_SERVER": settings.db.server,
-        "DB_DATABASE": settings.db.database,
-        "DB_USERNAME": settings.db.username,
-        "DB_DRIVER": settings.db.driver,
-        "DB_PASSWORD": settings.db.password_mask,
+        "LotNumber_9": db_lotnumber_9 if db_lotnumber_9 is not None else "",
         "Source_File": file_path.name,
     }
 
-    # Merge DB lookup results
+    # Merge DB lookup results / DB検索結果を結合
     row.update(db_lookup_fields)
 
-    # Merge stats
+    # Merge stats / 統計結果を結合
     row.update(stats)
     return row
 
 
 # =========================
-# Program entry
+# Program entry / エントリポイント
 # =========================
 
 def run_for_ini(ini_path: Path) -> None:
+    """
+    Run processing for one INI file.
+    1つのINIに対して処理を実行する。
+    """
     settings = load_settings(ini_path)
     logger = setup_logging(settings.paths.log_path, settings.basic.operation)
 
@@ -1018,12 +1052,38 @@ def run_for_ini(ini_path: Path) -> None:
         settings.paths.input_paths,
         settings.basic.file_name_patterns,
         logger,
-        debug=settings.basic.debug_discovery,
+        debug=settings.dedup.debug_discovery,
     )
 
-    if settings.basic.debug_limit_10_files:
+    if settings.dedup.debug_limit_10_files:
         files = files[:10]
         logger.info("Debug limit enabled: processing only %d files.", len(files))
+
+    # Pre-collect Lot IDs for one-shot DB querying
+    lot_ids: List[str] = []
+    cutoff_dt: Optional[datetime] = None
+    if settings.dedup.db_filter_by_mtime:
+        cutoff_dt = datetime.now() - timedelta(days=settings.dedup.db_filter_days)
+    for f in files:
+        try:
+            _wafer_id, lot_id = parse_filename_ids(f)
+            if cutoff_dt is not None:
+                mtime = datetime.fromtimestamp(f.stat().st_mtime)
+                if mtime < cutoff_dt:
+                    continue
+            lot_ids.append(lot_id)
+        except Exception:
+            continue
+
+    db_lookup_map: Optional[Dict[str, Dict[str, Any]]] = None
+    if lot_ids:
+        if cutoff_dt is not None:
+            logger.info(
+                "DB filter enabled: keep files with mtime >= %s (%d days).",
+                cutoff_dt.strftime("%Y-%m-%d %H:%M:%S"),
+                settings.dedup.db_filter_days,
+            )
+        db_lookup_map = query_database_bulk_via_legacy_sql(lot_ids, logger)
 
     processed_count = 0
     skipped_count = 0
@@ -1031,7 +1091,7 @@ def run_for_ini(ini_path: Path) -> None:
 
     for f in files:
         try:
-            # strict filename check (also excludes "- Copy")
+            # strict filename check (also excludes "- Copy") / 厳格なファイル名チェック（"- Copy" も除外）
             parse_filename_ids(f)
 
             fp = compute_fingerprint(f, settings.dedup.fingerprint_mode)
@@ -1042,7 +1102,7 @@ def run_for_ini(ini_path: Path) -> None:
                 logger.info("Skip (dedup): %s", f.name)
                 continue
 
-            row = build_output_row(f, settings, logger)
+            row = build_output_row(f, settings, logger, db_lookup_map=db_lookup_map)
             append_csv(csv_out, row)
 
             processed_count += 1
@@ -1101,12 +1161,8 @@ def run_for_ini(ini_path: Path) -> None:
 
 def main(argv: Sequence[str]) -> int:
     """
-    CLI entry.
-
-    用法：
-      python E1_Qrun.py <your_config.ini>
-
-    若未提供參數，會在同目錄掃描所有 .ini 並逐一執行。
+    CLI entry point.
+    CLIエントリポイント。
     """
     os.chdir(Path(__file__).resolve().parent)
 
