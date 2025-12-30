@@ -1560,3 +1560,389 @@ ValueError: Excluded copied file: N3251014_N3059先行結果 - Copy追加信頼�
 2025-12-25 14:47:35,951 | INFO | E1_Qrun | Candidates after filter: 0
 2025-12-25 14:47:36,366 | INFO | E1_Qrun | ==== End ====
 2025-12-25 14:47:36,366 | INFO | E1_Qrun | Processed=0 Skipped=98 Errors=0 CSV=\\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\054_E1_Qrun\E1_Qrun_2025_12_25T14.42.22_3ffebc80.csv XML=None
+2025-12-25 14:51:49,527 | INFO | E1_Qrun | ==== Start E1_Qrun uploader ====
+2025-12-25 14:51:49,529 | INFO | E1_Qrun | INI: C:\Users\hsi67063\Documents\Kaizen-TDS\054_E1_Qrun\E1_Qrun.INI
+2025-12-25 14:51:51,346 | INFO | E1_Qrun | CSV output: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\054_E1_Qrun\E1_Qrun_2025_12_25T14.51.51_5998003b.csv
+2025-12-25 14:51:51,353 | INFO | E1_Qrun | Dedup enabled: ..\DataFile\054_E1_Qrun\dedup_registry.sqlite
+2025-12-25 14:57:15,914 | INFO | E1_Qrun | Discovered 254 candidate files.
+2025-12-25 14:57:19,061 | INFO | E1_Qrun | Skip (dedup): N1250922_N1004先行結果.xlsm
+2025-12-25 14:57:22,119 | INFO | E1_Qrun | Skip (dedup): N1250923_N1001先行結果.xlsm
+2025-12-25 14:57:24,915 | INFO | E1_Qrun | Skip (dedup): N1250927_N1002先行結果.xlsm
+2025-12-25 14:57:27,700 | INFO | E1_Qrun | Skip (dedup): N1250927_N1003先行結果.xlsm
+2025-12-25 14:57:30,873 | INFO | E1_Qrun | Skip (dedup): N1251120_N1007先行結果.xlsm
+2025-12-25 14:57:33,663 | INFO | E1_Qrun | Skip (dedup): N1251120_N1009先行結果.xlsm
+2025-12-25 14:57:36,461 | INFO | E1_Qrun | Skip (dedup): N1251122_N1005先行結果.xlsx
+2025-12-25 14:57:39,942 | INFO | E1_Qrun | Skip (dedup): N1251122_N1006先行結果.xlsx
+2025-12-25 14:57:42,975 | INFO | E1_Qrun | Skip (dedup): N1251122_N1008先行結果.xlsx
+2025-12-25 14:57:45,744 | INFO | E1_Qrun | Skip (dedup): N1251122_N1010先行結果.xlsx
+2025-12-25 14:57:48,693 | INFO | E1_Qrun | Skip (dedup): N1251123_N1005先行結果.xlsx
+2025-12-25 14:57:51,578 | INFO | E1_Qrun | Skip (dedup): N1251124_N1011先行結果.xlsx
+2025-12-25 14:57:54,629 | INFO | E1_Qrun | Skip (dedup): N1251124_N1012先行結果.xlsx
+2025-12-25 14:57:57,463 | INFO | E1_Qrun | Skip (dedup): N1251124_N1013先行結果.xlsx
+2025-12-25 14:58:00,642 | INFO | E1_Qrun | Skip (dedup): N1251125_N1014先行結果.xlsx
+2025-12-25 14:58:03,413 | INFO | E1_Qrun | Skip (dedup): N1251126_N1015先行結果.xlsx
+2025-12-25 14:58:06,569 | INFO | E1_Qrun | Skip (dedup): N1251126_N1016先行結果.xlsx
+2025-12-25 14:58:09,350 | INFO | E1_Qrun | Skip (dedup): N1251126_N1017先行結果.xlsx
+2025-12-25 14:58:12,119 | INFO | E1_Qrun | Skip (dedup): N1251126_N1021先行結果.xlsx
+2025-12-25 14:58:14,905 | INFO | E1_Qrun | Skip (dedup): N1251126_N1022先行結果.xlsx
+2025-12-25 14:58:18,081 | INFO | E1_Qrun | Skip (dedup): N1251127_N1018先行結果.xlsx
+2025-12-25 14:58:20,857 | INFO | E1_Qrun | Skip (dedup): N1251127_N1019先行結果.xlsx
+2025-12-25 14:58:23,668 | INFO | E1_Qrun | Skip (dedup): N1251127_N1023先行結果.xlsx
+2025-12-25 14:58:26,445 | INFO | E1_Qrun | Skip (dedup): N1251127_N1024先行結果.xlsx
+2025-12-25 14:58:29,463 | INFO | E1_Qrun | Skip (dedup): N1251128_N1020先行結果.xlsx
+2025-12-25 14:58:32,266 | INFO | E1_Qrun | Skip (dedup): N2251204_N2006先行結果.xlsx
+2025-12-25 14:58:35,035 | INFO | E1_Qrun | Skip (dedup): N2251204_N2007先行結果.xlsx
+2025-12-25 14:58:37,944 | INFO | E1_Qrun | Skip (dedup): N2251205_N2001先行結果.xlsx
+2025-12-25 14:58:40,967 | INFO | E1_Qrun | Skip (dedup): N2251205_N2004先行結果.xlsx
+2025-12-25 14:58:43,739 | INFO | E1_Qrun | Skip (dedup): N2251206_N2002先行結果.xlsx
+2025-12-25 14:58:46,539 | INFO | E1_Qrun | Skip (dedup): N2251206_N2003先行結果.xlsx
+2025-12-25 14:58:49,446 | INFO | E1_Qrun | Skip (dedup): N2251206_N2008先行結果.xlsx
+2025-12-25 14:58:52,463 | INFO | E1_Qrun | Skip (dedup): N2251213_N2005先行結果.xlsx
+2025-12-25 14:58:55,392 | INFO | E1_Qrun | Skip (dedup): N3250302_N3035先行結果.xlsm
+2025-12-25 14:58:58,190 | INFO | E1_Qrun | Skip (dedup): N3250305_N3035先行結果.xlsm
+2025-12-25 14:59:00,983 | INFO | E1_Qrun | Skip (dedup): N3250317_N3025先行結果.xlsm
+2025-12-25 14:59:04,025 | INFO | E1_Qrun | Skip (dedup): N3250317_N3027先行結果.xlsm
+2025-12-25 14:59:06,796 | INFO | E1_Qrun | Skip (dedup): N3250317_N3029先行結果.xlsm
+2025-12-25 14:59:09,563 | INFO | E1_Qrun | Skip (dedup): N3250317_N3031先行結果.xlsm
+2025-12-25 14:59:12,328 | INFO | E1_Qrun | Skip (dedup): N3250317_N3032先行結果.xlsm
+2025-12-25 14:59:15,493 | INFO | E1_Qrun | Skip (dedup): N3250317_N3034先行結果.xlsm
+2025-12-25 14:59:18,339 | INFO | E1_Qrun | Skip (dedup): N3250318_N3033先行結果.xlsm
+2025-12-25 14:59:21,338 | INFO | E1_Qrun | Skip (dedup): N3250318_N3036先行結果.xlsm
+2025-12-25 14:59:24,144 | INFO | E1_Qrun | Skip (dedup): N3250319_N3032先行結果.xlsm
+2025-12-25 14:59:27,207 | INFO | E1_Qrun | Skip (dedup): N3250319_N3033先行結果.xlsm
+2025-12-25 14:59:30,041 | INFO | E1_Qrun | Skip (dedup): N3250319_N3036先行結果.xlsm
+2025-12-25 14:59:32,899 | INFO | E1_Qrun | Skip (dedup): N3250321_N3034先行結果.xlsm
+2025-12-25 14:59:35,920 | INFO | E1_Qrun | Skip (dedup): N3250709_N3027先行結果.xlsm
+2025-12-25 14:59:38,987 | INFO | E1_Qrun | Skip (dedup): N3250711_N3028先行結果.xlsm
+2025-12-25 14:59:41,746 | INFO | E1_Qrun | Skip (dedup): N3250711_N3030先行結果.xlsm
+2025-12-25 14:59:44,600 | INFO | E1_Qrun | Skip (dedup): N3250711_N3037先行結果.xlsm
+2025-12-25 14:59:47,526 | INFO | E1_Qrun | Skip (dedup): N3250711_N3038先行結果.xlsm
+2025-12-25 14:59:50,584 | INFO | E1_Qrun | Skip (dedup): N3250711_N3039先行結果.xlsm
+2025-12-25 14:59:53,539 | INFO | E1_Qrun | Skip (dedup): N3250716_N3037先行結果.xlsm
+2025-12-25 14:59:56,330 | INFO | E1_Qrun | Skip (dedup): N3251007_N3048先行結果.xlsm
+2025-12-25 14:59:59,128 | INFO | E1_Qrun | Skip (dedup): N3251007_N3049先行結果.xlsm
+2025-12-25 15:00:02,307 | INFO | E1_Qrun | Skip (dedup): N3251007_N3050先行結果.xlsm
+2025-12-25 15:00:05,171 | INFO | E1_Qrun | Skip (dedup): N3251007_N3051先行結果.xlsm
+2025-12-25 15:00:07,939 | INFO | E1_Qrun | Skip (dedup): N3251008_N3052先行結果.xlsm
+2025-12-25 15:00:08,967 | INFO | E1_Qrun | Skip (copied): N3251008_N3054先行結果 - Copy追加信頼性合格.xlsm
+2025-12-25 15:00:12,301 | INFO | E1_Qrun | Skip (dedup): N3251008_N3054先行結果.xlsm
+2025-12-25 15:00:13,305 | INFO | E1_Qrun | Skip (copied): N3251009_N3052先行結果 - Copy追加信頼性合格.xlsm
+2025-12-25 15:00:16,051 | INFO | E1_Qrun | Skip (dedup): N3251009_N3052先行結果.xlsm
+2025-12-25 15:00:18,825 | INFO | E1_Qrun | Skip (dedup): N3251009_N3053先行結果.xlsm
+2025-12-25 15:00:21,729 | INFO | E1_Qrun | Skip (dedup): N3251011_N3056先行結果.xlsm
+2025-12-25 15:00:24,779 | INFO | E1_Qrun | Skip (dedup): N3251013_N3057先行結果.xlsm
+2025-12-25 15:00:27,807 | INFO | E1_Qrun | Skip (dedup): N3251014_N3058先行結果.xlsm
+2025-12-25 15:00:28,803 | INFO | E1_Qrun | Skip (copied): N3251014_N3059先行結果 - Copy追加信頼性合格.xlsm
+2025-12-25 15:00:31,595 | INFO | E1_Qrun | Skip (dedup): N3251014_N3059先行結果.xlsm
+2025-12-25 15:00:34,952 | INFO | E1_Qrun | Skip (dedup): N3251014_N3060先行結果.xlsm
+2025-12-25 15:00:37,731 | INFO | E1_Qrun | Skip (dedup): N3251020_N3063先行結果.xlsm
+2025-12-25 15:00:40,647 | INFO | E1_Qrun | Skip (dedup): N3251020_N3065先行結果.xlsm
+2025-12-25 15:00:43,426 | INFO | E1_Qrun | Skip (dedup): N3251020_N3067先行結果 -【代替素子Bf17対応版_Bf11のESD結果修正版】.xlsm
+2025-12-25 15:00:46,429 | INFO | E1_Qrun | Skip (dedup): N3251020_N3067先行結果 -【代替素子Bf17対応版】.xlsm
+2025-12-25 15:00:49,337 | INFO | E1_Qrun | Skip (dedup): N3251020_N3067先行結果.xlsm
+2025-12-25 15:00:52,102 | INFO | E1_Qrun | Skip (dedup): N3251020_N3068先行結果.xlsm
+2025-12-25 15:00:54,870 | INFO | E1_Qrun | Skip (dedup): N3251021_N3063先行結果 - 【追加エージング結果反映版】.xlsm
+2025-12-25 15:00:57,906 | INFO | E1_Qrun | Skip (dedup): N3251021_N3063先行結果.xlsm
+2025-12-25 15:01:00,685 | INFO | E1_Qrun | Skip (dedup): N3251021_N3064先行結果.xlsm
+2025-12-25 15:01:03,517 | INFO | E1_Qrun | Skip (dedup): N3251023_N3067先行結果.xlsm
+2025-12-25 15:01:06,292 | INFO | E1_Qrun | Skip (dedup): N3251031_N3069先行結果.xlsm
+2025-12-25 15:01:09,317 | INFO | E1_Qrun | Skip (dedup): N3251031_N3070先行結果.xlsm
+2025-12-25 15:01:12,086 | INFO | E1_Qrun | Skip (dedup): N3251031_N3071先行結果.xlsm
+2025-12-25 15:01:14,986 | INFO | E1_Qrun | Skip (dedup): N3251031_N3072先行結果.xlsm
+2025-12-25 15:01:17,789 | INFO | E1_Qrun | Skip (dedup): N3251101_N3073先行結果.xlsm
+2025-12-25 15:01:20,832 | INFO | E1_Qrun | Skip (dedup): N3251101_N3075先行結果.xlsm
+2025-12-25 15:01:23,729 | INFO | E1_Qrun | Skip (dedup): N3251103_N3077先行結果.xlsm
+2025-12-25 15:01:26,526 | INFO | E1_Qrun | Skip (dedup): N3251104_N3073先行結果.xlsm
+2025-12-25 15:01:29,321 | INFO | E1_Qrun | Skip (dedup): N3251104_N3074先行結果.xlsm
+2025-12-25 15:01:32,626 | INFO | E1_Qrun | Skip (dedup): N3251104_N3075先行結果.xlsm
+2025-12-25 15:01:35,498 | INFO | E1_Qrun | Skip (dedup): N3251104_N3076先行結果.xlsm
+2025-12-25 15:01:38,287 | INFO | E1_Qrun | Skip (dedup): N3251104_N3077先行結果.xlsm
+2025-12-25 15:01:41,095 | INFO | E1_Qrun | Skip (dedup): N3251104_N3078先行結果.xlsm
+2025-12-25 15:01:44,120 | INFO | E1_Qrun | Skip (dedup): N3251104_N3080先行結果.xlsm
+2025-12-25 15:01:47,024 | INFO | E1_Qrun | Skip (dedup): N3251105_N3062先行結果.xlsm
+2025-12-25 15:01:49,970 | INFO | E1_Qrun | Skip (dedup): N3251105_N3079先行結果.xlsm
+2025-12-25 15:01:52,802 | INFO | E1_Qrun | Skip (dedup): N3251105_N3082先行結果.xlsm
+2025-12-25 15:01:56,289 | INFO | E1_Qrun | Skip (dedup): N3251105_N3083先行結果.xlsm
+2025-12-25 15:01:59,083 | INFO | E1_Qrun | Skip (dedup): N3251105_N3084先行結果.xlsm
+2025-12-25 15:02:02,092 | INFO | E1_Qrun | Skip (dedup): N3251106_N3081先行結果.xlsm
+2025-12-25 15:02:04,863 | INFO | E1_Qrun | Skip (dedup): N3251106_N3088先行結果.xlsm
+2025-12-25 15:02:07,902 | INFO | E1_Qrun | Skip (dedup): N3251106_N3089先行結果.xlsm
+2025-12-25 15:02:10,669 | INFO | E1_Qrun | Skip (dedup): N3251106_N3090先行結果.xlsm
+2025-12-25 15:02:13,468 | INFO | E1_Qrun | Skip (dedup): N3251107_N3085先行結果.xlsm
+2025-12-25 15:02:16,479 | INFO | E1_Qrun | Skip (dedup): N3251107_N3086先行結果.xlsm
+2025-12-25 15:02:19,634 | INFO | E1_Qrun | Skip (dedup): N3251108_N3087先行結果.xlsm
+2025-12-25 15:02:22,556 | INFO | E1_Qrun | Skip (dedup): N3251108_N3091先行結果.xlsm
+2025-12-25 15:02:25,381 | INFO | E1_Qrun | Skip (dedup): N3251108_N3092先行結果.xlsm
+2025-12-25 15:02:28,546 | INFO | E1_Qrun | Skip (dedup): N3251108_N3097先行結果.xlsm
+2025-12-25 15:02:31,759 | INFO | E1_Qrun | Skip (dedup): N3251109_N3098先行結果.xlsm
+2025-12-25 15:02:34,574 | INFO | E1_Qrun | Skip (dedup): N3251109_N3099先行結果.xlsm
+2025-12-25 15:02:37,408 | INFO | E1_Qrun | Skip (dedup): N3251109_N3100先行結果.xlsm
+2025-12-25 15:02:40,444 | INFO | E1_Qrun | Skip (dedup): N3251109_N3101先行結果.xlsm
+2025-12-25 15:02:43,468 | INFO | E1_Qrun | Skip (dedup): N3251110_N3093先行結果.xlsm
+2025-12-25 15:02:46,262 | INFO | E1_Qrun | Skip (dedup): N3251110_N3095先行結果.xlsm
+2025-12-25 15:02:49,056 | INFO | E1_Qrun | Skip (dedup): N3251110_N3102先行結果.xlsm
+2025-12-25 15:02:52,062 | INFO | E1_Qrun | Skip (dedup): N3251110_N3103先行結果.xlsm
+2025-12-25 15:02:55,364 | INFO | E1_Qrun | Skip (dedup): N3251111_N3094先行結果.xlsm
+2025-12-25 15:02:58,167 | INFO | E1_Qrun | Skip (dedup): N3251111_N3111先行結果.xlsm
+2025-12-25 15:03:01,118 | INFO | E1_Qrun | Skip (dedup): N3251111_N3112先行結果.xlsm
+2025-12-25 15:03:03,943 | INFO | E1_Qrun | Skip (dedup): N3251111_N3184先行結果.xlsm
+2025-12-25 15:03:06,994 | INFO | E1_Qrun | Skip (dedup): N3251111_N3185先行結果.xlsm
+2025-12-25 15:03:09,891 | INFO | E1_Qrun | Skip (dedup): N3251111_N3186先行結果.xlsm
+2025-12-25 15:03:12,658 | INFO | E1_Qrun | Skip (dedup): N3251112_N3110先行結果.xlsm
+2025-12-25 15:03:15,609 | INFO | E1_Qrun | Skip (dedup): N3251112_N3186先行結果.xlsm
+2025-12-25 15:03:18,627 | INFO | E1_Qrun | Skip (dedup): N3251113_N3156先行結果.xlsm
+2025-12-25 15:03:21,417 | INFO | E1_Qrun | Skip (dedup): N3251113_N3157先行結果.xlsm
+2025-12-25 15:03:24,331 | INFO | E1_Qrun | Skip (dedup): N3251113_N3158先行結果.xlsm
+2025-12-25 15:03:27,230 | INFO | E1_Qrun | Skip (dedup): N3251113_N3160先行結果.xlsm
+2025-12-25 15:03:30,390 | INFO | E1_Qrun | Skip (dedup): N3251113_N3161先行結果.xlsm
+2025-12-25 15:03:33,288 | INFO | E1_Qrun | Skip (dedup): N3251115_N3162先行結果.xlsm
+2025-12-25 15:03:36,095 | INFO | E1_Qrun | Skip (dedup): N3251115_N3187先行結果.xlsm
+2025-12-25 15:03:38,856 | INFO | E1_Qrun | Skip (dedup): N3251116_N3153先行結果.xlsm
+2025-12-25 15:03:41,921 | INFO | E1_Qrun | Skip (dedup): N3251116_N3159先行結果.xlsm
+2025-12-25 15:03:44,971 | INFO | E1_Qrun | Skip (dedup): N3251116_N3170先行結果.xlsm
+2025-12-25 15:03:47,873 | INFO | E1_Qrun | Skip (dedup): N3251116_N3189先行結果.xlsm
+2025-12-25 15:03:50,784 | INFO | E1_Qrun | Skip (dedup): N3251116_N3190先行結果.xlsm
+2025-12-25 15:03:53,914 | INFO | E1_Qrun | Skip (dedup): N3251117_N3151先行結果.xlsm
+2025-12-25 15:03:56,758 | INFO | E1_Qrun | Skip (dedup): N3251117_N3152先行結果.xlsm
+2025-12-25 15:03:59,872 | INFO | E1_Qrun | Skip (dedup): N3251117_N3154先行結果.xlsm
+2025-12-25 15:04:02,984 | INFO | E1_Qrun | Skip (dedup): N3251117_N3157先行結果.xlsm
+2025-12-25 15:04:06,101 | INFO | E1_Qrun | Skip (dedup): N3251117_N3167先行結果.xlsm
+2025-12-25 15:04:08,893 | INFO | E1_Qrun | Skip (dedup): N3251117_N3168先行結果.xlsm
+2025-12-25 15:04:11,689 | INFO | E1_Qrun | Skip (dedup): N3251117_N3169先行結果.xlsm
+2025-12-25 15:04:14,595 | INFO | E1_Qrun | Skip (dedup): N3251117_N3170先行結果.xlsm
+2025-12-25 15:04:17,930 | INFO | E1_Qrun | Skip (dedup): N3251117_N3171先行結果.xlsm
+2025-12-25 15:04:20,866 | INFO | E1_Qrun | Skip (dedup): N3251118_N3163先行結果.xlsm
+2025-12-25 15:04:23,631 | INFO | E1_Qrun | Skip (dedup): N3251118_N3166先行結果.xlsm
+2025-12-25 15:04:26,626 | INFO | E1_Qrun | Skip (dedup): N3251118_N3172先行結果.xlsm
+2025-12-25 15:04:29,719 | INFO | E1_Qrun | Skip (dedup): N3251118_N3173先行結果.xlsm
+2025-12-25 15:04:32,499 | INFO | E1_Qrun | Skip (dedup): N3251120_N3174先行結果.xlsm
+2025-12-25 15:04:35,331 | INFO | E1_Qrun | Skip (dedup): N3251204_N3188先行結果.xlsx
+2025-12-25 15:04:38,243 | INFO | E1_Qrun | Skip (dedup): N3251216_N3175先行結果.xlsx
+2025-12-25 15:04:41,344 | INFO | E1_Qrun | Skip (dedup): N3251216_N3179先行結果.xlsx
+2025-12-25 15:04:44,487 | INFO | E1_Qrun | Skip (dedup): N3251216_N3180先行結果.xlsx
+2025-12-25 15:04:47,302 | INFO | E1_Qrun | Skip (dedup): N3251216_N3181先行結果.xlsx
+2025-12-25 15:04:50,209 | INFO | E1_Qrun | Skip (dedup): N3251216_N3182先行結果.xlsx
+2025-12-25 15:04:53,234 | INFO | E1_Qrun | Skip (dedup): N3251217_N3178先行結果.xlsx
+2025-12-25 15:04:56,318 | INFO | E1_Qrun | Skip (dedup): N3251218_N3177先行結果.xlsx
+2025-12-25 15:04:59,273 | INFO | E1_Qrun | Skip (dedup): N4251203_N4017先行結果.xlsx
+2025-12-25 15:05:02,164 | INFO | E1_Qrun | Skip (dedup): N4251203_N4023先行結果.xlsx
+2025-12-25 15:05:05,239 | INFO | E1_Qrun | Skip (dedup): N4251203_N4024先行結果.xlsx
+2025-12-25 15:05:08,037 | INFO | E1_Qrun | Skip (dedup): N4251204_N4018先行結果.xlsx
+2025-12-25 15:05:10,831 | INFO | E1_Qrun | Skip (dedup): N4251204_N4019先行結果.xlsx
+2025-12-25 15:05:13,783 | INFO | E1_Qrun | Skip (dedup): N4251204_N4021先行結果.xlsx
+2025-12-25 15:05:16,928 | INFO | E1_Qrun | Skip (dedup): N4251204_N4022先行結果.xlsx
+2025-12-25 15:05:19,722 | INFO | E1_Qrun | Skip (dedup): N4251207_N4020先行結果.xlsx
+2025-12-25 15:05:22,734 | INFO | E1_Qrun | Skip (dedup): N4251208_N4025先行結果.xlsx
+2025-12-25 15:05:25,517 | INFO | E1_Qrun | Skip (dedup): N4251208_N4027先行結果.xlsx
+2025-12-25 15:05:28,565 | INFO | E1_Qrun | Skip (dedup): N4251208_N4028先行結果.xlsx
+2025-12-25 15:05:31,351 | INFO | E1_Qrun | Skip (dedup): N5251211_N5002先行結果.xlsx
+2025-12-25 15:05:34,154 | INFO | E1_Qrun | Skip (dedup): N5251212_N5003先行結果.xlsx
+2025-12-25 15:05:36,949 | INFO | E1_Qrun | Skip (dedup): N5251212_N5004先行結果.xlsx
+2025-12-25 15:05:40,019 | INFO | E1_Qrun | Skip (dedup): N5251212_N5005先行結果.xlsx
+2025-12-25 15:05:42,935 | INFO | E1_Qrun | Skip (dedup): N5251212_N5007先行結果.xlsx
+2025-12-25 15:05:45,847 | INFO | E1_Qrun | Skip (dedup): N5251212_N5008先行結果.xlsx
+2025-12-25 15:05:48,648 | INFO | E1_Qrun | Skip (dedup): N5251215_N5009先行結果.xlsx
+2025-12-25 15:05:51,702 | INFO | E1_Qrun | Skip (dedup): N5251215_N5010先行結果.xlsx
+2025-12-25 15:05:54,632 | INFO | E1_Qrun | Skip (dedup): N5251215_N5011先行結果.xlsx
+2025-12-25 15:05:57,981 | INFO | E1_Qrun | Skip (dedup): N5251216_N5001先行結果.xlsx
+2025-12-25 15:06:00,789 | INFO | E1_Qrun | Skip (dedup): N5251219_N5012先行結果.xlsx
+2025-12-25 15:06:03,843 | INFO | E1_Qrun | Skip (dedup): N6251210_N6001先行結果.xlsx
+2025-12-25 15:06:06,631 | INFO | E1_Qrun | Skip (dedup): N6251210_N6002先行結果.xlsx
+2025-12-25 15:06:09,427 | INFO | E1_Qrun | Skip (dedup): N6251210_N6004先行結果.xlsx
+2025-12-25 15:06:12,219 | INFO | E1_Qrun | Skip (dedup): N6251213_N6003先行結果.xlsx
+2025-12-25 15:06:15,262 | INFO | E1_Qrun | Skip (dedup): N6251214_N6005先行結果.xlsx
+2025-12-25 15:06:18,087 | INFO | E1_Qrun | Skip (dedup): N6251214_N6006先行結果.xlsx
+2025-12-25 15:06:21,011 | INFO | E1_Qrun | Skip (dedup): N6251214_N6007先行結果.xlsx
+2025-12-25 15:06:23,984 | INFO | E1_Qrun | Skip (dedup): N6251215_N6008先行結果.xlsx
+2025-12-25 15:06:27,185 | INFO | E1_Qrun | Skip (dedup): N6251218_N6009先行結果.xlsx
+2025-12-25 15:06:30,108 | INFO | E1_Qrun | Skip (dedup): N6251218_N6012先行結果.xlsx
+2025-12-25 15:06:33,025 | INFO | E1_Qrun | Skip (dedup): N6251219_N6010先行結果.xlsx
+2025-12-25 15:06:35,809 | INFO | E1_Qrun | Skip (dedup): N7251206_N7003先行結果.xlsx
+2025-12-25 15:06:39,041 | INFO | E1_Qrun | Skip (dedup): N7251206_N7005先行結果.xlsx
+2025-12-25 15:06:41,881 | INFO | E1_Qrun | Skip (dedup): N7251207_N7001先行結果.xlsx
+2025-12-25 15:06:44,682 | INFO | E1_Qrun | Skip (dedup): N7251207_N7004先行結果.xlsx
+2025-12-25 15:06:47,734 | INFO | E1_Qrun | Skip (dedup): N7251207_N7006先行結果.xlsx
+2025-12-25 15:06:50,774 | INFO | E1_Qrun | Skip (dedup): N7251207_N7007先行結果.xlsx
+2025-12-25 15:06:53,561 | INFO | E1_Qrun | Skip (dedup): N7251207_N7008先行結果.xlsx
+2025-12-25 15:06:56,399 | INFO | E1_Qrun | Skip (dedup): N7251212_N7009先行結果.xlsx
+2025-12-25 15:06:59,191 | INFO | E1_Qrun | Skip (dedup): N7251212_N7012先行結果.xlsx
+2025-12-25 15:07:02,461 | INFO | E1_Qrun | Skip (dedup): N7251213_N7011先行結果.xlsx
+2025-12-25 15:07:05,300 | INFO | E1_Qrun | Skip (dedup): N8251211_N8002先行結果.xlsx
+2025-12-25 15:07:08,101 | INFO | E1_Qrun | Skip (dedup): N8251211_N8003先行結果.xlsx
+2025-12-25 15:07:11,025 | INFO | E1_Qrun | Skip (dedup): N8251211_N8004先行結果.xlsx
+2025-12-25 15:07:14,141 | INFO | E1_Qrun | Skip (dedup): N8251213_N8001先行結果.xlsx
+2025-12-25 15:07:16,927 | INFO | E1_Qrun | Skip (dedup): N8251214_N8005先行結果.xlsx
+2025-12-25 15:07:19,973 | INFO | E1_Qrun | Skip (dedup): N8251215_N8006先行結果.xlsx
+2025-12-25 15:07:22,858 | INFO | E1_Qrun | Skip (dedup): N8251215_N8007先行結果.xlsx
+2025-12-25 15:07:25,898 | INFO | E1_Qrun | Skip (dedup): N8251218_N8008先行結果.xlsx
+2025-12-25 15:07:28,691 | INFO | E1_Qrun | Skip (dedup): N8251221_N8010先行結果.xlsx
+2025-12-25 15:07:31,592 | INFO | E1_Qrun | Skip (dedup): N8251221_N8011先行結果.xlsx
+2025-12-25 15:07:34,375 | INFO | E1_Qrun | Skip (dedup): N8251221_N8012先行結果.xlsx
+2025-12-25 15:07:37,452 | INFO | E1_Qrun | Skip (dedup): N8251222_N8009先行結果.xlsx
+2025-12-25 15:09:34,510 | INFO | E1_Qrun | Candidates after filter: 40
+2025-12-25 15:09:34,510 | INFO | E1_Qrun | DB bulk query start: count=40
+2025-12-25 15:10:27,178 | INFO | E1_Qrun | DB bulk query end: count=40 (elapsed=0:00:52.667471)
+2025-12-25 15:10:27,178 | INFO | E1_Qrun | DB bulk query cleanup: count=40 (elapsed=0:00:52.668194)
+2025-12-25 15:10:36,595 | INFO | E1_Qrun | Excel read start: NJ240126_NJ052先行結果.xlsm
+2025-12-25 15:10:37,885 | INFO | E1_Qrun | Excel read end: NJ240126_NJ052先行結果.xlsm (elapsed=0:00:01.289790)
+2025-12-25 15:10:37,885 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:10:39,498 | INFO | E1_Qrun | Processed: NJ240126_NJ052先行結果.xlsm
+2025-12-25 15:10:48,604 | INFO | E1_Qrun | Excel read start: NJ240128_NJ053先行結果.xlsm
+2025-12-25 15:10:49,594 | INFO | E1_Qrun | Excel read end: NJ240128_NJ053先行結果.xlsm (elapsed=0:00:00.989955)
+2025-12-25 15:10:49,594 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:10:51,313 | INFO | E1_Qrun | Processed: NJ240128_NJ053先行結果.xlsm
+2025-12-25 15:11:00,093 | INFO | E1_Qrun | Excel read start: NJ240201_NJ054先行結果.xlsm
+2025-12-25 15:11:01,178 | INFO | E1_Qrun | Excel read end: NJ240201_NJ054先行結果.xlsm (elapsed=0:00:01.085312)
+2025-12-25 15:11:01,179 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:11:02,727 | INFO | E1_Qrun | Processed: NJ240201_NJ054先行結果.xlsm
+2025-12-25 15:11:12,566 | INFO | E1_Qrun | Excel read start: NJ250108_NJ057先行結果.xlsm
+2025-12-25 15:11:13,384 | INFO | E1_Qrun | Excel read end: NJ250108_NJ057先行結果.xlsm (elapsed=0:00:00.818247)
+2025-12-25 15:11:13,385 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:11:14,914 | INFO | E1_Qrun | Processed: NJ250108_NJ057先行結果.xlsm
+2025-12-25 15:11:23,922 | INFO | E1_Qrun | Excel read start: NJ250125_NJ056先行結果.xlsm
+2025-12-25 15:11:24,972 | INFO | E1_Qrun | Excel read end: NJ250125_NJ056先行結果.xlsm (elapsed=0:00:01.049773)
+2025-12-25 15:11:24,973 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:11:26,668 | INFO | E1_Qrun | Processed: NJ250125_NJ056先行結果.xlsm
+2025-12-25 15:11:35,750 | INFO | E1_Qrun | Excel read start: NK240126_NK052先行結果.xlsm
+2025-12-25 15:11:36,809 | INFO | E1_Qrun | Excel read end: NK240126_NK052先行結果.xlsm (elapsed=0:00:01.058374)
+2025-12-25 15:11:36,809 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:11:38,762 | INFO | E1_Qrun | Processed: NK240126_NK052先行結果.xlsm
+2025-12-25 15:11:48,628 | INFO | E1_Qrun | Excel read start: NK240201_NK054先行結果.xlsm
+2025-12-25 15:11:49,872 | INFO | E1_Qrun | Excel read end: NK240201_NK054先行結果.xlsm (elapsed=0:00:01.244313)
+2025-12-25 15:11:49,873 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:11:51,555 | INFO | E1_Qrun | Processed: NK240201_NK054先行結果.xlsm
+2025-12-25 15:12:01,642 | INFO | E1_Qrun | Excel read start: NK250108_NK055先行結果.xlsm
+2025-12-25 15:12:02,871 | INFO | E1_Qrun | Excel read end: NK250108_NK055先行結果.xlsm (elapsed=0:00:01.229791)
+2025-12-25 15:12:02,872 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:12:04,549 | INFO | E1_Qrun | Processed: NK250108_NK055先行結果.xlsm
+2025-12-25 15:12:13,068 | INFO | E1_Qrun | Excel read start: NK250108_NK056先行結果.xlsm
+2025-12-25 15:12:14,162 | INFO | E1_Qrun | Excel read end: NK250108_NK056先行結果.xlsm (elapsed=0:00:01.094432)
+2025-12-25 15:12:14,163 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:12:15,993 | INFO | E1_Qrun | Processed: NK250108_NK056先行結果.xlsm
+2025-12-25 15:12:25,845 | INFO | E1_Qrun | Excel read start: NK250125_NK057先行結果.xlsm
+2025-12-25 15:12:26,932 | INFO | E1_Qrun | Excel read end: NK250125_NK057先行結果.xlsm (elapsed=0:00:01.087296)
+2025-12-25 15:12:26,933 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:12:28,737 | INFO | E1_Qrun | Processed: NK250125_NK057先行結果.xlsm
+2025-12-25 15:12:38,277 | INFO | E1_Qrun | Excel read start: NK250125_NK058先行結果.xlsm
+2025-12-25 15:12:39,269 | INFO | E1_Qrun | Excel read end: NK250125_NK058先行結果.xlsm (elapsed=0:00:00.992125)
+2025-12-25 15:12:39,270 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:12:40,945 | INFO | E1_Qrun | Processed: NK250125_NK058先行結果.xlsm
+2025-12-25 15:12:49,608 | INFO | E1_Qrun | Excel read start: NK250208_NK053先行結果.xlsm
+2025-12-25 15:12:50,491 | INFO | E1_Qrun | Excel read end: NK250208_NK053先行結果.xlsm (elapsed=0:00:00.882818)
+2025-12-25 15:12:50,491 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:12:52,161 | INFO | E1_Qrun | Processed: NK250208_NK053先行結果.xlsm
+2025-12-25 15:13:01,356 | INFO | E1_Qrun | Excel read start: NL240129_NL053先行結果.xlsm
+2025-12-25 15:13:02,770 | INFO | E1_Qrun | Excel read end: NL240129_NL053先行結果.xlsm (elapsed=0:00:01.414337)
+2025-12-25 15:13:02,783 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:13:04,849 | INFO | E1_Qrun | Processed: NL240129_NL053先行結果.xlsm
+2025-12-25 15:13:14,541 | INFO | E1_Qrun | Excel read start: NL240130_NL052先行結果.xlsm
+2025-12-25 15:13:15,486 | INFO | E1_Qrun | Excel read end: NL240130_NL052先行結果.xlsm (elapsed=0:00:00.945271)
+2025-12-25 15:13:15,486 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:13:17,316 | INFO | E1_Qrun | Processed: NL240130_NL052先行結果.xlsm
+2025-12-25 15:13:25,716 | INFO | E1_Qrun | Excel read start: NL240202_NL054先行結果.xlsm
+2025-12-25 15:13:26,571 | INFO | E1_Qrun | Excel read end: NL240202_NL054先行結果.xlsm (elapsed=0:00:00.855697)
+2025-12-25 15:13:26,572 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:13:28,395 | INFO | E1_Qrun | Processed: NL240202_NL054先行結果.xlsm
+2025-12-25 15:13:37,730 | INFO | E1_Qrun | Excel read start: NL240202_NL055先行結果.xlsm
+2025-12-25 15:13:38,828 | INFO | E1_Qrun | Excel read end: NL240202_NL055先行結果.xlsm (elapsed=0:00:01.097605)
+2025-12-25 15:13:38,828 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:13:40,672 | INFO | E1_Qrun | Processed: NL240202_NL055先行結果.xlsm
+2025-12-25 15:13:49,877 | INFO | E1_Qrun | Excel read start: NL240209_NL052先行結果.xlsm
+2025-12-25 15:13:51,032 | INFO | E1_Qrun | Excel read end: NL240209_NL052先行結果.xlsm (elapsed=0:00:01.155634)
+2025-12-25 15:13:51,033 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:13:52,719 | INFO | E1_Qrun | Processed: NL240209_NL052先行結果.xlsm
+2025-12-25 15:14:01,379 | INFO | E1_Qrun | Excel read start: NL250109_NL057先行結果.xlsm
+2025-12-25 15:14:02,291 | INFO | E1_Qrun | Excel read end: NL250109_NL057先行結果.xlsm (elapsed=0:00:00.911971)
+2025-12-25 15:14:02,292 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:14:04,113 | INFO | E1_Qrun | Processed: NL250109_NL057先行結果.xlsm
+2025-12-25 15:14:14,148 | INFO | E1_Qrun | Excel read start: NL250125_NL056先行結果.xlsm
+2025-12-25 15:14:15,092 | INFO | E1_Qrun | Excel read end: NL250125_NL056先行結果.xlsm (elapsed=0:00:00.943826)
+2025-12-25 15:14:15,093 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:14:16,913 | INFO | E1_Qrun | Processed: NL250125_NL056先行結果.xlsm
+2025-12-25 15:14:25,881 | INFO | E1_Qrun | Excel read start: NM240105_NM051先行結果.xlsm
+2025-12-25 15:14:26,902 | INFO | E1_Qrun | Excel read end: NM240105_NM051先行結果.xlsm (elapsed=0:00:01.021807)
+2025-12-25 15:14:26,903 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:14:28,736 | INFO | E1_Qrun | Processed: NM240105_NM051先行結果.xlsm
+2025-12-25 15:14:38,438 | INFO | E1_Qrun | Excel read start: NM240128_NM052先行結果.xlsm
+2025-12-25 15:14:39,713 | INFO | E1_Qrun | Excel read end: NM240128_NM052先行結果.xlsm (elapsed=0:00:01.275478)
+2025-12-25 15:14:39,714 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:14:41,422 | INFO | E1_Qrun | Processed: NM240128_NM052先行結果.xlsm
+2025-12-25 15:14:51,567 | INFO | E1_Qrun | Excel read start: NM240129_NM053先行結果.xlsm
+2025-12-25 15:14:52,713 | INFO | E1_Qrun | Excel read end: NM240129_NM053先行結果.xlsm (elapsed=0:00:01.146631)
+2025-12-25 15:14:52,714 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:14:54,693 | INFO | E1_Qrun | Processed: NM240129_NM053先行結果.xlsm
+2025-12-25 15:15:04,065 | INFO | E1_Qrun | Excel read start: NM240201_NM053先行結果.xlsm
+2025-12-25 15:15:04,975 | INFO | E1_Qrun | Excel read end: NM240201_NM053先行結果.xlsm (elapsed=0:00:00.910635)
+2025-12-25 15:15:04,976 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:15:06,813 | INFO | E1_Qrun | Processed: NM240201_NM053先行結果.xlsm
+2025-12-25 15:15:15,793 | INFO | E1_Qrun | Excel read start: NM240201_NM054先行結果.xlsm
+2025-12-25 15:15:16,819 | INFO | E1_Qrun | Excel read end: NM240201_NM054先行結果.xlsm (elapsed=0:00:01.026230)
+2025-12-25 15:15:16,820 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:15:18,770 | INFO | E1_Qrun | Processed: NM240201_NM054先行結果.xlsm
+2025-12-25 15:15:28,823 | INFO | E1_Qrun | Excel read start: NM250109_NM055先行結果.xlsm
+2025-12-25 15:15:29,973 | INFO | E1_Qrun | Excel read end: NM250109_NM055先行結果.xlsm (elapsed=0:00:01.149922)
+2025-12-25 15:15:29,974 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:15:31,652 | INFO | E1_Qrun | Processed: NM250109_NM055先行結果.xlsm
+2025-12-25 15:15:41,870 | INFO | E1_Qrun | Excel read start: NN240829_NN100先行結果.xlsm
+2025-12-25 15:15:43,090 | INFO | E1_Qrun | Excel read end: NN240829_NN100先行結果.xlsm (elapsed=0:00:01.220257)
+2025-12-25 15:15:43,091 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:15:44,904 | INFO | E1_Qrun | Processed: NN240829_NN100先行結果.xlsm
+2025-12-25 15:15:54,220 | INFO | E1_Qrun | Excel read start: NN240903_NN101先行結果.xlsm
+2025-12-25 15:15:55,502 | INFO | E1_Qrun | Excel read end: NN240903_NN101先行結果.xlsm (elapsed=0:00:01.282519)
+2025-12-25 15:15:55,503 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:15:57,208 | INFO | E1_Qrun | Processed: NN240903_NN101先行結果.xlsm
+2025-12-25 15:16:06,374 | INFO | E1_Qrun | Excel read start: NN241018_NN102先行結果.xlsm
+2025-12-25 15:16:07,447 | INFO | E1_Qrun | Excel read end: NN241018_NN102先行結果.xlsm (elapsed=0:00:01.072882)
+2025-12-25 15:16:07,447 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:16:09,279 | INFO | E1_Qrun | Processed: NN241018_NN102先行結果.xlsm
+2025-12-25 15:16:17,976 | INFO | E1_Qrun | Excel read start: NN241019_NN103先行結果.xlsm
+2025-12-25 15:16:18,870 | INFO | E1_Qrun | Excel read end: NN241019_NN103先行結果.xlsm (elapsed=0:00:00.893407)
+2025-12-25 15:16:18,870 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:16:20,699 | INFO | E1_Qrun | Processed: NN241019_NN103先行結果.xlsm
+2025-12-25 15:16:28,836 | INFO | E1_Qrun | Excel read start: NP240829_NP100先行結果.xlsm
+2025-12-25 15:16:29,731 | INFO | E1_Qrun | Excel read end: NP240829_NP100先行結果.xlsm (elapsed=0:00:00.895052)
+2025-12-25 15:16:29,732 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:16:31,547 | INFO | E1_Qrun | Processed: NP240829_NP100先行結果.xlsm
+2025-12-25 15:16:41,566 | INFO | E1_Qrun | Excel read start: NP240903_NP102先行結果.xlsm
+2025-12-25 15:16:42,532 | INFO | E1_Qrun | Excel read end: NP240903_NP102先行結果.xlsm (elapsed=0:00:00.965515)
+2025-12-25 15:16:42,532 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:16:44,381 | INFO | E1_Qrun | Processed: NP240903_NP102先行結果.xlsm
+2025-12-25 15:16:53,762 | INFO | E1_Qrun | Excel read start: NP241018_NP103先行結果.xlsm
+2025-12-25 15:16:54,825 | INFO | E1_Qrun | Excel read end: NP241018_NP103先行結果.xlsm (elapsed=0:00:01.063164)
+2025-12-25 15:16:54,825 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:16:56,674 | INFO | E1_Qrun | Processed: NP241018_NP103先行結果.xlsm
+2025-12-25 15:17:06,958 | INFO | E1_Qrun | Excel read start: NQ240829_NQ100先行結果.xlsm
+2025-12-25 15:17:08,449 | INFO | E1_Qrun | Excel read end: NQ240829_NQ100先行結果.xlsm (elapsed=0:00:01.491098)
+2025-12-25 15:17:08,450 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:17:10,193 | INFO | E1_Qrun | Processed: NQ240829_NQ100先行結果.xlsm
+2025-12-25 15:17:18,905 | INFO | E1_Qrun | Excel read start: NQ240903_NQ101先行結果.xlsm
+2025-12-25 15:17:19,776 | INFO | E1_Qrun | Excel read end: NQ240903_NQ101先行結果.xlsm (elapsed=0:00:00.871084)
+2025-12-25 15:17:19,776 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:17:21,598 | INFO | E1_Qrun | Processed: NQ240903_NQ101先行結果.xlsm
+2025-12-25 15:17:30,396 | INFO | E1_Qrun | Excel read start: NQ241018_NQ102先行結果.xlsm
+2025-12-25 15:17:31,375 | INFO | E1_Qrun | Excel read end: NQ241018_NQ102先行結果.xlsm (elapsed=0:00:00.979035)
+2025-12-25 15:17:31,376 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:17:33,207 | INFO | E1_Qrun | Processed: NQ241018_NQ102先行結果.xlsm
+2025-12-25 15:17:41,948 | INFO | E1_Qrun | Excel read start: NQ241018_NQ103先行結果.xlsm
+2025-12-25 15:17:43,433 | INFO | E1_Qrun | Excel read end: NQ241018_NQ103先行結果.xlsm (elapsed=0:00:01.484824)
+2025-12-25 15:17:43,434 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:17:45,277 | INFO | E1_Qrun | Processed: NQ241018_NQ103先行結果.xlsm
+2025-12-25 15:17:55,667 | INFO | E1_Qrun | Excel read start: NR240829_NR100先行結果.xlsm
+2025-12-25 15:17:56,712 | INFO | E1_Qrun | Excel read end: NR240829_NR100先行結果.xlsm (elapsed=0:00:01.045312)
+2025-12-25 15:17:56,713 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:17:58,393 | INFO | E1_Qrun | Processed: NR240829_NR100先行結果.xlsm
+2025-12-25 15:18:07,554 | INFO | E1_Qrun | Excel read start: NR240903_NR101先行結果.xlsm
+2025-12-25 15:18:08,469 | INFO | E1_Qrun | Excel read end: NR240903_NR101先行結果.xlsm (elapsed=0:00:00.915857)
+2025-12-25 15:18:08,470 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:18:10,584 | INFO | E1_Qrun | Processed: NR240903_NR101先行結果.xlsm
+2025-12-25 15:18:20,547 | INFO | E1_Qrun | Excel read start: NR241018_NR102先行結果.xlsm
+2025-12-25 15:18:21,407 | INFO | E1_Qrun | Excel read end: NR241018_NR102先行結果.xlsm (elapsed=0:00:00.859952)
+2025-12-25 15:18:21,407 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:18:23,250 | INFO | E1_Qrun | Processed: NR241018_NR102先行結果.xlsm
+2025-12-25 15:18:33,005 | INFO | E1_Qrun | Excel read start: NR241018_NR103先行結果.xlsm
+2025-12-25 15:18:33,868 | INFO | E1_Qrun | Excel read end: NR241018_NR103先行結果.xlsm (elapsed=0:00:00.862681)
+2025-12-25 15:18:33,868 | INFO | E1_Qrun | Loaded main table: 50 rows x 303 cols
+2025-12-25 15:18:35,694 | INFO | E1_Qrun | Processed: NR241018_NR103先行結果.xlsm
+2025-12-25 15:18:40,537 | INFO | E1_Qrun | Pointer XML generated: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=E1_Qrun,Partnumber=HL13E1,Serialnumber=E1_Qrun_2025_12_25T14.51.51_5998003b,Testdate=2025-12-25T15.18.39.xml
+2025-12-25 15:18:40,538 | INFO | E1_Qrun | ==== End ====
+2025-12-25 15:18:40,539 | INFO | E1_Qrun | Processed=40 Skipped=214 Errors=0 CSV=\\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\054_E1_Qrun\E1_Qrun_2025_12_25T14.51.51_5998003b.csv XML=\\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=E1_Qrun,Partnumber=HL13E1,Serialnumber=E1_Qrun_2025_12_25T14.51.51_5998003b,Testdate=2025-12-25T15.18.39.xml
