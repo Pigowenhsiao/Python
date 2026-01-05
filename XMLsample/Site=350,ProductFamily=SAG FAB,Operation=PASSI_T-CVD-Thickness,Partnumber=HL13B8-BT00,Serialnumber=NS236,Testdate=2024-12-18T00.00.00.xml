@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+       <Result startDateTime="2024-12-18T00:00:00" Result="Passed">
+               <Header SerialNumber="NS236" PartNumber="HL13B8-BT00" Operation="PASSI_T-CVD-Thickness" TestStation="PASSI" Operator="内野" StartTime="2024-12-18T00:00:00" Site="350" LotNumber="NS236"/>
+               <HeaderMisc>
+                   <Item Description="Group">ﾊﾟｯｼﾍﾞｰｼｮﾝ</Item>
+               </HeaderMisc>
+
+               <TestStep Name="Coordinate" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="X" Units="um" Value="999999"/>
+                   <Data DataType="Numeric" Name="Y" Units="um" Value="999999"/>
+               </TestStep>
+               <TestStep Name="Thickness" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="Thickness" Units="nm" Value="434.9"/>
+               </TestStep>
+               <TestStep Name="DepotTime" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="PSG" Units="sec" Value="150.0"/>
+                   <Data DataType="Numeric" Name="SiO2" Units="sec" Value="500.0"/>
+               </TestStep>
+               <TestStep Name="Temperature" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="Ts" Units="degree" Value="356.0"/>
+                   <Data DataType="Numeric" Name="T" Units="degree" Value="345.9"/>
+                   <Data DataType="Numeric" Name="T-Ts" Units="degree" Value="-10.100000000000023"/>
+               </TestStep>
+               <TestStep Name="Temperature_Plus14" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="Ts_Plus14" Units="degree" Value=""/>
+                   <Data DataType="Numeric" Name="T_Plus14" Units="degree" Value=""/>
+                   <Data DataType="Numeric" Name="T-Ts_Plus14" Units="degree" Value=""/>
+               </TestStep>
+               <TestStep Name="ReplacementTime" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="ReplacementTime" Units="sec" Value="600.0"/>
+               </TestStep>
+               <TestStep Name="GasFlowRate" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="O2" Units="L/min" Value="0.2"/>
+                   <Data DataType="Numeric" Name="N2" Units="L/min" Value="8.0"/>
+                   <Data DataType="Numeric" Name="PH3" Units="L/min" Value="0.19"/>
+                   <Data DataType="Numeric" Name="SiH4" Units="L/min" Value="0.8"/>
+                   <Data DataType="Numeric" Name="N2-carrier" Units="L/min" Value="8.0"/>
+               </TestStep>
+               <TestStep Name="SORTED_DATA" startDateTime="2024-12-18T00:00:00" Status="Passed">
+                   <Data DataType="Numeric" Name="STARTTIME_SORTED" Units="" Value="45644.020563"/>
+                   <Data DataType="Numeric" Name="SORTNUMBER" Units="" Value="20563.0"/>
+                   <Data DataType="String" Name="LotNumber_5" Value="NS236" CompOperation="LOG"/>
+                   <Data DataType="String" Name="LotNumber_9" Value="24G2NS236" CompOperation="LOG"/>
+               </TestStep>
+
+               <TestEquipment>
+                   <Item DeviceName="Nanospec" DeviceSerialNumber="1"/>
+               </TestEquipment>
+
+               <ErrorData/>
+               <FailureData/>
+               <Configuration/>
+       </Result>
+</Results>

@@ -1,0 +1,939 @@
+INFO:root:2025-08-06 13:38:00 Program Start
+INFO:root:2025-08-06 13:38:00 Excel File Copy
+INFO:root:2025-08-06 13:43:50 Program Start
+INFO:root:2025-08-06 13:43:50 Excel File Copy
+INFO:root:2025-08-06 13:43:52 Get The Starting Row Count
+INFO:root:2025-08-06 13:43:52 Read Excel
+INFO:root:2025-08-06 13:43:52 Setting Columns Number
+INFO:root:2025-08-06 13:43:52 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:43:52 Blank Check
+INFO:root:2025-08-06 13:43:52 Data Acquisition
+INFO:root:2025-08-06 13:43:55 Date Format Conversion
+INFO:root:2025-08-06 13:43:55 Check Data Type
+INFO:root:2025-08-06 13:43:55 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:43:55 NS512 : OK
+
+INFO:root:2025-08-06 13:43:55 Blank Check
+INFO:root:2025-08-06 13:43:55 Data Acquisition
+INFO:root:2025-08-06 13:43:56 Date Format Conversion
+INFO:root:2025-08-06 13:43:56 Check Data Type
+INFO:root:2025-08-06 13:43:56 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:43:57 NS513 : OK
+
+INFO:root:2025-08-06 13:43:57 Blank Check
+INFO:root:2025-08-06 13:43:57 Data Acquisition
+INFO:root:2025-08-06 13:43:58 Date Format Conversion
+INFO:root:2025-08-06 13:43:58 Check Data Type
+INFO:root:2025-08-06 13:43:58 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:43:59 NS514 : OK
+
+INFO:root:2025-08-06 13:43:59 Blank Check
+INFO:root:2025-08-06 13:43:59 Data Acquisition
+INFO:root:2025-08-06 13:44:00 Date Format Conversion
+INFO:root:2025-08-06 13:44:00 Check Data Type
+INFO:root:2025-08-06 13:44:00 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:44:00 NS515 : OK
+
+INFO:root:2025-08-06 13:44:00 Blank Check
+INFO:root:2025-08-06 13:44:00 Data Acquisition
+INFO:root:2025-08-06 13:44:01 Date Format Conversion
+INFO:root:2025-08-06 13:44:01 Check Data Type
+INFO:root:2025-08-06 13:44:01 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:44:02 NS516 : OK
+
+INFO:root:2025-08-06 13:44:02 Blank Check
+INFO:root:2025-08-06 13:44:02 Data Acquisition
+INFO:root:2025-08-06 13:44:03 Date Format Conversion
+INFO:root:2025-08-06 13:44:03 Check Data Type
+INFO:root:2025-08-06 13:44:03 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:44:03 NS517 : OK
+
+INFO:root:2025-08-06 13:44:03 Blank Check
+INFO:root:2025-08-06 13:44:03 Data Acquisition
+INFO:root:2025-08-06 13:45:30 Program Start
+INFO:root:2025-08-06 13:45:30 Excel File Copy
+INFO:root:2025-08-06 13:45:31 Get The Starting Row Count
+INFO:root:2025-08-06 13:45:31 Read Excel
+INFO:root:2025-08-06 13:45:32 Setting Columns Number
+INFO:root:2025-08-06 13:45:32 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:45:32 Blank Check
+INFO:root:2025-08-06 13:45:32 Data Acquisition
+INFO:root:2025-08-06 13:45:34 Date Format Conversion
+INFO:root:2025-08-06 13:45:34 Check Data Type
+INFO:root:2025-08-06 13:45:34 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:34 NS512 : OK
+
+INFO:root:2025-08-06 13:45:34 Blank Check
+INFO:root:2025-08-06 13:45:34 Data Acquisition
+INFO:root:2025-08-06 13:45:35 Date Format Conversion
+INFO:root:2025-08-06 13:45:35 Check Data Type
+INFO:root:2025-08-06 13:45:35 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:36 NS513 : OK
+
+INFO:root:2025-08-06 13:45:36 Blank Check
+INFO:root:2025-08-06 13:45:36 Data Acquisition
+INFO:root:2025-08-06 13:45:37 Date Format Conversion
+INFO:root:2025-08-06 13:45:37 Check Data Type
+INFO:root:2025-08-06 13:45:37 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:37 NS514 : OK
+
+INFO:root:2025-08-06 13:45:37 Blank Check
+INFO:root:2025-08-06 13:45:37 Data Acquisition
+INFO:root:2025-08-06 13:45:38 Date Format Conversion
+INFO:root:2025-08-06 13:45:38 Check Data Type
+INFO:root:2025-08-06 13:45:38 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:39 NS515 : OK
+
+INFO:root:2025-08-06 13:45:39 Blank Check
+INFO:root:2025-08-06 13:45:39 Data Acquisition
+INFO:root:2025-08-06 13:45:40 Date Format Conversion
+INFO:root:2025-08-06 13:45:40 Check Data Type
+INFO:root:2025-08-06 13:45:40 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:40 NS516 : OK
+
+INFO:root:2025-08-06 13:45:40 Blank Check
+INFO:root:2025-08-06 13:45:40 Data Acquisition
+INFO:root:2025-08-06 13:45:41 Date Format Conversion
+INFO:root:2025-08-06 13:45:41 Check Data Type
+INFO:root:2025-08-06 13:45:41 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:42 NS517 : OK
+
+INFO:root:2025-08-06 13:45:42 Blank Check
+INFO:root:2025-08-06 13:45:42 Data Acquisition
+INFO:root:2025-08-06 13:45:43 Date Format Conversion
+INFO:root:2025-08-06 13:45:43 Check Data Type
+INFO:root:2025-08-06 13:45:43 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:44 NS518 : OK
+
+INFO:root:2025-08-06 13:45:44 Blank Check
+INFO:root:2025-08-06 13:45:44 Data Acquisition
+INFO:root:2025-08-06 13:45:45 Date Format Conversion
+INFO:root:2025-08-06 13:45:45 Check Data Type
+INFO:root:2025-08-06 13:45:45 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:46 NS519 : OK
+
+INFO:root:2025-08-06 13:45:46 Blank Check
+INFO:root:2025-08-06 13:45:46 Data Acquisition
+INFO:root:2025-08-06 13:45:47 Date Format Conversion
+INFO:root:2025-08-06 13:45:47 Check Data Type
+INFO:root:2025-08-06 13:45:47 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:48 DEAD2 : OK
+
+INFO:root:2025-08-06 13:45:48 Blank Check
+INFO:root:2025-08-06 13:45:48 Data Acquisition
+INFO:root:2025-08-06 13:45:49 Date Format Conversion
+INFO:root:2025-08-06 13:45:49 Check Data Type
+INFO:root:2025-08-06 13:45:49 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:49 DEAD3 : OK
+
+INFO:root:2025-08-06 13:45:49 Blank Check
+INFO:root:2025-08-06 13:45:49 Data Acquisition
+INFO:root:2025-08-06 13:45:50 Date Format Conversion
+INFO:root:2025-08-06 13:45:50 Check Data Type
+INFO:root:2025-08-06 13:45:50 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:51 DEAD4 : OK
+
+INFO:root:2025-08-06 13:45:51 Blank Check
+INFO:root:2025-08-06 13:45:51 Data Acquisition
+INFO:root:2025-08-06 13:45:52 Date Format Conversion
+INFO:root:2025-08-06 13:45:52 Check Data Type
+INFO:root:2025-08-06 13:45:52 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:52 NV390 : OK
+
+INFO:root:2025-08-06 13:45:52 Blank Check
+INFO:root:2025-08-06 13:45:52 Data Acquisition
+INFO:root:2025-08-06 13:45:53 Date Format Conversion
+INFO:root:2025-08-06 13:45:53 Check Data Type
+INFO:root:2025-08-06 13:45:53 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:53 NV456 : OK
+
+INFO:root:2025-08-06 13:45:53 Blank Check
+INFO:root:2025-08-06 13:45:53 Data Acquisition
+INFO:root:2025-08-06 13:45:54 Date Format Conversion
+INFO:root:2025-08-06 13:45:54 Check Data Type
+INFO:root:2025-08-06 13:45:54 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:55 NV457 : OK
+
+INFO:root:2025-08-06 13:45:55 Blank Check
+INFO:root:2025-08-06 13:45:55 Data Acquisition
+INFO:root:2025-08-06 13:45:56 Date Format Conversion
+INFO:root:2025-08-06 13:45:56 Check Data Type
+INFO:root:2025-08-06 13:45:56 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:57 NV458 : OK
+
+INFO:root:2025-08-06 13:45:57 Blank Check
+INFO:root:2025-08-06 13:45:57 Data Acquisition
+INFO:root:2025-08-06 13:45:58 Date Format Conversion
+INFO:root:2025-08-06 13:45:58 Check Data Type
+INFO:root:2025-08-06 13:45:58 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:45:58 D1BQU : OK
+
+INFO:root:2025-08-06 13:45:58 Blank Check
+INFO:root:2025-08-06 13:45:58 Data Acquisition
+INFO:root:2025-08-06 13:45:59 Date Format Conversion
+INFO:root:2025-08-06 13:45:59 Check Data Type
+INFO:root:2025-08-06 13:45:59 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:46:00 D1BQV : OK
+
+INFO:root:2025-08-06 13:46:00 Blank Check
+INFO:root:2025-08-06 13:46:00 Data Acquisition
+INFO:root:2025-08-06 13:46:01 Date Format Conversion
+INFO:root:2025-08-06 13:46:01 Check Data Type
+INFO:root:2025-08-06 13:46:01 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:46:01 D1BQW : OK
+
+INFO:root:2025-08-06 13:46:01 Blank Check
+INFO:root:2025-08-06 13:46:01 Data Acquisition
+INFO:root:2025-08-06 13:46:02 Date Format Conversion
+INFO:root:2025-08-06 13:46:02 Check Data Type
+INFO:root:2025-08-06 13:46:02 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:46:03 D1BQX : OK
+
+INFO:root:2025-08-06 13:46:03 Blank Check
+INFO:root:2025-08-06 13:46:03 Data Acquisition
+INFO:root:2025-08-06 13:46:04 Date Format Conversion
+INFO:root:2025-08-06 13:46:04 Check Data Type
+INFO:root:2025-08-06 13:46:04 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:46:05 D1BQL : OK
+
+INFO:root:2025-08-06 13:46:05 Blank Check
+INFO:root:2025-08-06 13:46:05 Data Acquisition
+INFO:root:2025-08-06 13:46:06 Date Format Conversion
+INFO:root:2025-08-06 13:46:06 Check Data Type
+INFO:root:2025-08-06 13:46:06 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:46:06 D1BQM : OK
+
+INFO:root:2025-08-06 13:46:06 Blank Check
+INFO:root:2025-08-06 13:46:06 Data Acquisition
+INFO:root:2025-08-06 13:56:23 Program Start
+INFO:root:2025-08-06 13:56:23 Excel File Copy
+INFO:root:2025-08-06 13:56:25 Get The Starting Row Count
+INFO:root:2025-08-06 13:56:25 Read Excel
+INFO:root:2025-08-06 13:56:26 Setting Columns Number
+INFO:root:2025-08-06 13:56:26 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:56:26 Blank Check
+INFO:root:2025-08-06 13:56:26 Data Acquisition
+INFO:root:2025-08-06 13:56:59 Program Start
+INFO:root:2025-08-06 13:56:59 Excel File Copy
+INFO:root:2025-08-06 13:57:00 Get The Starting Row Count
+INFO:root:2025-08-06 13:57:00 Read Excel
+INFO:root:2025-08-06 13:57:01 Setting Columns Number
+INFO:root:2025-08-06 13:57:01 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:57:01 Blank Check
+INFO:root:2025-08-06 13:57:01 Data Acquisition
+INFO:root:2025-08-06 13:57:03 Date Format Conversion
+INFO:root:2025-08-06 13:57:03 Check Data Type
+INFO:root:2025-08-06 13:57:03 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:03 NS512 : OK
+
+INFO:root:2025-08-06 13:57:03 Blank Check
+INFO:root:2025-08-06 13:57:03 Data Acquisition
+INFO:root:2025-08-06 13:57:04 Date Format Conversion
+INFO:root:2025-08-06 13:57:04 Check Data Type
+INFO:root:2025-08-06 13:57:04 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:04 NS513 : OK
+
+INFO:root:2025-08-06 13:57:04 Blank Check
+INFO:root:2025-08-06 13:57:04 Data Acquisition
+INFO:root:2025-08-06 13:57:05 Date Format Conversion
+INFO:root:2025-08-06 13:57:05 Check Data Type
+INFO:root:2025-08-06 13:57:05 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:05 NS514 : OK
+
+INFO:root:2025-08-06 13:57:05 Blank Check
+INFO:root:2025-08-06 13:57:05 Data Acquisition
+INFO:root:2025-08-06 13:57:06 Date Format Conversion
+INFO:root:2025-08-06 13:57:06 Check Data Type
+INFO:root:2025-08-06 13:57:06 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:06 NS515 : OK
+
+INFO:root:2025-08-06 13:57:06 Blank Check
+INFO:root:2025-08-06 13:57:06 Data Acquisition
+INFO:root:2025-08-06 13:57:07 Date Format Conversion
+INFO:root:2025-08-06 13:57:07 Check Data Type
+INFO:root:2025-08-06 13:57:07 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:07 NS516 : OK
+
+INFO:root:2025-08-06 13:57:07 Blank Check
+INFO:root:2025-08-06 13:57:07 Data Acquisition
+INFO:root:2025-08-06 13:57:08 Date Format Conversion
+INFO:root:2025-08-06 13:57:08 Check Data Type
+INFO:root:2025-08-06 13:57:08 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:08 NS517 : OK
+
+INFO:root:2025-08-06 13:57:08 Blank Check
+INFO:root:2025-08-06 13:57:08 Data Acquisition
+INFO:root:2025-08-06 13:57:09 Date Format Conversion
+INFO:root:2025-08-06 13:57:09 Check Data Type
+INFO:root:2025-08-06 13:57:09 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:09 NS518 : OK
+
+INFO:root:2025-08-06 13:57:09 Blank Check
+INFO:root:2025-08-06 13:57:09 Data Acquisition
+INFO:root:2025-08-06 13:57:10 Date Format Conversion
+INFO:root:2025-08-06 13:57:10 Check Data Type
+INFO:root:2025-08-06 13:57:10 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:10 NS519 : OK
+
+INFO:root:2025-08-06 13:57:10 Blank Check
+INFO:root:2025-08-06 13:57:10 Data Acquisition
+INFO:root:2025-08-06 13:57:11 Date Format Conversion
+INFO:root:2025-08-06 13:57:11 Check Data Type
+INFO:root:2025-08-06 13:57:11 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:11 DEAD2 : OK
+
+INFO:root:2025-08-06 13:57:11 Blank Check
+INFO:root:2025-08-06 13:57:11 Data Acquisition
+INFO:root:2025-08-06 13:57:12 Date Format Conversion
+INFO:root:2025-08-06 13:57:12 Check Data Type
+INFO:root:2025-08-06 13:57:12 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:12 DEAD3 : OK
+
+INFO:root:2025-08-06 13:57:12 Blank Check
+INFO:root:2025-08-06 13:57:12 Data Acquisition
+INFO:root:2025-08-06 13:57:13 Date Format Conversion
+INFO:root:2025-08-06 13:57:13 Check Data Type
+INFO:root:2025-08-06 13:57:13 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:13 DEAD4 : OK
+
+INFO:root:2025-08-06 13:57:13 Blank Check
+INFO:root:2025-08-06 13:57:13 Data Acquisition
+INFO:root:2025-08-06 13:57:14 Date Format Conversion
+INFO:root:2025-08-06 13:57:14 Check Data Type
+INFO:root:2025-08-06 13:57:14 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:14 NV390 : OK
+
+INFO:root:2025-08-06 13:57:14 Blank Check
+INFO:root:2025-08-06 13:57:14 Data Acquisition
+INFO:root:2025-08-06 13:57:15 Date Format Conversion
+INFO:root:2025-08-06 13:57:15 Check Data Type
+INFO:root:2025-08-06 13:57:15 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:15 NV456 : OK
+
+INFO:root:2025-08-06 13:57:15 Blank Check
+INFO:root:2025-08-06 13:57:15 Data Acquisition
+INFO:root:2025-08-06 13:57:16 Date Format Conversion
+INFO:root:2025-08-06 13:57:16 Check Data Type
+INFO:root:2025-08-06 13:57:16 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:16 NV457 : OK
+
+INFO:root:2025-08-06 13:57:16 Blank Check
+INFO:root:2025-08-06 13:57:16 Data Acquisition
+INFO:root:2025-08-06 13:57:17 Date Format Conversion
+INFO:root:2025-08-06 13:57:17 Check Data Type
+INFO:root:2025-08-06 13:57:17 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:17 NV458 : OK
+
+INFO:root:2025-08-06 13:57:17 Blank Check
+INFO:root:2025-08-06 13:57:17 Data Acquisition
+INFO:root:2025-08-06 13:57:18 Date Format Conversion
+INFO:root:2025-08-06 13:57:18 Check Data Type
+INFO:root:2025-08-06 13:57:18 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:18 D1BQU : OK
+
+INFO:root:2025-08-06 13:57:18 Blank Check
+INFO:root:2025-08-06 13:57:18 Data Acquisition
+INFO:root:2025-08-06 13:57:19 Date Format Conversion
+INFO:root:2025-08-06 13:57:19 Check Data Type
+INFO:root:2025-08-06 13:57:19 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:19 D1BQV : OK
+
+INFO:root:2025-08-06 13:57:19 Blank Check
+INFO:root:2025-08-06 13:57:19 Data Acquisition
+INFO:root:2025-08-06 13:57:20 Date Format Conversion
+INFO:root:2025-08-06 13:57:20 Check Data Type
+INFO:root:2025-08-06 13:57:20 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:20 D1BQW : OK
+
+INFO:root:2025-08-06 13:57:20 Blank Check
+INFO:root:2025-08-06 13:57:20 Data Acquisition
+INFO:root:2025-08-06 13:57:21 Date Format Conversion
+INFO:root:2025-08-06 13:57:21 Check Data Type
+INFO:root:2025-08-06 13:57:21 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:22 D1BQX : OK
+
+INFO:root:2025-08-06 13:57:22 Blank Check
+INFO:root:2025-08-06 13:57:22 Data Acquisition
+INFO:root:2025-08-06 13:57:22 Date Format Conversion
+INFO:root:2025-08-06 13:57:22 Check Data Type
+INFO:root:2025-08-06 13:57:22 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:22 D1BQL : OK
+
+INFO:root:2025-08-06 13:57:22 Blank Check
+INFO:root:2025-08-06 13:57:22 Data Acquisition
+INFO:root:2025-08-06 13:57:23 Date Format Conversion
+INFO:root:2025-08-06 13:57:23 Check Data Type
+INFO:root:2025-08-06 13:57:23 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:23 D1BQM : OK
+
+INFO:root:2025-08-06 13:57:23 Blank Check
+INFO:root:2025-08-06 13:57:23 Data Acquisition
+INFO:root:2025-08-06 13:57:24 Date Format Conversion
+INFO:root:2025-08-06 13:57:24 Check Data Type
+INFO:root:2025-08-06 13:57:24 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:24 D1BQN : OK
+
+INFO:root:2025-08-06 13:57:24 Blank Check
+INFO:root:2025-08-06 13:57:24 Data Acquisition
+INFO:root:2025-08-06 13:57:25 Date Format Conversion
+INFO:root:2025-08-06 13:57:25 Check Data Type
+INFO:root:2025-08-06 13:57:25 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:25 D1BQP : OK
+
+INFO:root:2025-08-06 13:57:25 Blank Check
+INFO:root:2025-08-06 13:57:25 Data Acquisition
+INFO:root:2025-08-06 13:57:26 Date Format Conversion
+INFO:root:2025-08-06 13:57:26 Check Data Type
+INFO:root:2025-08-06 13:57:26 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:26 D1BQM : OK
+
+INFO:root:2025-08-06 13:57:26 Blank Check
+ERROR:root:2025-08-06 13:57:26 Blank Error
+
+INFO:root:2025-08-06 13:57:26 Blank Check
+ERROR:root:2025-08-06 13:57:26 Blank Error
+
+INFO:root:2025-08-06 13:57:26 Blank Check
+ERROR:root:2025-08-06 13:57:26 Blank Error
+
+INFO:root:2025-08-06 13:57:26 Blank Check
+INFO:root:2025-08-06 13:57:26 Data Acquisition
+ERROR:root:2025-08-06 13:57:27 CP1185 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:27 Blank Check
+INFO:root:2025-08-06 13:57:27 Data Acquisition
+ERROR:root:2025-08-06 13:57:29 CP1186 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:29 Blank Check
+INFO:root:2025-08-06 13:57:29 Data Acquisition
+ERROR:root:2025-08-06 13:57:30 CP1187 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:30 Blank Check
+INFO:root:2025-08-06 13:57:30 Data Acquisition
+ERROR:root:2025-08-06 13:57:31 CP1188 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:31 Blank Check
+ERROR:root:2025-08-06 13:57:31 Blank Error
+
+INFO:root:2025-08-06 13:57:31 Blank Check
+ERROR:root:2025-08-06 13:57:31 Blank Error
+
+INFO:root:2025-08-06 13:57:31 Blank Check
+ERROR:root:2025-08-06 13:57:31 Blank Error
+
+INFO:root:2025-08-06 13:57:31 Blank Check
+ERROR:root:2025-08-06 13:57:31 Blank Error
+
+INFO:root:2025-08-06 13:57:31 Blank Check
+INFO:root:2025-08-06 13:57:31 Data Acquisition
+INFO:root:2025-08-06 13:57:32 Date Format Conversion
+INFO:root:2025-08-06 13:57:32 Check Data Type
+INFO:root:2025-08-06 13:57:32 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:32 D1BS0 : OK
+
+INFO:root:2025-08-06 13:57:32 Blank Check
+INFO:root:2025-08-06 13:57:32 Data Acquisition
+INFO:root:2025-08-06 13:57:33 Date Format Conversion
+INFO:root:2025-08-06 13:57:33 Check Data Type
+INFO:root:2025-08-06 13:57:33 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:33 D1BS1 : OK
+
+INFO:root:2025-08-06 13:57:33 Blank Check
+INFO:root:2025-08-06 13:57:33 Data Acquisition
+INFO:root:2025-08-06 13:57:34 Date Format Conversion
+INFO:root:2025-08-06 13:57:34 Check Data Type
+INFO:root:2025-08-06 13:57:34 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:34 D1BS2 : OK
+
+INFO:root:2025-08-06 13:57:34 Blank Check
+INFO:root:2025-08-06 13:57:34 Data Acquisition
+INFO:root:2025-08-06 13:57:35 Date Format Conversion
+INFO:root:2025-08-06 13:57:35 Check Data Type
+INFO:root:2025-08-06 13:57:35 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:35 D1BRW : OK
+
+INFO:root:2025-08-06 13:57:35 Blank Check
+INFO:root:2025-08-06 13:57:35 Data Acquisition
+INFO:root:2025-08-06 13:57:36 Date Format Conversion
+INFO:root:2025-08-06 13:57:36 Check Data Type
+INFO:root:2025-08-06 13:57:36 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:36 D1BRX : OK
+
+INFO:root:2025-08-06 13:57:36 Blank Check
+INFO:root:2025-08-06 13:57:36 Data Acquisition
+INFO:root:2025-08-06 13:57:37 Date Format Conversion
+INFO:root:2025-08-06 13:57:37 Check Data Type
+INFO:root:2025-08-06 13:57:37 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:37 D1BRY : OK
+
+INFO:root:2025-08-06 13:57:37 Blank Check
+INFO:root:2025-08-06 13:57:37 Data Acquisition
+INFO:root:2025-08-06 13:57:38 Date Format Conversion
+INFO:root:2025-08-06 13:57:38 Check Data Type
+INFO:root:2025-08-06 13:57:38 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:38 D1BRZ : OK
+
+INFO:root:2025-08-06 13:57:38 Blank Check
+INFO:root:2025-08-06 13:57:38 Data Acquisition
+ERROR:root:2025-08-06 13:57:39 CP1193 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:39 Blank Check
+INFO:root:2025-08-06 13:57:39 Data Acquisition
+ERROR:root:2025-08-06 13:57:40 CP1194 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:40 Blank Check
+INFO:root:2025-08-06 13:57:40 Data Acquisition
+ERROR:root:2025-08-06 13:57:41 CP1195 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:41 Blank Check
+INFO:root:2025-08-06 13:57:41 Data Acquisition
+ERROR:root:2025-08-06 13:57:42 CP1196 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:42 Blank Check
+INFO:root:2025-08-06 13:57:42 Data Acquisition
+ERROR:root:2025-08-06 13:57:43 CP1197 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:43 Blank Check
+INFO:root:2025-08-06 13:57:43 Data Acquisition
+ERROR:root:2025-08-06 13:57:44 CP1198 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:44 Blank Check
+INFO:root:2025-08-06 13:57:44 Data Acquisition
+ERROR:root:2025-08-06 13:57:45 CP1199 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:45 Blank Check
+INFO:root:2025-08-06 13:57:45 Data Acquisition
+ERROR:root:2025-08-06 13:57:46 CP1200 : PartNumber Error
+
+INFO:root:2025-08-06 13:57:46 Blank Check
+INFO:root:2025-08-06 13:57:46 Data Acquisition
+INFO:root:2025-08-06 13:57:47 Date Format Conversion
+INFO:root:2025-08-06 13:57:47 Check Data Type
+INFO:root:2025-08-06 13:57:47 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:47 DEADN : OK
+
+INFO:root:2025-08-06 13:57:47 Blank Check
+INFO:root:2025-08-06 13:57:47 Data Acquisition
+INFO:root:2025-08-06 13:57:48 Date Format Conversion
+INFO:root:2025-08-06 13:57:48 Check Data Type
+INFO:root:2025-08-06 13:57:48 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:48 DEADP : OK
+
+INFO:root:2025-08-06 13:57:48 Blank Check
+INFO:root:2025-08-06 13:57:48 Data Acquisition
+INFO:root:2025-08-06 13:57:49 Date Format Conversion
+INFO:root:2025-08-06 13:57:49 Check Data Type
+INFO:root:2025-08-06 13:57:49 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:49 DEADQ : OK
+
+INFO:root:2025-08-06 13:57:49 Blank Check
+INFO:root:2025-08-06 13:57:49 Data Acquisition
+INFO:root:2025-08-06 13:57:50 Date Format Conversion
+INFO:root:2025-08-06 13:57:50 Check Data Type
+INFO:root:2025-08-06 13:57:50 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:50 DEADR : OK
+
+INFO:root:2025-08-06 13:57:50 Blank Check
+INFO:root:2025-08-06 13:57:50 Data Acquisition
+INFO:root:2025-08-06 13:57:51 Date Format Conversion
+INFO:root:2025-08-06 13:57:51 Check Data Type
+INFO:root:2025-08-06 13:57:51 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:51 D1BTE : OK
+
+INFO:root:2025-08-06 13:57:51 Blank Check
+INFO:root:2025-08-06 13:57:51 Data Acquisition
+INFO:root:2025-08-06 13:57:52 Date Format Conversion
+INFO:root:2025-08-06 13:57:52 Check Data Type
+INFO:root:2025-08-06 13:57:52 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:52 D1BTF : OK
+
+INFO:root:2025-08-06 13:57:52 Blank Check
+INFO:root:2025-08-06 13:57:52 Data Acquisition
+INFO:root:2025-08-06 13:57:53 Date Format Conversion
+INFO:root:2025-08-06 13:57:53 Check Data Type
+INFO:root:2025-08-06 13:57:53 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:53 D1BTG : OK
+
+INFO:root:2025-08-06 13:57:53 Blank Check
+ERROR:root:2025-08-06 13:57:53 Blank Error
+
+INFO:root:2025-08-06 13:57:53 Blank Check
+ERROR:root:2025-08-06 13:57:53 Blank Error
+
+INFO:root:2025-08-06 13:57:53 Blank Check
+ERROR:root:2025-08-06 13:57:53 Blank Error
+
+INFO:root:2025-08-06 13:57:53 Blank Check
+ERROR:root:2025-08-06 13:57:53 Blank Error
+
+INFO:root:2025-08-06 13:57:53 Blank Check
+INFO:root:2025-08-06 13:57:53 Data Acquisition
+INFO:root:2025-08-06 13:57:54 Date Format Conversion
+INFO:root:2025-08-06 13:57:54 Check Data Type
+INFO:root:2025-08-06 13:57:54 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:54 D1BSS : OK
+
+INFO:root:2025-08-06 13:57:54 Blank Check
+INFO:root:2025-08-06 13:57:54 Data Acquisition
+INFO:root:2025-08-06 13:57:55 Date Format Conversion
+INFO:root:2025-08-06 13:57:55 Check Data Type
+INFO:root:2025-08-06 13:57:55 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:55 D1BSW : OK
+
+INFO:root:2025-08-06 13:57:55 Blank Check
+INFO:root:2025-08-06 13:57:55 Data Acquisition
+INFO:root:2025-08-06 13:57:56 Date Format Conversion
+INFO:root:2025-08-06 13:57:56 Check Data Type
+INFO:root:2025-08-06 13:57:56 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:56 D1BSX : OK
+
+INFO:root:2025-08-06 13:57:56 Blank Check
+INFO:root:2025-08-06 13:57:56 Data Acquisition
+INFO:root:2025-08-06 13:57:58 Date Format Conversion
+INFO:root:2025-08-06 13:57:58 Check Data Type
+INFO:root:2025-08-06 13:57:58 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:58 D1BSY : OK
+
+INFO:root:2025-08-06 13:57:58 Blank Check
+INFO:root:2025-08-06 13:57:58 Data Acquisition
+INFO:root:2025-08-06 13:57:59 Date Format Conversion
+INFO:root:2025-08-06 13:57:59 Check Data Type
+INFO:root:2025-08-06 13:57:59 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:57:59 DHAFG : OK
+
+INFO:root:2025-08-06 13:57:59 Blank Check
+INFO:root:2025-08-06 13:57:59 Data Acquisition
+INFO:root:2025-08-06 13:58:00 Date Format Conversion
+INFO:root:2025-08-06 13:58:00 Check Data Type
+INFO:root:2025-08-06 13:58:00 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:00 DHAFH : OK
+
+INFO:root:2025-08-06 13:58:00 Blank Check
+INFO:root:2025-08-06 13:58:00 Data Acquisition
+INFO:root:2025-08-06 13:58:02 Date Format Conversion
+INFO:root:2025-08-06 13:58:02 Check Data Type
+INFO:root:2025-08-06 13:58:02 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:02 DHAFJ : OK
+
+INFO:root:2025-08-06 13:58:02 Blank Check
+INFO:root:2025-08-06 13:58:02 Data Acquisition
+INFO:root:2025-08-06 13:58:03 Date Format Conversion
+INFO:root:2025-08-06 13:58:03 Check Data Type
+INFO:root:2025-08-06 13:58:03 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:03 DHAFK : OK
+
+INFO:root:2025-08-06 13:58:03 Blank Check
+INFO:root:2025-08-06 13:58:03 Data Acquisition
+INFO:root:2025-08-06 13:58:04 Date Format Conversion
+INFO:root:2025-08-06 13:58:04 Check Data Type
+INFO:root:2025-08-06 13:58:04 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:04 NS552 : OK
+
+INFO:root:2025-08-06 13:58:04 Blank Check
+INFO:root:2025-08-06 13:58:04 Data Acquisition
+INFO:root:2025-08-06 13:58:05 Date Format Conversion
+INFO:root:2025-08-06 13:58:05 Check Data Type
+INFO:root:2025-08-06 13:58:05 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:05 NS553 : OK
+
+INFO:root:2025-08-06 13:58:05 Blank Check
+INFO:root:2025-08-06 13:58:05 Data Acquisition
+INFO:root:2025-08-06 13:58:06 Date Format Conversion
+INFO:root:2025-08-06 13:58:06 Check Data Type
+INFO:root:2025-08-06 13:58:06 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:06 NS555 : OK
+
+INFO:root:2025-08-06 13:58:06 Blank Check
+INFO:root:2025-08-06 13:58:06 Data Acquisition
+INFO:root:2025-08-06 13:58:07 Date Format Conversion
+INFO:root:2025-08-06 13:58:07 Check Data Type
+INFO:root:2025-08-06 13:58:07 Excel File To XML File Conversion
+INFO:root:2025-08-06 13:58:07 DEAF4 : OK
+
+INFO:root:2025-08-06 13:58:07 Blank Check
+INFO:root:2025-08-06 13:58:07 Data Acquisition
+INFO:root:2025-08-06 13:58:59 Program Start
+INFO:root:2025-08-06 13:58:59 Excel File Copy
+INFO:root:2025-08-06 13:59:01 Get The Starting Row Count
+INFO:root:2025-08-06 13:59:01 Read Excel
+INFO:root:2025-08-06 13:59:02 Setting Columns Number
+INFO:root:2025-08-06 13:59:02 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:59:02 Blank Check
+INFO:root:2025-08-06 13:59:02 Data Acquisition
+INFO:root:2025-08-06 13:59:03 Date Format Conversion
+INFO:root:2025-08-06 13:59:03 Check Data Type
+INFO:root:2025-08-06 13:59:03 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS512,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:03 NS512 : OK
+
+INFO:root:2025-08-06 13:59:03 Blank Check
+INFO:root:2025-08-06 13:59:03 Data Acquisition
+INFO:root:2025-08-06 13:59:04 Date Format Conversion
+INFO:root:2025-08-06 13:59:04 Check Data Type
+INFO:root:2025-08-06 13:59:04 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS513,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:04 NS513 : OK
+
+INFO:root:2025-08-06 13:59:04 Blank Check
+INFO:root:2025-08-06 13:59:04 Data Acquisition
+INFO:root:2025-08-06 13:59:05 Date Format Conversion
+INFO:root:2025-08-06 13:59:05 Check Data Type
+INFO:root:2025-08-06 13:59:05 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS514,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:05 NS514 : OK
+
+INFO:root:2025-08-06 13:59:05 Blank Check
+INFO:root:2025-08-06 13:59:05 Data Acquisition
+INFO:root:2025-08-06 13:59:06 Date Format Conversion
+INFO:root:2025-08-06 13:59:06 Check Data Type
+INFO:root:2025-08-06 13:59:06 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS515,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:06 NS515 : OK
+
+INFO:root:2025-08-06 13:59:06 Blank Check
+INFO:root:2025-08-06 13:59:06 Data Acquisition
+INFO:root:2025-08-06 13:59:07 Date Format Conversion
+INFO:root:2025-08-06 13:59:07 Check Data Type
+INFO:root:2025-08-06 13:59:07 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS516,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:07 NS516 : OK
+
+INFO:root:2025-08-06 13:59:07 Blank Check
+INFO:root:2025-08-06 13:59:07 Data Acquisition
+INFO:root:2025-08-06 13:59:08 Date Format Conversion
+INFO:root:2025-08-06 13:59:08 Check Data Type
+INFO:root:2025-08-06 13:59:08 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS517,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:08 NS517 : OK
+
+INFO:root:2025-08-06 13:59:08 Blank Check
+INFO:root:2025-08-06 13:59:08 Data Acquisition
+INFO:root:2025-08-06 13:59:09 Date Format Conversion
+INFO:root:2025-08-06 13:59:09 Check Data Type
+INFO:root:2025-08-06 13:59:09 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS518,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:09 NS518 : OK
+
+INFO:root:2025-08-06 13:59:09 Blank Check
+INFO:root:2025-08-06 13:59:09 Data Acquisition
+INFO:root:2025-08-06 13:59:51 Program Start
+INFO:root:2025-08-06 13:59:51 Excel File Copy
+INFO:root:2025-08-06 13:59:53 Get The Starting Row Count
+INFO:root:2025-08-06 13:59:53 Read Excel
+INFO:root:2025-08-06 13:59:53 Setting Columns Number
+INFO:root:2025-08-06 13:59:53 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 13:59:53 Blank Check
+INFO:root:2025-08-06 13:59:53 Data Acquisition
+INFO:root:2025-08-06 13:59:55 Date Format Conversion
+INFO:root:2025-08-06 13:59:55 Check Data Type
+INFO:root:2025-08-06 13:59:55 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS512,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:55 NS512 : OK
+
+INFO:root:2025-08-06 13:59:55 Blank Check
+INFO:root:2025-08-06 13:59:55 Data Acquisition
+INFO:root:2025-08-06 13:59:56 Date Format Conversion
+INFO:root:2025-08-06 13:59:56 Check Data Type
+INFO:root:2025-08-06 13:59:56 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS513,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:56 NS513 : OK
+
+INFO:root:2025-08-06 13:59:56 Blank Check
+INFO:root:2025-08-06 13:59:56 Data Acquisition
+INFO:root:2025-08-06 13:59:57 Date Format Conversion
+INFO:root:2025-08-06 13:59:57 Check Data Type
+INFO:root:2025-08-06 13:59:57 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS514,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:57 NS514 : OK
+
+INFO:root:2025-08-06 13:59:57 Blank Check
+INFO:root:2025-08-06 13:59:57 Data Acquisition
+INFO:root:2025-08-06 13:59:58 Date Format Conversion
+INFO:root:2025-08-06 13:59:58 Check Data Type
+INFO:root:2025-08-06 13:59:58 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS515,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:58 NS515 : OK
+
+INFO:root:2025-08-06 13:59:58 Blank Check
+INFO:root:2025-08-06 13:59:58 Data Acquisition
+INFO:root:2025-08-06 13:59:59 Date Format Conversion
+INFO:root:2025-08-06 13:59:59 Check Data Type
+INFO:root:2025-08-06 13:59:59 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS516,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 13:59:59 NS516 : OK
+
+INFO:root:2025-08-06 13:59:59 Blank Check
+INFO:root:2025-08-06 13:59:59 Data Acquisition
+INFO:root:2025-08-06 14:00:00 Date Format Conversion
+INFO:root:2025-08-06 14:00:00 Check Data Type
+INFO:root:2025-08-06 14:00:00 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS517,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:00:00 NS517 : OK
+
+INFO:root:2025-08-06 14:00:00 Blank Check
+INFO:root:2025-08-06 14:00:00 Data Acquisition
+INFO:root:2025-08-06 14:00:02 Date Format Conversion
+INFO:root:2025-08-06 14:00:02 Check Data Type
+INFO:root:2025-08-06 14:00:02 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS518,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:00:02 NS518 : OK
+
+INFO:root:2025-08-06 14:00:02 Blank Check
+INFO:root:2025-08-06 14:00:02 Data Acquisition
+INFO:root:2025-08-06 14:00:03 Date Format Conversion
+INFO:root:2025-08-06 14:00:03 Check Data Type
+INFO:root:2025-08-06 14:00:03 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS519,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:00:04 NS519 : OK
+
+INFO:root:2025-08-06 14:00:04 Blank Check
+INFO:root:2025-08-06 14:00:04 Data Acquisition
+INFO:root:2025-08-06 14:00:05 Date Format Conversion
+INFO:root:2025-08-06 14:00:05 Check Data Type
+INFO:root:2025-08-06 14:00:05 Z:/\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0/\u88fd\u54c1/\uff84\uff9e\uff97\uff72\uff74\uff6f\uff818\u53f7\u6a5f/3\uff72\uff9d\uff81/EA\u7cfb/Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B5-BT00,Serialnumber=DEAD2,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:00:06 DEAD2 : OK
+
+INFO:root:2025-08-06 14:00:06 Blank Check
+INFO:root:2025-08-06 14:00:06 Data Acquisition
+INFO:root:2025-08-06 14:01:25 Program Start
+INFO:root:2025-08-06 14:01:25 Excel File Copy
+INFO:root:2025-08-06 14:01:27 Get The Starting Row Count
+INFO:root:2025-08-06 14:01:27 Read Excel
+INFO:root:2025-08-06 14:01:27 Setting Columns Number
+INFO:root:2025-08-06 14:01:27 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 14:01:27 Blank Check
+INFO:root:2025-08-06 14:01:27 Data Acquisition
+INFO:root:2025-08-06 14:01:29 Date Format Conversion
+INFO:root:2025-08-06 14:01:29 Check Data Type
+INFO:root:2025-08-06 14:01:29 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS512,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:29 NS512 : OK
+
+INFO:root:2025-08-06 14:01:29 Blank Check
+INFO:root:2025-08-06 14:01:29 Data Acquisition
+INFO:root:2025-08-06 14:01:30 Date Format Conversion
+INFO:root:2025-08-06 14:01:30 Check Data Type
+INFO:root:2025-08-06 14:01:30 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS513,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:30 NS513 : OK
+
+INFO:root:2025-08-06 14:01:30 Blank Check
+INFO:root:2025-08-06 14:01:30 Data Acquisition
+INFO:root:2025-08-06 14:01:31 Date Format Conversion
+INFO:root:2025-08-06 14:01:31 Check Data Type
+INFO:root:2025-08-06 14:01:31 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS514,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:31 NS514 : OK
+
+INFO:root:2025-08-06 14:01:31 Blank Check
+INFO:root:2025-08-06 14:01:31 Data Acquisition
+INFO:root:2025-08-06 14:01:32 Date Format Conversion
+INFO:root:2025-08-06 14:01:32 Check Data Type
+INFO:root:2025-08-06 14:01:32 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS515,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:32 NS515 : OK
+
+INFO:root:2025-08-06 14:01:32 Blank Check
+INFO:root:2025-08-06 14:01:32 Data Acquisition
+INFO:root:2025-08-06 14:01:33 Date Format Conversion
+INFO:root:2025-08-06 14:01:33 Check Data Type
+INFO:root:2025-08-06 14:01:33 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS516,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:33 NS516 : OK
+
+INFO:root:2025-08-06 14:01:33 Blank Check
+INFO:root:2025-08-06 14:01:33 Data Acquisition
+INFO:root:2025-08-06 14:01:34 Date Format Conversion
+INFO:root:2025-08-06 14:01:34 Check Data Type
+INFO:root:2025-08-06 14:01:34 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XMLSite=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS517,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:34 NS517 : OK
+
+INFO:root:2025-08-06 14:01:34 Blank Check
+INFO:root:2025-08-06 14:01:34 Data Acquisition
+INFO:root:2025-08-06 14:01:51 Program Start
+INFO:root:2025-08-06 14:01:51 Excel File Copy
+INFO:root:2025-08-06 14:01:52 Get The Starting Row Count
+INFO:root:2025-08-06 14:01:52 Read Excel
+INFO:root:2025-08-06 14:01:53 Setting Columns Number
+INFO:root:2025-08-06 14:01:53 Get DataFrame End Index Number
+
+INFO:root:2025-08-06 14:01:53 Blank Check
+INFO:root:2025-08-06 14:01:53 Data Acquisition
+INFO:root:2025-08-06 14:01:55 Date Format Conversion
+INFO:root:2025-08-06 14:01:55 Check Data Type
+INFO:root:2025-08-06 14:01:55 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS512,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:55 NS512 : OK
+
+INFO:root:2025-08-06 14:01:55 Blank Check
+INFO:root:2025-08-06 14:01:55 Data Acquisition
+INFO:root:2025-08-06 14:01:56 Date Format Conversion
+INFO:root:2025-08-06 14:01:56 Check Data Type
+INFO:root:2025-08-06 14:01:56 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS513,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:56 NS513 : OK
+
+INFO:root:2025-08-06 14:01:56 Blank Check
+INFO:root:2025-08-06 14:01:56 Data Acquisition
+INFO:root:2025-08-06 14:01:57 Date Format Conversion
+INFO:root:2025-08-06 14:01:57 Check Data Type
+INFO:root:2025-08-06 14:01:57 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS514,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:57 NS514 : OK
+
+INFO:root:2025-08-06 14:01:57 Blank Check
+INFO:root:2025-08-06 14:01:57 Data Acquisition
+INFO:root:2025-08-06 14:01:58 Date Format Conversion
+INFO:root:2025-08-06 14:01:58 Check Data Type
+INFO:root:2025-08-06 14:01:58 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS515,Testdate=2025-07-06T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:58 NS515 : OK
+
+INFO:root:2025-08-06 14:01:58 Blank Check
+INFO:root:2025-08-06 14:01:58 Data Acquisition
+INFO:root:2025-08-06 14:01:59 Date Format Conversion
+INFO:root:2025-08-06 14:01:59 Check Data Type
+INFO:root:2025-08-06 14:01:59 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS516,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:01:59 NS516 : OK
+
+INFO:root:2025-08-06 14:01:59 Blank Check
+INFO:root:2025-08-06 14:01:59 Data Acquisition
+INFO:root:2025-08-06 14:02:00 Date Format Conversion
+INFO:root:2025-08-06 14:02:00 Check Data Type
+INFO:root:2025-08-06 14:02:00 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS517,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:00 NS517 : OK
+
+INFO:root:2025-08-06 14:02:00 Blank Check
+INFO:root:2025-08-06 14:02:00 Data Acquisition
+INFO:root:2025-08-06 14:02:01 Date Format Conversion
+INFO:root:2025-08-06 14:02:01 Check Data Type
+INFO:root:2025-08-06 14:02:01 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS518,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:01 NS518 : OK
+
+INFO:root:2025-08-06 14:02:01 Blank Check
+INFO:root:2025-08-06 14:02:01 Data Acquisition
+INFO:root:2025-08-06 14:02:02 Date Format Conversion
+INFO:root:2025-08-06 14:02:02 Check Data Type
+INFO:root:2025-08-06 14:02:02 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT00,Serialnumber=NS519,Testdate=2025-07-07T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:02 NS519 : OK
+
+INFO:root:2025-08-06 14:02:02 Blank Check
+INFO:root:2025-08-06 14:02:02 Data Acquisition
+INFO:root:2025-08-06 14:02:03 Date Format Conversion
+INFO:root:2025-08-06 14:02:03 Check Data Type
+INFO:root:2025-08-06 14:02:03 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B5-BT00,Serialnumber=DEAD2,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:03 DEAD2 : OK
+
+INFO:root:2025-08-06 14:02:03 Blank Check
+INFO:root:2025-08-06 14:02:03 Data Acquisition
+INFO:root:2025-08-06 14:02:04 Date Format Conversion
+INFO:root:2025-08-06 14:02:04 Check Data Type
+INFO:root:2025-08-06 14:02:04 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B5-BT00,Serialnumber=DEAD3,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:04 DEAD3 : OK
+
+INFO:root:2025-08-06 14:02:04 Blank Check
+INFO:root:2025-08-06 14:02:04 Data Acquisition
+INFO:root:2025-08-06 14:02:05 Date Format Conversion
+INFO:root:2025-08-06 14:02:05 Check Data Type
+INFO:root:2025-08-06 14:02:05 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B5-BT00,Serialnumber=DEAD4,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:06 DEAD4 : OK
+
+INFO:root:2025-08-06 14:02:06 Blank Check
+INFO:root:2025-08-06 14:02:06 Data Acquisition
+INFO:root:2025-08-06 14:02:06 Date Format Conversion
+INFO:root:2025-08-06 14:02:06 Check Data Type
+INFO:root:2025-08-06 14:02:06 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT30,Serialnumber=NV390,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:07 NV390 : OK
+
+INFO:root:2025-08-06 14:02:07 Blank Check
+INFO:root:2025-08-06 14:02:07 Data Acquisition
+INFO:root:2025-08-06 14:02:07 Date Format Conversion
+INFO:root:2025-08-06 14:02:07 Check Data Type
+INFO:root:2025-08-06 14:02:07 C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_CVD_EtchingRate,Partnumber=HL13B8-BT30,Serialnumber=NV456,Testdate=2025-07-08T00.00.00.xmlExcel File To XML File Conversion
+INFO:root:2025-08-06 14:02:07 NV456 : OK
+
+INFO:root:2025-08-06 14:02:07 Blank Check
+INFO:root:2025-08-06 14:02:07 Data Acquisition

@@ -1,0 +1,237 @@
+2025-08-14 14:34:31,504 - INFO - 2025-08-14 14:34:31 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 14:34:31,506 - INFO - 2025-08-14 14:34:31 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.34.31.csv
+2025-08-14 14:34:31,507 - INFO - 2025-08-14 14:34:31 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:34:32,856 - INFO - 2025-08-14 14:34:32 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:34:49,971 - INFO - 2025-08-14 14:34:49 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:34:49,972 - INFO - 2025-08-14 14:34:49 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:34:54,091 - INFO - 2025-08-14 14:34:54 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11455 rows loaded.
+2025-08-14 14:34:54,092 - INFO - 2025-08-14 14:34:54 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 14:34:54,102 - INFO - 2025-08-14 14:34:54 Step 2: Initial filtering (date, serial number) complete. 236 rows remaining.
+2025-08-14 14:34:54,102 - INFO - 2025-08-14 14:34:54 Step 3: Starting database query...
+2025-08-14 14:39:21,195 - INFO - 2025-08-14 14:39:21 Database query and filtering complete. 235 valid rows remaining.
+2025-08-14 14:39:21,746 - INFO - 2025-08-14 14:39:21 Database connection closed.
+2025-08-14 14:39:21,747 - INFO - 2025-08-14 14:39:21 Step 4: Starting data transformation and calculation...
+2025-08-14 14:39:22,131 - INFO - 2025-08-14 14:39:22 Date and SORTED field calculations complete.
+2025-08-14 14:39:22,138 - INFO - 2025-08-14 14:39:22 Using fixed tool name from INI: '#3'
+2025-08-14 14:39:22,139 - INFO - 2025-08-14 14:39:22 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 14:39:22,139 - INFO - 2025-08-14 14:39:22 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 14:39:22,142 - INFO - 2025-08-14 14:39:22 Step 7: Preparing to write 235 rows to CSV...
+2025-08-14 14:39:22,142 - INFO - 2025-08-14 14:39:22 Executing function write_to_csv...
+2025-08-14 14:39:22,193 - INFO - 2025-08-14 14:39:22 Function write_to_csv executed successfully.
+2025-08-14 14:39:26,485 - INFO - 2025-08-14 14:39:26 Step 8: Updating next start row to 11496
+2025-08-14 14:39:26,491 - ERROR - 2025-08-14 14:39:26 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 14:39:26,491 - INFO - 2025-08-14 14:39:26 --- Function process_excel_file executed successfully ---
+2025-08-14 14:39:26,493 - INFO - 2025-08-14 14:39:26 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 14:39:26,494 - INFO - 2025-08-14 14:39:26 Executing function generate_pointer_xml...
+2025-08-14 14:39:26,578 - INFO - 2025-08-14 14:39:26 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T14.34.31,Testdate=2025-08-14T14.39.26.xml
+2025-08-14 14:39:26,579 - INFO - 2025-08-14 14:39:26 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 14:39:26,591 - INFO - 2025-08-14 14:39:26 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 14:39:26,593 - INFO - 2025-08-14 14:39:26 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.39.26.csv
+2025-08-14 14:39:26,594 - INFO - 2025-08-14 14:39:26 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_*\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:39:28,420 - INFO - 2025-08-14 14:39:28 Found latest source file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:39:35,929 - INFO - 2025-08-14 14:39:35 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:39:35,930 - INFO - 2025-08-14 14:39:35 --- Start processing file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:39:37,388 - INFO - 2025-08-14 14:39:37 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2043 rows loaded.
+2025-08-14 14:39:37,388 - INFO - 2025-08-14 14:39:37 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 14:39:37,394 - INFO - 2025-08-14 14:39:37 Step 2: Initial filtering (date, serial number) complete. 8 rows remaining.
+2025-08-14 14:39:37,394 - INFO - 2025-08-14 14:39:37 Step 3: Starting database query...
+2025-08-14 14:39:49,534 - INFO - 2025-08-14 14:39:49 Database query and filtering complete. 8 valid rows remaining.
+2025-08-14 14:39:50,057 - INFO - 2025-08-14 14:39:50 Database connection closed.
+2025-08-14 14:39:50,058 - INFO - 2025-08-14 14:39:50 Step 4: Starting data transformation and calculation...
+2025-08-14 14:39:50,084 - INFO - 2025-08-14 14:39:50 Date and SORTED field calculations complete.
+2025-08-14 14:39:50,088 - INFO - 2025-08-14 14:39:50 Using fixed tool name from INI: '#3'
+2025-08-14 14:39:50,088 - INFO - 2025-08-14 14:39:50 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 14:39:50,089 - INFO - 2025-08-14 14:39:50 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 14:39:50,093 - INFO - 2025-08-14 14:39:50 Step 7: Preparing to write 8 rows to CSV...
+2025-08-14 14:39:50,094 - INFO - 2025-08-14 14:39:50 Executing function write_to_csv...
+2025-08-14 14:39:50,140 - INFO - 2025-08-14 14:39:50 Function write_to_csv executed successfully.
+2025-08-14 14:39:51,238 - INFO - 2025-08-14 14:39:51 Step 8: Updating next start row to 2084
+2025-08-14 14:39:51,240 - ERROR - 2025-08-14 14:39:51 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 14:39:51,241 - INFO - 2025-08-14 14:39:51 --- Function process_excel_file executed successfully ---
+2025-08-14 14:39:51,242 - INFO - 2025-08-14 14:39:51 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 14:39:51,242 - INFO - 2025-08-14 14:39:51 Executing function generate_pointer_xml...
+2025-08-14 14:39:51,349 - INFO - 2025-08-14 14:39:51 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T14.39.26,Testdate=2025-08-14T14.39.51.xml
+2025-08-14 14:39:51,350 - INFO - 2025-08-14 14:39:51 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 14:39:51,372 - INFO - 2025-08-14 14:39:51 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 14:39:51,376 - INFO - 2025-08-14 14:39:51 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.39.51.csv
+2025-08-14 14:39:51,378 - INFO - 2025-08-14 14:39:51 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_*\u56de\u6298\u683c\u5b50SiO2*55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:39:52,140 - INFO - 2025-08-14 14:39:52 Found latest source file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:39:58,533 - INFO - 2025-08-14 14:39:58 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:39:58,534 - INFO - 2025-08-14 14:39:58 --- Start processing file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:39:59,276 - INFO - 2025-08-14 14:39:59 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2350 rows loaded.
+2025-08-14 14:39:59,276 - INFO - 2025-08-14 14:39:59 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 14:39:59,287 - INFO - 2025-08-14 14:39:59 Step 2: Initial filtering (date, serial number) complete. 79 rows remaining.
+2025-08-14 14:39:59,287 - INFO - 2025-08-14 14:39:59 Step 3: Starting database query...
+2025-08-14 14:41:15,603 - INFO - 2025-08-14 14:41:15 Database query and filtering complete. 79 valid rows remaining.
+2025-08-14 14:41:16,116 - INFO - 2025-08-14 14:41:16 Database connection closed.
+2025-08-14 14:41:16,117 - INFO - 2025-08-14 14:41:16 Step 4: Starting data transformation and calculation...
+2025-08-14 14:41:16,248 - INFO - 2025-08-14 14:41:16 Date and SORTED field calculations complete.
+2025-08-14 14:41:16,250 - INFO - 2025-08-14 14:41:16 Using fixed tool name from INI: '#3'
+2025-08-14 14:41:16,250 - INFO - 2025-08-14 14:41:16 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 14:41:16,251 - INFO - 2025-08-14 14:41:16 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 14:41:16,252 - INFO - 2025-08-14 14:41:16 Step 7: Preparing to write 79 rows to CSV...
+2025-08-14 14:41:16,252 - INFO - 2025-08-14 14:41:16 Executing function write_to_csv...
+2025-08-14 14:41:16,294 - INFO - 2025-08-14 14:41:16 Function write_to_csv executed successfully.
+2025-08-14 14:41:17,292 - INFO - 2025-08-14 14:41:17 Step 8: Updating next start row to 2391
+2025-08-14 14:41:17,295 - ERROR - 2025-08-14 14:41:17 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 14:41:17,295 - INFO - 2025-08-14 14:41:17 --- Function process_excel_file executed successfully ---
+2025-08-14 14:41:17,296 - INFO - 2025-08-14 14:41:17 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 14:41:17,296 - INFO - 2025-08-14 14:41:17 Executing function generate_pointer_xml...
+2025-08-14 14:41:17,373 - INFO - 2025-08-14 14:41:17 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T14.39.51,Testdate=2025-08-14T14.41.17.xml
+2025-08-14 14:41:17,373 - INFO - 2025-08-14 14:41:17 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 14:41:17,387 - INFO - 2025-08-14 14:41:17 --- Start processing config file: GRATING_CVD_EtchingRate_Dry6_100nm.ini ---
+2025-08-14 14:41:17,389 - INFO - 2025-08-14 14:41:17 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.41.17.csv
+2025-08-14 14:41:17,390 - INFO - 2025-08-14 14:41:17 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:41:18,727 - INFO - 2025-08-14 14:41:18 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:21,633 - INFO - 2025-08-14 14:41:21 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:21,633 - INFO - 2025-08-14 14:41:21 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:41:21,751 - INFO - 2025-08-14 14:41:21 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 32 rows loaded.
+2025-08-14 14:41:21,752 - INFO - 2025-08-14 14:41:21 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 14:41:21,757 - INFO - 2025-08-14 14:41:21 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 14:41:21,758 - INFO - 2025-08-14 14:41:21 No data left after initial filtering. Ending process for this file.
+2025-08-14 14:41:21,759 - INFO - 2025-08-14 14:41:21 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry6_100nm.ini ---
+2025-08-14 14:41:21,790 - INFO - 2025-08-14 14:41:21 --- Start processing config file: GRATING_CVD_EtchingRate_Dry6_45nm.ini ---
+2025-08-14 14:41:21,793 - INFO - 2025-08-14 14:41:21 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.41.21.csv
+2025-08-14 14:41:21,795 - INFO - 2025-08-14 14:41:21 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:41:22,311 - INFO - 2025-08-14 14:41:22 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:25,353 - INFO - 2025-08-14 14:41:25 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:25,355 - INFO - 2025-08-14 14:41:25 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:41:25,365 - ERROR - 2025-08-14 14:41:25 Error processing file 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\010_GRATING\GRATING_CVD_EtchingRate_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\010_GRATING\GRATING_CVD_EtchingRate_Common.py", line 178, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\010_GRATING\../MyModule\Row_Number_Func.py", line 4, in start_row_number
+    textfile = open(path,"r",encoding="utf-8")
+FileNotFoundError: [Errno 2] No such file or directory: './GRATING_45nm_Dry6.tx'
+
+2025-08-14 14:41:25,366 - INFO - 2025-08-14 14:41:25 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry6_45nm.ini ---
+2025-08-14 14:41:25,385 - INFO - 2025-08-14 14:41:25 --- Start processing config file: GRATING_CVD_EtchingRate_Dry8_45nm.ini ---
+2025-08-14 14:41:25,387 - INFO - 2025-08-14 14:41:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T14.41.25.csv
+2025-08-14 14:41:25,388 - INFO - 2025-08-14 14:41:25 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 14:41:25,897 - INFO - 2025-08-14 14:41:25 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:29,103 - INFO - 2025-08-14 14:41:29 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 14:41:29,104 - INFO - 2025-08-14 14:41:29 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 14:41:29,210 - INFO - 2025-08-14 14:41:29 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 186 rows loaded.
+2025-08-14 14:41:29,211 - INFO - 2025-08-14 14:41:29 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 14:41:29,214 - INFO - 2025-08-14 14:41:29 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 14:41:29,215 - INFO - 2025-08-14 14:41:29 No data left after initial filtering. Ending process for this file.
+2025-08-14 14:41:29,215 - INFO - 2025-08-14 14:41:29 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry8_45nm.ini ---
+2025-08-14 14:41:29,216 - INFO - 2025-08-14 14:41:29 ===== Universal Script End =====
+2025-08-14 15:07:49,441 - INFO - 2025-08-14 15:07:49 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 15:07:49,443 - INFO - 2025-08-14 15:07:49 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.07.49.csv
+2025-08-14 15:07:49,444 - INFO - 2025-08-14 15:07:49 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:07:50,736 - INFO - 2025-08-14 15:07:50 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:08:00,570 - INFO - 2025-08-14 15:08:00 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:08:00,571 - INFO - 2025-08-14 15:08:00 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:08:05,191 - INFO - 2025-08-14 15:08:05 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11455 rows loaded.
+2025-08-14 15:08:05,191 - INFO - 2025-08-14 15:08:05 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:08:05,211 - INFO - 2025-08-14 15:08:05 Step 2: Initial filtering (date, serial number) complete. 62 rows remaining.
+2025-08-14 15:08:05,212 - INFO - 2025-08-14 15:08:05 Step 3: Starting database query...
+2025-08-14 15:09:06,282 - INFO - 2025-08-14 15:09:06 Database query and filtering complete. 62 valid rows remaining.
+2025-08-14 15:09:06,801 - INFO - 2025-08-14 15:09:06 Database connection closed.
+2025-08-14 15:09:06,802 - INFO - 2025-08-14 15:09:06 Step 4: Starting data transformation and calculation...
+2025-08-14 15:09:06,975 - INFO - 2025-08-14 15:09:06 Date and SORTED field calculations complete.
+2025-08-14 15:09:06,981 - INFO - 2025-08-14 15:09:06 Using fixed tool name from INI: '#3'
+2025-08-14 15:09:06,982 - INFO - 2025-08-14 15:09:06 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 15:09:06,983 - INFO - 2025-08-14 15:09:06 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 15:09:06,990 - INFO - 2025-08-14 15:09:06 Step 7: Preparing to write 62 rows to CSV...
+2025-08-14 15:09:06,991 - INFO - 2025-08-14 15:09:06 Executing function write_to_csv...
+2025-08-14 15:09:07,076 - INFO - 2025-08-14 15:09:07 Function write_to_csv executed successfully.
+2025-08-14 15:09:12,329 - INFO - 2025-08-14 15:09:12 Step 8: Updating next start row to 11496
+2025-08-14 15:09:12,332 - ERROR - 2025-08-14 15:09:12 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 15:09:12,332 - INFO - 2025-08-14 15:09:12 --- Function process_excel_file executed successfully ---
+2025-08-14 15:09:12,334 - INFO - 2025-08-14 15:09:12 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 15:09:12,334 - INFO - 2025-08-14 15:09:12 Executing function generate_pointer_xml...
+2025-08-14 15:09:12,432 - INFO - 2025-08-14 15:09:12 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T15.07.49,Testdate=2025-08-14T15.09.12.xml
+2025-08-14 15:09:12,432 - INFO - 2025-08-14 15:09:12 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_100nm.ini ---
+2025-08-14 15:09:12,472 - INFO - 2025-08-14 15:09:12 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 15:09:12,477 - INFO - 2025-08-14 15:09:12 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.09.12.csv
+2025-08-14 15:09:12,479 - INFO - 2025-08-14 15:09:12 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_*\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:09:13,760 - INFO - 2025-08-14 15:09:13 Found latest source file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:09:17,830 - INFO - 2025-08-14 15:09:17 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:09:17,830 - INFO - 2025-08-14 15:09:17 --- Start processing file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:09:18,953 - INFO - 2025-08-14 15:09:18 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2043 rows loaded.
+2025-08-14 15:09:18,953 - INFO - 2025-08-14 15:09:18 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:09:18,965 - INFO - 2025-08-14 15:09:18 Step 2: Initial filtering (date, serial number) complete. 8 rows remaining.
+2025-08-14 15:09:18,966 - INFO - 2025-08-14 15:09:18 Step 3: Starting database query...
+2025-08-14 15:09:27,653 - INFO - 2025-08-14 15:09:27 Database query and filtering complete. 8 valid rows remaining.
+2025-08-14 15:09:28,181 - INFO - 2025-08-14 15:09:28 Database connection closed.
+2025-08-14 15:09:28,181 - INFO - 2025-08-14 15:09:28 Step 4: Starting data transformation and calculation...
+2025-08-14 15:09:28,197 - INFO - 2025-08-14 15:09:28 Date and SORTED field calculations complete.
+2025-08-14 15:09:28,199 - INFO - 2025-08-14 15:09:28 Using fixed tool name from INI: '#3'
+2025-08-14 15:09:28,199 - INFO - 2025-08-14 15:09:28 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 15:09:28,199 - INFO - 2025-08-14 15:09:28 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 15:09:28,202 - INFO - 2025-08-14 15:09:28 Step 7: Preparing to write 8 rows to CSV...
+2025-08-14 15:09:28,202 - INFO - 2025-08-14 15:09:28 Executing function write_to_csv...
+2025-08-14 15:09:28,225 - INFO - 2025-08-14 15:09:28 Function write_to_csv executed successfully.
+2025-08-14 15:09:29,187 - INFO - 2025-08-14 15:09:29 Step 8: Updating next start row to 2084
+2025-08-14 15:09:29,189 - ERROR - 2025-08-14 15:09:29 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 15:09:29,190 - INFO - 2025-08-14 15:09:29 --- Function process_excel_file executed successfully ---
+2025-08-14 15:09:29,191 - INFO - 2025-08-14 15:09:29 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 15:09:29,191 - INFO - 2025-08-14 15:09:29 Executing function generate_pointer_xml...
+2025-08-14 15:09:29,242 - INFO - 2025-08-14 15:09:29 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T15.09.12,Testdate=2025-08-14T15.09.29.xml
+2025-08-14 15:09:29,243 - INFO - 2025-08-14 15:09:29 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_45nm.ini ---
+2025-08-14 15:09:29,273 - INFO - 2025-08-14 15:09:29 --- Start processing config file: GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 15:09:29,279 - INFO - 2025-08-14 15:09:29 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.09.29.csv
+2025-08-14 15:09:29,281 - INFO - 2025-08-14 15:09:29 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_*\u56de\u6298\u683c\u5b50SiO2*55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:09:30,056 - INFO - 2025-08-14 15:09:30 Found latest source file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:09:34,777 - INFO - 2025-08-14 15:09:34 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:09:34,778 - INFO - 2025-08-14 15:09:34 --- Start processing file: 3\u30a4\u30f3\u30c1_ \u56de\u6298\u683c\u5b50SiO2 55nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:09:36,141 - INFO - 2025-08-14 15:09:36 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2350 rows loaded.
+2025-08-14 15:09:36,141 - INFO - 2025-08-14 15:09:36 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:09:36,154 - INFO - 2025-08-14 15:09:36 Step 2: Initial filtering (date, serial number) complete. 79 rows remaining.
+2025-08-14 15:09:36,154 - INFO - 2025-08-14 15:09:36 Step 3: Starting database query...
+2025-08-14 15:10:54,462 - INFO - 2025-08-14 15:10:54 Database query and filtering complete. 79 valid rows remaining.
+2025-08-14 15:10:54,979 - INFO - 2025-08-14 15:10:54 Database connection closed.
+2025-08-14 15:10:54,979 - INFO - 2025-08-14 15:10:54 Step 4: Starting data transformation and calculation...
+2025-08-14 15:10:55,056 - INFO - 2025-08-14 15:10:55 Date and SORTED field calculations complete.
+2025-08-14 15:10:55,058 - INFO - 2025-08-14 15:10:55 Using fixed tool name from INI: '#3'
+2025-08-14 15:10:55,059 - INFO - 2025-08-14 15:10:55 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 15:10:55,059 - INFO - 2025-08-14 15:10:55 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 15:10:55,061 - INFO - 2025-08-14 15:10:55 Step 7: Preparing to write 79 rows to CSV...
+2025-08-14 15:10:55,061 - INFO - 2025-08-14 15:10:55 Executing function write_to_csv...
+2025-08-14 15:10:55,088 - INFO - 2025-08-14 15:10:55 Function write_to_csv executed successfully.
+2025-08-14 15:10:56,093 - INFO - 2025-08-14 15:10:56 Step 8: Updating next start row to 2391
+2025-08-14 15:10:56,096 - ERROR - 2025-08-14 15:10:56 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/010_GRATING/13_ProgramUsedFile/'
+2025-08-14 15:10:56,096 - INFO - 2025-08-14 15:10:56 --- Function process_excel_file executed successfully ---
+2025-08-14 15:10:56,097 - INFO - 2025-08-14 15:10:56 --- Generating pointer XML for GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 15:10:56,097 - INFO - 2025-08-14 15:10:56 Executing function generate_pointer_xml...
+2025-08-14 15:10:56,148 - INFO - 2025-08-14 15:10:56 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=GRATING_CVD_EtchingRate_2025_08_14T15.09.29,Testdate=2025-08-14T15.10.56.xml
+2025-08-14 15:10:56,148 - INFO - 2025-08-14 15:10:56 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry3_55nm.ini ---
+2025-08-14 15:10:56,169 - INFO - 2025-08-14 15:10:56 --- Start processing config file: GRATING_CVD_EtchingRate_Dry6_100nm.ini ---
+2025-08-14 15:10:56,172 - INFO - 2025-08-14 15:10:56 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.10.56.csv
+2025-08-14 15:10:56,173 - INFO - 2025-08-14 15:10:56 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:10:57,451 - INFO - 2025-08-14 15:10:57 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:00,799 - INFO - 2025-08-14 15:11:00 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:00,800 - INFO - 2025-08-14 15:11:00 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2\u819c\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:11:00,895 - INFO - 2025-08-14 15:11:00 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 32 rows loaded.
+2025-08-14 15:11:00,896 - INFO - 2025-08-14 15:11:00 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:11:00,898 - INFO - 2025-08-14 15:11:00 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 15:11:00,899 - INFO - 2025-08-14 15:11:00 No data left after initial filtering. Ending process for this file.
+2025-08-14 15:11:00,899 - INFO - 2025-08-14 15:11:00 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry6_100nm.ini ---
+2025-08-14 15:11:00,928 - INFO - 2025-08-14 15:11:00 --- Start processing config file: GRATING_CVD_EtchingRate_Dry6_45nm.ini ---
+2025-08-14 15:11:00,931 - INFO - 2025-08-14 15:11:00 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.11.00.csv
+2025-08-14 15:11:00,933 - INFO - 2025-08-14 15:11:00 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:11:01,448 - INFO - 2025-08-14 15:11:01 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:04,526 - INFO - 2025-08-14 15:11:04 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:04,527 - INFO - 2025-08-14 15:11:04 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:11:04,639 - INFO - 2025-08-14 15:11:04 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 186 rows loaded.
+2025-08-14 15:11:04,640 - INFO - 2025-08-14 15:11:04 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:11:04,643 - INFO - 2025-08-14 15:11:04 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 15:11:04,643 - INFO - 2025-08-14 15:11:04 No data left after initial filtering. Ending process for this file.
+2025-08-14 15:11:04,644 - INFO - 2025-08-14 15:11:04 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry6_45nm.ini ---
+2025-08-14 15:11:04,664 - INFO - 2025-08-14 15:11:04 --- Start processing config file: GRATING_CVD_EtchingRate_Dry8_45nm.ini ---
+2025-08-14 15:11:04,667 - INFO - 2025-08-14 15:11:04 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_EtchingRate_2025_08_14T15.11.04.csv
+2025-08-14 15:11:04,668 - INFO - 2025-08-14 15:11:04 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2*45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 15:11:05,176 - INFO - 2025-08-14 15:11:05 Found latest source file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:08,370 - INFO - 2025-08-14 15:11:08 File copied successfully -> ..\DataFile\010_GRATING\3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 15:11:08,370 - INFO - 2025-08-14 15:11:08 --- Start processing file: 3\u30a4\u30f3\u30c1_\u56de\u6298\u683c\u5b50SiO2 45nm\u8584\u819c\u54c1\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1(\u30c9\u30e9\u30a46\u53f7\u6a5f)\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 15:11:08,560 - INFO - 2025-08-14 15:11:08 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 186 rows loaded.
+2025-08-14 15:11:08,560 - INFO - 2025-08-14 15:11:08 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-14 15:11:08,565 - INFO - 2025-08-14 15:11:08 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 15:11:08,565 - INFO - 2025-08-14 15:11:08 No data left after initial filtering. Ending process for this file.
+2025-08-14 15:11:08,567 - INFO - 2025-08-14 15:11:08 --- Finished processing config file: GRATING_CVD_EtchingRate_Dry8_45nm.ini ---
+2025-08-14 15:11:08,567 - INFO - 2025-08-14 15:11:08 ===== Universal Script End =====

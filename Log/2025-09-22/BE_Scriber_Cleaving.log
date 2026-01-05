@@ -1,0 +1,7 @@
+1422025-09-22 09:49:18,613 - INFO - 2025-09-22 09:49:18 Program End
+2025-09-22 15:01:21,608 - INFO - 2025-09-22 15:01:21 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-22 15:01:23,124 - INFO - 2025-09-22 15:01:23 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-22 15:01:23,124 - INFO - 2025-09-22 15:01:23 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-22 15:01:23,148 - ERROR - 2025-09-22 15:01:23 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-22 15:01:45,721 - ERROR - 2025-09-22 15:01:45 Connection with Prime Failed
+2025-09-22 15:01:45,721 - INFO - 2025-09-22 15:01:45 Program End

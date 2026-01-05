@@ -1,0 +1,147 @@
+2025-08-07 14:02:20,258 - INFO - 2025-08-07 14:02:20 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:02:20,259 - INFO - 2025-08-07 14:02:20 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:04:40,491 - INFO - 2025-08-07 14:04:40 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:04:40,491 - INFO - 2025-08-07 14:04:40 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:09:48,673 - INFO - 2025-08-07 14:09:48 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:09:48,674 - INFO - 2025-08-07 14:09:48 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:12:04,846 - INFO - 2025-08-07 14:12:04 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:12:04,846 - INFO - 2025-08-07 14:12:04 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:33:29,599 - INFO - 2025-08-07 14:33:29 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:33:29,601 - INFO - 2025-08-07 14:33:29 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:33:29,620 - ERROR - 2025-08-07 14:33:29 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 246, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 84, in _extract_settings_from_config
+    s.column_map = {key: ord(value.upper()) - 65 for key, value in config.items('SpecialFormat')}
+                         ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 7 found
+
+2025-08-07 14:33:29,621 - INFO - 2025-08-07 14:33:29 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:33:35,330 - INFO - 2025-08-07 14:33:35 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:33:35,332 - INFO - 2025-08-07 14:33:35 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:33:35,341 - ERROR - 2025-08-07 14:33:35 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 246, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 84, in _extract_settings_from_config
+    s.column_map = {key: ord(value.upper()) - 65 for key, value in config.items('SpecialFormat')}
+                         ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 7 found
+
+2025-08-07 14:33:35,341 - INFO - 2025-08-07 14:33:35 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 14:37:42,721 - INFO - 2025-08-07 14:37:42 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:37:42,722 - INFO - 2025-08-07 14:37:42 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:43:02,944 - INFO - 2025-08-07 14:43:02 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:43:02,945 - INFO - 2025-08-07 14:43:02 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:47:24,754 - INFO - 2025-08-07 14:47:24 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:47:24,755 - INFO - 2025-08-07 14:47:24 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:50:26,221 - INFO - 2025-08-07 14:50:26 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:50:26,222 - INFO - 2025-08-07 14:50:26 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 14:57:54,636 - INFO - 2025-08-07 14:57:54 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 14:57:54,638 - INFO - 2025-08-07 14:57:54 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:00:58,812 - INFO - 2025-08-07 15:00:58 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:00:58,812 - INFO - 2025-08-07 15:00:58 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:00:58,820 - ERROR - 2025-08-07 15:00:58 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 246, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 93, in _extract_settings_from_config
+    s.fill_cols_indices = [ord(c.strip().upper()) - 65 for c in temp_fill_cols_str.split(',')]
+                           ~~~^^^^^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 2 found
+
+2025-08-07 15:00:58,820 - INFO - 2025-08-07 15:00:58 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:01:19,845 - INFO - 2025-08-07 15:01:19 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:01:19,845 - INFO - 2025-08-07 15:01:19 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:18:14,684 - INFO - 2025-08-07 15:18:14 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:18:14,685 - INFO - 2025-08-07 15:18:14 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:18:14,703 - ERROR - 2025-08-07 15:18:14 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 271, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:18:14,704 - INFO - 2025-08-07 15:18:14 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:21:07,394 - INFO - 2025-08-07 15:21:07 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:21:07,395 - INFO - 2025-08-07 15:21:07 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:21:07,406 - ERROR - 2025-08-07 15:21:07 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:21:07,406 - INFO - 2025-08-07 15:21:07 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:21:10,072 - INFO - 2025-08-07 15:21:10 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:21:10,073 - INFO - 2025-08-07 15:21:10 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:21:10,084 - ERROR - 2025-08-07 15:21:10 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:21:10,087 - INFO - 2025-08-07 15:21:10 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:24:15,783 - INFO - 2025-08-07 15:24:15 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:24:15,784 - INFO - 2025-08-07 15:24:15 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:24:15,789 - ERROR - 2025-08-07 15:24:15 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 278, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:24:15,789 - INFO - 2025-08-07 15:24:15 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:24:30,189 - INFO - 2025-08-07 15:24:30 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:24:30,190 - INFO - 2025-08-07 15:24:30 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:24:30,203 - ERROR - 2025-08-07 15:24:30 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:24:30,203 - INFO - 2025-08-07 15:24:30 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:25:52,794 - INFO - 2025-08-07 15:25:52 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:25:52,795 - INFO - 2025-08-07 15:25:52 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:25:53,160 - ERROR - 2025-08-07 15:25:52 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:25:53,161 - INFO - 2025-08-07 15:25:53 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:25:56,966 - INFO - 2025-08-07 15:25:56 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:25:56,967 - INFO - 2025-08-07 15:25:56 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:25:56,979 - ERROR - 2025-08-07 15:25:56 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:25:56,979 - INFO - 2025-08-07 15:25:56 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:26:05,696 - INFO - 2025-08-07 15:26:05 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:26:05,696 - INFO - 2025-08-07 15:26:05 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:26:05,705 - ERROR - 2025-08-07 15:26:05 \u8655\u7406\u904e\u7a0b\u4e2d\u767c\u751f\u56b4\u91cd\u932f\u8aa4: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 272, in main
+    settings = _extract_settings_from_config(config)
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\016_P-electrode\P-electrode_CSV_Common.py", line 90, in _extract_settings_from_config
+    temp_column_map[key] = ord(value.upper()) - 65
+                           ~~~^^^^^^^^^^^^^^^
+TypeError: ord() expected a character, but string of length 31 found
+
+2025-08-07 15:26:05,706 - INFO - 2025-08-07 15:26:05 ===== \u7279\u5225\u7248\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 15:27:29,157 - INFO - 2025-08-07 15:27:29 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:27:29,158 - INFO - 2025-08-07 15:27:29 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:49:09,318 - INFO - 2025-08-07 15:49:09 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:49:09,320 - INFO - 2025-08-07 15:49:09 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini
+2025-08-07 15:54:35,921 - INFO - 2025-08-07 15:54:35 ===== \u7279\u5225\u7248\u8173\u672c\u958b\u59cb\u57f7\u884c =====
+2025-08-07 15:54:35,921 - INFO - 2025-08-07 15:54:35 \u627e\u5230 1 \u500b .ini \u8a2d\u5b9a\u6a94: P-electorde_Fuse.ini

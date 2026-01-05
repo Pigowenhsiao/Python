@@ -1,0 +1,293 @@
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Successfully loaded 23 column mappings from config
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 XML_Defaults section not found, using hardcoded defaults for XML content values.
+2025-05-28 07:14:19 - INFO [Log.Log_Info] - 2025-05-28 07:14:19 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 07:17:21 - INFO [Log.Log_Info] - 2025-05-28 07:17:21 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 07:17:21 - INFO [Log.Log_Info] - 2025-05-28 07:17:21 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:17:21 - INFO [Log.Log_Info] - 2025-05-28 07:17:21 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:17:21 - ERROR [Log.Log_Error] - 2025-05-28 07:17:21 Type error for a setting in INI file c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini (e.g. expected integer, got string): invalid literal for int() with base 10: "3 # 0-indexed, relative to 'data_columns' selection"
+2025-05-28 07:17:21 - ERROR [Log.Log_Error] - 2025-05-28 07:17:21 Failed to load valid settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini. Aborting processing for this INI.
+2025-05-28 07:17:21 - INFO [Log.Log_Info] - 2025-05-28 07:17:21 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 07:17:21 - INFO [Log.Log_Info] - 2025-05-28 07:17:21 All .ini configuration files processed. Program finishing.
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:18:58 - ERROR [Log.Log_Error] - 2025-05-28 07:18:58 Type error for a setting in INI file c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini (e.g. expected integer, got string): invalid literal for int() with base 10: "3 # 0-indexed, relative to 'data_columns' selection"
+2025-05-28 07:18:58 - ERROR [Log.Log_Error] - 2025-05-28 07:18:58 Failed to load valid settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini. Aborting processing for this INI.
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:18:58 - ERROR [Log.Log_Error] - 2025-05-28 07:18:58 Type error for a setting in INI file c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini (e.g. expected integer, got string): invalid literal for int() with base 10: "3 # 0-indexed, relative to 'data_columns' selection"
+2025-05-28 07:18:58 - ERROR [Log.Log_Error] - 2025-05-28 07:18:58 Failed to load valid settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini. Aborting processing for this INI.
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 07:18:58 - INFO [Log.Log_Info] - 2025-05-28 07:18:58 All .ini configuration files processed. Program finishing.
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Successfully loaded 23 column mappings from config
+2025-05-28 07:21:18 - INFO [Log.Log_Info] - 2025-05-28 07:21:18 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 07:24:12 - INFO [Log.Log_Info] - 2025-05-28 07:24:12 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 07:24:12 - INFO [Log.Log_Info] - 2025-05-28 07:24:12 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:24:12 - INFO [Log.Log_Info] - 2025-05-28 07:24:12 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 07:24:12 - ERROR [Log.Log_Error] - 2025-05-28 07:24:12 Error parsing rename_map from config: too many values to unpack (expected 2)
+2025-05-28 07:24:12 - INFO [Log.Log_Info] - 2025-05-28 07:24:12 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 07:27:35 - INFO [Log.Log_Info] - 2025-05-28 07:27:35 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 07:27:35 - INFO [Log.Log_Info] - 2025-05-28 07:27:35 All .ini configuration files processed. Program finishing.
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Successfully loaded 23 column mappings from config
+2025-05-28 07:58:00 - INFO [Log.Log_Info] - 2025-05-28 07:58:00 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 08:00:43 - INFO [Log.Log_Info] - 2025-05-28 08:00:43 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 08:00:43 - INFO [Log.Log_Info] - 2025-05-28 08:00:43 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 08:00:43 - INFO [Log.Log_Info] - 2025-05-28 08:00:43 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 08:00:43 - ERROR [Log.Log_Error] - 2025-05-28 08:00:43 Error parsing rename_map from config: too many values to unpack (expected 2)
+2025-05-28 08:00:43 - INFO [Log.Log_Info] - 2025-05-28 08:00:43 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 08:03:16 - INFO [Log.Log_Info] - 2025-05-28 08:03:16 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 08:03:16 - INFO [Log.Log_Info] - 2025-05-28 08:03:16 All .ini configuration files processed. Program finishing.
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Successfully loaded 23 column mappings from config
+2025-05-28 09:26:26 - INFO [Log.Log_Info] - 2025-05-28 09:26:26 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:28:12 - INFO [Log.Log_Info] - 2025-05-28 09:28:12 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:28:12 - INFO [Log.Log_Info] - 2025-05-28 09:28:12 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:28:12 - INFO [Log.Log_Info] - 2025-05-28 09:28:12 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:28:12 - ERROR [Log.Log_Error] - 2025-05-28 09:28:12 Error parsing rename_map from config: too many values to unpack (expected 2)
+2025-05-28 09:28:12 - INFO [Log.Log_Info] - 2025-05-28 09:28:12 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:29:52 - INFO [Log.Log_Info] - 2025-05-28 09:29:52 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:29:52 - INFO [Log.Log_Info] - 2025-05-28 09:29:52 All .ini configuration files processed. Program finishing.
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Successfully loaded 23 column mappings from config
+2025-05-28 09:44:13 - INFO [Log.Log_Info] - 2025-05-28 09:44:13 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:46:06 - INFO [Log.Log_Info] - 2025-05-28 09:46:06 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:46:06 - INFO [Log.Log_Info] - 2025-05-28 09:46:06 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:46:06 - INFO [Log.Log_Info] - 2025-05-28 09:46:06 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:46:06 - ERROR [Log.Log_Error] - 2025-05-28 09:46:06 Error parsing rename_map from config: too many values to unpack (expected 2)
+2025-05-28 09:46:06 - INFO [Log.Log_Info] - 2025-05-28 09:46:06 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:48:19 - INFO [Log.Log_Info] - 2025-05-28 09:48:19 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:48:19 - INFO [Log.Log_Info] - 2025-05-28 09:48:19 All .ini configuration files processed. Program finishing.
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Successfully loaded 23 column mappings from config
+2025-05-28 09:54:23 - INFO [Log.Log_Info] - 2025-05-28 09:54:23 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:56:15 - INFO [Log.Log_Info] - 2025-05-28 09:56:15 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 09:56:15 - INFO [Log.Log_Info] - 2025-05-28 09:56:15 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:56:15 - INFO [Log.Log_Info] - 2025-05-28 09:56:15 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 09:56:15 - ERROR [Log.Log_Error] - 2025-05-28 09:56:15 Error parsing rename_map from config: too many values to unpack (expected 2)
+2025-05-28 09:56:15 - INFO [Log.Log_Info] - 2025-05-28 09:56:15 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:59:25 - INFO [Log.Log_Info] - 2025-05-28 09:59:25 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 09:59:25 - INFO [Log.Log_Info] - 2025-05-28 09:59:25 All .ini configuration files processed. Program finishing.
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Successfully loaded 23 column mappings from config
+2025-05-28 10:25:06 - INFO [Log.Log_Info] - 2025-05-28 10:25:06 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:27:10 - INFO [Log.Log_Info] - 2025-05-28 10:27:10 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:27:10 - INFO [Log.Log_Info] - 2025-05-28 10:27:10 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:27:10 - INFO [Log.Log_Info] - 2025-05-28 10:27:10 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:27:10 - INFO [Log.Log_Info] - 2025-05-28 10:27:10 Successfully loaded 23 column mappings from config
+2025-05-28 10:27:10 - INFO [Log.Log_Info] - 2025-05-28 10:27:10 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:29:24 - INFO [Log.Log_Info] - 2025-05-28 10:29:24 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:29:24 - INFO [Log.Log_Info] - 2025-05-28 10:29:24 All .ini configuration files processed. Program finishing.
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Successfully loaded 23 column mappings from config
+2025-05-28 10:30:17 - INFO [Log.Log_Info] - 2025-05-28 10:30:17 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:32:34 - INFO [Log.Log_Info] - 2025-05-28 10:32:34 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:32:34 - INFO [Log.Log_Info] - 2025-05-28 10:32:34 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:32:34 - INFO [Log.Log_Info] - 2025-05-28 10:32:34 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:32:34 - INFO [Log.Log_Info] - 2025-05-28 10:32:34 Successfully loaded 23 column mappings from config
+2025-05-28 10:32:34 - INFO [Log.Log_Info] - 2025-05-28 10:32:34 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:35:37 - INFO [Log.Log_Info] - 2025-05-28 10:35:37 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:35:37 - INFO [Log.Log_Info] - 2025-05-28 10:35:37 All .ini configuration files processed. Program finishing.
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Successfully loaded 23 column mappings from config
+2025-05-28 10:35:55 - INFO [Log.Log_Info] - 2025-05-28 10:35:55 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:37:45 - INFO [Log.Log_Info] - 2025-05-28 10:37:45 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 10:37:45 - INFO [Log.Log_Info] - 2025-05-28 10:37:45 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:37:45 - INFO [Log.Log_Info] - 2025-05-28 10:37:45 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 10:37:45 - INFO [Log.Log_Info] - 2025-05-28 10:37:45 Successfully loaded 23 column mappings from config
+2025-05-28 10:37:45 - INFO [Log.Log_Info] - 2025-05-28 10:37:45 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:40:14 - INFO [Log.Log_Info] - 2025-05-28 10:40:14 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 10:40:14 - INFO [Log.Log_Info] - 2025-05-28 10:40:14 All .ini configuration files processed. Program finishing.
+2025-05-28 10:55:02 - INFO [Log.Log_Info] - 2025-05-28 10:55:02 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 10:55:02 - INFO [Log.Log_Info] - 2025-05-28 10:55:02 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 10:55:02 - INFO [Log.Log_Info] - 2025-05-28 10:55:02 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:55:03 - INFO [Log.Log_Info] - 2025-05-28 10:55:03 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 10:55:03 - INFO [Log.Log_Info] - 2025-05-28 10:55:03 Successfully loaded 23 column mappings from config
+2025-05-28 10:55:03 - INFO [Log.Log_Info] - 2025-05-28 10:55:03 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 11:05:21 - INFO [Log.Log_Info] - 2025-05-28 11:05:21 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 11:05:21 - INFO [Log.Log_Info] - 2025-05-28 11:05:21 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 11:05:21 - INFO [Log.Log_Info] - 2025-05-28 11:05:21 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 11:05:21 - INFO [Log.Log_Info] - 2025-05-28 11:05:21 Successfully loaded 23 column mappings from config
+2025-05-28 11:05:21 - INFO [Log.Log_Info] - 2025-05-28 11:05:21 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 11:08:56 - INFO [Log.Log_Info] - 2025-05-28 11:08:56 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 11:08:56 - INFO [Log.Log_Info] - 2025-05-28 11:08:56 All .ini configuration files processed. Program finishing.
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Successfully loaded 23 column mappings from config
+2025-05-28 11:12:12 - INFO [Log.Log_Info] - 2025-05-28 11:12:12 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-05-28 11:19:26 - INFO [Log.Log_Info] - 2025-05-28 11:19:26 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-05-28 11:19:26 - INFO [Log.Log_Info] - 2025-05-28 11:19:26 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 11:19:26 - INFO [Log.Log_Info] - 2025-05-28 11:19:26 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-05-28 11:19:26 - INFO [Log.Log_Info] - 2025-05-28 11:19:26 Successfully loaded 23 column mappings from config
+2025-05-28 11:19:26 - INFO [Log.Log_Info] - 2025-05-28 11:19:26 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-05-28 11:23:07 - INFO [Log.Log_Info] - 2025-05-28 11:23:07 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-05-28 11:23:07 - INFO [Log.Log_Info] - 2025-05-28 11:23:07 All .ini configuration files processed. Program finishing.
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Successfully loaded 23 column mappings from config
+2025-06-11 10:22:09 - INFO [Log.Log_Info] - 2025-06-11 10:22:09 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 10:25:24 - INFO [Log.Log_Info] - 2025-06-11 10:25:24 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 10:25:24 - INFO [Log.Log_Info] - 2025-06-11 10:25:24 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 10:25:24 - INFO [Log.Log_Info] - 2025-06-11 10:25:24 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 10:25:24 - INFO [Log.Log_Info] - 2025-06-11 10:25:24 Successfully loaded 23 column mappings from config
+2025-06-11 10:25:24 - INFO [Log.Log_Info] - 2025-06-11 10:25:24 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 10:28:32 - INFO [Log.Log_Info] - 2025-06-11 10:28:32 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 10:28:32 - INFO [Log.Log_Info] - 2025-06-11 10:28:32 All .ini configuration files processed. Program finishing.
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Successfully loaded 23 column mappings from config
+2025-06-11 11:00:08 - INFO [Log.Log_Info] - 2025-06-11 11:00:08 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:03:49 - INFO [Log.Log_Info] - 2025-06-11 11:03:49 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:03:49 - INFO [Log.Log_Info] - 2025-06-11 11:03:49 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:03:49 - INFO [Log.Log_Info] - 2025-06-11 11:03:49 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:03:49 - INFO [Log.Log_Info] - 2025-06-11 11:03:49 Successfully loaded 23 column mappings from config
+2025-06-11 11:03:49 - INFO [Log.Log_Info] - 2025-06-11 11:03:49 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:07:10 - INFO [Log.Log_Info] - 2025-06-11 11:07:10 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:07:10 - INFO [Log.Log_Info] - 2025-06-11 11:07:10 All .ini configuration files processed. Program finishing.
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Successfully loaded 23 column mappings from config
+2025-06-11 11:34:39 - INFO [Log.Log_Info] - 2025-06-11 11:34:39 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:39:18 - INFO [Log.Log_Info] - 2025-06-11 11:39:18 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:39:18 - INFO [Log.Log_Info] - 2025-06-11 11:39:18 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:39:18 - INFO [Log.Log_Info] - 2025-06-11 11:39:18 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:39:18 - INFO [Log.Log_Info] - 2025-06-11 11:39:18 Successfully loaded 23 column mappings from config
+2025-06-11 11:39:18 - INFO [Log.Log_Info] - 2025-06-11 11:39:18 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:43:46 - INFO [Log.Log_Info] - 2025-06-11 11:43:46 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:43:46 - INFO [Log.Log_Info] - 2025-06-11 11:43:46 All .ini configuration files processed. Program finishing.
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Successfully loaded 23 column mappings from config
+2025-06-11 11:46:01 - INFO [Log.Log_Info] - 2025-06-11 11:46:01 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:50:18 - INFO [Log.Log_Info] - 2025-06-11 11:50:18 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 11:50:18 - INFO [Log.Log_Info] - 2025-06-11 11:50:18 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:50:18 - INFO [Log.Log_Info] - 2025-06-11 11:50:18 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 11:50:18 - INFO [Log.Log_Info] - 2025-06-11 11:50:18 Successfully loaded 23 column mappings from config
+2025-06-11 11:50:18 - INFO [Log.Log_Info] - 2025-06-11 11:50:18 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:54:48 - INFO [Log.Log_Info] - 2025-06-11 11:54:48 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 11:54:48 - INFO [Log.Log_Info] - 2025-06-11 11:54:48 All .ini configuration files processed. Program finishing.
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 12:30:54 - ERROR [Log.Log_Error] - 2025-06-11 12:30:54 Missing required section or option in INI file c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini: No option 'output_path' in section: 'Paths'
+2025-06-11 12:30:54 - ERROR [Log.Log_Error] - 2025-06-11 12:30:54 Failed to load valid settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini. Aborting processing for this INI.
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Successfully loaded 23 column mappings from config
+2025-06-11 12:30:54 - INFO [Log.Log_Info] - 2025-06-11 12:30:54 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 12:35:04 - INFO [Log.Log_Info] - 2025-06-11 12:35:04 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 12:35:04 - INFO [Log.Log_Info] - 2025-06-11 12:35:04 All .ini configuration files processed. Program finishing.
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Successfully loaded 23 column mappings from config
+2025-06-11 14:22:43 - INFO [Log.Log_Info] - 2025-06-11 14:22:43 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 14:26:43 - INFO [Log.Log_Info] - 2025-06-11 14:26:43 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 14:26:43 - INFO [Log.Log_Info] - 2025-06-11 14:26:43 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 14:26:43 - INFO [Log.Log_Info] - 2025-06-11 14:26:43 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 14:26:43 - INFO [Log.Log_Info] - 2025-06-11 14:26:43 Successfully loaded 23 column mappings from config
+2025-06-11 14:26:43 - INFO [Log.Log_Info] - 2025-06-11 14:26:43 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 14:30:33 - INFO [Log.Log_Info] - 2025-06-11 14:30:33 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 14:30:33 - INFO [Log.Log_Info] - 2025-06-11 14:30:33 All .ini configuration files processed. Program finishing.
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Successfully loaded 23 column mappings from config
+2025-06-11 14:32:17 - INFO [Log.Log_Info] - 2025-06-11 14:32:17 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-06-11 14:36:19 - INFO [Log.Log_Info] - 2025-06-11 14:36:19 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-06-11 14:36:19 - INFO [Log.Log_Info] - 2025-06-11 14:36:19 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 14:36:19 - INFO [Log.Log_Info] - 2025-06-11 14:36:19 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-06-11 14:36:19 - INFO [Log.Log_Info] - 2025-06-11 14:36:19 Successfully loaded 23 column mappings from config
+2025-06-11 14:36:19 - INFO [Log.Log_Info] - 2025-06-11 14:36:19 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-06-11 14:39:55 - INFO [Log.Log_Info] - 2025-06-11 14:39:55 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-06-11 14:39:55 - INFO [Log.Log_Info] - 2025-06-11 14:39:55 All .ini configuration files processed. Program finishing.
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Program started (Script path: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Successfully loaded 23 column mappings from config
+2025-07-11 08:47:42 - INFO [Log.Log_Info] - 2025-07-11 08:47:42 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-07-11 08:49:40 - INFO [Log.Log_Info] - 2025-07-11 08:49:40 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-07-11 08:49:40 - INFO [Log.Log_Info] - 2025-07-11 08:49:40 Starting processing for INI file: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-07-11 08:49:40 - INFO [Log.Log_Info] - 2025-07-11 08:49:40 Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-07-11 08:49:40 - INFO [Log.Log_Info] - 2025-07-11 08:49:40 Successfully loaded 23 column mappings from config
+2025-07-11 08:49:40 - INFO [Log.Log_Info] - 2025-07-11 08:49:40 Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-07-11 08:51:43 - INFO [Log.Log_Info] - 2025-07-11 08:51:43 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-07-11 08:51:43 - INFO [Log.Log_Info] - 2025-07-11 08:51:43 All .ini configuration files processed. Program finishing.
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.main] - ==================== Program Started ====================
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.main] - Found 2 INI files: ['Config_GRATING_Crystal_Duty.ini', 'Config_GRATING_CVD_Duty.ini']
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.process_ini_file] - ========== Starting processing for INI: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini ==========
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.read_ini_config] - Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.parse_rename_map] - Loaded 23 column mappings.
+2025-07-11 08:55:21 - INFO [CVD_Grating_1.extract_settings_from_config] - Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.main] - ==================== Program Started ====================
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.main] - Found 2 INI files: ['Config_GRATING_Crystal_Duty.ini', 'Config_GRATING_CVD_Duty.ini']
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.process_ini_file] - ========== Starting processing for INI: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini ==========
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.read_ini_config] - Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.parse_rename_map] - Loaded 23 column mappings.
+2025-07-11 08:55:49 - INFO [CVD_Grating_1.extract_settings_from_config] - Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini.
+2025-07-11 08:57:36 - INFO [CVD_Grating_1.main] - Completed processing cycle for Config_GRATING_Crystal_Duty.ini.
+2025-07-11 08:57:36 - INFO [CVD_Grating_1.process_ini_file] - ========== Starting processing for INI: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini ==========
+2025-07-11 08:57:36 - INFO [CVD_Grating_1.read_ini_config] - Successfully read and parsed INI config: c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-07-11 08:57:36 - INFO [CVD_Grating_1.parse_rename_map] - Loaded 23 column mappings.
+2025-07-11 08:57:36 - INFO [CVD_Grating_1.extract_settings_from_config] - Successfully extracted settings from c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-07-11 08:59:28 - INFO [CVD_Grating_1.main] - Completed processing cycle for Config_GRATING_CVD_Duty.ini.
+2025-07-11 08:59:28 - INFO [CVD_Grating_1.main] - ==================== Program Finished ====================
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Program started (Script path: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING)
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Found 2 .ini configuration file(s): Config_GRATING_Crystal_Duty.ini, Config_GRATING_CVD_Duty.ini
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Starting processing for INI file: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Successfully read and parsed INI config: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini
+2025-08-08 10:12:39 - ERROR [Log.Log_Error] - 2025-08-08 10:12:39 Missing required section or option in INI file C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini: No section: 'Logging'
+2025-08-08 10:12:39 - ERROR [Log.Log_Error] - 2025-08-08 10:12:39 Failed to load valid settings from C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini. Aborting processing for this INI.
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Completed processing cycle for INI file: Config_GRATING_Crystal_Duty.ini.
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Starting processing for INI file: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Successfully read and parsed INI config: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini
+2025-08-08 10:12:39 - ERROR [Log.Log_Error] - 2025-08-08 10:12:39 ColumnMapping section not found in config, using empty mapping
+2025-08-08 10:12:39 - INFO [Log.Log_Info] - 2025-08-08 10:12:39 Successfully extracted settings from C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_CVD_Duty.ini.
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 Completed processing cycle for INI file: Config_GRATING_CVD_Duty.ini.
+2025-08-08 10:18:58 - INFO [Log.Log_Info] - 2025-08-08 10:18:58 All .ini configuration files processed. Program finishing.

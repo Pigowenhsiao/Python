@@ -1,0 +1,34 @@
+2025-08-22 15:32:34,562 - INFO - 2025-08-22 15:32:34 --- Start processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:32:34,566 - INFO - 2025-08-22 15:32:34 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_CVD_Duty_2025_08_22T15.32.34.csv
+2025-08-22 15:32:34,567 - INFO - 2025-08-22 15:32:34 No matching source files found for configuration: Config_GRATING_CVD_Duty.ini.
+2025-08-22 15:32:34,569 - INFO - 2025-08-22 15:32:34 --- Finished processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:32:52,407 - INFO - 2025-08-22 15:32:52 --- Start processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:32:52,412 - INFO - 2025-08-22 15:32:52 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_Duty_2025_08_22T15.32.52.csv
+2025-08-22 15:32:52,413 - INFO - 2025-08-22 15:32:52 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-22 15:32:52,450 - INFO - 2025-08-22 15:32:52 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:32:52,489 - ERROR - 2025-08-22 15:32:52 Error processing file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 350, in main
+    dst_path = shutil.copy(latest_file, intermediate_path)
+  File "c:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\DataFile\\001_GRATING\\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx'
+
+2025-08-22 15:32:52,490 - INFO - 2025-08-22 15:32:52 --- Finished processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:32:52,491 - INFO - 2025-08-22 15:32:52 ===== Universal Script End =====
+2025-08-22 15:34:26,218 - INFO - 2025-08-22 15:34:26 --- Start processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:34:26,221 - INFO - 2025-08-22 15:34:26 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_CVD_Duty_2025_08_22T15.34.26.csv
+2025-08-22 15:34:26,225 - INFO - 2025-08-22 15:34:26 No matching source files found for configuration: Config_GRATING_CVD_Duty.ini.
+2025-08-22 15:34:26,229 - INFO - 2025-08-22 15:34:26 --- Finished processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:40:55,522 - INFO - 2025-08-22 15:40:55 --- Start processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:40:55,526 - INFO - 2025-08-22 15:40:55 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_CVD_Duty_2025_08_22T15.40.55.csv
+2025-08-22 15:40:55,527 - INFO - 2025-08-22 15:40:55 No matching source files found for configuration: Config_GRATING_CVD_Duty.ini.
+2025-08-22 15:40:55,527 - INFO - 2025-08-22 15:40:55 --- Finished processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:52:02,096 - INFO - 2025-08-22 15:52:02 --- Start processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:52:02,099 - INFO - 2025-08-22 15:52:02 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_CVD_Duty_2025_08_22T15.52.02.csv
+2025-08-22 15:52:02,100 - INFO - 2025-08-22 15:52:02 No matching source files found for this configuration.
+2025-08-22 15:52:02,101 - INFO - 2025-08-22 15:52:02 --- Finished processing config file: Config_GRATING_CVD_Duty.ini ---
+2025-08-22 15:52:02,101 - INFO - 2025-08-22 15:52:02 ===== Universal Script End =====

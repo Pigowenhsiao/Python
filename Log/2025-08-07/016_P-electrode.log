@@ -1,0 +1,39 @@
+INFO:root:2025-08-07 12:59:12 Program Start
+INFO:root:2025-08-07 12:59:12 Excel File Copy
+INFO:root:2025-08-07 13:00:06 Program Start
+INFO:root:2025-08-07 13:00:06 Excel File Copy
+INFO:root:2025-08-07 13:00:08 Get The Starting Row Count
+INFO:root:2025-08-07 13:00:08 Read Excel
+INFO:root:2025-08-07 13:00:17 Setting Columns Number
+INFO:root:2025-08-07 13:00:18 Get DataFrame End Index Number
+
+INFO:root:2025-08-07 13:00:18 Blank Check
+INFO:root:2025-08-07 13:00:18 Data Acquisition
+INFO:root:2025-08-07 13:00:20 Date Format Conversion
+INFO:root:2025-08-07 13:00:20 Check Data Type
+INFO:root:2025-08-07 13:00:20 Excel File To XML File Conversion
+INFO:root:2025-08-07 13:00:20 DEACU : OK
+
+INFO:root:2025-08-07 13:00:20 Blank Check
+INFO:root:2025-08-07 13:00:20 Data Acquisition
+INFO:root:2025-08-07 13:00:22 Date Format Conversion
+INFO:root:2025-08-07 13:00:22 Check Data Type
+INFO:root:2025-08-07 13:00:22 Excel File To XML File Conversion
+INFO:root:2025-08-07 13:00:23 DEACV : OK
+
+INFO:root:2025-08-07 13:00:23 Blank Check
+INFO:root:2025-08-07 13:00:23 Data Acquisition
+INFO:root:2025-08-07 13:05:38 Program Start
+INFO:root:2025-08-07 13:05:38 Excel File Copy
+INFO:root:2025-08-07 13:06:04 Program Start
+INFO:root:2025-08-07 13:06:04 Excel File Copy
+INFO:root:2025-08-07 13:06:09 Get The Starting Row Count
+INFO:root:2025-08-07 13:06:09 Read Excel
+INFO:root:2025-08-07 13:06:18 Setting Columns Number
+INFO:root:2025-08-07 13:06:18 Get DataFrame End Index Number
+
+INFO:root:2025-08-07 13:06:18 Blank Check
+INFO:root:2025-08-07 13:06:18 Data Acquisition
+INFO:root:2025-08-07 13:06:20 Date Format Conversion
+INFO:root:2025-08-07 13:06:20 Check Data Type
+INFO:root:2025-08-07 13:06:20 Excel File To XML File Conversion

@@ -1,0 +1,467 @@
+2025-10-07 09:41:53,149 - INFO - 2025-10-07 09:41:53 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:41:53,151 - INFO - 2025-10-07 09:41:53 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T09.41.53.csv
+2025-10-07 09:41:53,154 - INFO - 2025-10-07 09:41:53 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 09:41:53,320 - INFO - 2025-10-07 09:41:53 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:41:53,882 - INFO - 2025-10-07 09:41:53 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:41:53,888 - INFO - 2025-10-07 09:41:53 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 09:41:54,608 - INFO - 2025-10-07 09:41:54 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 09:41:54,609 - INFO - 2025-10-07 09:41:54 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 09:41:54,653 - INFO - 2025-10-07 09:41:54 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 09:41:54,654 - INFO - 2025-10-07 09:41:54 Step 3: Starting database query...
+2025-10-07 09:42:08,274 - INFO - 2025-10-07 09:42:08 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 09:42:08,284 - INFO - 2025-10-07 09:42:08 Database connection closed.
+2025-10-07 09:42:08,285 - INFO - 2025-10-07 09:42:08 Step 4: Starting data transformation and calculation...
+2025-10-07 09:42:08,328 - INFO - 2025-10-07 09:42:08 Date and SORTED field calculations complete.
+2025-10-07 09:42:08,334 - INFO - 2025-10-07 09:42:08 Using fixed tool name from INI: 'Dektak'
+2025-10-07 09:42:08,336 - INFO - 2025-10-07 09:42:08 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 09:42:08,336 - INFO - 2025-10-07 09:42:08 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 09:42:08,340 - INFO - 2025-10-07 09:42:08 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 09:42:08,341 - INFO - 2025-10-07 09:42:08 Executing function write_to_csv...
+2025-10-07 09:42:08,466 - INFO - 2025-10-07 09:42:08 Function write_to_csv executed successfully.
+2025-10-07 09:42:09,181 - INFO - 2025-10-07 09:42:09 Step 8: Updating next start row to 4623
+2025-10-07 09:42:09,181 - INFO - 2025-10-07 09:42:09 --- Function process_excel_file executed successfully ---
+2025-10-07 09:42:09,183 - INFO - 2025-10-07 09:42:09 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:42:09,183 - INFO - 2025-10-07 09:42:09 Executing function generate_pointer_xml...
+2025-10-07 09:42:09,251 - INFO - 2025-10-07 09:42:09 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T09.41.53,Testdate=2025-10-07T09.42.09.xml
+2025-10-07 09:42:09,251 - INFO - 2025-10-07 09:42:09 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:42:09,252 - INFO - 2025-10-07 09:42:09 ===== Universal Script End =====
+2025-10-07 09:49:35,575 - INFO - 2025-10-07 09:49:35 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:49:36,022 - INFO - 2025-10-07 09:49:36 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\027_MESA\MESA_Wet_Depth_2025_10_07T09.49.36.csv
+2025-10-07 09:49:36,024 - INFO - 2025-10-07 09:49:36 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 09:49:36,048 - INFO - 2025-10-07 09:49:36 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:49:36,363 - INFO - 2025-10-07 09:49:36 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:49:36,364 - INFO - 2025-10-07 09:49:36 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 09:49:37,263 - INFO - 2025-10-07 09:49:37 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 09:49:37,264 - INFO - 2025-10-07 09:49:37 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 09:49:37,332 - INFO - 2025-10-07 09:49:37 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 09:49:37,332 - INFO - 2025-10-07 09:49:37 Step 3: Starting database query...
+2025-10-07 09:49:45,304 - INFO - 2025-10-07 09:49:45 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 09:49:45,313 - INFO - 2025-10-07 09:49:45 Database connection closed.
+2025-10-07 09:49:45,314 - INFO - 2025-10-07 09:49:45 Step 4: Starting data transformation and calculation...
+2025-10-07 09:49:45,334 - INFO - 2025-10-07 09:49:45 Date and SORTED field calculations complete.
+2025-10-07 09:49:45,336 - INFO - 2025-10-07 09:49:45 Using fixed tool name from INI: 'Dektak'
+2025-10-07 09:49:45,337 - INFO - 2025-10-07 09:49:45 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 09:49:45,337 - INFO - 2025-10-07 09:49:45 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 09:49:45,341 - INFO - 2025-10-07 09:49:45 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 09:49:45,341 - INFO - 2025-10-07 09:49:45 Executing function write_to_csv...
+2025-10-07 09:49:46,926 - INFO - 2025-10-07 09:49:46 Function write_to_csv executed successfully.
+2025-10-07 09:49:47,586 - INFO - 2025-10-07 09:49:47 Step 8: Updating next start row to 4623
+2025-10-07 09:49:47,587 - INFO - 2025-10-07 09:49:47 --- Function process_excel_file executed successfully ---
+2025-10-07 09:49:47,588 - INFO - 2025-10-07 09:49:47 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:49:47,589 - INFO - 2025-10-07 09:49:47 Executing function generate_pointer_xml...
+2025-10-07 09:49:49,075 - INFO - 2025-10-07 09:49:49 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T09.49.36,Testdate=2025-10-07T09.49.48.xml
+2025-10-07 09:49:49,076 - INFO - 2025-10-07 09:49:49 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:49:49,076 - INFO - 2025-10-07 09:49:49 ===== Universal Script End =====
+2025-10-07 09:51:02,316 - INFO - 2025-10-07 09:51:02 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:51:03,098 - INFO - 2025-10-07 09:51:03 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\027_MESA\MESA_Wet_Depth_2025_10_07T09.51.03.csv
+2025-10-07 09:51:03,099 - INFO - 2025-10-07 09:51:03 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 09:51:03,123 - INFO - 2025-10-07 09:51:03 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:51:03,853 - INFO - 2025-10-07 09:51:03 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 09:51:03,853 - INFO - 2025-10-07 09:51:03 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 09:51:04,486 - INFO - 2025-10-07 09:51:04 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 09:51:04,487 - INFO - 2025-10-07 09:51:04 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 09:51:04,525 - INFO - 2025-10-07 09:51:04 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 09:51:04,525 - INFO - 2025-10-07 09:51:04 Step 3: Starting database query...
+2025-10-07 09:51:12,599 - INFO - 2025-10-07 09:51:12 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 09:51:12,605 - INFO - 2025-10-07 09:51:12 Database connection closed.
+2025-10-07 09:51:12,606 - INFO - 2025-10-07 09:51:12 Step 4: Starting data transformation and calculation...
+2025-10-07 09:51:12,631 - INFO - 2025-10-07 09:51:12 Date and SORTED field calculations complete.
+2025-10-07 09:51:12,633 - INFO - 2025-10-07 09:51:12 Using fixed tool name from INI: 'Dektak'
+2025-10-07 09:51:12,633 - INFO - 2025-10-07 09:51:12 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 09:51:12,634 - INFO - 2025-10-07 09:51:12 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 09:51:12,636 - INFO - 2025-10-07 09:51:12 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 09:51:12,636 - INFO - 2025-10-07 09:51:12 Executing function write_to_csv...
+2025-10-07 09:51:14,253 - INFO - 2025-10-07 09:51:14 Function write_to_csv executed successfully.
+2025-10-07 09:51:14,962 - INFO - 2025-10-07 09:51:14 Step 8: Updating next start row to 4623
+2025-10-07 09:51:14,963 - INFO - 2025-10-07 09:51:14 --- Function process_excel_file executed successfully ---
+2025-10-07 09:51:14,965 - INFO - 2025-10-07 09:51:14 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:51:14,968 - INFO - 2025-10-07 09:51:14 Executing function generate_pointer_xml...
+2025-10-07 09:51:16,325 - INFO - 2025-10-07 09:51:16 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T09.51.03,Testdate=2025-10-07T09.51.15.xml
+2025-10-07 09:51:16,326 - INFO - 2025-10-07 09:51:16 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 09:51:16,326 - INFO - 2025-10-07 09:51:16 ===== Universal Script End =====
+2025-10-07 10:24:31,299 - INFO - 2025-10-07 10:24:31 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 10:24:31,855 - INFO - 2025-10-07 10:24:31 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\027_MESA\MESA_Wet_Depth_2025_10_07T10.24.31.csv
+2025-10-07 10:24:31,857 - INFO - 2025-10-07 10:24:31 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 10:24:31,880 - INFO - 2025-10-07 10:24:31 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 10:24:32,381 - INFO - 2025-10-07 10:24:32 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 10:24:32,381 - INFO - 2025-10-07 10:24:32 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 10:24:32,991 - INFO - 2025-10-07 10:24:32 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 10:24:32,992 - INFO - 2025-10-07 10:24:32 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 10:24:33,023 - INFO - 2025-10-07 10:24:33 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 10:24:33,023 - INFO - 2025-10-07 10:24:33 Step 3: Starting database query...
+2025-10-07 10:24:40,772 - INFO - 2025-10-07 10:24:40 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 10:24:40,780 - INFO - 2025-10-07 10:24:40 Database connection closed.
+2025-10-07 10:24:40,781 - INFO - 2025-10-07 10:24:40 Step 4: Starting data transformation and calculation...
+2025-10-07 10:24:40,802 - INFO - 2025-10-07 10:24:40 Date and SORTED field calculations complete.
+2025-10-07 10:24:40,807 - INFO - 2025-10-07 10:24:40 Using fixed tool name from INI: 'Dektak'
+2025-10-07 10:24:40,807 - INFO - 2025-10-07 10:24:40 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 10:24:40,808 - INFO - 2025-10-07 10:24:40 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 10:24:40,812 - INFO - 2025-10-07 10:24:40 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 10:24:40,812 - INFO - 2025-10-07 10:24:40 Executing function write_to_csv...
+2025-10-07 10:24:41,831 - INFO - 2025-10-07 10:24:41 Function write_to_csv executed successfully.
+2025-10-07 10:24:42,224 - INFO - 2025-10-07 10:24:42 Step 8: Updating next start row to 4623
+2025-10-07 10:24:42,225 - INFO - 2025-10-07 10:24:42 --- Function process_excel_file executed successfully ---
+2025-10-07 10:24:42,225 - INFO - 2025-10-07 10:24:42 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 10:24:42,226 - INFO - 2025-10-07 10:24:42 Executing function generate_pointer_xml...
+2025-10-07 10:24:43,505 - INFO - 2025-10-07 10:24:43 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T10.24.31,Testdate=2025-10-07T10.24.42.xml
+2025-10-07 10:24:43,506 - INFO - 2025-10-07 10:24:43 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 10:24:43,506 - INFO - 2025-10-07 10:24:43 ===== Universal Script End =====
+2025-10-07 13:21:25,495 - INFO - 2025-10-07 13:21:25 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:21:25,497 - INFO - 2025-10-07 13:21:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.21.25.csv
+2025-10-07 13:21:25,498 - INFO - 2025-10-07 13:21:25 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:21:25,594 - INFO - 2025-10-07 13:21:25 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:21:26,350 - INFO - 2025-10-07 13:21:26 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:21:26,351 - INFO - 2025-10-07 13:21:26 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:21:26,977 - INFO - 2025-10-07 13:21:26 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:21:26,979 - INFO - 2025-10-07 13:21:26 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:21:27,001 - INFO - 2025-10-07 13:21:27 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:21:27,002 - INFO - 2025-10-07 13:21:27 Step 3: Starting database query...
+2025-10-07 13:21:36,281 - INFO - 2025-10-07 13:21:36 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:21:36,289 - INFO - 2025-10-07 13:21:36 Database connection closed.
+2025-10-07 13:21:36,290 - INFO - 2025-10-07 13:21:36 Step 4: Starting data transformation and calculation...
+2025-10-07 13:21:36,320 - INFO - 2025-10-07 13:21:36 Date and SORTED field calculations complete.
+2025-10-07 13:21:36,324 - INFO - 2025-10-07 13:21:36 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:21:36,325 - INFO - 2025-10-07 13:21:36 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:21:36,325 - INFO - 2025-10-07 13:21:36 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:21:36,330 - INFO - 2025-10-07 13:21:36 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:21:36,330 - INFO - 2025-10-07 13:21:36 Executing function write_to_csv...
+2025-10-07 13:21:36,400 - INFO - 2025-10-07 13:21:36 Function write_to_csv executed successfully.
+2025-10-07 13:21:37,126 - INFO - 2025-10-07 13:21:37 Step 8: Updating next start row to 4623
+2025-10-07 13:21:37,126 - INFO - 2025-10-07 13:21:37 --- Function process_excel_file executed successfully ---
+2025-10-07 13:21:37,128 - INFO - 2025-10-07 13:21:37 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:21:37,128 - INFO - 2025-10-07 13:21:37 Executing function generate_pointer_xml...
+2025-10-07 13:21:37,197 - INFO - 2025-10-07 13:21:37 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.21.25,Testdate=2025-10-07T13.21.37.xml
+2025-10-07 13:21:37,197 - INFO - 2025-10-07 13:21:37 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:21:37,197 - INFO - 2025-10-07 13:21:37 ===== Universal Script End =====
+2025-10-07 13:23:57,397 - INFO - 2025-10-07 13:23:57 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:23:57,401 - INFO - 2025-10-07 13:23:57 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.23.57.csv
+2025-10-07 13:23:57,405 - INFO - 2025-10-07 13:23:57 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:23:57,419 - INFO - 2025-10-07 13:23:57 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:23:58,037 - INFO - 2025-10-07 13:23:58 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:23:58,038 - INFO - 2025-10-07 13:23:58 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:23:58,648 - INFO - 2025-10-07 13:23:58 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:23:58,649 - INFO - 2025-10-07 13:23:58 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:23:58,690 - INFO - 2025-10-07 13:23:58 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:23:58,691 - INFO - 2025-10-07 13:23:58 Step 3: Starting database query...
+2025-10-07 13:24:06,720 - INFO - 2025-10-07 13:24:06 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:24:06,727 - INFO - 2025-10-07 13:24:06 Database connection closed.
+2025-10-07 13:24:06,727 - INFO - 2025-10-07 13:24:06 Step 4: Starting data transformation and calculation...
+2025-10-07 13:24:06,768 - INFO - 2025-10-07 13:24:06 Date and SORTED field calculations complete.
+2025-10-07 13:24:06,772 - INFO - 2025-10-07 13:24:06 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:24:06,773 - INFO - 2025-10-07 13:24:06 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:24:06,773 - INFO - 2025-10-07 13:24:06 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:24:06,776 - INFO - 2025-10-07 13:24:06 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:24:06,776 - INFO - 2025-10-07 13:24:06 Executing function write_to_csv...
+2025-10-07 13:24:06,840 - INFO - 2025-10-07 13:24:06 Function write_to_csv executed successfully.
+2025-10-07 13:24:07,340 - INFO - 2025-10-07 13:24:07 Step 8: Updating next start row to 4623
+2025-10-07 13:24:07,340 - INFO - 2025-10-07 13:24:07 --- Function process_excel_file executed successfully ---
+2025-10-07 13:24:07,342 - INFO - 2025-10-07 13:24:07 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:24:07,342 - INFO - 2025-10-07 13:24:07 Executing function generate_pointer_xml...
+2025-10-07 13:24:07,421 - INFO - 2025-10-07 13:24:07 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.23.57,Testdate=2025-10-07T13.24.07.xml
+2025-10-07 13:24:07,422 - INFO - 2025-10-07 13:24:07 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:24:07,423 - INFO - 2025-10-07 13:24:07 ===== Universal Script End =====
+2025-10-07 13:41:32,208 - INFO - 2025-10-07 13:41:32 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:41:33,106 - INFO - 2025-10-07 13:41:33 Excel loaded: 479 rows.
+2025-10-07 13:41:33,112 - INFO - 2025-10-07 13:41:33 Retention filter applied: keeping 30 days, 12 rows left.
+2025-10-07 13:41:45,832 - INFO - 2025-10-07 13:41:45 Executing function write_to_csv...
+2025-10-07 13:41:45,870 - INFO - 2025-10-07 13:41:45 Function write_to_csv executed successfully.
+2025-10-07 13:41:46,255 - INFO - 2025-10-07 13:41:46 --- Finished processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:41:46,256 - INFO - 2025-10-07 13:41:46 Executing function generate_pointer_xml...
+2025-10-07 13:41:46,325 - INFO - 2025-10-07 13:41:46 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.41.31,Testdate=2025-10-07T13.41.46.xml
+2025-10-07 13:41:46,325 - INFO - 2025-10-07 13:41:46 ===== Universal Script End =====
+2025-10-07 13:42:30,162 - INFO - 2025-10-07 13:42:30 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:42:30,833 - INFO - 2025-10-07 13:42:30 Excel loaded: 0 rows.
+2025-10-07 13:42:30,834 - ERROR - 2025-10-07 13:42:30 Excel read/filter error: 'key_Start_Date_Time'
+2025-10-07 13:42:30,947 - INFO - 2025-10-07 13:42:30 ===== Universal Script End =====
+2025-10-07 13:43:16,428 - INFO - 2025-10-07 13:43:16 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:43:17,092 - INFO - 2025-10-07 13:43:17 Excel loaded: 0 rows.
+2025-10-07 13:43:17,094 - ERROR - 2025-10-07 13:43:17 Excel read/filter error: 'key_Start_Date_Time'
+2025-10-07 13:43:17,206 - INFO - 2025-10-07 13:43:17 ===== Universal Script End =====
+2025-10-07 13:43:48,616 - INFO - 2025-10-07 13:43:48 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:43:49,083 - INFO - 2025-10-07 13:43:49 Excel loaded: 0 rows.
+2025-10-07 13:43:49,085 - ERROR - 2025-10-07 13:43:49 Excel read/filter error: 'key_Start_Date_Time'
+2025-10-07 13:43:49,200 - INFO - 2025-10-07 13:43:49 ===== Universal Script End =====
+2025-10-07 13:45:37,153 - INFO - 2025-10-07 13:45:37 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:45:37,678 - INFO - 2025-10-07 13:45:37 Excel loaded: 0 rows.
+2025-10-07 13:45:37,679 - ERROR - 2025-10-07 13:45:37 Excel read/filter error: 'key_Start_Date_Time'
+2025-10-07 13:45:37,680 - INFO - 2025-10-07 13:45:37 ===== Universal Script End =====
+2025-10-07 13:45:59,145 - INFO - 2025-10-07 13:45:59 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:45:59,642 - INFO - 2025-10-07 13:45:59 Excel loaded: 376 rows.
+2025-10-07 13:45:59,647 - INFO - 2025-10-07 13:45:59 Retention filter applied: keeping 30 days, 0 rows left.
+2025-10-07 13:45:59,647 - INFO - 2025-10-07 13:45:59 No data left after initial filtering.
+2025-10-07 13:45:59,648 - INFO - 2025-10-07 13:45:59 ===== Universal Script End =====
+2025-10-07 13:46:33,200 - INFO - 2025-10-07 13:46:33 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:46:33,859 - INFO - 2025-10-07 13:46:33 Excel loaded: 376 rows.
+2025-10-07 13:46:33,865 - INFO - 2025-10-07 13:46:33 Retention filter applied: keeping 30 days, 0 rows left.
+2025-10-07 13:46:33,865 - INFO - 2025-10-07 13:46:33 No data left after initial filtering.
+2025-10-07 13:46:33,866 - INFO - 2025-10-07 13:46:33 ===== Universal Script End =====
+2025-10-07 13:46:59,032 - INFO - 2025-10-07 13:46:59 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:46:59,365 - INFO - 2025-10-07 13:46:59 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\027_MESA\MESA_Wet_Depth_2025_10_07T13.46.59.csv
+2025-10-07 13:46:59,366 - INFO - 2025-10-07 13:46:59 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:46:59,388 - INFO - 2025-10-07 13:46:59 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:46:59,854 - INFO - 2025-10-07 13:46:59 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:46:59,855 - INFO - 2025-10-07 13:46:59 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:47:00,332 - INFO - 2025-10-07 13:47:00 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:47:00,333 - INFO - 2025-10-07 13:47:00 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:47:00,371 - INFO - 2025-10-07 13:47:00 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:47:00,371 - INFO - 2025-10-07 13:47:00 Step 3: Starting database query...
+2025-10-07 13:47:08,577 - INFO - 2025-10-07 13:47:08 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:47:08,584 - INFO - 2025-10-07 13:47:08 Database connection closed.
+2025-10-07 13:47:08,585 - INFO - 2025-10-07 13:47:08 Step 4: Starting data transformation and calculation...
+2025-10-07 13:47:08,630 - INFO - 2025-10-07 13:47:08 Date and SORTED field calculations complete.
+2025-10-07 13:47:08,636 - INFO - 2025-10-07 13:47:08 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:47:08,636 - INFO - 2025-10-07 13:47:08 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:47:08,637 - INFO - 2025-10-07 13:47:08 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:47:08,643 - INFO - 2025-10-07 13:47:08 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:47:08,644 - INFO - 2025-10-07 13:47:08 Executing function write_to_csv...
+2025-10-07 13:47:09,492 - INFO - 2025-10-07 13:47:09 Function write_to_csv executed successfully.
+2025-10-07 13:47:10,155 - INFO - 2025-10-07 13:47:10 Step 8: Updating next start row to 4623
+2025-10-07 13:47:10,155 - INFO - 2025-10-07 13:47:10 --- Function process_excel_file executed successfully ---
+2025-10-07 13:47:10,156 - INFO - 2025-10-07 13:47:10 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:47:10,156 - INFO - 2025-10-07 13:47:10 Executing function generate_pointer_xml...
+2025-10-07 13:47:11,521 - INFO - 2025-10-07 13:47:11 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.46.59,Testdate=2025-10-07T13.47.10.xml
+2025-10-07 13:47:11,521 - INFO - 2025-10-07 13:47:11 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:47:11,521 - INFO - 2025-10-07 13:47:11 ===== Universal Script End =====
+2025-10-07 13:47:33,985 - INFO - 2025-10-07 13:47:33 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:47:33,987 - INFO - 2025-10-07 13:47:33 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.47.33.csv
+2025-10-07 13:47:33,988 - INFO - 2025-10-07 13:47:33 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:47:34,003 - INFO - 2025-10-07 13:47:34 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:47:34,830 - INFO - 2025-10-07 13:47:34 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:47:34,831 - INFO - 2025-10-07 13:47:34 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:47:35,488 - INFO - 2025-10-07 13:47:35 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:47:35,489 - INFO - 2025-10-07 13:47:35 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:47:35,515 - INFO - 2025-10-07 13:47:35 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:47:35,515 - INFO - 2025-10-07 13:47:35 Step 3: Starting database query...
+2025-10-07 13:47:44,898 - INFO - 2025-10-07 13:47:44 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:47:44,903 - INFO - 2025-10-07 13:47:44 Database connection closed.
+2025-10-07 13:47:44,904 - INFO - 2025-10-07 13:47:44 Step 4: Starting data transformation and calculation...
+2025-10-07 13:47:44,925 - INFO - 2025-10-07 13:47:44 Date and SORTED field calculations complete.
+2025-10-07 13:47:44,927 - INFO - 2025-10-07 13:47:44 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:47:44,927 - INFO - 2025-10-07 13:47:44 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:47:44,927 - INFO - 2025-10-07 13:47:44 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:47:44,930 - INFO - 2025-10-07 13:47:44 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:47:44,930 - INFO - 2025-10-07 13:47:44 Executing function write_to_csv...
+2025-10-07 13:47:44,972 - INFO - 2025-10-07 13:47:44 Function write_to_csv executed successfully.
+2025-10-07 13:47:45,520 - INFO - 2025-10-07 13:47:45 Step 8: Updating next start row to 4623
+2025-10-07 13:47:45,521 - INFO - 2025-10-07 13:47:45 --- Function process_excel_file executed successfully ---
+2025-10-07 13:47:45,525 - INFO - 2025-10-07 13:47:45 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:47:45,525 - INFO - 2025-10-07 13:47:45 Executing function generate_pointer_xml...
+2025-10-07 13:47:45,587 - INFO - 2025-10-07 13:47:45 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.47.33,Testdate=2025-10-07T13.47.45.xml
+2025-10-07 13:47:45,587 - INFO - 2025-10-07 13:47:45 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:47:45,588 - INFO - 2025-10-07 13:47:45 ===== Universal Script End =====
+2025-10-07 13:49:24,143 - INFO - 2025-10-07 13:49:24 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:49:24,147 - INFO - 2025-10-07 13:49:24 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.49.24.csv
+2025-10-07 13:49:24,148 - INFO - 2025-10-07 13:49:24 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:49:24,174 - INFO - 2025-10-07 13:49:24 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:49:24,820 - INFO - 2025-10-07 13:49:24 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:49:24,820 - INFO - 2025-10-07 13:49:24 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:49:25,495 - INFO - 2025-10-07 13:49:25 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:49:25,496 - INFO - 2025-10-07 13:49:25 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:49:25,541 - INFO - 2025-10-07 13:49:25 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:49:25,542 - INFO - 2025-10-07 13:49:25 Step 3: Starting database query...
+2025-10-07 13:49:34,696 - INFO - 2025-10-07 13:49:34 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:49:34,703 - INFO - 2025-10-07 13:49:34 Database connection closed.
+2025-10-07 13:49:34,703 - INFO - 2025-10-07 13:49:34 Step 4: Starting data transformation and calculation...
+2025-10-07 13:49:34,734 - INFO - 2025-10-07 13:49:34 Date and SORTED field calculations complete.
+2025-10-07 13:49:34,742 - INFO - 2025-10-07 13:49:34 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:49:34,744 - INFO - 2025-10-07 13:49:34 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:49:34,745 - INFO - 2025-10-07 13:49:34 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:49:34,747 - INFO - 2025-10-07 13:49:34 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:49:34,748 - INFO - 2025-10-07 13:49:34 Executing function write_to_csv...
+2025-10-07 13:49:34,802 - INFO - 2025-10-07 13:49:34 Function write_to_csv executed successfully.
+2025-10-07 13:49:35,543 - INFO - 2025-10-07 13:49:35 Step 8: Updating next start row to 4623
+2025-10-07 13:49:35,544 - INFO - 2025-10-07 13:49:35 --- Function process_excel_file executed successfully ---
+2025-10-07 13:49:35,545 - INFO - 2025-10-07 13:49:35 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:49:35,546 - INFO - 2025-10-07 13:49:35 Executing function generate_pointer_xml...
+2025-10-07 13:49:35,612 - INFO - 2025-10-07 13:49:35 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.49.24,Testdate=2025-10-07T13.49.35.xml
+2025-10-07 13:49:35,612 - INFO - 2025-10-07 13:49:35 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:49:35,613 - INFO - 2025-10-07 13:49:35 ===== Universal Script End =====
+2025-10-07 13:50:31,049 - INFO - 2025-10-07 13:50:31 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:50:31,052 - INFO - 2025-10-07 13:50:31 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.50.31.csv
+2025-10-07 13:50:31,055 - INFO - 2025-10-07 13:50:31 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:50:31,072 - INFO - 2025-10-07 13:50:31 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:50:31,508 - INFO - 2025-10-07 13:50:31 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:50:31,508 - INFO - 2025-10-07 13:50:31 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:50:32,106 - INFO - 2025-10-07 13:50:32 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:50:32,107 - INFO - 2025-10-07 13:50:32 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:50:32,134 - INFO - 2025-10-07 13:50:32 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:50:32,134 - INFO - 2025-10-07 13:50:32 Step 3: Starting database query...
+2025-10-07 13:50:44,503 - INFO - 2025-10-07 13:50:44 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:50:44,538 - INFO - 2025-10-07 13:50:44 Database connection closed.
+2025-10-07 13:50:44,539 - INFO - 2025-10-07 13:50:44 Step 4: Starting data transformation and calculation...
+2025-10-07 13:50:44,560 - INFO - 2025-10-07 13:50:44 Date and SORTED field calculations complete.
+2025-10-07 13:50:44,562 - INFO - 2025-10-07 13:50:44 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:50:44,563 - INFO - 2025-10-07 13:50:44 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:50:44,563 - INFO - 2025-10-07 13:50:44 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:50:44,565 - INFO - 2025-10-07 13:50:44 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:50:44,566 - INFO - 2025-10-07 13:50:44 Executing function write_to_csv...
+2025-10-07 13:50:44,612 - INFO - 2025-10-07 13:50:44 Function write_to_csv executed successfully.
+2025-10-07 13:50:45,260 - INFO - 2025-10-07 13:50:45 Step 8: Updating next start row to 4623
+2025-10-07 13:50:45,260 - INFO - 2025-10-07 13:50:45 --- Function process_excel_file executed successfully ---
+2025-10-07 13:50:45,261 - INFO - 2025-10-07 13:50:45 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:50:45,262 - INFO - 2025-10-07 13:50:45 Executing function generate_pointer_xml...
+2025-10-07 13:50:45,326 - INFO - 2025-10-07 13:50:45 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.50.31,Testdate=2025-10-07T13.50.45.xml
+2025-10-07 13:50:45,326 - INFO - 2025-10-07 13:50:45 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:50:45,329 - INFO - 2025-10-07 13:50:45 ===== Universal Script End =====
+2025-10-07 13:50:48,092 - INFO - 2025-10-07 13:50:48 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:50:48,095 - INFO - 2025-10-07 13:50:48 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.50.48.csv
+2025-10-07 13:50:48,096 - INFO - 2025-10-07 13:50:48 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:50:48,115 - INFO - 2025-10-07 13:50:48 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:50:48,593 - INFO - 2025-10-07 13:50:48 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:50:48,594 - INFO - 2025-10-07 13:50:48 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:50:49,176 - INFO - 2025-10-07 13:50:49 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:50:49,177 - INFO - 2025-10-07 13:50:49 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:50:49,244 - INFO - 2025-10-07 13:50:49 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:50:49,246 - INFO - 2025-10-07 13:50:49 Step 3: Starting database query...
+2025-10-07 13:50:59,931 - INFO - 2025-10-07 13:50:59 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:50:59,950 - INFO - 2025-10-07 13:50:59 Database connection closed.
+2025-10-07 13:50:59,950 - INFO - 2025-10-07 13:50:59 Step 4: Starting data transformation and calculation...
+2025-10-07 13:50:59,966 - INFO - 2025-10-07 13:50:59 Date and SORTED field calculations complete.
+2025-10-07 13:50:59,968 - INFO - 2025-10-07 13:50:59 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:50:59,969 - INFO - 2025-10-07 13:50:59 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:50:59,969 - INFO - 2025-10-07 13:50:59 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:50:59,973 - INFO - 2025-10-07 13:50:59 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:50:59,974 - INFO - 2025-10-07 13:50:59 Executing function write_to_csv...
+2025-10-07 13:51:00,048 - INFO - 2025-10-07 13:51:00 Function write_to_csv executed successfully.
+2025-10-07 13:51:00,846 - INFO - 2025-10-07 13:51:00 Step 8: Updating next start row to 4623
+2025-10-07 13:51:00,846 - INFO - 2025-10-07 13:51:00 --- Function process_excel_file executed successfully ---
+2025-10-07 13:51:00,849 - INFO - 2025-10-07 13:51:00 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:51:00,849 - INFO - 2025-10-07 13:51:00 Executing function generate_pointer_xml...
+2025-10-07 13:51:00,947 - INFO - 2025-10-07 13:51:00 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.50.48,Testdate=2025-10-07T13.51.00.xml
+2025-10-07 13:51:00,947 - INFO - 2025-10-07 13:51:00 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:51:00,948 - INFO - 2025-10-07 13:51:00 ===== Universal Script End =====
+2025-10-07 13:51:03,596 - INFO - 2025-10-07 13:51:03 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:51:03,598 - INFO - 2025-10-07 13:51:03 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T13.51.03.csv
+2025-10-07 13:51:03,600 - INFO - 2025-10-07 13:51:03 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 13:51:03,622 - INFO - 2025-10-07 13:51:03 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:51:04,172 - INFO - 2025-10-07 13:51:04 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 13:51:04,174 - INFO - 2025-10-07 13:51:04 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 13:51:04,738 - INFO - 2025-10-07 13:51:04 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 13:51:04,739 - INFO - 2025-10-07 13:51:04 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 13:51:04,775 - INFO - 2025-10-07 13:51:04 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 13:51:04,775 - INFO - 2025-10-07 13:51:04 Step 3: Starting database query...
+2025-10-07 13:51:14,271 - INFO - 2025-10-07 13:51:14 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 13:51:14,278 - INFO - 2025-10-07 13:51:14 Database connection closed.
+2025-10-07 13:51:14,279 - INFO - 2025-10-07 13:51:14 Step 4: Starting data transformation and calculation...
+2025-10-07 13:51:14,295 - INFO - 2025-10-07 13:51:14 Date and SORTED field calculations complete.
+2025-10-07 13:51:14,298 - INFO - 2025-10-07 13:51:14 Using fixed tool name from INI: 'Dektak'
+2025-10-07 13:51:14,298 - INFO - 2025-10-07 13:51:14 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 13:51:14,298 - INFO - 2025-10-07 13:51:14 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 13:51:14,300 - INFO - 2025-10-07 13:51:14 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 13:51:14,300 - INFO - 2025-10-07 13:51:14 Executing function write_to_csv...
+2025-10-07 13:51:14,360 - INFO - 2025-10-07 13:51:14 Function write_to_csv executed successfully.
+2025-10-07 13:51:14,920 - INFO - 2025-10-07 13:51:14 Step 8: Updating next start row to 4623
+2025-10-07 13:51:14,921 - INFO - 2025-10-07 13:51:14 --- Function process_excel_file executed successfully ---
+2025-10-07 13:51:14,927 - INFO - 2025-10-07 13:51:14 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:51:14,928 - INFO - 2025-10-07 13:51:14 Executing function generate_pointer_xml...
+2025-10-07 13:51:15,007 - INFO - 2025-10-07 13:51:15 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T13.51.03,Testdate=2025-10-07T13.51.14.xml
+2025-10-07 13:51:15,008 - INFO - 2025-10-07 13:51:15 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 13:51:15,009 - INFO - 2025-10-07 13:51:15 ===== Universal Script End =====
+2025-10-07 14:03:01,963 - INFO - 2025-10-07 14:03:01 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:03:01,975 - INFO - 2025-10-07 14:03:01 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T14.03.01.csv
+2025-10-07 14:03:01,978 - INFO - 2025-10-07 14:03:01 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 14:03:02,059 - INFO - 2025-10-07 14:03:02 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:03:02,673 - INFO - 2025-10-07 14:03:02 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:03:02,676 - INFO - 2025-10-07 14:03:02 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 14:03:03,686 - INFO - 2025-10-07 14:03:03 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 14:03:03,687 - INFO - 2025-10-07 14:03:03 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 14:03:03,738 - INFO - 2025-10-07 14:03:03 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 14:03:03,739 - INFO - 2025-10-07 14:03:03 Step 3: Starting database query...
+2025-10-07 14:03:15,697 - INFO - 2025-10-07 14:03:15 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 14:03:15,749 - INFO - 2025-10-07 14:03:15 Database connection closed.
+2025-10-07 14:03:15,750 - INFO - 2025-10-07 14:03:15 Step 4: Starting data transformation and calculation...
+2025-10-07 14:03:15,824 - INFO - 2025-10-07 14:03:15 Calculating STARTTIME_SORTED and SORTNUMBER as requested by INI file.
+2025-10-07 14:03:15,839 - INFO - 2025-10-07 14:03:15 Using fixed tool name from INI: 'Dektak'
+2025-10-07 14:03:15,840 - INFO - 2025-10-07 14:03:15 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 14:03:15,843 - INFO - 2025-10-07 14:03:15 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 14:03:15,847 - INFO - 2025-10-07 14:03:15 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 14:03:15,851 - INFO - 2025-10-07 14:03:15 Executing function write_to_csv...
+2025-10-07 14:03:15,941 - INFO - 2025-10-07 14:03:15 Function write_to_csv executed successfully.
+2025-10-07 14:03:16,835 - INFO - 2025-10-07 14:03:16 Step 8: Updating next start row to 4623
+2025-10-07 14:03:16,835 - INFO - 2025-10-07 14:03:16 --- Function process_excel_file executed successfully ---
+2025-10-07 14:03:16,845 - INFO - 2025-10-07 14:03:16 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:03:16,847 - INFO - 2025-10-07 14:03:16 Executing function generate_pointer_xml...
+2025-10-07 14:03:16,942 - INFO - 2025-10-07 14:03:16 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T14.03.01,Testdate=2025-10-07T14.03.16.xml
+2025-10-07 14:03:16,942 - INFO - 2025-10-07 14:03:16 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:03:16,942 - INFO - 2025-10-07 14:03:16 ===== Universal Script End =====
+2025-10-07 14:05:12,428 - INFO - 2025-10-07 14:05:12 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:05:12,430 - INFO - 2025-10-07 14:05:12 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T14.05.12.csv
+2025-10-07 14:05:12,431 - INFO - 2025-10-07 14:05:12 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 14:05:12,454 - INFO - 2025-10-07 14:05:12 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:05:13,073 - INFO - 2025-10-07 14:05:13 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:05:13,073 - INFO - 2025-10-07 14:05:13 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 14:05:13,628 - INFO - 2025-10-07 14:05:13 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 14:05:13,629 - INFO - 2025-10-07 14:05:13 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 14:05:13,670 - INFO - 2025-10-07 14:05:13 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 14:05:13,671 - INFO - 2025-10-07 14:05:13 Step 3: Starting database query...
+2025-10-07 14:05:24,152 - INFO - 2025-10-07 14:05:24 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 14:05:24,164 - INFO - 2025-10-07 14:05:24 Database connection closed.
+2025-10-07 14:05:24,165 - INFO - 2025-10-07 14:05:24 Step 4: Starting data transformation and calculation...
+2025-10-07 14:05:24,195 - INFO - 2025-10-07 14:05:24 Calculating STARTTIME_SORTED and SORTNUMBER as requested by INI file.
+2025-10-07 14:05:24,209 - INFO - 2025-10-07 14:05:24 Using fixed tool name from INI: 'Dektak'
+2025-10-07 14:05:24,209 - INFO - 2025-10-07 14:05:24 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 14:05:24,210 - INFO - 2025-10-07 14:05:24 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 14:05:24,213 - INFO - 2025-10-07 14:05:24 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 14:05:24,215 - INFO - 2025-10-07 14:05:24 Executing function write_to_csv...
+2025-10-07 14:05:24,286 - INFO - 2025-10-07 14:05:24 Function write_to_csv executed successfully.
+2025-10-07 14:05:24,834 - INFO - 2025-10-07 14:05:24 Step 8: Updating next start row to 4623
+2025-10-07 14:05:24,834 - INFO - 2025-10-07 14:05:24 --- Function process_excel_file executed successfully ---
+2025-10-07 14:05:24,835 - INFO - 2025-10-07 14:05:24 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:05:24,836 - INFO - 2025-10-07 14:05:24 Executing function generate_pointer_xml...
+2025-10-07 14:05:24,901 - INFO - 2025-10-07 14:05:24 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T14.05.12,Testdate=2025-10-07T14.05.24.xml
+2025-10-07 14:05:24,902 - INFO - 2025-10-07 14:05:24 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:05:24,902 - INFO - 2025-10-07 14:05:24 ===== Universal Script End =====
+2025-10-07 14:11:37,525 - INFO - 2025-10-07 14:11:37 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:11:37,528 - INFO - 2025-10-07 14:11:37 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Wet_Depth_2025_10_07T14.11.37.csv
+2025-10-07 14:11:37,529 - INFO - 2025-10-07 14:11:37 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 14:11:37,611 - INFO - 2025-10-07 14:11:37 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:11:38,097 - INFO - 2025-10-07 14:11:38 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:11:38,097 - INFO - 2025-10-07 14:11:38 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 14:11:38,537 - INFO - 2025-10-07 14:11:38 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 14:11:38,537 - INFO - 2025-10-07 14:11:38 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 14:11:38,580 - INFO - 2025-10-07 14:11:38 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 14:11:38,580 - INFO - 2025-10-07 14:11:38 Step 3: Starting database query...
+2025-10-07 14:11:48,922 - INFO - 2025-10-07 14:11:48 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 14:11:48,933 - INFO - 2025-10-07 14:11:48 Database connection closed.
+2025-10-07 14:11:48,933 - INFO - 2025-10-07 14:11:48 Step 4: Starting data transformation and calculation...
+2025-10-07 14:11:48,948 - INFO - 2025-10-07 14:11:48 Calculating STARTTIME_SORTED and SORTNUMBER as requested by INI file.
+2025-10-07 14:11:48,953 - INFO - 2025-10-07 14:11:48 Using fixed tool name from INI: 'Dektak'
+2025-10-07 14:11:48,953 - INFO - 2025-10-07 14:11:48 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 14:11:48,954 - INFO - 2025-10-07 14:11:48 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 14:11:48,958 - INFO - 2025-10-07 14:11:48 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 14:11:48,958 - INFO - 2025-10-07 14:11:48 Executing function write_to_csv...
+2025-10-07 14:11:48,998 - INFO - 2025-10-07 14:11:48 Function write_to_csv executed successfully.
+2025-10-07 14:11:49,604 - INFO - 2025-10-07 14:11:49 Step 8: Updating next start row to 4623
+2025-10-07 14:11:49,604 - INFO - 2025-10-07 14:11:49 --- Function process_excel_file executed successfully ---
+2025-10-07 14:11:49,607 - INFO - 2025-10-07 14:11:49 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:11:49,607 - INFO - 2025-10-07 14:11:49 Executing function generate_pointer_xml...
+2025-10-07 14:11:49,724 - INFO - 2025-10-07 14:11:49 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T14.11.37,Testdate=2025-10-07T14.11.49.xml
+2025-10-07 14:11:49,725 - INFO - 2025-10-07 14:11:49 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:11:49,725 - INFO - 2025-10-07 14:11:49 ===== Universal Script End =====
+2025-10-07 14:12:41,102 - INFO - 2025-10-07 14:12:41 --- Start processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:12:41,669 - INFO - 2025-10-07 14:12:41 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG_BE\027_MESA\MESA_Wet_Depth_2025_10_07T14.12.41.csv
+2025-10-07 14:12:41,674 - INFO - 2025-10-07 14:12:41 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30a6\u30a7\u30c3\u30c8\u30a8\u30c3\u30c1' with pattern '*\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055*.xls*'
+2025-10-07 14:12:41,739 - INFO - 2025-10-07 14:12:41 Found latest source file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:12:42,301 - INFO - 2025-10-07 14:12:42 File copied successfully -> ..\DataFile\027_MESA\QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls
+2025-10-07 14:12:42,302 - INFO - 2025-10-07 14:12:42 --- Start processing file: QC-K-004-R05\u3000\uff92\uff7b\uff74\uff6f\uff81\u6df1\u3055.xls ---
+2025-10-07 14:12:42,824 - INFO - 2025-10-07 14:12:42 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4582 rows loaded.
+2025-10-07 14:12:42,824 - INFO - 2025-10-07 14:12:42 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-10-07 14:12:42,856 - INFO - 2025-10-07 14:12:42 Step 2: Initial filtering (date, serial number) complete. 12 rows remaining.
+2025-10-07 14:12:42,856 - INFO - 2025-10-07 14:12:42 Step 3: Starting database query...
+2025-10-07 14:12:53,842 - INFO - 2025-10-07 14:12:53 Database query and filtering complete. 12 valid rows remaining.
+2025-10-07 14:12:53,894 - INFO - 2025-10-07 14:12:53 Database connection closed.
+2025-10-07 14:12:53,894 - INFO - 2025-10-07 14:12:53 Step 4: Starting data transformation and calculation...
+2025-10-07 14:12:53,927 - INFO - 2025-10-07 14:12:53 Calculating STARTTIME_SORTED and SORTNUMBER as requested by INI file.
+2025-10-07 14:12:53,942 - INFO - 2025-10-07 14:12:53 Using fixed tool name from INI: 'Dektak'
+2025-10-07 14:12:53,944 - INFO - 2025-10-07 14:12:53 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-10-07 14:12:53,945 - INFO - 2025-10-07 14:12:53 Step 6: Dynamic CSV columns and order generated.
+2025-10-07 14:12:53,950 - INFO - 2025-10-07 14:12:53 Step 7: Preparing to write 12 rows to CSV...
+2025-10-07 14:12:53,951 - INFO - 2025-10-07 14:12:53 Executing function write_to_csv...
+2025-10-07 14:12:55,199 - INFO - 2025-10-07 14:12:55 Function write_to_csv executed successfully.
+2025-10-07 14:12:55,847 - INFO - 2025-10-07 14:12:55 Step 8: Updating next start row to 4623
+2025-10-07 14:12:55,848 - INFO - 2025-10-07 14:12:55 --- Function process_excel_file executed successfully ---
+2025-10-07 14:12:55,848 - INFO - 2025-10-07 14:12:55 --- Generating pointer XML for Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:12:55,849 - INFO - 2025-10-07 14:12:55 Executing function generate_pointer_xml...
+2025-10-07 14:12:57,135 - INFO - 2025-10-07 14:12:57 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Wet_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Wet_Depth_2025_10_07T14.12.41,Testdate=2025-10-07T14.12.56.xml
+2025-10-07 14:12:57,136 - INFO - 2025-10-07 14:12:57 --- Finished processing config file: Config_MESA_Wet_Depth.ini ---
+2025-10-07 14:12:57,137 - INFO - 2025-10-07 14:12:57 ===== Universal Script End =====

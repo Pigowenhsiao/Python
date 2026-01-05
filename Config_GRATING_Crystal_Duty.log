@@ -1,0 +1,21 @@
+2025-07-15 08:11:46 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:12:52 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:14:24 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:14:44 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:15:05 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:17:19 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:17:47 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== START Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====
+2025-07-15 08:17:47 | DEBUG | Config_GRATING_Crystal_Duty | _ensure_dirs | Ensured directory exists: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/
+2025-07-15 08:17:47 | DEBUG | Config_GRATING_Crystal_Duty | _ensure_dirs | Ensured directory exists: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/
+2025-07-15 08:17:47 | DEBUG | Config_GRATING_Crystal_Duty | _ensure_dirs | Ensured directory exists: ../DataFile/001_GRATING/
+2025-07-15 08:17:47 | DEBUG | Config_GRATING_Crystal_Duty | _ensure_dirs | Ensured directory exists: ../Log/
+2025-07-15 08:17:52 | INFO | Config_GRATING_Crystal_Duty | _process_single_excel | Processing Excel: ..\DataFile\001_GRATING\QC-D-004-R05　SiO2回折格子ﾏｽｸ品質.xlsx
+2025-07-15 08:17:52 | DEBUG | Config_GRATING_Crystal_Duty | _read_excel_main | Reading sheet '004' cols 'AT:BP' from ..\DataFile\001_GRATING\QC-D-004-R05　SiO2回折格子ﾏｽｸ品質.xlsx
+2025-07-15 08:18:40 | DEBUG | Config_GRATING_Crystal_Duty | _apply_date_filter | Date filter: threshold=2025-07-08 08:18:40.503225
+2025-07-15 08:18:40 | INFO | Config_GRATING_Crystal_Duty | _apply_date_filter | Date filter: dropped 3253 rows older than threshold
+2025-07-15 08:18:40 | DEBUG | Config_GRATING_Crystal_Duty | _add_sql_metadata | Enriching 42 rows with SQL metadata
+2025-07-15 08:19:10 | INFO | Config_GRATING_Crystal_Duty | _emit_xml | XML written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=GRATING_Crystal_Duty,Partnumber=UNKNOWNPN,Serialnumber=20250715081910,Testdate=2025-07-15T08.19.10.xml
+2025-07-15 08:19:10 | DEBUG | Config_GRATING_Crystal_Duty | _update_running_rec | Running record updated to 2025-07-12 00:00:00
+2025-07-15 08:19:10 | DEBUG | Config_GRATING_Crystal_Duty | _process_all_excels | Skipping temporary/copy file: Z:\■QCデータシート\ドライエッチ\~$QC-D-004-R05　SiO2回折格子ﾏｽｸ品質.xlsx
+2025-07-15 08:19:10 | DEBUG | Config_GRATING_Crystal_Duty | _process_all_excels | Skipping temporary/copy file: Z:\■QCデータシート\ドライエッチ\~$コピーQC-D-004-R05　SiO2回折格子ﾏｽｸ品質-コピー.xlsx
+2025-07-15 08:19:10 | INFO | Config_GRATING_Crystal_Duty | run_from_ini | ===== END Processing INI: C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\Config_GRATING_Crystal_Duty.ini =====

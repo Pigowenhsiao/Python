@@ -1,0 +1,28 @@
+2025-08-07 08:55:18,960 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-08-07 08:55:19,073 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-08-07 08:55:19,074 - INFO - --- Processing data source 'Current_Constriction' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-08-07 08:55:19,128 - INFO - Found latest sheet '\u96fb\u6d41\u72ed\u7a84\u7528 (2)' for pattern '\u96fb\u6d41\u72ed\u7a84\u7528'.
+2025-08-07 08:55:19,226 - INFO - Dropped 15 rows older than 30 days or with invalid date format.
+2025-08-07 08:55:19,228 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-08-07 08:55:19,668 - INFO - CSV for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_Current_Constriction_20250807085579.csv
+2025-08-07 08:55:19,985 - INFO - XML for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_DEP,Partnumber=UNKNOWPN,Serialnumber=20250807085579,Testdate=2025-08-07T08.55.19.xml
+2025-08-07 09:02:05,346 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-08-07 09:02:05,417 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-08-07 09:02:05,418 - INFO - --- Processing data source 'Current_Constriction' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-08-07 09:02:05,465 - INFO - Found latest sheet '\u96fb\u6d41\u72ed\u7a84\u7528 (2)' for pattern '\u96fb\u6d41\u72ed\u7a84\u7528'.
+2025-08-07 09:02:05,941 - INFO - CSV for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_Current_Constriction_20250807090256.csv
+2025-08-07 09:02:06,205 - INFO - XML for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_DEP,Partnumber=UNKNOWPN,Serialnumber=20250807090256,Testdate=2025-08-07T09.02.05.xml
+2025-08-07 09:07:41,456 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-08-07 09:07:41,524 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-08-07 09:07:41,524 - INFO - --- Processing data source 'Current_Constriction' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-08-07 09:07:41,573 - INFO - Found latest sheet '\u96fb\u6d41\u72ed\u7a84\u7528 (2)' for pattern '\u96fb\u6d41\u72ed\u7a84\u7528'.
+2025-08-07 09:07:41,626 - INFO - Dropped 15 rows older than 30 days or with invalid date format.
+2025-08-07 09:07:41,627 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-08-07 09:07:42,095 - INFO - CSV for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_Current_Constriction_20250807090792.csv
+2025-08-07 09:07:42,486 - INFO - XML for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_DEP,Partnumber=UNKNOWPN,Serialnumber=20250807090792,Testdate=2025-08-07T09.07.42.xml
+2025-08-07 09:16:59,057 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-08-07 09:16:59,122 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-08-07 09:16:59,122 - INFO - --- Processing data source 'Current_Constriction' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-08-07 09:16:59,176 - INFO - Found latest sheet '\u96fb\u6d41\u72ed\u7a84\u7528 (2)' for pattern '\u96fb\u6d41\u72ed\u7a84\u7528'.
+2025-08-07 09:16:59,696 - INFO - CSV for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_Current_Constriction_20250807091622.csv
+2025-08-07 09:16:59,983 - INFO - XML for 'Current_Constriction' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_DEP,Partnumber=UNKNOWPN,Serialnumber=20250807091622,Testdate=2025-08-07T09.16.59.xml

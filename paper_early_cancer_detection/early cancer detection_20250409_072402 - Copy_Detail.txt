@@ -1,0 +1,134 @@
+URL: https://www.science.org/doi/abs/10.1126/science.aay9040
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Improved earlier detection of cancer could substantially increase survival rates. Although   early detection have saved lives, further innovations and development of early cancer detection
+Journal: Science
+Publish_Year: 2022
+URL: https://www.science.org/doi/abs/10.1126/science.aay9040
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41591-022-01746-x
+Title: The future of early cancer detection | Nature Medicine
+Author: RC Fitzgerald, AC Antoniou, L Fruk, N Rosenfeld
+Abstract: A proactive approach to detecting cancer at an early stage can make treatments more effective, with fewer side effects and improved long-term survival. However, as detection methods become increasingly sensitive, it can be difficult to distinguish inconsequential changes from lesions that will lead to life-threatening cancer. Progress relies on a detailed understanding of individualized risk, clear delineation of cancer development stages, a range of testing methods with optimal performance characteristics, and robust evaluation of the implications for individuals and society. In the future, advances in sensors, contrast agents, molecular methods, and artificial intelligence will help detect cancer-specific signals in real time. To reduce the burden of cancer on society, risk-based detection and prevention needs to be cost effective and widely accessible. Technological advances are producing exquisitely sensitive cancer detection tests. This Review discusses who should be tested, and how—and looks to the future of personalized, risk-based cancer screening.
+Journal: Nature medicine
+Publish_Year: 2022
+================================================================================
+URL: https://ascopubs.org/doi/pdfdirect/10.14694/EDBK.2015.35#page=145
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: to detect cancer early and with an increased opportunity for treatment and curative intent.  Currently, a defined role for screening exists in some cancer  Unfortunately, many cancers still
+Journal: American Society of Clinical …
+Publish_Year: 2015
+URL: https://ascopubs.org/doi/pdfdirect/10.14694/EDBK.2015.35#page=145
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.mdpi.com/1424-8220/10/1/428
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: detection and monitoring. It is highly anticipated that in the near future, we might be able to  detect cancer at a very early  Survival of a cancer patient depends heavily on early detection
+Journal: Sensors
+Publish_Year: 2010
+URL: https://www.mdpi.com/1424-8220/10/1/428
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.sciencedirect.com/science/article/pii/S0163725810001506
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: The application of nanotechnology to medicine, commonly referred to as ‘nanomedicine’,  has the potential to transform our approach to human health and disease. Research at the
+Journal: Pharmacology & therapeutics
+Publish_Year: 2010
+URL: https://www.sciencedirect.com/science/article/pii/S0163725810001506
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.science.org/doi/abs/10.1126/science.aaz2078
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: and treatment of cancers that otherwise  cancer early detection methods, but fundamental  issues surrounding tumor growth dynamics and the timing of metastasis make early detection
+Journal: Science
+Publish_Year: 2020
+URL: https://www.science.org/doi/abs/10.1126/science.aaz2078
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.52.1.8
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Cancer Society publishes a summary of existing recommendations for early cancer detection,  including updates, and/or emerging issues that are relevant to screening for cancer. In last
+Journal: CA: a cancer journal …
+Publish_Year: 2002
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.52.1.8
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/nrc1041
+Title: The case for early detection | Nature Reviews Cancer
+Author: R Etzioni, N Urban, S Ramsey, M McIntosh
+Abstract: Early detection represents one of the most promising approaches to reducing the growing cancer burden. It already has a key role in the management of cervical and breast cancer, and is likely to become more important in the control of colorectal, prostate and lung cancer. Early-detection research has recently been revitalized by the advent of novel molecular technologies that can identify cellular changes at the level of the genome or proteome, but how can we harness these new technologies to develop effective and practical screening tests?
+Journal: … reviews cancer
+Publish_Year: 2003
+================================================================================
+URL: https://academic.oup.com/jnci/article-abstract/93/14/1054/2906203
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: The goal of a cancer-screening program is to detect tumors at a stage  In this commentary,  we use the term “biomarker” for cancer detection in a broad sense. Cancer is a diverse disease
+Journal: … the National Cancer …
+Publish_Year: 2001
+URL: https://academic.oup.com/jnci/article-abstract/93/14/1054/2906203
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.53.1.27
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: cancer  for early cancer detection, in this issue, we provide: (1) a description of an  additional option to the current recommendations for fecal occult blood tests for colorectal cancer
+Journal: … cancer journal for clinicians
+Publish_Year: 2003
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.53.1.27
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.nature.com/articles/s41568-021-00389-3
+Title: Synthetic biomarkers: a twenty-first century path to early cancer detection | Nature Reviews Cancer
+Author: GA Kwong, S Ghosh, L Gamboa, C Patriotis
+Abstract: Detection of cancer at an early stage when it is still localized improves patient response to medical interventions for most cancer types. The success of screening tools such as cervical cytology to reduce mortality has spurred significant interest in new methods for early detection (for example, using non-invasive blood-based or biofluid-based biomarkers). Yet biomarkers shed from early lesions are limited by fundamental biological and mass transport barriers — such as short circulation times and blood dilution — that limit early detection. To address this issue, synthetic biomarkers are being developed. These represent an emerging class of diagnostics that deploy bioengineered sensors inside the body to query early-stage tumours and amplify disease signals to levels that could potentially exceed those of shed biomarkers. These strategies leverage design principles and advances from chemistry, synthetic biology and cell engineering. In this Review, we discuss the rationale for development of biofluid-based synthetic biomarkers. We&nbsp;examine how these strategies harness dysregulated features of tumours to amplify detection signals, use tumour-selective activation to increase specificity and leverage natural processing of bodily fluids (for example, blood, urine and proximal fluids) for easy detection. Finally, we highlight the challenges that exist for preclinical development and clinical translation of synthetic biomarker diagnostics. Synthetic biomarkers are an emerging class of diagnostics that amplify disease signals for sensitive and specific detection of early-stage cancers. This Review discusses the rationale and design of biofluid-based synthetic biomarkers as well as translational challenges and future directions.
+Journal: … Reviews Cancer
+Publish_Year: 2021
+================================================================================
+URL: https://link.springer.com/article/10.1186/s12938-021-00857-9
+Title: miRNAs as biomarkers for early cancer detection and their application in the development of new diagnostic tools | BioMedical Engineering OnLine
+Author: LJ Galvão-Lima, AHF Morais, RAM Valentim
+Abstract: Over the last decades, microRNAs (miRNAs) have emerged as important molecules associated with the regulation of gene expression in humans and other organisms, expanding the strategies available to diagnose and handle several diseases. This paper presents a systematic review of literature of miRNAs related to cancer development and explores the main techniques used to quantify these molecules and their limitations as screening strategy. The bibliographic research was conducted using the online databases, PubMed, Google Scholar, Web of Science, and Science Direct searching the terms “microRNA detection”, “miRNA detection”, “miRNA and prostate cancer”, “miRNA and cervical cancer”, “miRNA and cervix cancer”, “miRNA and breast cancer”, and “miRNA and early cancer diagnosis”. Along the systematic review over 26,000 published papers were reported, and 252 papers were returned after applying the inclusion and exclusion criteria, which were considered during this review. The aim of this study is to identify potential miRNAs related to cancer development that may be useful for early cancer diagnosis, notably in the breast, prostate, and cervical cancers. In addition, we suggest a preliminary top 20 miRNA panel according to their relevance during the respective cancer development. Considering the progressive number of new cancer cases every year worldwide, the development of new diagnostic tools is critical to refine the accuracy of screening tests, improving the life expectancy and allowing a better prognosis for the affected patients.
+Journal: Biomedical engineering …
+Publish_Year: 2021
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.54.1.41
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: occult blood testing for colorectal cancer screening were published. , 7  early cancer  detection, in this issue we provide (1) a brief summary of updated ACS guidelines for breast cancer
+Journal: … cancer journal for clinicians
+Publish_Year: 2004
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.54.1.41
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.56.1.11
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Cancer Society (ACS) publishes a summary of its recommendations for early cancer detection  to screening for cancer, and a summary of the most current data on cancer screening rates
+Journal: … cancer journal for clinicians
+Publish_Year: 2006
+URL: https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/canjclin.56.1.11
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70211-6/fulltext?fromsource=nelm&code=lancet-site
+Title: Liquid biopsies: the future of cancer early detection
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Screening for, and management of, early prostate cancer is one of the most challenging and   risk assessment, early detection, and management of early prostate cancer, and identify the
+Journal: The lancet …
+Publish_Year: 2014
+URL: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(14)70211-6/fulltext?fromsource=nelm&code=lancet-site
+Error: HTTP 狀態碼: 403
+================================================================================
+URL: https://link.springer.com/article/10.1186/s12967-023-03960-8
+Title: Liquid biopsies: the future of cancer early detection | Journal of Translational Medicine
+Author: S Connal, JM Cameron, A Sala, PM Brennan
+Abstract: Cancer is a worldwide pandemic. The burden it imposes grows steadily on a global scale causing emotional, physical, and financial strains on individuals, families, and health care systems. Despite being the second leading cause of death worldwide, many cancers do not have screening programs and many people with a high risk of developing cancer fail to follow the advised medical screening regime due to the nature of the available screening tests and other challenges with compliance. Moreover, many liquid biopsy strategies being developed for early detection of cancer lack the sensitivity required to detect early-stage cancers. Early detection is key for improved quality of life, survival, and to reduce the financial burden of cancer treatments which are greater at later stage detection. This review examines the current liquid biopsy market, focusing in particular on the strengths and drawbacks of techniques in achieving early cancer detection. We explore the clinical utility of liquid biopsy technologies for the earlier detection of solid cancers, with a focus on how a combination of various spectroscopic and -omic methodologies may pave the way for more efficient cancer diagnostics.
+Journal: Journal of translational …
+Publish_Year: 2023
+================================================================================

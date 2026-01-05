@@ -1,0 +1,56 @@
+2025-08-22 15:32:34,538 - INFO - 2025-08-22 15:32:34 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:32:34,542 - INFO - 2025-08-22 15:32:34 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_Crystal_Duty_2025_08_22T15.32.34.csv
+2025-08-22 15:32:34,543 - INFO - 2025-08-22 15:32:34 No matching source files found for configuration: Config_GRATING_Crystal_Duty.ini.
+2025-08-22 15:32:34,544 - INFO - 2025-08-22 15:32:34 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:32:52,087 - INFO - 2025-08-22 15:32:52 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:32:52,104 - INFO - 2025-08-22 15:32:52 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_22T15.32.52.csv
+2025-08-22 15:32:52,107 - INFO - 2025-08-22 15:32:52 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-22 15:32:52,249 - INFO - 2025-08-22 15:32:52 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:32:52,396 - ERROR - 2025-08-22 15:32:52 Error processing file QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 350, in main
+    dst_path = shutil.copy(latest_file, intermediate_path)
+  File "c:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\DataFile\\001_GRATING\\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx'
+
+2025-08-22 15:32:52,397 - INFO - 2025-08-22 15:32:52 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:33:25,269 - INFO - 2025-08-22 15:33:25 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:33:25,275 - INFO - 2025-08-22 15:33:25 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_22T15.33.25.csv
+2025-08-22 15:33:25,277 - INFO - 2025-08-22 15:33:25 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-22 15:33:25,341 - INFO - 2025-08-22 15:33:25 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:33:32,680 - INFO - 2025-08-22 15:33:32 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:33:32,681 - INFO - 2025-08-22 15:33:32 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-22 15:33:57,214 - INFO - 2025-08-22 15:33:57 Step 1: Successfully read main sheet '004', 5705 rows loaded.
+2025-08-22 15:33:57,215 - INFO - 2025-08-22 15:33:57 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-22 15:34:05,184 - INFO - 2025-08-22 15:34:05 XY coordinate data parsed.
+2025-08-22 15:34:05,196 - INFO - 2025-08-22 15:34:05 Step 2: Initial filtering (date, serial number) complete. 126 rows remaining.
+2025-08-22 15:34:05,196 - INFO - 2025-08-22 15:34:05 Step 3: Starting database query...
+2025-08-22 15:34:10,313 - INFO - 2025-08-22 15:34:10 Database connection closed.
+2025-08-22 15:34:26,172 - INFO - 2025-08-22 15:34:26 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:34:26,180 - INFO - 2025-08-22 15:34:26 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_Crystal_Duty_2025_08_22T15.34.26.csv
+2025-08-22 15:34:26,185 - INFO - 2025-08-22 15:34:26 No matching source files found for configuration: Config_GRATING_Crystal_Duty.ini.
+2025-08-22 15:34:26,189 - INFO - 2025-08-22 15:34:26 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:40:55,501 - INFO - 2025-08-22 15:40:55 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:40:55,504 - INFO - 2025-08-22 15:40:55 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_Crystal_Duty_2025_08_22T15.40.55.csv
+2025-08-22 15:40:55,504 - INFO - 2025-08-22 15:40:55 No matching source files found for configuration: Config_GRATING_Crystal_Duty.ini.
+2025-08-22 15:40:55,507 - INFO - 2025-08-22 15:40:55 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:44:59,192 - INFO - 2025-08-22 15:44:59 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:44:59,195 - INFO - 2025-08-22 15:44:59 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_22T15.44.59.csv
+2025-08-22 15:44:59,196 - INFO - 2025-08-22 15:44:59 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-22 15:44:59,253 - INFO - 2025-08-22 15:44:59 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:45:01,736 - INFO - 2025-08-22 15:45:01 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:45:01,737 - INFO - 2025-08-22 15:45:01 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-22 15:47:41,294 - INFO - 2025-08-22 15:47:41 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:47:41,297 - INFO - 2025-08-22 15:47:41 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Config_GRATING_Crystal_Duty_2025_08_22T15.47.41.csv
+2025-08-22 15:47:41,298 - INFO - 2025-08-22 15:47:41 Searching with pattern: 'Z:/\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8/\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1/*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-22 15:47:41,329 - INFO - 2025-08-22 15:47:41 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:47:44,144 - INFO - 2025-08-22 15:47:44 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-22 15:47:44,145 - INFO - 2025-08-22 15:47:44 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-22 15:52:02,079 - INFO - 2025-08-22 15:52:02 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-22 15:52:02,083 - INFO - 2025-08-22 15:52:02 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_22T15.52.02.csv
+2025-08-22 15:52:02,084 - INFO - 2025-08-22 15:52:02 No matching source files found for this configuration.
+2025-08-22 15:52:02,085 - INFO - 2025-08-22 15:52:02 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---

@@ -1,0 +1,55 @@
+2025-08-13 16:33:49,463 - INFO - 2025-08-13 16:33:49 --- Start processing config file: BJ1_Dry3.ini ---
+2025-08-13 16:33:49,467 - INFO - 2025-08-13 16:33:49 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_2025_08_13T16.33.49.csv
+2025-08-13 16:33:49,469 - INFO - 2025-08-13 16:33:49 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff813\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 16:33:51,711 - INFO - 2025-08-13 16:33:51 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:34:07,122 - INFO - 2025-08-13 16:34:07 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:34:07,123 - INFO - 2025-08-13 16:34:07 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 16:34:12,268 - INFO - 2025-08-13 16:34:12 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 11701 rows loaded.
+2025-08-13 16:34:12,269 - INFO - 2025-08-13 16:34:12 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 16:34:12,296 - INFO - 2025-08-13 16:34:12 Step 2: Initial filtering (date, serial number) complete. 76 rows remaining.
+2025-08-13 16:34:12,296 - INFO - 2025-08-13 16:34:12 Step 3: Starting database query...
+2025-08-13 16:35:38,982 - INFO - 2025-08-13 16:35:38 Database query and filtering complete. 55 valid rows remaining.
+2025-08-13 16:35:39,468 - INFO - 2025-08-13 16:35:39 Database connection closed.
+2025-08-13 16:35:39,469 - INFO - 2025-08-13 16:35:39 Step 4: Starting data transformation and calculation...
+2025-08-13 16:35:39,754 - INFO - 2025-08-13 16:35:39 Date and SORTED field calculations complete.
+2025-08-13 16:35:39,759 - INFO - 2025-08-13 16:35:39 Using fixed tool name from INI: 'None'
+2025-08-13 16:35:39,760 - INFO - 2025-08-13 16:35:39 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 16:35:39,760 - INFO - 2025-08-13 16:35:39 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 16:35:39,764 - INFO - 2025-08-13 16:35:39 Step 7: Preparing to write 55 rows to CSV...
+2025-08-13 16:35:39,766 - INFO - 2025-08-13 16:35:39 Executing function write_to_csv...
+2025-08-13 16:35:40,032 - INFO - 2025-08-13 16:35:40 Function write_to_csv executed successfully.
+2025-08-13 16:35:45,055 - INFO - 2025-08-13 16:35:45 Step 8: Updating next start row to 11742
+2025-08-13 16:35:45,057 - ERROR - 2025-08-13 16:35:45 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 16:35:45,058 - INFO - 2025-08-13 16:35:45 --- Function process_excel_file executed successfully ---
+2025-08-13 16:35:45,060 - INFO - 2025-08-13 16:35:45 --- Generating pointer XML for BJ1_Dry3.ini ---
+2025-08-13 16:35:45,060 - INFO - 2025-08-13 16:35:45 Executing function generate_pointer_xml...
+2025-08-13 16:35:45,170 - INFO - 2025-08-13 16:35:45 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_2025_08_13T16.33.49,Testdate=2025-08-13T16.35.45.xml
+2025-08-13 16:35:45,171 - INFO - 2025-08-13 16:35:45 --- Finished processing config file: BJ1_Dry3.ini ---
+2025-08-13 16:35:45,188 - INFO - 2025-08-13 16:35:45 --- Start processing config file: BJ1_Dry6.ini ---
+2025-08-13 16:35:45,191 - INFO - 2025-08-13 16:35:45 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ1_CVD_EtchingRate_2025_08_13T16.35.45.csv
+2025-08-13 16:35:45,192 - INFO - 2025-08-13 16:35:45 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff816\u53f7\u6a5f\3\uff72\uff9d\uff81' with pattern '*3\uff72\uff9d\uff81*BJ\uff8f\uff7d\uff78\u5f62\u6210*SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f)*\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-13 16:35:46,408 - INFO - 2025-08-13 16:35:46 Found latest source file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:35:59,096 - INFO - 2025-08-13 16:35:59 File copied successfully -> ..\DataFile\005_BJ1\3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-13 16:35:59,097 - INFO - 2025-08-13 16:35:59 --- Start processing file: 3\uff72\uff9d\uff81 BJ\uff8f\uff7d\uff78\u5f62\u6210 SiO2\u819c\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81(\u30c9\u30e9\u30a46\u53f7\u6a5f) \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-13 16:36:01,227 - INFO - 2025-08-13 16:36:01 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 6084 rows loaded.
+2025-08-13 16:36:01,228 - INFO - 2025-08-13 16:36:01 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-08-13 16:36:01,244 - INFO - 2025-08-13 16:36:01 Step 2: Initial filtering (date, serial number) complete. 154 rows remaining.
+2025-08-13 16:36:01,244 - INFO - 2025-08-13 16:36:01 Step 3: Starting database query...
+2025-08-13 16:38:40,054 - INFO - 2025-08-13 16:38:40 Database query and filtering complete. 154 valid rows remaining.
+2025-08-13 16:38:40,548 - INFO - 2025-08-13 16:38:40 Database connection closed.
+2025-08-13 16:38:40,548 - INFO - 2025-08-13 16:38:40 Step 4: Starting data transformation and calculation...
+2025-08-13 16:38:40,657 - INFO - 2025-08-13 16:38:40 Date and SORTED field calculations complete.
+2025-08-13 16:38:40,659 - INFO - 2025-08-13 16:38:40 Using fixed tool name from INI: 'None'
+2025-08-13 16:38:40,660 - INFO - 2025-08-13 16:38:40 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 16:38:40,660 - INFO - 2025-08-13 16:38:40 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 16:38:40,662 - INFO - 2025-08-13 16:38:40 Step 7: Preparing to write 154 rows to CSV...
+2025-08-13 16:38:40,662 - INFO - 2025-08-13 16:38:40 Executing function write_to_csv...
+2025-08-13 16:38:40,690 - INFO - 2025-08-13 16:38:40 Function write_to_csv executed successfully.
+2025-08-13 16:38:42,935 - INFO - 2025-08-13 16:38:42 Step 8: Updating next start row to 6125
+2025-08-13 16:38:42,937 - ERROR - 2025-08-13 16:38:42 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/025_PIX/13_ProgramUsedFile/PIX_StartRow.txt'
+2025-08-13 16:38:42,937 - INFO - 2025-08-13 16:38:42 --- Function process_excel_file executed successfully ---
+2025-08-13 16:38:42,938 - INFO - 2025-08-13 16:38:42 --- Generating pointer XML for BJ1_Dry6.ini ---
+2025-08-13 16:38:42,939 - INFO - 2025-08-13 16:38:42 Executing function generate_pointer_xml...
+2025-08-13 16:38:42,983 - INFO - 2025-08-13 16:38:42 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ1_CVD_EtchingRate,Partnumber=UNKNOWPN,Serialnumber=BJ1_CVD_EtchingRate_2025_08_13T16.35.45,Testdate=2025-08-13T16.38.42.xml
+2025-08-13 16:38:42,983 - INFO - 2025-08-13 16:38:42 --- Finished processing config file: BJ1_Dry6.ini ---
+2025-08-13 16:38:42,984 - INFO - 2025-08-13 16:38:42 ===== Universal Script End =====

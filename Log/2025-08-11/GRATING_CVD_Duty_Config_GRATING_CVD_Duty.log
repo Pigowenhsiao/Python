@@ -1,0 +1,81 @@
+2025-08-11 09:53:09,455 - INFO - 2025-08-11 09:53:09 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-11 09:53:53,801 - ERROR - 2025-08-11 09:53:53 \u8b80\u53d6\u6216\u904e\u6ffe Excel \u6642\u767c\u751f\u932f\u8aa4. Error: Traceback (most recent call last):
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'key_Start_Date_Time'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<ipython-input-1-e3f4d11972c0>", line 228, in process_excel_file
+    date_series = pd.to_datetime(df[date_col_name], errors='coerce')
+                                 ~~^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'key_Start_Date_Time'
+
+2025-08-11 09:53:53,807 - INFO - 2025-08-11 09:53:53 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-11 09:53:53,807 - INFO - 2025-08-11 09:53:53 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-11 09:56:24,007 - INFO - 2025-08-11 09:56:24 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-11 09:57:10,501 - ERROR - 2025-08-11 09:57:10 \u8b80\u53d6\u6216\u904e\u6ffe Excel \u6642\u767c\u751f\u932f\u8aa4. Error: Traceback (most recent call last):
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'key_Start_Date_Time'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 228, in process_excel_file
+    date_series = pd.to_datetime(df[date_col_name], errors='coerce')
+                                 ~~^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\AppData\Roaming\Python\Python313\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'key_Start_Date_Time'
+
+2025-08-11 09:57:10,503 - INFO - 2025-08-11 09:57:10 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-11 09:57:10,503 - INFO - 2025-08-11 09:57:10 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-11 10:30:01,934 - INFO - 2025-08-11 10:30:01 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-11 10:30:39,940 - ERROR - 2025-08-11 10:30:39 \u8b80\u53d6\u6216\u904e\u6ffe Excel \u6642\u767c\u751f\u932f\u8aa4. Error: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'key_Start_Date_Time'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 228, in process_excel_file
+    date_series = pd.to_datetime(df[date_col_name], errors='coerce')
+                                 ~~^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'key_Start_Date_Time'
+
+2025-08-11 10:30:39,943 - INFO - 2025-08-11 10:30:39 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-11 10:30:39,943 - INFO - 2025-08-11 10:30:39 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-11 12:55:40,905 - INFO - 2025-08-11 12:55:40 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-11 12:56:26,891 - INFO - 2025-08-11 12:56:26 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-11 12:56:26,892 - INFO - 2025-08-11 12:56:26 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-11 13:00:38,595 - INFO - 2025-08-11 13:00:38 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: Config_GRATING_CVD_Duty.ini ---
+2025-08-11 13:01:14,237 - INFO - 2025-08-11 13:01:14 --- \u8a2d\u5b9a\u6a94 Config_GRATING_CVD_Duty.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-11 13:01:14,237 - INFO - 2025-08-11 13:01:14 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====

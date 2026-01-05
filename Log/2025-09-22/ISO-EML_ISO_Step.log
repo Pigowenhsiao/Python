@@ -1,0 +1,651 @@
+2025-09-22 09:49:51,399 - INFO - 2025-09-22 09:49:51 --- Start processing config file: HL13B6.ini ---
+2025-09-22 09:49:51,400 - INFO - 2025-09-22 09:49:51 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T09.49.51.csv
+2025-09-22 09:49:51,401 - INFO - 2025-09-22 09:49:51 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 09:49:51,753 - INFO - 2025-09-22 09:49:51 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 09:49:54,056 - INFO - 2025-09-22 09:49:54 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 09:49:54,057 - INFO - 2025-09-22 09:49:54 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 09:50:01,793 - INFO - 2025-09-22 09:50:01 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 09:50:02,607 - INFO - 2025-09-22 09:50:02 DF-only processing completed. Rows: 263. Printing to console for verification.
+2025-09-22 09:58:50,584 - INFO - 2025-09-22 09:58:50 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 09:58:50,586 - INFO - 2025-09-22 09:58:50 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 09:58:50,603 - INFO - 2025-09-22 09:58:50 --- Start processing config file: HL13_01.ini ---
+2025-09-22 09:58:50,606 - INFO - 2025-09-22 09:58:50 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T09.58.50.csv
+2025-09-22 09:58:50,607 - INFO - 2025-09-22 09:58:50 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 09:58:51,152 - INFO - 2025-09-22 09:58:51 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 09:59:19,436 - INFO - 2025-09-22 09:59:19 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 09:59:19,436 - INFO - 2025-09-22 09:59:19 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 10:00:17,892 - INFO - 2025-09-22 10:00:17 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 10:00:52,182 - INFO - 2025-09-22 10:00:52 DF-only processing completed. Rows: 10725. Printing to console for verification.
+2025-09-22 10:01:36,956 - INFO - 2025-09-22 10:01:36 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 10:01:36,976 - INFO - 2025-09-22 10:01:36 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 10:01:36,977 - INFO - 2025-09-22 10:01:36 ===== Universal Script End =====
+2025-09-22 10:01:51,254 - INFO - 2025-09-22 10:01:51 --- Start processing config file: HL13B6.ini ---
+2025-09-22 10:01:51,256 - INFO - 2025-09-22 10:01:51 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T10.01.51.csv
+2025-09-22 10:01:51,257 - INFO - 2025-09-22 10:01:51 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 10:01:51,597 - INFO - 2025-09-22 10:01:51 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:01:52,265 - ERROR - 2025-09-22 10:01:52 Error processing file HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\024_ISO-EML\ISO-EML-Special.py", line 379, in main
+    dst_path = shutil.copy(latest_file, intermediate_path)
+  File "c:\Program Files\Python313\Lib\shutil.py", line 428, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Program Files\Python313\Lib\shutil.py", line 262, in copyfile
+    with open(dst, 'wb') as fdst:
+         ~~~~^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '..\\DataFile\\024_ISO-EML\\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx'
+
+2025-09-22 10:01:52,265 - INFO - 2025-09-22 10:01:52 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 10:01:52,287 - INFO - 2025-09-22 10:01:52 --- Start processing config file: HL13_01.ini ---
+2025-09-22 10:01:52,290 - INFO - 2025-09-22 10:01:52 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T10.01.52.csv
+2025-09-22 10:01:52,291 - INFO - 2025-09-22 10:01:52 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 10:01:52,565 - INFO - 2025-09-22 10:01:52 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:02:15,291 - INFO - 2025-09-22 10:02:15 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:02:15,291 - INFO - 2025-09-22 10:02:15 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 10:03:14,631 - INFO - 2025-09-22 10:03:14 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 10:03:48,284 - INFO - 2025-09-22 10:03:48 DF processing completed. Total rows: 10725. Pausing for verification.
+2025-09-22 10:03:48,288 - INFO - 2025-09-22 10:03:48 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 10:03:48,314 - INFO - 2025-09-22 10:03:48 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 10:03:48,314 - INFO - 2025-09-22 10:03:48 ===== Universal Script End =====
+2025-09-22 10:12:09,869 - INFO - 2025-09-22 10:12:09 --- Start processing config file: HL13B6.ini ---
+2025-09-22 10:12:09,871 - INFO - 2025-09-22 10:12:09 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T10.12.09.csv
+2025-09-22 10:12:09,872 - INFO - 2025-09-22 10:12:09 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 10:12:10,221 - INFO - 2025-09-22 10:12:10 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:12:11,400 - INFO - 2025-09-22 10:12:11 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:12:11,401 - INFO - 2025-09-22 10:12:11 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 10:12:22,550 - INFO - 2025-09-22 10:12:22 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 10:12:24,349 - INFO - 2025-09-22 10:12:24 DF processing completed. Total rows: 263. Pausing for verification.
+2025-09-22 10:16:42,399 - INFO - 2025-09-22 10:16:42 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 10:16:42,400 - INFO - 2025-09-22 10:16:42 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 10:16:42,422 - INFO - 2025-09-22 10:16:42 --- Start processing config file: HL13_01.ini ---
+2025-09-22 10:16:42,426 - INFO - 2025-09-22 10:16:42 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T10.16.42.csv
+2025-09-22 10:16:42,429 - INFO - 2025-09-22 10:16:42 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 10:16:42,909 - INFO - 2025-09-22 10:16:42 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:17:01,376 - INFO - 2025-09-22 10:17:01 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 10:17:01,376 - INFO - 2025-09-22 10:17:01 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 10:17:52,384 - INFO - 2025-09-22 10:17:52 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 10:18:19,952 - INFO - 2025-09-22 10:18:19 DF processing completed. Total rows: 10725. Pausing for verification.
+2025-09-22 13:04:00,806 - INFO - 2025-09-22 13:04:00 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 13:04:00,947 - INFO - 2025-09-22 13:04:00 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 13:04:00,948 - INFO - 2025-09-22 13:04:00 ===== Universal Script End =====
+2025-09-22 13:04:07,747 - INFO - 2025-09-22 13:04:07 --- Start processing config file: HL13B6.ini ---
+2025-09-22 13:04:07,749 - INFO - 2025-09-22 13:04:07 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.04.07.csv
+2025-09-22 13:04:07,750 - INFO - 2025-09-22 13:04:07 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:04:08,694 - INFO - 2025-09-22 13:04:08 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:04:11,678 - INFO - 2025-09-22 13:04:11 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:04:11,679 - INFO - 2025-09-22 13:04:11 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:04:19,812 - INFO - 2025-09-22 13:04:19 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 13:04:20,006 - ERROR - 2025-09-22 13:04:20 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 13:04:20,007 - INFO - 2025-09-22 13:04:20 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 13:04:20,022 - INFO - 2025-09-22 13:04:20 --- Start processing config file: HL13_01.ini ---
+2025-09-22 13:04:20,025 - INFO - 2025-09-22 13:04:20 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.04.20.csv
+2025-09-22 13:04:20,026 - INFO - 2025-09-22 13:04:20 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:04:21,278 - INFO - 2025-09-22 13:04:21 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:04:55,667 - INFO - 2025-09-22 13:04:55 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:04:55,668 - INFO - 2025-09-22 13:04:55 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:05:51,810 - INFO - 2025-09-22 13:05:51 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 13:05:52,166 - ERROR - 2025-09-22 13:05:52 Step 1/DF failed: Error during Excel read or DF processing. Error: single positional indexer is out-of-bounds
+2025-09-22 13:05:52,197 - INFO - 2025-09-22 13:05:52 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 13:05:52,198 - INFO - 2025-09-22 13:05:52 ===== Universal Script End =====
+2025-09-22 13:37:30,789 - INFO - 2025-09-22 13:37:30 --- Start processing config file: HL13B6.ini ---
+2025-09-22 13:37:30,815 - INFO - 2025-09-22 13:37:30 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.37.30.csv
+2025-09-22 13:37:30,830 - INFO - 2025-09-22 13:37:30 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:37:31,256 - INFO - 2025-09-22 13:37:31 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:37:34,482 - INFO - 2025-09-22 13:37:34 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:37:34,500 - INFO - 2025-09-22 13:37:34 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:38:01,808 - INFO - 2025-09-22 13:38:01 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 13:38:01,864 - INFO - 2025-09-22 13:38:01 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 13:38:01,931 - INFO - 2025-09-22 13:38:01 Auto-detected position column at index 5 (A/B/C/D)
+2025-09-22 13:38:02,010 - ERROR - 2025-09-22 13:38:02 Step 1/DF failed: Error during Excel read or DF processing. Error: 0
+2025-09-22 13:38:02,037 - INFO - 2025-09-22 13:38:02 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 13:38:02,220 - INFO - 2025-09-22 13:38:02 --- Start processing config file: HL13_01.ini ---
+2025-09-22 13:38:02,316 - INFO - 2025-09-22 13:38:02 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.38.02.csv
+2025-09-22 13:38:02,321 - INFO - 2025-09-22 13:38:02 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:38:02,854 - INFO - 2025-09-22 13:38:02 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:38:22,332 - INFO - 2025-09-22 13:38:22 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:38:22,370 - INFO - 2025-09-22 13:38:22 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:39:51,113 - INFO - 2025-09-22 13:39:51 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 13:39:51,114 - INFO - 2025-09-22 13:39:51 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 13:39:51,192 - INFO - 2025-09-22 13:39:51 Auto-detected position column at index 5 (A/B/C/D)
+2025-09-22 13:39:51,333 - ERROR - 2025-09-22 13:39:51 Step 1/DF failed: Error during Excel read or DF processing. Error: 0
+2025-09-22 13:39:51,358 - INFO - 2025-09-22 13:39:51 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 13:39:51,362 - INFO - 2025-09-22 13:39:51 ===== Universal Script End =====
+2025-09-22 13:44:55,265 - INFO - 2025-09-22 13:44:55 --- Start processing config file: HL13B6.ini ---
+2025-09-22 13:44:55,275 - INFO - 2025-09-22 13:44:55 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.44.55.csv
+2025-09-22 13:44:55,277 - INFO - 2025-09-22 13:44:55 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:44:55,688 - INFO - 2025-09-22 13:44:55 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:44:56,846 - INFO - 2025-09-22 13:44:56 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:44:56,847 - INFO - 2025-09-22 13:44:56 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:45:06,026 - INFO - 2025-09-22 13:45:06 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 13:45:06,026 - INFO - 2025-09-22 13:45:06 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 13:45:06,034 - INFO - 2025-09-22 13:45:06 Auto-detected position column at index 5 (A/B/C/D)
+2025-09-22 13:45:06,055 - ERROR - 2025-09-22 13:45:06 Step 1/DF failed: Error during Excel read or DF processing. Error: 0
+2025-09-22 13:45:06,057 - INFO - 2025-09-22 13:45:06 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 13:45:06,080 - INFO - 2025-09-22 13:45:06 --- Start processing config file: HL13_01.ini ---
+2025-09-22 13:45:06,085 - INFO - 2025-09-22 13:45:06 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.45.06.csv
+2025-09-22 13:45:06,086 - INFO - 2025-09-22 13:45:06 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:45:06,432 - INFO - 2025-09-22 13:45:06 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:45:34,787 - INFO - 2025-09-22 13:45:34 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:45:34,788 - INFO - 2025-09-22 13:45:34 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:46:47,636 - INFO - 2025-09-22 13:46:47 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 13:46:47,637 - INFO - 2025-09-22 13:46:47 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 13:46:47,950 - ERROR - 2025-09-22 13:46:47 Step 1/DF failed: Error during Excel read or DF processing. Error: single positional indexer is out-of-bounds
+2025-09-22 13:46:47,977 - INFO - 2025-09-22 13:46:47 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 13:46:47,978 - INFO - 2025-09-22 13:46:47 ===== Universal Script End =====
+2025-09-22 13:57:35,534 - INFO - 2025-09-22 13:57:35 --- Start processing config file: HL13_01.ini ---
+2025-09-22 13:57:35,537 - INFO - 2025-09-22 13:57:35 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T13.57.35.csv
+2025-09-22 13:57:35,539 - INFO - 2025-09-22 13:57:35 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 13:57:36,019 - INFO - 2025-09-22 13:57:36 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:57:54,998 - INFO - 2025-09-22 13:57:54 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 13:57:54,999 - INFO - 2025-09-22 13:57:54 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 13:58:45,478 - INFO - 2025-09-22 13:58:45 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 13:58:45,479 - INFO - 2025-09-22 13:58:45 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 13:58:47,007 - ERROR - 2025-09-22 13:58:47 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 13:58:47,041 - INFO - 2025-09-22 13:58:47 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 13:58:47,042 - INFO - 2025-09-22 13:58:47 ===== Universal Script End =====
+2025-09-22 14:05:24,159 - INFO - 2025-09-22 14:05:24 --- Start processing config file: HL13B6.ini ---
+2025-09-22 14:05:24,161 - INFO - 2025-09-22 14:05:24 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T14.05.24.csv
+2025-09-22 14:05:24,162 - INFO - 2025-09-22 14:05:24 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 14:05:24,601 - INFO - 2025-09-22 14:05:24 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:05:26,321 - INFO - 2025-09-22 14:05:26 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:05:26,322 - INFO - 2025-09-22 14:05:26 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 14:05:33,485 - INFO - 2025-09-22 14:05:33 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 14:05:33,486 - INFO - 2025-09-22 14:05:33 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 14:05:33,687 - ERROR - 2025-09-22 14:05:33 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 14:05:33,689 - INFO - 2025-09-22 14:05:33 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 14:05:33,706 - INFO - 2025-09-22 14:05:33 --- Start processing config file: HL13_01.ini ---
+2025-09-22 14:05:33,709 - INFO - 2025-09-22 14:05:33 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T14.05.33.csv
+2025-09-22 14:05:33,709 - INFO - 2025-09-22 14:05:33 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 14:05:33,993 - INFO - 2025-09-22 14:05:33 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:05:59,353 - INFO - 2025-09-22 14:05:59 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:05:59,354 - INFO - 2025-09-22 14:05:59 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 14:06:48,410 - INFO - 2025-09-22 14:06:48 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 14:06:48,411 - INFO - 2025-09-22 14:06:48 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 14:06:50,737 - ERROR - 2025-09-22 14:06:50 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 14:06:50,774 - INFO - 2025-09-22 14:06:50 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 14:06:50,775 - INFO - 2025-09-22 14:06:50 ===== Universal Script End =====
+2025-09-22 14:48:18,120 - INFO - 2025-09-22 14:48:18 --- Start processing config file: HL13B6.ini ---
+2025-09-22 14:48:18,126 - INFO - 2025-09-22 14:48:18 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T14.48.18.csv
+2025-09-22 14:48:18,128 - INFO - 2025-09-22 14:48:18 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 14:48:18,463 - INFO - 2025-09-22 14:48:18 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:48:20,456 - INFO - 2025-09-22 14:48:20 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:48:20,457 - INFO - 2025-09-22 14:48:20 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 14:48:27,633 - INFO - 2025-09-22 14:48:27 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 14:48:27,634 - INFO - 2025-09-22 14:48:27 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 14:48:27,853 - ERROR - 2025-09-22 14:48:27 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 14:48:27,855 - INFO - 2025-09-22 14:48:27 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 14:48:27,867 - INFO - 2025-09-22 14:48:27 --- Start processing config file: HL13_01.ini ---
+2025-09-22 14:48:27,869 - INFO - 2025-09-22 14:48:27 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T14.48.27.csv
+2025-09-22 14:48:27,870 - INFO - 2025-09-22 14:48:27 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 14:48:28,151 - INFO - 2025-09-22 14:48:28 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:48:48,944 - INFO - 2025-09-22 14:48:48 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 14:48:48,956 - INFO - 2025-09-22 14:48:48 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 14:49:37,757 - INFO - 2025-09-22 14:49:37 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 14:49:37,757 - INFO - 2025-09-22 14:49:37 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 14:49:39,814 - ERROR - 2025-09-22 14:49:39 Step 1/DF failed: Error during Excel read or DF processing. Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-22 14:49:39,844 - INFO - 2025-09-22 14:49:39 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 14:49:39,844 - INFO - 2025-09-22 14:49:39 ===== Universal Script End =====
+2025-09-22 17:14:19,952 - INFO - 2025-09-22 17:14:19 --- Start processing config file: HL13B6.ini ---
+2025-09-22 17:14:19,956 - INFO - 2025-09-22 17:14:19 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T17.14.19.csv
+2025-09-22 17:14:19,957 - INFO - 2025-09-22 17:14:19 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 17:14:20,299 - INFO - 2025-09-22 17:14:20 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:14:22,722 - INFO - 2025-09-22 17:14:22 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:14:22,723 - INFO - 2025-09-22 17:14:22 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 17:14:30,367 - INFO - 2025-09-22 17:14:30 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1775 rows loaded.
+2025-09-22 17:14:30,367 - INFO - 2025-09-22 17:14:30 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 17:14:32,839 - INFO - 2025-09-22 17:14:32 Retention filter applied: keep >= 2025-09-15 17:14:32, rows 263 -> 0
+2025-09-22 17:14:32,854 - INFO - 2025-09-22 17:14:32 DF-only processing completed. Rows: 0. Printing to console for verification.
+2025-09-22 17:14:39,419 - INFO - 2025-09-22 17:14:39 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 17:14:39,420 - INFO - 2025-09-22 17:14:39 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 17:14:39,436 - INFO - 2025-09-22 17:14:39 --- Start processing config file: HL13_01.ini ---
+2025-09-22 17:14:39,438 - INFO - 2025-09-22 17:14:39 (Preview mode) CSV output (unused in this run) would be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T17.14.39.csv
+2025-09-22 17:14:39,440 - INFO - 2025-09-22 17:14:39 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 17:14:39,781 - INFO - 2025-09-22 17:14:39 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:14:59,757 - INFO - 2025-09-22 17:14:59 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:14:59,757 - INFO - 2025-09-22 17:14:59 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 17:15:54,648 - INFO - 2025-09-22 17:15:54 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48927 rows loaded.
+2025-09-22 17:15:54,649 - INFO - 2025-09-22 17:15:54 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 17:17:34,695 - INFO - 2025-09-22 17:17:34 Retention filter applied: keep >= 2025-09-15 17:17:34, rows 10725 -> 75
+2025-09-22 17:17:34,721 - INFO - 2025-09-22 17:17:34 DF-only processing completed. Rows: 75. Printing to console for verification.
+2025-09-22 17:17:38,160 - INFO - 2025-09-22 17:17:38 Per request, stopping after DF processing (no DB/CSV/XML in this run).
+2025-09-22 17:17:38,178 - INFO - 2025-09-22 17:17:38 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 17:17:38,178 - INFO - 2025-09-22 17:17:38 ===== Universal Script End =====
+2025-09-22 17:57:28,631 - INFO - 2025-09-22 17:57:28 --- Start processing config file: HL13B6.ini ---
+2025-09-22 17:57:28,639 - INFO - 2025-09-22 17:57:28 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T17.57.28.csv
+2025-09-22 17:57:28,642 - INFO - 2025-09-22 17:57:28 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 17:57:28,992 - INFO - 2025-09-22 17:57:28 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:57:30,260 - INFO - 2025-09-22 17:57:30 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:57:30,261 - INFO - 2025-09-22 17:57:30 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 17:57:38,091 - INFO - 2025-09-22 17:57:38 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 703 rows loaded from row 1092.
+2025-09-22 17:57:38,092 - INFO - 2025-09-22 17:57:38 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 17:57:38,109 - INFO - 2025-09-22 17:57:38 Auto-detected position column at index 5 (A/B/C/D)
+2025-09-22 17:57:38,192 - INFO - 2025-09-22 17:57:38 Retention filter applied: keep >= 2025-09-15 17:57:38, rows 1 -> 0
+2025-09-22 17:57:38,192 - INFO - 2025-09-22 17:57:38 No data remains after retention date filtering. Skipping file.
+2025-09-22 17:57:38,194 - INFO - 2025-09-22 17:57:38 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 17:57:38,222 - INFO - 2025-09-22 17:57:38 --- Start processing config file: HL13_01.ini ---
+2025-09-22 17:57:38,227 - INFO - 2025-09-22 17:57:38 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T17.57.38.csv
+2025-09-22 17:57:38,230 - INFO - 2025-09-22 17:57:38 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 17:57:38,517 - INFO - 2025-09-22 17:57:38 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:57:56,436 - INFO - 2025-09-22 17:57:56 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 17:57:56,436 - INFO - 2025-09-22 17:57:56 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 17:58:51,513 - INFO - 2025-09-22 17:58:51 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 0 rows loaded from row 59711.
+2025-09-22 17:58:51,514 - INFO - 2025-09-22 17:58:51 Field indices: using 0-based (or adjusted).
+2025-09-22 17:58:51,514 - ERROR - 2025-09-22 17:58:51 Step 1/DF failed: Error during Excel read or DF processing. Error: Could not auto-detect 'Position (A/B/C/D)' column from INI or data. Please add key_Position:<index>:str to [DataFields].
+2025-09-22 17:58:51,523 - INFO - 2025-09-22 17:58:51 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 17:58:51,523 - INFO - 2025-09-22 17:58:51 ===== Universal Script End =====
+2025-09-22 18:04:56,219 - INFO - 2025-09-22 18:04:56 --- Start processing config file: HL13B6.ini ---
+2025-09-22 18:04:56,221 - INFO - 2025-09-22 18:04:56 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.04.56.csv
+2025-09-22 18:04:56,222 - INFO - 2025-09-22 18:04:56 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:04:56,654 - INFO - 2025-09-22 18:04:56 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:04:58,505 - INFO - 2025-09-22 18:04:58 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:04:58,505 - INFO - 2025-09-22 18:04:58 --- Start processing file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 18:05:05,086 - INFO - 2025-09-22 18:05:05 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 703 rows loaded from row 1092.
+2025-09-22 18:05:05,087 - INFO - 2025-09-22 18:05:05 Field indices: detected 1-based, shifted to 0-based.
+2025-09-22 18:05:05,105 - INFO - 2025-09-22 18:05:05 Retention filter applied: keep >= 2025-08-23 18:05:05, rows 1 -> 0
+2025-09-22 18:05:05,105 - INFO - 2025-09-22 18:05:05 No data remains after retention date filtering. Skipping file.
+2025-09-22 18:05:05,106 - INFO - 2025-09-22 18:05:05 --- Finished processing config file: HL13B6.ini ---
+2025-09-22 18:05:05,121 - INFO - 2025-09-22 18:05:05 --- Start processing config file: HL13_01.ini ---
+2025-09-22 18:05:05,123 - INFO - 2025-09-22 18:05:05 CSV output for this run will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.05.05.csv
+2025-09-22 18:05:05,124 - INFO - 2025-09-22 18:05:05 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:05:05,400 - INFO - 2025-09-22 18:05:05 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:05:21,855 - INFO - 2025-09-22 18:05:21 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:05:21,855 - INFO - 2025-09-22 18:05:21 --- Start processing file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-22 18:06:15,713 - INFO - 2025-09-22 18:06:15 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 0 rows loaded from row 59711.
+2025-09-22 18:06:15,713 - INFO - 2025-09-22 18:06:15 Field indices: using 0-based (or adjusted).
+2025-09-22 18:06:15,714 - ERROR - 2025-09-22 18:06:15 Step 1/DF failed: Error during Excel read or DF processing. Error: Could not auto-detect 'Position (A/B/C/D)' column from INI or data. Please add key_Position:<index>:str to [DataFields].
+2025-09-22 18:06:15,725 - INFO - 2025-09-22 18:06:15 --- Finished processing config file: HL13_01.ini ---
+2025-09-22 18:06:15,725 - INFO - 2025-09-22 18:06:15 ===== Universal Script End =====
+2025-09-22 18:07:38,457 - INFO - 2025-09-22 18:07:38 Begin INI: HL13B6.ini
+2025-09-22 18:07:38,460 - INFO - 2025-09-22 18:07:38 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.07.38.csv
+2025-09-22 18:07:38,461 - INFO - 2025-09-22 18:07:38 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:07:38,806 - INFO - 2025-09-22 18:07:38 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:07:41,535 - INFO - 2025-09-22 18:07:41 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:07:41,535 - INFO - 2025-09-22 18:07:41 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:07:48,953 - INFO - 2025-09-22 18:07:48 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 18:07:48,954 - INFO - 2025-09-22 18:07:48 Field indices normalized.
+2025-09-22 18:07:51,470 - INFO - 2025-09-22 18:07:51 Retention filter kept >= 2025-08-23 18:07:51. rows 263->4
+2025-09-22 18:07:51,471 - INFO - 2025-09-22 18:07:51 Writing CSV...
+2025-09-22 18:07:51,511 - INFO - 2025-09-22 18:07:51 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.07.38.csv
+2025-09-22 18:07:51,512 - INFO - 2025-09-22 18:07:51 Generating pointer XML...
+2025-09-22 18:07:51,578 - INFO - 2025-09-22 18:07:51 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T18.07.38,Testdate=2025-09-22T18.07.51.xml
+2025-09-22 18:07:51,579 - INFO - 2025-09-22 18:07:51 End INI: HL13B6.ini
+2025-09-22 18:07:51,593 - INFO - 2025-09-22 18:07:51 Begin INI: HL13_01.ini
+2025-09-22 18:07:51,594 - INFO - 2025-09-22 18:07:51 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.07.51.csv
+2025-09-22 18:07:51,595 - INFO - 2025-09-22 18:07:51 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:07:51,947 - INFO - 2025-09-22 18:07:51 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:08:15,244 - INFO - 2025-09-22 18:08:15 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:08:15,244 - INFO - 2025-09-22 18:08:15 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:09:08,294 - INFO - 2025-09-22 18:09:08 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 18:09:08,294 - INFO - 2025-09-22 18:09:08 Field indices normalized.
+2025-09-22 18:10:50,117 - INFO - 2025-09-22 18:10:50 Retention filter kept >= 2025-09-15 18:10:50. rows 10725->75
+2025-09-22 18:10:50,118 - INFO - 2025-09-22 18:10:50 Writing CSV...
+2025-09-22 18:10:50,157 - INFO - 2025-09-22 18:10:50 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.07.51.csv
+2025-09-22 18:10:50,158 - INFO - 2025-09-22 18:10:50 Generating pointer XML...
+2025-09-22 18:10:50,207 - INFO - 2025-09-22 18:10:50 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T18.07.51,Testdate=2025-09-22T18.10.50.xml
+2025-09-22 18:10:50,225 - INFO - 2025-09-22 18:10:50 End INI: HL13_01.ini
+2025-09-22 18:10:50,226 - INFO - 2025-09-22 18:10:50 ===== Universal Script End =====
+2025-09-22 18:19:02,151 - INFO - 2025-09-22 18:19:02 Begin INI: HL13B6.ini
+2025-09-22 18:19:02,154 - INFO - 2025-09-22 18:19:02 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.19.02.csv
+2025-09-22 18:19:02,155 - INFO - 2025-09-22 18:19:02 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:19:02,507 - INFO - 2025-09-22 18:19:02 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:19:04,378 - INFO - 2025-09-22 18:19:04 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:19:04,379 - INFO - 2025-09-22 18:19:04 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:19:11,555 - INFO - 2025-09-22 18:19:11 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 1295 rows loaded from row 500.
+2025-09-22 18:19:11,555 - INFO - 2025-09-22 18:19:11 Field indices normalized.
+2025-09-22 18:19:11,598 - INFO - 2025-09-22 18:19:11 Retention filter kept >= 2025-08-23 18:19:11. rows 1->0
+2025-09-22 18:19:11,598 - INFO - 2025-09-22 18:19:11 Writing CSV...
+2025-09-22 18:19:11,636 - INFO - 2025-09-22 18:19:11 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.19.02.csv
+2025-09-22 18:19:11,637 - INFO - 2025-09-22 18:19:11 Generating pointer XML...
+2025-09-22 18:19:11,709 - INFO - 2025-09-22 18:19:11 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T18.19.02,Testdate=2025-09-22T18.19.11.xml
+2025-09-22 18:19:11,710 - INFO - 2025-09-22 18:19:11 End INI: HL13B6.ini
+2025-09-22 18:19:11,725 - INFO - 2025-09-22 18:19:11 Begin INI: HL13_01.ini
+2025-09-22 18:19:11,728 - INFO - 2025-09-22 18:19:11 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.19.11.csv
+2025-09-22 18:19:11,729 - INFO - 2025-09-22 18:19:11 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 18:19:12,002 - INFO - 2025-09-22 18:19:12 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:19:32,643 - INFO - 2025-09-22 18:19:32 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:19:32,644 - INFO - 2025-09-22 18:19:32 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 18:20:26,272 - INFO - 2025-09-22 18:20:26 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 48447 rows loaded from row 500.
+2025-09-22 18:20:26,273 - INFO - 2025-09-22 18:20:26 Field indices normalized.
+2025-09-22 18:20:26,493 - INFO - 2025-09-22 18:20:26 Retention filter kept >= 2025-09-15 18:20:26. rows 1->0
+2025-09-22 18:20:26,493 - INFO - 2025-09-22 18:20:26 Writing CSV...
+2025-09-22 18:20:26,528 - INFO - 2025-09-22 18:20:26 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T18.19.11.csv
+2025-09-22 18:20:26,528 - INFO - 2025-09-22 18:20:26 Generating pointer XML...
+2025-09-22 18:20:26,576 - INFO - 2025-09-22 18:20:26 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T18.19.11,Testdate=2025-09-22T18.20.26.xml
+2025-09-22 18:20:26,587 - INFO - 2025-09-22 18:20:26 End INI: HL13_01.ini
+2025-09-22 18:20:26,588 - INFO - 2025-09-22 18:20:26 ===== Universal Script End =====
+2025-09-22 19:12:49,165 - INFO - 2025-09-22 19:12:49 Begin INI: HL13B6.ini
+2025-09-22 19:12:49,166 - INFO - 2025-09-22 19:12:49 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.12.49.csv
+2025-09-22 19:12:49,167 - INFO - 2025-09-22 19:12:49 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:12:49,500 - INFO - 2025-09-22 19:12:49 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:12:51,486 - INFO - 2025-09-22 19:12:51 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:12:51,486 - INFO - 2025-09-22 19:12:51 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:12:58,071 - INFO - 2025-09-22 19:12:58 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:12:58,071 - INFO - 2025-09-22 19:12:58 Field indices normalized.
+2025-09-22 19:13:02,160 - INFO - 2025-09-22 19:13:02 Retention filter kept >= 2025-08-23 19:13:02. rows 263->4
+2025-09-22 19:13:02,160 - INFO - 2025-09-22 19:13:02 Writing CSV...
+2025-09-22 19:13:02,216 - INFO - 2025-09-22 19:13:02 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.12.49.csv
+2025-09-22 19:13:02,216 - INFO - 2025-09-22 19:13:02 Generating pointer XML...
+2025-09-22 19:13:02,289 - INFO - 2025-09-22 19:13:02 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.12.49,Testdate=2025-09-22T19.13.02.xml
+2025-09-22 19:13:02,289 - INFO - 2025-09-22 19:13:02 End INI: HL13B6.ini
+2025-09-22 19:13:02,305 - INFO - 2025-09-22 19:13:02 Begin INI: HL13_01.ini
+2025-09-22 19:13:02,308 - INFO - 2025-09-22 19:13:02 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.13.02.csv
+2025-09-22 19:13:02,309 - INFO - 2025-09-22 19:13:02 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:13:02,650 - INFO - 2025-09-22 19:13:02 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:13:24,889 - INFO - 2025-09-22 19:13:24 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:13:24,890 - INFO - 2025-09-22 19:13:24 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:14:17,166 - INFO - 2025-09-22 19:14:17 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:14:17,166 - INFO - 2025-09-22 19:14:17 Field indices normalized.
+2025-09-22 19:15:52,747 - INFO - 2025-09-22 19:15:52 Begin INI: HL13B6.ini
+2025-09-22 19:15:52,749 - INFO - 2025-09-22 19:15:52 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.15.52.csv
+2025-09-22 19:15:52,750 - INFO - 2025-09-22 19:15:52 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:15:53,087 - INFO - 2025-09-22 19:15:53 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:15:54,171 - INFO - 2025-09-22 19:15:54 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:15:54,171 - INFO - 2025-09-22 19:15:54 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:00,658 - INFO - 2025-09-22 19:16:00 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:16:00,659 - INFO - 2025-09-22 19:16:00 Field indices normalized.
+2025-09-22 19:16:02,462 - INFO - 2025-09-22 19:16:02 Retention filter kept >= 2025-08-23 19:16:02. rows 263->4
+2025-09-22 19:16:02,462 - INFO - 2025-09-22 19:16:02 Writing CSV...
+2025-09-22 19:16:02,496 - INFO - 2025-09-22 19:16:02 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.15.52.csv
+2025-09-22 19:16:02,496 - INFO - 2025-09-22 19:16:02 Generating pointer XML...
+2025-09-22 19:16:02,550 - INFO - 2025-09-22 19:16:02 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.15.52,Testdate=2025-09-22T19.16.02.xml
+2025-09-22 19:16:02,550 - INFO - 2025-09-22 19:16:02 End INI: HL13B6.ini
+2025-09-22 19:16:02,564 - INFO - 2025-09-22 19:16:02 Begin INI: HL13_01.ini
+2025-09-22 19:16:02,566 - INFO - 2025-09-22 19:16:02 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.16.02.csv
+2025-09-22 19:16:02,568 - INFO - 2025-09-22 19:16:02 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:16:02,845 - INFO - 2025-09-22 19:16:02 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:11,760 - INFO - 2025-09-22 19:16:11 Retention filter kept >= 2025-09-15 19:16:11. rows 10715->75
+2025-09-22 19:16:11,760 - INFO - 2025-09-22 19:16:11 Writing CSV...
+2025-09-22 19:16:11,790 - INFO - 2025-09-22 19:16:11 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.13.02.csv
+2025-09-22 19:16:11,791 - INFO - 2025-09-22 19:16:11 Generating pointer XML...
+2025-09-22 19:16:11,827 - INFO - 2025-09-22 19:16:11 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.13.02,Testdate=2025-09-22T19.16.11.xml
+2025-09-22 19:16:11,844 - INFO - 2025-09-22 19:16:11 End INI: HL13_01.ini
+2025-09-22 19:16:11,845 - INFO - 2025-09-22 19:16:11 ===== Universal Script End =====
+2025-09-22 19:16:14,431 - INFO - 2025-09-22 19:16:14 Begin INI: HL13B6.ini
+2025-09-22 19:16:14,434 - INFO - 2025-09-22 19:16:14 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.16.14.csv
+2025-09-22 19:16:14,437 - INFO - 2025-09-22 19:16:14 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:16:19,479 - INFO - 2025-09-22 19:16:19 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:19,739 - INFO - 2025-09-22 19:16:19 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:19,739 - INFO - 2025-09-22 19:16:19 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:21,435 - INFO - 2025-09-22 19:16:21 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:21,435 - INFO - 2025-09-22 19:16:21 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:28,580 - INFO - 2025-09-22 19:16:28 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:16:28,581 - INFO - 2025-09-22 19:16:28 Field indices normalized.
+2025-09-22 19:16:32,275 - INFO - 2025-09-22 19:16:32 Retention filter kept >= 2025-08-23 19:16:32. rows 263->4
+2025-09-22 19:16:32,276 - INFO - 2025-09-22 19:16:32 Writing CSV...
+2025-09-22 19:16:32,316 - INFO - 2025-09-22 19:16:32 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.16.14.csv
+2025-09-22 19:16:32,316 - INFO - 2025-09-22 19:16:32 Generating pointer XML...
+2025-09-22 19:16:32,425 - INFO - 2025-09-22 19:16:32 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.16.14,Testdate=2025-09-22T19.16.32.xml
+2025-09-22 19:16:32,427 - INFO - 2025-09-22 19:16:32 End INI: HL13B6.ini
+2025-09-22 19:16:32,453 - INFO - 2025-09-22 19:16:32 Begin INI: HL13_01.ini
+2025-09-22 19:16:32,455 - INFO - 2025-09-22 19:16:32 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.16.32.csv
+2025-09-22 19:16:32,457 - INFO - 2025-09-22 19:16:32 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:16:32,928 - INFO - 2025-09-22 19:16:32 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:16:36,731 - ERROR - 2025-09-22 19:16:36 DF/IO failed: Truncated file header
+2025-09-22 19:16:36,810 - INFO - 2025-09-22 19:16:36 End INI: HL13_01.ini
+2025-09-22 19:16:36,811 - INFO - 2025-09-22 19:16:36 ===== Universal Script End =====
+2025-09-22 19:17:01,882 - INFO - 2025-09-22 19:17:01 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:17:01,882 - INFO - 2025-09-22 19:17:01 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:17:45,856 - INFO - 2025-09-22 19:17:45 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:17:45,857 - INFO - 2025-09-22 19:17:45 Field indices normalized.
+2025-09-22 19:19:12,664 - INFO - 2025-09-22 19:19:12 Begin INI: HL13B6.ini
+2025-09-22 19:19:12,667 - INFO - 2025-09-22 19:19:12 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.19.12.csv
+2025-09-22 19:19:12,668 - INFO - 2025-09-22 19:19:12 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:19:13,003 - INFO - 2025-09-22 19:19:13 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:19:14,192 - INFO - 2025-09-22 19:19:14 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:19:14,192 - INFO - 2025-09-22 19:19:14 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:19:21,138 - INFO - 2025-09-22 19:19:21 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:19:21,139 - INFO - 2025-09-22 19:19:21 Field indices normalized.
+2025-09-22 19:19:23,043 - INFO - 2025-09-22 19:19:23 Retention filter kept >= 2025-08-23 19:19:23. rows 263->4
+2025-09-22 19:19:23,044 - INFO - 2025-09-22 19:19:23 Writing CSV...
+2025-09-22 19:19:23,077 - INFO - 2025-09-22 19:19:23 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.19.12.csv
+2025-09-22 19:19:23,077 - INFO - 2025-09-22 19:19:23 Generating pointer XML...
+2025-09-22 19:19:23,135 - INFO - 2025-09-22 19:19:23 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.19.12,Testdate=2025-09-22T19.19.23.xml
+2025-09-22 19:19:23,136 - INFO - 2025-09-22 19:19:23 End INI: HL13B6.ini
+2025-09-22 19:19:23,164 - INFO - 2025-09-22 19:19:23 Begin INI: HL13_01.ini
+2025-09-22 19:19:23,168 - INFO - 2025-09-22 19:19:23 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.19.23.csv
+2025-09-22 19:19:23,169 - INFO - 2025-09-22 19:19:23 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:19:23,504 - INFO - 2025-09-22 19:19:23 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:19:34,818 - INFO - 2025-09-22 19:19:34 Retention filter kept >= 2025-09-15 19:19:34. rows 10715->75
+2025-09-22 19:19:34,819 - INFO - 2025-09-22 19:19:34 Writing CSV...
+2025-09-22 19:19:34,895 - INFO - 2025-09-22 19:19:34 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.16.32.csv
+2025-09-22 19:19:34,896 - INFO - 2025-09-22 19:19:34 Generating pointer XML...
+2025-09-22 19:19:34,943 - INFO - 2025-09-22 19:19:34 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.16.32,Testdate=2025-09-22T19.19.34.xml
+2025-09-22 19:19:34,959 - INFO - 2025-09-22 19:19:34 End INI: HL13_01.ini
+2025-09-22 19:19:34,960 - INFO - 2025-09-22 19:19:34 ===== Universal Script End =====
+2025-09-22 19:19:43,062 - INFO - 2025-09-22 19:19:43 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:19:43,062 - INFO - 2025-09-22 19:19:43 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:20:35,878 - INFO - 2025-09-22 19:20:35 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:20:35,879 - INFO - 2025-09-22 19:20:35 Field indices normalized.
+2025-09-22 19:21:08,157 - INFO - 2025-09-22 19:21:08 Begin INI: HL13B6.ini
+2025-09-22 19:21:08,160 - INFO - 2025-09-22 19:21:08 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.21.08.csv
+2025-09-22 19:21:08,161 - INFO - 2025-09-22 19:21:08 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:21:08,579 - INFO - 2025-09-22 19:21:08 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:21:10,566 - INFO - 2025-09-22 19:21:10 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:21:10,566 - INFO - 2025-09-22 19:21:10 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:21:16,764 - INFO - 2025-09-22 19:21:16 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:21:16,764 - INFO - 2025-09-22 19:21:16 Field indices normalized.
+2025-09-22 19:21:20,320 - INFO - 2025-09-22 19:21:20 Retention filter kept >= 2025-08-23 19:21:20. rows 263->4
+2025-09-22 19:21:20,320 - INFO - 2025-09-22 19:21:20 Writing CSV...
+2025-09-22 19:21:20,355 - INFO - 2025-09-22 19:21:20 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.21.08.csv
+2025-09-22 19:21:20,356 - INFO - 2025-09-22 19:21:20 Generating pointer XML...
+2025-09-22 19:21:20,448 - INFO - 2025-09-22 19:21:20 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.21.08,Testdate=2025-09-22T19.21.20.xml
+2025-09-22 19:21:20,450 - INFO - 2025-09-22 19:21:20 End INI: HL13B6.ini
+2025-09-22 19:21:20,478 - INFO - 2025-09-22 19:21:20 Begin INI: HL13_01.ini
+2025-09-22 19:21:20,482 - INFO - 2025-09-22 19:21:20 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.21.20.csv
+2025-09-22 19:21:20,485 - INFO - 2025-09-22 19:21:20 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:21:20,822 - INFO - 2025-09-22 19:21:20 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:21:41,902 - INFO - 2025-09-22 19:21:41 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:21:41,903 - INFO - 2025-09-22 19:21:41 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:22:21,526 - INFO - 2025-09-22 19:22:21 Retention filter kept >= 2025-09-15 19:22:21. rows 10725->75
+2025-09-22 19:22:21,526 - INFO - 2025-09-22 19:22:21 Writing CSV...
+2025-09-22 19:22:21,557 - INFO - 2025-09-22 19:22:21 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.19.23.csv
+2025-09-22 19:22:21,558 - INFO - 2025-09-22 19:22:21 Generating pointer XML...
+2025-09-22 19:22:21,619 - INFO - 2025-09-22 19:22:21 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.19.23,Testdate=2025-09-22T19.22.21.xml
+2025-09-22 19:22:21,635 - INFO - 2025-09-22 19:22:21 End INI: HL13_01.ini
+2025-09-22 19:22:21,635 - INFO - 2025-09-22 19:22:21 ===== Universal Script End =====
+2025-09-22 19:22:36,582 - INFO - 2025-09-22 19:22:36 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:22:36,583 - INFO - 2025-09-22 19:22:36 Field indices normalized.
+2025-09-22 19:24:30,588 - INFO - 2025-09-22 19:24:30 Retention filter kept >= 2025-09-15 19:24:30. rows 10715->75
+2025-09-22 19:24:30,588 - INFO - 2025-09-22 19:24:30 Writing CSV...
+2025-09-22 19:24:30,625 - INFO - 2025-09-22 19:24:30 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.21.20.csv
+2025-09-22 19:24:30,625 - INFO - 2025-09-22 19:24:30 Generating pointer XML...
+2025-09-22 19:24:30,665 - INFO - 2025-09-22 19:24:30 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.21.20,Testdate=2025-09-22T19.24.30.xml
+2025-09-22 19:24:30,682 - INFO - 2025-09-22 19:24:30 End INI: HL13_01.ini
+2025-09-22 19:24:30,683 - INFO - 2025-09-22 19:24:30 ===== Universal Script End =====
+2025-09-22 19:33:32,023 - INFO - 2025-09-22 19:33:32 Begin INI: HL13B6.ini
+2025-09-22 19:33:32,027 - INFO - 2025-09-22 19:33:32 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.33.32.csv
+2025-09-22 19:33:32,028 - INFO - 2025-09-22 19:33:32 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:33:32,366 - INFO - 2025-09-22 19:33:32 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:33:33,614 - INFO - 2025-09-22 19:33:33 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:33:33,616 - INFO - 2025-09-22 19:33:33 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:33:42,260 - INFO - 2025-09-22 19:33:42 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:33:42,260 - INFO - 2025-09-22 19:33:42 Field indices normalized.
+2025-09-22 19:33:51,209 - INFO - 2025-09-22 19:33:51 Retention filter kept >= 2025-08-23 19:33:51. rows 263->4
+2025-09-22 19:33:51,209 - INFO - 2025-09-22 19:33:51 Writing CSV...
+2025-09-22 19:33:51,248 - INFO - 2025-09-22 19:33:51 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.33.32.csv
+2025-09-22 19:33:51,248 - INFO - 2025-09-22 19:33:51 Generating pointer XML...
+2025-09-22 19:33:51,402 - INFO - 2025-09-22 19:33:51 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.33.32,Testdate=2025-09-22T19.33.51.xml
+2025-09-22 19:33:51,403 - INFO - 2025-09-22 19:33:51 End INI: HL13B6.ini
+2025-09-22 19:33:51,419 - INFO - 2025-09-22 19:33:51 Begin INI: HL13_01.ini
+2025-09-22 19:33:51,422 - INFO - 2025-09-22 19:33:51 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.33.51.csv
+2025-09-22 19:33:51,423 - INFO - 2025-09-22 19:33:51 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:33:51,789 - INFO - 2025-09-22 19:33:51 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:34:07,428 - INFO - 2025-09-22 19:34:07 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:34:07,428 - INFO - 2025-09-22 19:34:07 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:35:15,338 - INFO - 2025-09-22 19:35:15 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:35:15,338 - INFO - 2025-09-22 19:35:15 Field indices normalized.
+2025-09-22 19:39:52,500 - INFO - 2025-09-22 19:39:52 Retention filter kept >= 2025-09-15 19:39:52. rows 10725->75
+2025-09-22 19:39:52,501 - INFO - 2025-09-22 19:39:52 Writing CSV...
+2025-09-22 19:39:53,860 - INFO - 2025-09-22 19:39:53 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.33.51.csv
+2025-09-22 19:39:53,860 - INFO - 2025-09-22 19:39:53 Generating pointer XML...
+2025-09-22 19:39:53,908 - INFO - 2025-09-22 19:39:53 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T19.33.51,Testdate=2025-09-22T19.39.53.xml
+2025-09-22 19:39:53,925 - INFO - 2025-09-22 19:39:53 End INI: HL13_01.ini
+2025-09-22 19:39:53,925 - INFO - 2025-09-22 19:39:53 ===== Universal Script End =====
+2025-09-22 19:58:05,281 - INFO - 2025-09-22 19:58:05 Begin INI: HL13B6.ini
+2025-09-22 19:58:05,294 - INFO - 2025-09-22 19:58:05 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.58.05.csv
+2025-09-22 19:58:05,295 - INFO - 2025-09-22 19:58:05 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:58:05,650 - INFO - 2025-09-22 19:58:05 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:58:07,495 - INFO - 2025-09-22 19:58:07 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:58:07,495 - INFO - 2025-09-22 19:58:07 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:58:17,954 - INFO - 2025-09-22 19:58:17 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 19:58:17,955 - INFO - 2025-09-22 19:58:17 Field indices normalized.
+2025-09-22 19:58:17,969 - ERROR - 2025-09-22 19:58:17 DF/IO failed: unsupported operand type(s) for -: 'str' and 'int'
+2025-09-22 19:58:17,970 - INFO - 2025-09-22 19:58:17 End INI: HL13B6.ini
+2025-09-22 19:58:17,988 - INFO - 2025-09-22 19:58:17 Begin INI: HL13_01.ini
+2025-09-22 19:58:17,991 - INFO - 2025-09-22 19:58:17 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T19.58.17.csv
+2025-09-22 19:58:17,993 - INFO - 2025-09-22 19:58:17 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 19:58:18,342 - INFO - 2025-09-22 19:58:18 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:58:41,909 - INFO - 2025-09-22 19:58:41 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:58:41,910 - INFO - 2025-09-22 19:58:41 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 19:59:54,629 - INFO - 2025-09-22 19:59:54 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 19:59:54,630 - INFO - 2025-09-22 19:59:54 Field indices normalized.
+2025-09-22 19:59:54,713 - ERROR - 2025-09-22 19:59:54 DF/IO failed: unsupported operand type(s) for -: 'str' and 'int'
+2025-09-22 19:59:54,729 - INFO - 2025-09-22 19:59:54 End INI: HL13_01.ini
+2025-09-22 19:59:54,730 - INFO - 2025-09-22 19:59:54 ===== Universal Script End =====
+2025-09-22 20:00:49,024 - INFO - 2025-09-22 20:00:49 Begin INI: HL13B6.ini
+2025-09-22 20:00:49,026 - INFO - 2025-09-22 20:00:49 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.00.49.csv
+2025-09-22 20:00:49,028 - INFO - 2025-09-22 20:00:49 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:00:49,162 - INFO - 2025-09-22 20:00:49 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:00:50,833 - INFO - 2025-09-22 20:00:50 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:00:50,833 - INFO - 2025-09-22 20:00:50 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:00,946 - INFO - 2025-09-22 20:01:00 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:01:00,946 - INFO - 2025-09-22 20:01:00 Field indices normalized.
+2025-09-22 20:01:00,952 - ERROR - 2025-09-22 20:01:00 DF/IO failed: unsupported operand type(s) for -: 'str' and 'int'
+2025-09-22 20:01:00,953 - INFO - 2025-09-22 20:01:00 End INI: HL13B6.ini
+2025-09-22 20:01:00,969 - INFO - 2025-09-22 20:01:00 Begin INI: HL13_01.ini
+2025-09-22 20:01:00,972 - INFO - 2025-09-22 20:01:00 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.01.00.csv
+2025-09-22 20:01:00,973 - INFO - 2025-09-22 20:01:00 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:01:01,331 - INFO - 2025-09-22 20:01:01 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:23,744 - INFO - 2025-09-22 20:01:23 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:23,745 - INFO - 2025-09-22 20:01:23 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:35,660 - INFO - 2025-09-22 20:01:35 Begin INI: HL13B6.ini
+2025-09-22 20:01:35,663 - INFO - 2025-09-22 20:01:35 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.01.35.csv
+2025-09-22 20:01:35,664 - INFO - 2025-09-22 20:01:35 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:01:35,999 - INFO - 2025-09-22 20:01:35 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:37,606 - INFO - 2025-09-22 20:01:37 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:37,607 - INFO - 2025-09-22 20:01:37 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:01:46,310 - INFO - 2025-09-22 20:01:46 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:01:46,312 - INFO - 2025-09-22 20:01:46 Field indices normalized.
+2025-09-22 20:01:46,325 - ERROR - 2025-09-22 20:01:46 DF/IO failed: unsupported operand type(s) for -: 'datetime.datetime' and 'int'
+2025-09-22 20:01:46,326 - INFO - 2025-09-22 20:01:46 End INI: HL13B6.ini
+2025-09-22 20:01:46,343 - INFO - 2025-09-22 20:01:46 Begin INI: HL13_01.ini
+2025-09-22 20:01:46,345 - INFO - 2025-09-22 20:01:46 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.01.46.csv
+2025-09-22 20:01:46,346 - INFO - 2025-09-22 20:01:46 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:01:46,711 - INFO - 2025-09-22 20:01:46 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:11,934 - INFO - 2025-09-22 20:02:11 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:11,935 - INFO - 2025-09-22 20:02:11 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:45,701 - INFO - 2025-09-22 20:02:45 Begin INI: HL13B6.ini
+2025-09-22 20:02:45,703 - INFO - 2025-09-22 20:02:45 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.02.45.csv
+2025-09-22 20:02:45,704 - INFO - 2025-09-22 20:02:45 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:02:46,042 - INFO - 2025-09-22 20:02:46 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:48,120 - INFO - 2025-09-22 20:02:48 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:48,121 - INFO - 2025-09-22 20:02:48 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:02:56,395 - INFO - 2025-09-22 20:02:56 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:02:56,396 - INFO - 2025-09-22 20:02:56 Field indices normalized.
+2025-09-22 20:05:36,680 - INFO - 2025-09-22 20:05:36 Begin INI: HL13B6.ini
+2025-09-22 20:05:36,682 - INFO - 2025-09-22 20:05:36 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.05.36.csv
+2025-09-22 20:05:36,683 - INFO - 2025-09-22 20:05:36 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:05:37,091 - INFO - 2025-09-22 20:05:37 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:05:39,250 - INFO - 2025-09-22 20:05:39 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:05:39,250 - INFO - 2025-09-22 20:05:39 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:05:47,353 - INFO - 2025-09-22 20:05:47 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:05:47,353 - INFO - 2025-09-22 20:05:47 Field indices normalized.
+2025-09-22 20:05:56,355 - INFO - 2025-09-22 20:05:56 Retention filter kept >= 2025-08-23 20:05:56. rows 263->4
+2025-09-22 20:05:56,356 - INFO - 2025-09-22 20:05:56 Writing CSV...
+2025-09-22 20:05:56,392 - INFO - 2025-09-22 20:05:56 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.05.36.csv
+2025-09-22 20:05:56,392 - INFO - 2025-09-22 20:05:56 Generating pointer XML...
+2025-09-22 20:05:56,474 - INFO - 2025-09-22 20:05:56 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T20.05.36,Testdate=2025-09-22T20.05.56.xml
+2025-09-22 20:05:56,475 - INFO - 2025-09-22 20:05:56 End INI: HL13B6.ini
+2025-09-22 20:05:56,491 - INFO - 2025-09-22 20:05:56 Begin INI: HL13_01.ini
+2025-09-22 20:05:56,493 - INFO - 2025-09-22 20:05:56 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.05.56.csv
+2025-09-22 20:05:56,494 - INFO - 2025-09-22 20:05:56 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:05:56,833 - INFO - 2025-09-22 20:05:56 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:06:15,511 - INFO - 2025-09-22 20:06:15 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:06:15,512 - INFO - 2025-09-22 20:06:15 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:07:15,389 - INFO - 2025-09-22 20:07:15 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 20:07:15,390 - INFO - 2025-09-22 20:07:15 Field indices normalized.
+2025-09-22 20:07:50,216 - INFO - 2025-09-22 20:07:50 Begin INI: HL13B6.ini
+2025-09-22 20:07:50,220 - INFO - 2025-09-22 20:07:50 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.07.50.csv
+2025-09-22 20:07:50,223 - INFO - 2025-09-22 20:07:50 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:07:50,425 - INFO - 2025-09-22 20:07:50 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:07:52,158 - INFO - 2025-09-22 20:07:52 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:07:52,158 - INFO - 2025-09-22 20:07:52 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:07:58,795 - INFO - 2025-09-22 20:07:58 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:07:58,796 - INFO - 2025-09-22 20:07:58 Field indices normalized.
+2025-09-22 20:11:45,534 - INFO - 2025-09-22 20:11:45 Begin INI: HL13B6.ini
+2025-09-22 20:11:45,537 - INFO - 2025-09-22 20:11:45 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.11.45.csv
+2025-09-22 20:11:45,539 - INFO - 2025-09-22 20:11:45 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:11:45,905 - INFO - 2025-09-22 20:11:45 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:11:47,566 - INFO - 2025-09-22 20:11:47 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:11:47,567 - INFO - 2025-09-22 20:11:47 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:11:55,558 - INFO - 2025-09-22 20:11:55 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:11:55,558 - INFO - 2025-09-22 20:11:55 Field indices normalized.
+2025-09-22 20:12:13,968 - INFO - 2025-09-22 20:12:13 Retention filter kept >= 2025-08-23 20:12:13. rows 263->4
+2025-09-22 20:12:13,968 - INFO - 2025-09-22 20:12:13 Writing CSV...
+2025-09-22 20:12:14,015 - INFO - 2025-09-22 20:12:14 CSV written: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.11.45.csv
+2025-09-22 20:12:14,015 - INFO - 2025-09-22 20:12:14 Generating pointer XML...
+2025-09-22 20:12:14,082 - INFO - 2025-09-22 20:12:14 Pointer XML written: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=ISO-EML_ISO_Step,Partnumber=UNKNOWPN,Serialnumber=ISO-EML_ISO_Step_2025_09_22T20.11.45,Testdate=2025-09-22T20.12.14.xml
+2025-09-22 20:12:14,083 - INFO - 2025-09-22 20:12:14 End INI: HL13B6.ini
+2025-09-22 20:12:14,100 - INFO - 2025-09-22 20:12:14 Begin INI: HL13_01.ini
+2025-09-22 20:12:14,102 - INFO - 2025-09-22 20:12:14 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.12.14.csv
+2025-09-22 20:12:14,103 - INFO - 2025-09-22 20:12:14 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:12:14,436 - INFO - 2025-09-22 20:12:14 Latest source: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:12:32,017 - INFO - 2025-09-22 20:12:32 Copied to: ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:12:32,018 - INFO - 2025-09-22 20:12:32 Start file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:13:37,024 - INFO - 2025-09-22 20:13:37 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=48927.
+2025-09-22 20:13:37,024 - INFO - 2025-09-22 20:13:37 Field indices normalized.
+2025-09-22 20:18:32,699 - INFO - 2025-09-22 20:18:32 Begin INI: HL13B6.ini
+2025-09-22 20:18:32,702 - INFO - 2025-09-22 20:18:32 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.18.32.csv
+2025-09-22 20:18:32,703 - INFO - 2025-09-22 20:18:32 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:18:33,038 - INFO - 2025-09-22 20:18:33 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:18:35,085 - INFO - 2025-09-22 20:18:35 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:18:35,086 - INFO - 2025-09-22 20:18:35 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:18:43,048 - INFO - 2025-09-22 20:18:43 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:18:43,049 - INFO - 2025-09-22 20:18:43 Field indices normalized.
+2025-09-22 20:19:03,320 - INFO - 2025-09-22 20:19:03 Begin INI: HL13B6.ini
+2025-09-22 20:19:03,322 - INFO - 2025-09-22 20:19:03 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.19.03.csv
+2025-09-22 20:19:03,323 - INFO - 2025-09-22 20:19:03 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:19:03,731 - INFO - 2025-09-22 20:19:03 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:19:04,989 - INFO - 2025-09-22 20:19:04 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:19:04,990 - INFO - 2025-09-22 20:19:04 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:19:13,293 - INFO - 2025-09-22 20:19:13 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:19:13,293 - INFO - 2025-09-22 20:19:13 Field indices normalized.
+2025-09-22 20:19:52,886 - INFO - 2025-09-22 20:19:52 Begin INI: HL13B6.ini
+2025-09-22 20:19:52,891 - INFO - 2025-09-22 20:19:52 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.19.52.csv
+2025-09-22 20:19:52,894 - INFO - 2025-09-22 20:19:52 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:19:53,236 - INFO - 2025-09-22 20:19:53 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:19:55,205 - INFO - 2025-09-22 20:19:55 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:19:55,205 - INFO - 2025-09-22 20:19:55 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:20:04,483 - INFO - 2025-09-22 20:20:04 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:20:04,484 - INFO - 2025-09-22 20:20:04 Field indices normalized.
+2025-09-22 20:20:39,068 - INFO - 2025-09-22 20:20:39 Begin INI: HL13B6.ini
+2025-09-22 20:20:39,073 - INFO - 2025-09-22 20:20:39 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.20.39.csv
+2025-09-22 20:20:39,075 - INFO - 2025-09-22 20:20:39 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:20:39,418 - INFO - 2025-09-22 20:20:39 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:20:40,923 - INFO - 2025-09-22 20:20:40 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:20:40,924 - INFO - 2025-09-22 20:20:40 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:20:50,206 - INFO - 2025-09-22 20:20:50 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:20:50,207 - INFO - 2025-09-22 20:20:50 Field indices normalized.
+2025-09-22 20:22:14,113 - INFO - 2025-09-22 20:22:14 Begin INI: HL13B6.ini
+2025-09-22 20:22:14,117 - INFO - 2025-09-22 20:22:14 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.22.14.csv
+2025-09-22 20:22:14,119 - INFO - 2025-09-22 20:22:14 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:22:14,462 - INFO - 2025-09-22 20:22:14 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:22:16,549 - INFO - 2025-09-22 20:22:16 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:22:16,549 - INFO - 2025-09-22 20:22:16 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:22:24,955 - INFO - 2025-09-22 20:22:24 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:22:24,955 - INFO - 2025-09-22 20:22:24 Field indices normalized.
+2025-09-22 20:23:03,194 - INFO - 2025-09-22 20:23:03 Begin INI: HL13B6.ini
+2025-09-22 20:23:03,197 - INFO - 2025-09-22 20:23:03 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.23.03.csv
+2025-09-22 20:23:03,198 - INFO - 2025-09-22 20:23:03 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:23:03,541 - INFO - 2025-09-22 20:23:03 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:23:05,068 - INFO - 2025-09-22 20:23:05 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:23:05,069 - INFO - 2025-09-22 20:23:05 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:23:13,756 - INFO - 2025-09-22 20:23:13 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:23:13,756 - INFO - 2025-09-22 20:23:13 Field indices normalized.
+2025-09-22 20:24:04,783 - INFO - 2025-09-22 20:24:04 Begin INI: HL13B6.ini
+2025-09-22 20:24:04,785 - INFO - 2025-09-22 20:24:04 CSV target: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_22T20.24.04.csv
+2025-09-22 20:24:04,786 - INFO - 2025-09-22 20:24:04 Search path='Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' pattern='*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-22 20:24:05,123 - INFO - 2025-09-22 20:24:05 Latest source: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:24:07,408 - INFO - 2025-09-22 20:24:07 Copied to: ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:24:07,409 - INFO - 2025-09-22 20:24:07 Start file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-22 20:24:16,650 - INFO - 2025-09-22 20:24:16 Main sheet read: '\uff83\uff9e\uff70\uff80', rows=1775.
+2025-09-22 20:24:16,651 - INFO - 2025-09-22 20:24:16 Field indices normalized.

@@ -1,0 +1,2624 @@
+INFO:root:2025-08-13 07:56:02 Program Start
+INFO:root:2025-08-13 07:56:02 Get SerialNumber Initial List 
+INFO:root:2025-08-13 07:56:02 Excel File Copy
+INFO:root:2025-08-13 07:56:07 Get The Starting Row Count
+INFO:root:2025-08-13 07:56:07 Read Excel
+INFO:root:2025-08-13 07:56:41 Setting Columns Number
+INFO:root:2025-08-13 07:56:41 Get DataFrame End Index Number
+
+INFO:root:2025-08-13 07:56:41 Blank Check
+ERROR:root:2025-08-13 07:56:41 Blank Error
+
+INFO:root:2025-08-13 07:56:41 Blank Check
+INFO:root:2025-08-13 07:56:41 Data Acquisition
+ERROR:root:2025-08-13 07:56:41 D1BHR : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BHU : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+ERROR:root:2025-08-13 07:56:42 Blank Error
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BM4 : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BM8 : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 DFABB : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 DFABE : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BM9 : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BME : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+ERROR:root:2025-08-13 07:56:42 Blank Error
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BLV : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BLY : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 CL019 : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 CL022 : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BJT : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BJW : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+ERROR:root:2025-08-13 07:56:42 Blank Error
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BKD : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BKG : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BKH : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+ERROR:root:2025-08-13 07:56:42 D1BKL : Not Covered
+
+INFO:root:2025-08-13 07:56:42 Blank Check
+INFO:root:2025-08-13 07:56:42 Data Acquisition
+INFO:root:2025-08-13 07:56:43 Date Format Conversion
+INFO:root:2025-08-13 07:56:43 Check Data Type
+INFO:root:2025-08-13 07:56:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:43 NV420 : OK
+
+INFO:root:2025-08-13 07:56:43 Blank Check
+INFO:root:2025-08-13 07:56:43 Data Acquisition
+INFO:root:2025-08-13 07:56:44 Date Format Conversion
+INFO:root:2025-08-13 07:56:44 Check Data Type
+INFO:root:2025-08-13 07:56:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:44 NV423 : OK
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+INFO:root:2025-08-13 07:56:44 Data Acquisition
+ERROR:root:2025-08-13 07:56:44 CL023 : Not Covered
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+INFO:root:2025-08-13 07:56:44 Data Acquisition
+ERROR:root:2025-08-13 07:56:44 CL026 : Not Covered
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+INFO:root:2025-08-13 07:56:44 Data Acquisition
+ERROR:root:2025-08-13 07:56:44 CL204 : Not Covered
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+INFO:root:2025-08-13 07:56:44 Data Acquisition
+ERROR:root:2025-08-13 07:56:44 CL025 : Not Covered
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+ERROR:root:2025-08-13 07:56:44 Blank Error
+
+INFO:root:2025-08-13 07:56:44 Blank Check
+INFO:root:2025-08-13 07:56:44 Data Acquisition
+INFO:root:2025-08-13 07:56:45 Date Format Conversion
+INFO:root:2025-08-13 07:56:45 Check Data Type
+INFO:root:2025-08-13 07:56:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:46 NV428 : OK
+
+INFO:root:2025-08-13 07:56:46 Blank Check
+INFO:root:2025-08-13 07:56:46 Data Acquisition
+INFO:root:2025-08-13 07:56:46 Date Format Conversion
+INFO:root:2025-08-13 07:56:46 Check Data Type
+INFO:root:2025-08-13 07:56:46 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:47 NV431 : OK
+
+INFO:root:2025-08-13 07:56:47 Blank Check
+INFO:root:2025-08-13 07:56:47 Data Acquisition
+INFO:root:2025-08-13 07:56:47 Date Format Conversion
+INFO:root:2025-08-13 07:56:47 Check Data Type
+INFO:root:2025-08-13 07:56:47 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:48 NT507 : OK
+
+INFO:root:2025-08-13 07:56:48 Blank Check
+INFO:root:2025-08-13 07:56:48 Data Acquisition
+INFO:root:2025-08-13 07:56:48 Date Format Conversion
+INFO:root:2025-08-13 07:56:48 Check Data Type
+INFO:root:2025-08-13 07:56:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:49 NT510 : OK
+
+INFO:root:2025-08-13 07:56:49 Blank Check
+ERROR:root:2025-08-13 07:56:49 Blank Error
+
+INFO:root:2025-08-13 07:56:49 Blank Check
+INFO:root:2025-08-13 07:56:49 Data Acquisition
+INFO:root:2025-08-13 07:56:50 Date Format Conversion
+INFO:root:2025-08-13 07:56:50 Check Data Type
+INFO:root:2025-08-13 07:56:50 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:50 NT524 : OK
+
+INFO:root:2025-08-13 07:56:50 Blank Check
+INFO:root:2025-08-13 07:56:50 Data Acquisition
+INFO:root:2025-08-13 07:56:51 Date Format Conversion
+INFO:root:2025-08-13 07:56:51 Check Data Type
+INFO:root:2025-08-13 07:56:51 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:51 NT527 : OK
+
+INFO:root:2025-08-13 07:56:51 Blank Check
+INFO:root:2025-08-13 07:56:51 Data Acquisition
+INFO:root:2025-08-13 07:56:52 Date Format Conversion
+INFO:root:2025-08-13 07:56:52 Check Data Type
+INFO:root:2025-08-13 07:56:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:52 NT520 : OK
+
+INFO:root:2025-08-13 07:56:52 Blank Check
+INFO:root:2025-08-13 07:56:52 Data Acquisition
+INFO:root:2025-08-13 07:56:53 Date Format Conversion
+INFO:root:2025-08-13 07:56:53 Check Data Type
+INFO:root:2025-08-13 07:56:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:53 NT523 : OK
+
+INFO:root:2025-08-13 07:56:53 Blank Check
+INFO:root:2025-08-13 07:56:53 Data Acquisition
+INFO:root:2025-08-13 07:56:54 Date Format Conversion
+INFO:root:2025-08-13 07:56:54 Check Data Type
+INFO:root:2025-08-13 07:56:54 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:54 NT511 : OK
+
+INFO:root:2025-08-13 07:56:54 Blank Check
+INFO:root:2025-08-13 07:56:54 Data Acquisition
+INFO:root:2025-08-13 07:56:55 Date Format Conversion
+INFO:root:2025-08-13 07:56:55 Check Data Type
+INFO:root:2025-08-13 07:56:55 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:55 NT519 : OK
+
+INFO:root:2025-08-13 07:56:55 Blank Check
+INFO:root:2025-08-13 07:56:55 Data Acquisition
+INFO:root:2025-08-13 07:56:56 Date Format Conversion
+INFO:root:2025-08-13 07:56:56 Check Data Type
+INFO:root:2025-08-13 07:56:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:57 NT512 : OK
+
+INFO:root:2025-08-13 07:56:57 Blank Check
+INFO:root:2025-08-13 07:56:57 Data Acquisition
+INFO:root:2025-08-13 07:56:58 Date Format Conversion
+INFO:root:2025-08-13 07:56:58 Check Data Type
+INFO:root:2025-08-13 07:56:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:58 NT518 : OK
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+ERROR:root:2025-08-13 07:56:58 Blank Error
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+ERROR:root:2025-08-13 07:56:58 CL027 : Not Covered
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+ERROR:root:2025-08-13 07:56:58 CL030 : Not Covered
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+ERROR:root:2025-08-13 07:56:58 D1BK5 : Not Covered
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+ERROR:root:2025-08-13 07:56:58 D1BK8 : Not Covered
+
+INFO:root:2025-08-13 07:56:58 Blank Check
+INFO:root:2025-08-13 07:56:58 Data Acquisition
+INFO:root:2025-08-13 07:56:59 Date Format Conversion
+INFO:root:2025-08-13 07:56:59 Check Data Type
+INFO:root:2025-08-13 07:56:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:56:59 NU591 : OK
+
+INFO:root:2025-08-13 07:56:59 Blank Check
+INFO:root:2025-08-13 07:56:59 Data Acquisition
+INFO:root:2025-08-13 07:57:00 Date Format Conversion
+INFO:root:2025-08-13 07:57:00 Check Data Type
+INFO:root:2025-08-13 07:57:00 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:00 NU594 : OK
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+ERROR:root:2025-08-13 07:57:00 Blank Error
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 D1BK9 : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 D1BKC : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 D1BLZ : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 D1BM2 : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+ERROR:root:2025-08-13 07:57:00 Blank Error
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 CL031 : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+ERROR:root:2025-08-13 07:57:00 CL034 : Not Covered
+
+INFO:root:2025-08-13 07:57:00 Blank Check
+INFO:root:2025-08-13 07:57:00 Data Acquisition
+INFO:root:2025-08-13 07:57:01 Date Format Conversion
+INFO:root:2025-08-13 07:57:01 Check Data Type
+INFO:root:2025-08-13 07:57:01 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:02 NU595 : OK
+
+INFO:root:2025-08-13 07:57:02 Blank Check
+INFO:root:2025-08-13 07:57:02 Data Acquisition
+INFO:root:2025-08-13 07:57:02 Date Format Conversion
+INFO:root:2025-08-13 07:57:02 Check Data Type
+INFO:root:2025-08-13 07:57:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:03 NU598 : OK
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 CE007 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 D1BKW : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 D1BKZ : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DEAD6 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DEAD9 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+ERROR:root:2025-08-13 07:57:03 Blank Error
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 D1BL0 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 D1BL3 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DFABZ : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DFAC2 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DEADA : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DEADD : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+ERROR:root:2025-08-13 07:57:03 Blank Error
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DFAC3 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+ERROR:root:2025-08-13 07:57:03 DFAC6 : Not Covered
+
+INFO:root:2025-08-13 07:57:03 Blank Check
+INFO:root:2025-08-13 07:57:03 Data Acquisition
+INFO:root:2025-08-13 07:57:04 Date Format Conversion
+INFO:root:2025-08-13 07:57:04 Check Data Type
+INFO:root:2025-08-13 07:57:04 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:04 NU599 : OK
+
+INFO:root:2025-08-13 07:57:04 Blank Check
+INFO:root:2025-08-13 07:57:04 Data Acquisition
+INFO:root:2025-08-13 07:57:05 Date Format Conversion
+INFO:root:2025-08-13 07:57:05 Check Data Type
+INFO:root:2025-08-13 07:57:05 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:08 NU602 : OK
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+ERROR:root:2025-08-13 07:57:08 Blank Error
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DB415 : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DB443 : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFABF : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFABJ : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+ERROR:root:2025-08-13 07:57:08 Blank Error
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFABK : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFABN : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFAC7 : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+ERROR:root:2025-08-13 07:57:08 DFACA : Not Covered
+
+INFO:root:2025-08-13 07:57:08 Blank Check
+INFO:root:2025-08-13 07:57:08 Data Acquisition
+INFO:root:2025-08-13 07:57:09 Date Format Conversion
+INFO:root:2025-08-13 07:57:09 Check Data Type
+INFO:root:2025-08-13 07:57:09 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:09 NU603 : OK
+
+INFO:root:2025-08-13 07:57:09 Blank Check
+INFO:root:2025-08-13 07:57:09 Data Acquisition
+INFO:root:2025-08-13 07:57:11 Date Format Conversion
+INFO:root:2025-08-13 07:57:11 Check Data Type
+INFO:root:2025-08-13 07:57:11 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:11 NU606 : OK
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+ERROR:root:2025-08-13 07:57:11 Blank Error
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DFACB : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DFACE : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DFAAS : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DFAB6 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DHAC6 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DHAC9 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+ERROR:root:2025-08-13 07:57:11 Blank Error
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DC476 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DC479 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 CL035 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 CL038 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 D1BMF : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 D1BMJ : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+ERROR:root:2025-08-13 07:57:11 Blank Error
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 D1BMK : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 D1BMR : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DEACQ : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DEACT : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DC485 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DC487 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 CL039 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 CL042 : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+ERROR:root:2025-08-13 07:57:11 Blank Error
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DEACU : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+ERROR:root:2025-08-13 07:57:11 DEACX : Not Covered
+
+INFO:root:2025-08-13 07:57:11 Blank Check
+INFO:root:2025-08-13 07:57:11 Data Acquisition
+INFO:root:2025-08-13 07:57:12 Date Format Conversion
+INFO:root:2025-08-13 07:57:12 Check Data Type
+INFO:root:2025-08-13 07:57:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:13 NU607 : OK
+
+INFO:root:2025-08-13 07:57:13 Blank Check
+INFO:root:2025-08-13 07:57:13 Data Acquisition
+INFO:root:2025-08-13 07:57:13 Date Format Conversion
+INFO:root:2025-08-13 07:57:13 Check Data Type
+INFO:root:2025-08-13 07:57:13 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:14 NU610 : OK
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+ERROR:root:2025-08-13 07:57:14 Blank Error
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+ERROR:root:2025-08-13 07:57:14 DC480 : Not Covered
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+ERROR:root:2025-08-13 07:57:14 DC483 : Not Covered
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+ERROR:root:2025-08-13 07:57:14 DEADE : Not Covered
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+ERROR:root:2025-08-13 07:57:14 DEADH : Not Covered
+
+INFO:root:2025-08-13 07:57:14 Blank Check
+INFO:root:2025-08-13 07:57:14 Data Acquisition
+INFO:root:2025-08-13 07:57:15 Date Format Conversion
+INFO:root:2025-08-13 07:57:15 Check Data Type
+INFO:root:2025-08-13 07:57:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:15 NU611 : OK
+
+INFO:root:2025-08-13 07:57:15 Blank Check
+INFO:root:2025-08-13 07:57:15 Data Acquisition
+INFO:root:2025-08-13 07:57:16 Date Format Conversion
+INFO:root:2025-08-13 07:57:16 Check Data Type
+INFO:root:2025-08-13 07:57:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:16 NU614 : OK
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+ERROR:root:2025-08-13 07:57:16 Blank Error
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEADJ : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEAJM : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BL7 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BLA : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 CL043 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 CL046 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+ERROR:root:2025-08-13 07:57:16 Blank Error
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEADW : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEADZ : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DHABY : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DHAC1 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 CL047 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 CL050 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BLB : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BLE : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BM5 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BMD : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+ERROR:root:2025-08-13 07:57:16 Blank Error
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DHAC2 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DHAC5 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DD479 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DD482 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEAE0 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DEAE3 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DD483 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 DD520 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BK1 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BK4 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BJX : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+ERROR:root:2025-08-13 07:57:16 D1BK0 : Not Covered
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+ERROR:root:2025-08-13 07:57:16 Blank Error
+
+INFO:root:2025-08-13 07:57:16 Blank Check
+INFO:root:2025-08-13 07:57:16 Data Acquisition
+INFO:root:2025-08-13 07:57:17 Date Format Conversion
+INFO:root:2025-08-13 07:57:17 Check Data Type
+INFO:root:2025-08-13 07:57:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:17 NS482 : OK
+
+INFO:root:2025-08-13 07:57:17 Blank Check
+INFO:root:2025-08-13 07:57:17 Data Acquisition
+INFO:root:2025-08-13 07:57:18 Date Format Conversion
+INFO:root:2025-08-13 07:57:18 Check Data Type
+INFO:root:2025-08-13 07:57:18 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:18 NS485 : OK
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 CL051 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 CL054 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+ERROR:root:2025-08-13 07:57:18 Blank Error
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DFACF : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DFACJ : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BLL : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BLP : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 CL055 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 CL058 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DD521 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DD524 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+ERROR:root:2025-08-13 07:57:18 Blank Error
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BKQ : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DFAC4 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DFACK : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 DFAC4 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+ERROR:root:2025-08-13 07:57:18 Blank Error
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BNY : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BP1 : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:18 D1BKR : Not Covered
+
+INFO:root:2025-08-13 07:57:18 Blank Check
+INFO:root:2025-08-13 07:57:18 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 D1BKV : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+ERROR:root:2025-08-13 07:57:19 Blank Error
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 D1BP6 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 D1BP9 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 DFACP : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 DFADL : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 CL059 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 CL062 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+ERROR:root:2025-08-13 07:57:19 Blank Error
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 CL063 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 CL066 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 D1BP2 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 D1BP5 : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 DFADM : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+ERROR:root:2025-08-13 07:57:19 DFADQ : Not Covered
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+ERROR:root:2025-08-13 07:57:19 Blank Error
+
+INFO:root:2025-08-13 07:57:19 Blank Check
+INFO:root:2025-08-13 07:57:19 Data Acquisition
+INFO:root:2025-08-13 07:57:19 Date Format Conversion
+INFO:root:2025-08-13 07:57:19 Check Data Type
+INFO:root:2025-08-13 07:57:19 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:20 NS486 : OK
+
+INFO:root:2025-08-13 07:57:20 Blank Check
+INFO:root:2025-08-13 07:57:20 Data Acquisition
+ERROR:root:2025-08-13 07:57:21 NS489 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+ERROR:root:2025-08-13 07:57:21 D1BQ4 : Not Covered
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+ERROR:root:2025-08-13 07:57:21 D1BQ7 : Not Covered
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+ERROR:root:2025-08-13 07:57:21 Blank Error
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+ERROR:root:2025-08-13 07:57:21 CL067 : Not Covered
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+ERROR:root:2025-08-13 07:57:21 CL070 : Not Covered
+
+INFO:root:2025-08-13 07:57:21 Blank Check
+INFO:root:2025-08-13 07:57:21 Data Acquisition
+INFO:root:2025-08-13 07:57:21 Date Format Conversion
+INFO:root:2025-08-13 07:57:21 Check Data Type
+INFO:root:2025-08-13 07:57:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:22 NS490 : OK
+
+INFO:root:2025-08-13 07:57:22 Blank Check
+INFO:root:2025-08-13 07:57:22 Data Acquisition
+INFO:root:2025-08-13 07:57:23 Date Format Conversion
+INFO:root:2025-08-13 07:57:23 Check Data Type
+INFO:root:2025-08-13 07:57:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:23 NS507 : OK
+
+INFO:root:2025-08-13 07:57:23 Blank Check
+ERROR:root:2025-08-13 07:57:23 Blank Error
+
+INFO:root:2025-08-13 07:57:23 Blank Check
+INFO:root:2025-08-13 07:57:23 Data Acquisition
+ERROR:root:2025-08-13 07:57:23 D1BLH : Not Covered
+
+INFO:root:2025-08-13 07:57:23 Blank Check
+INFO:root:2025-08-13 07:57:23 Data Acquisition
+ERROR:root:2025-08-13 07:57:23 D1BLU : Not Covered
+
+INFO:root:2025-08-13 07:57:23 Blank Check
+INFO:root:2025-08-13 07:57:23 Data Acquisition
+ERROR:root:2025-08-13 07:57:24 NS508 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:24 Blank Check
+INFO:root:2025-08-13 07:57:24 Data Acquisition
+INFO:root:2025-08-13 07:57:25 Date Format Conversion
+INFO:root:2025-08-13 07:57:25 Check Data Type
+INFO:root:2025-08-13 07:57:25 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:25 NS511 : OK
+
+INFO:root:2025-08-13 07:57:25 Blank Check
+INFO:root:2025-08-13 07:57:25 Data Acquisition
+ERROR:root:2025-08-13 07:57:25 D1BHV : Not Covered
+
+INFO:root:2025-08-13 07:57:25 Blank Check
+INFO:root:2025-08-13 07:57:25 Data Acquisition
+ERROR:root:2025-08-13 07:57:25 D1BLG : Not Covered
+
+INFO:root:2025-08-13 07:57:25 Blank Check
+INFO:root:2025-08-13 07:57:25 Data Acquisition
+INFO:root:2025-08-13 07:57:26 Date Format Conversion
+INFO:root:2025-08-13 07:57:26 Check Data Type
+INFO:root:2025-08-13 07:57:26 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:26 NS512 : OK
+
+INFO:root:2025-08-13 07:57:26 Blank Check
+INFO:root:2025-08-13 07:57:26 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 NS515 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 CL071 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 CL074 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPN : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPR : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BQ8 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BQB : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 SJ140 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 SM127 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPS : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPV : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPA : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPD : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 SJ141 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 SM128 : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPJ : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+ERROR:root:2025-08-13 07:57:27 D1BPM : Not Covered
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+ERROR:root:2025-08-13 07:57:27 Blank Error
+
+INFO:root:2025-08-13 07:57:27 Blank Check
+INFO:root:2025-08-13 07:57:27 Data Acquisition
+INFO:root:2025-08-13 07:57:28 Date Format Conversion
+INFO:root:2025-08-13 07:57:28 Check Data Type
+INFO:root:2025-08-13 07:57:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:28 NS516 : OK
+
+INFO:root:2025-08-13 07:57:28 Blank Check
+INFO:root:2025-08-13 07:57:28 Data Acquisition
+INFO:root:2025-08-13 07:57:29 Date Format Conversion
+INFO:root:2025-08-13 07:57:29 Check Data Type
+INFO:root:2025-08-13 07:57:29 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:29 NS519 : OK
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+INFO:root:2025-08-13 07:57:29 Data Acquisition
+ERROR:root:2025-08-13 07:57:29 DHACN : Not Covered
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+INFO:root:2025-08-13 07:57:29 Data Acquisition
+ERROR:root:2025-08-13 07:57:29 D1BDZ : Not Covered
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+ERROR:root:2025-08-13 07:57:29 Blank Error
+
+INFO:root:2025-08-13 07:57:29 Blank Check
+INFO:root:2025-08-13 07:57:29 Data Acquisition
+INFO:root:2025-08-13 07:57:30 Date Format Conversion
+INFO:root:2025-08-13 07:57:30 Check Data Type
+INFO:root:2025-08-13 07:57:30 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:30 NV390 : OK
+
+INFO:root:2025-08-13 07:57:30 Blank Check
+INFO:root:2025-08-13 07:57:30 Data Acquisition
+INFO:root:2025-08-13 07:57:31 Date Format Conversion
+INFO:root:2025-08-13 07:57:31 Check Data Type
+INFO:root:2025-08-13 07:57:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:31 NV458 : OK
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+INFO:root:2025-08-13 07:57:31 Data Acquisition
+ERROR:root:2025-08-13 07:57:31 DHAD5 : Not Covered
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+ERROR:root:2025-08-13 07:57:31 Blank Error
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+INFO:root:2025-08-13 07:57:31 Data Acquisition
+ERROR:root:2025-08-13 07:57:31 D1BPE : Not Covered
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+INFO:root:2025-08-13 07:57:31 Data Acquisition
+ERROR:root:2025-08-13 07:57:31 D1BPH : Not Covered
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+ERROR:root:2025-08-13 07:57:31 Blank Error
+
+INFO:root:2025-08-13 07:57:31 Blank Check
+INFO:root:2025-08-13 07:57:31 Data Acquisition
+INFO:root:2025-08-13 07:57:32 Date Format Conversion
+INFO:root:2025-08-13 07:57:32 Check Data Type
+INFO:root:2025-08-13 07:57:32 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:32 NV459 : OK
+
+INFO:root:2025-08-13 07:57:32 Blank Check
+INFO:root:2025-08-13 07:57:32 Data Acquisition
+INFO:root:2025-08-13 07:57:33 Date Format Conversion
+INFO:root:2025-08-13 07:57:33 Check Data Type
+INFO:root:2025-08-13 07:57:33 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:34 NV462 : OK
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+ERROR:root:2025-08-13 07:57:34 D1BQU : Not Covered
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+ERROR:root:2025-08-13 07:57:34 D1BQX : Not Covered
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+ERROR:root:2025-08-13 07:57:34 Blank Error
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+ERROR:root:2025-08-13 07:57:34 D1BQY : Not Covered
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+ERROR:root:2025-08-13 07:57:34 D1BR1 : Not Covered
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+ERROR:root:2025-08-13 07:57:34 Blank Error
+
+INFO:root:2025-08-13 07:57:34 Blank Check
+INFO:root:2025-08-13 07:57:34 Data Acquisition
+INFO:root:2025-08-13 07:57:35 Date Format Conversion
+INFO:root:2025-08-13 07:57:35 Check Data Type
+INFO:root:2025-08-13 07:57:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:35 NU615 : OK
+
+INFO:root:2025-08-13 07:57:35 Blank Check
+INFO:root:2025-08-13 07:57:35 Data Acquisition
+INFO:root:2025-08-13 07:57:36 Date Format Conversion
+INFO:root:2025-08-13 07:57:36 Check Data Type
+INFO:root:2025-08-13 07:57:36 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:36 NU617 : OK
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BPW : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BPZ : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SN314 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SN317 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQC : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQF : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQ0 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQ3 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQH : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQK : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SJ142 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SM129 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DEACZ : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DEAD1 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DEAD2 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DEAD4 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQL : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BQP : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SJ143 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SM130 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BRB : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 D1BRD : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DHAD8 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DHADB : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+ERROR:root:2025-08-13 07:57:36 Blank Error
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DFABV : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DFABY : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SJ144 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 SM131 : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DFABP : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+ERROR:root:2025-08-13 07:57:36 DFABU : Not Covered
+
+INFO:root:2025-08-13 07:57:36 Blank Check
+INFO:root:2025-08-13 07:57:36 Data Acquisition
+INFO:root:2025-08-13 07:57:37 Date Format Conversion
+INFO:root:2025-08-13 07:57:37 Check Data Type
+INFO:root:2025-08-13 07:57:37 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:37 NU619 : OK
+
+INFO:root:2025-08-13 07:57:37 Blank Check
+INFO:root:2025-08-13 07:57:37 Data Acquisition
+ERROR:root:2025-08-13 07:57:38 NU622 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+ERROR:root:2025-08-13 07:57:38 Blank Error
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+ERROR:root:2025-08-13 07:57:38 SJ145 : Not Covered
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+ERROR:root:2025-08-13 07:57:38 SK141 : Not Covered
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+ERROR:root:2025-08-13 07:57:38 D1BQQ : Not Covered
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+ERROR:root:2025-08-13 07:57:38 D1BQT : Not Covered
+
+INFO:root:2025-08-13 07:57:38 Blank Check
+INFO:root:2025-08-13 07:57:38 Data Acquisition
+INFO:root:2025-08-13 07:57:39 Date Format Conversion
+INFO:root:2025-08-13 07:57:39 Check Data Type
+INFO:root:2025-08-13 07:57:39 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:39 NU623 : OK
+
+INFO:root:2025-08-13 07:57:39 Blank Check
+INFO:root:2025-08-13 07:57:39 Data Acquisition
+INFO:root:2025-08-13 07:57:40 Date Format Conversion
+INFO:root:2025-08-13 07:57:40 Check Data Type
+INFO:root:2025-08-13 07:57:40 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:41 NU626 : OK
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+ERROR:root:2025-08-13 07:57:41 Blank Error
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+INFO:root:2025-08-13 07:57:41 Data Acquisition
+ERROR:root:2025-08-13 07:57:41 DHADL : Not Covered
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+INFO:root:2025-08-13 07:57:41 Data Acquisition
+ERROR:root:2025-08-13 07:57:41 DHADP : Not Covered
+
+INFO:root:2025-08-13 07:57:41 Blank Check
+INFO:root:2025-08-13 07:57:41 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 NU652 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 NU655 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+ERROR:root:2025-08-13 07:57:42 Blank Error
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 SJ146 : Not Covered
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 SM133 : Not Covered
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 D1BRJ : Not Covered
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+ERROR:root:2025-08-13 07:57:42 D1BRM : Not Covered
+
+INFO:root:2025-08-13 07:57:42 Blank Check
+INFO:root:2025-08-13 07:57:42 Data Acquisition
+INFO:root:2025-08-13 07:57:43 Date Format Conversion
+INFO:root:2025-08-13 07:57:43 Check Data Type
+INFO:root:2025-08-13 07:57:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:43 NS520 : OK
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+ERROR:root:2025-08-13 07:57:43 Blank Error
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRN : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRR : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SJ147 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SM134 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRS : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRV : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+ERROR:root:2025-08-13 07:57:43 Blank Error
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DFADR : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DFADU : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DFADV : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DFADY : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SJ148 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SM135 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BS4 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BS7 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SK144 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SL148 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+ERROR:root:2025-08-13 07:57:43 Blank Error
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SJ149 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 SKA46 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BS0 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BS2 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+ERROR:root:2025-08-13 07:57:43 Blank Error
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BS8 : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BSB : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BMN : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BNT : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+ERROR:root:2025-08-13 07:57:43 Blank Error
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRW : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 D1BRZ : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DEADN : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 DEADR : Not Covered
+
+INFO:root:2025-08-13 07:57:43 Blank Check
+INFO:root:2025-08-13 07:57:43 Data Acquisition
+ERROR:root:2025-08-13 07:57:43 WB111 : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+ERROR:root:2025-08-13 07:57:44 WB114 : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+ERROR:root:2025-08-13 07:57:44 DEADS : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+ERROR:root:2025-08-13 07:57:44 DEADV : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+ERROR:root:2025-08-13 07:57:44 D1BNU : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+ERROR:root:2025-08-13 07:57:44 D1BNX : Not Covered
+
+INFO:root:2025-08-13 07:57:44 Blank Check
+INFO:root:2025-08-13 07:57:44 Data Acquisition
+INFO:root:2025-08-13 07:57:44 Date Format Conversion
+INFO:root:2025-08-13 07:57:44 Check Data Type
+INFO:root:2025-08-13 07:57:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:45 NS552 : OK
+
+INFO:root:2025-08-13 07:57:45 Blank Check
+INFO:root:2025-08-13 07:57:45 Data Acquisition
+INFO:root:2025-08-13 07:57:45 Date Format Conversion
+INFO:root:2025-08-13 07:57:45 Check Data Type
+INFO:root:2025-08-13 07:57:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:46 NS555 : OK
+
+INFO:root:2025-08-13 07:57:46 Blank Check
+INFO:root:2025-08-13 07:57:46 Data Acquisition
+ERROR:root:2025-08-13 07:57:46 D1BSC : Not Covered
+
+INFO:root:2025-08-13 07:57:46 Blank Check
+INFO:root:2025-08-13 07:57:46 Data Acquisition
+ERROR:root:2025-08-13 07:57:46 D1BSF : Not Covered
+
+INFO:root:2025-08-13 07:57:46 Blank Check
+ERROR:root:2025-08-13 07:57:46 Blank Error
+
+INFO:root:2025-08-13 07:57:46 Blank Check
+INFO:root:2025-08-13 07:57:46 Data Acquisition
+INFO:root:2025-08-13 07:57:47 Date Format Conversion
+INFO:root:2025-08-13 07:57:47 Check Data Type
+INFO:root:2025-08-13 07:57:47 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:47 NS556 : OK
+
+INFO:root:2025-08-13 07:57:47 Blank Check
+INFO:root:2025-08-13 07:57:47 Data Acquisition
+INFO:root:2025-08-13 07:57:48 Date Format Conversion
+INFO:root:2025-08-13 07:57:48 Check Data Type
+INFO:root:2025-08-13 07:57:48 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:48 NS559 : OK
+
+INFO:root:2025-08-13 07:57:48 Blank Check
+ERROR:root:2025-08-13 07:57:48 Blank Error
+
+INFO:root:2025-08-13 07:57:48 Blank Check
+INFO:root:2025-08-13 07:57:48 Data Acquisition
+ERROR:root:2025-08-13 07:57:48 D1BSG : Not Covered
+
+INFO:root:2025-08-13 07:57:48 Blank Check
+INFO:root:2025-08-13 07:57:48 Data Acquisition
+ERROR:root:2025-08-13 07:57:48 D1BSL : Not Covered
+
+INFO:root:2025-08-13 07:57:48 Blank Check
+INFO:root:2025-08-13 07:57:48 Data Acquisition
+INFO:root:2025-08-13 07:57:49 Date Format Conversion
+INFO:root:2025-08-13 07:57:49 Check Data Type
+INFO:root:2025-08-13 07:57:49 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:49 NS560 : OK
+
+INFO:root:2025-08-13 07:57:49 Blank Check
+INFO:root:2025-08-13 07:57:49 Data Acquisition
+INFO:root:2025-08-13 07:57:50 Date Format Conversion
+INFO:root:2025-08-13 07:57:50 Check Data Type
+INFO:root:2025-08-13 07:57:50 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:50 NS563 : OK
+
+INFO:root:2025-08-13 07:57:50 Blank Check
+ERROR:root:2025-08-13 07:57:50 Blank Error
+
+INFO:root:2025-08-13 07:57:50 Blank Check
+INFO:root:2025-08-13 07:57:50 Data Acquisition
+ERROR:root:2025-08-13 07:57:51 NT528 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:51 Blank Check
+INFO:root:2025-08-13 07:57:51 Data Acquisition
+INFO:root:2025-08-13 07:57:52 Date Format Conversion
+INFO:root:2025-08-13 07:57:52 Check Data Type
+INFO:root:2025-08-13 07:57:52 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:52 NT531 : OK
+
+INFO:root:2025-08-13 07:57:52 Blank Check
+ERROR:root:2025-08-13 07:57:52 Blank Error
+
+INFO:root:2025-08-13 07:57:52 Blank Check
+INFO:root:2025-08-13 07:57:52 Data Acquisition
+ERROR:root:2025-08-13 07:57:52 D1BST : Not Covered
+
+INFO:root:2025-08-13 07:57:52 Blank Check
+INFO:root:2025-08-13 07:57:52 Data Acquisition
+ERROR:root:2025-08-13 07:57:52 D1BT1 : Not Covered
+
+INFO:root:2025-08-13 07:57:52 Blank Check
+INFO:root:2025-08-13 07:57:52 Data Acquisition
+INFO:root:2025-08-13 07:57:53 Date Format Conversion
+INFO:root:2025-08-13 07:57:53 Check Data Type
+INFO:root:2025-08-13 07:57:53 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:53 NT532 : OK
+
+INFO:root:2025-08-13 07:57:53 Blank Check
+INFO:root:2025-08-13 07:57:53 Data Acquisition
+INFO:root:2025-08-13 07:57:54 Date Format Conversion
+INFO:root:2025-08-13 07:57:54 Check Data Type
+INFO:root:2025-08-13 07:57:54 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:54 NT535 : OK
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTE : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTG : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAE6 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAE9 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BMS : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSM : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTH : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTK : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSN : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSR : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAEW : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAEZ : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSS : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSY : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BSZ : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BT4 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADC : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADF : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BT5 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BT7 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAEC : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAEV : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAEA : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAED : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAFG : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAFK : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAFL : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAFP : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADQ : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADT : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BR2 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BR5 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADU : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADX : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DH\u3042\uff26\uff28 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHADY : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAE1 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAE2 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DHAE5 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAD2 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAE0 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAE9 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAEC : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFACQ : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFACT : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAF0 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAF3 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAF4 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAF7 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAE4 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAE7 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFACY : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DEAD1 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BU6 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BU9 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BT9 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTC : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAED : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 DFAEG : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BRE : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BRH : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BUG : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BUK : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BR6 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BR9 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BTZ : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 D1BU1 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+ERROR:root:2025-08-13 07:57:54 Blank Error
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 CL075 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 CL078 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 CL079 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:54 CL082 : Not Covered
+
+INFO:root:2025-08-13 07:57:54 Blank Check
+INFO:root:2025-08-13 07:57:54 Data Acquisition
+ERROR:root:2025-08-13 07:57:55 NT536 : Depth not numeric
+
+INFO:root:2025-08-13 07:57:55 Blank Check
+INFO:root:2025-08-13 07:57:55 Data Acquisition
+INFO:root:2025-08-13 07:57:56 Date Format Conversion
+INFO:root:2025-08-13 07:57:56 Check Data Type
+INFO:root:2025-08-13 07:57:56 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:56 NT539 : OK
+
+INFO:root:2025-08-13 07:57:56 Blank Check
+INFO:root:2025-08-13 07:57:56 Data Acquisition
+INFO:root:2025-08-13 07:57:57 Date Format Conversion
+INFO:root:2025-08-13 07:57:57 Check Data Type
+INFO:root:2025-08-13 07:57:57 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:57 NT540 : OK
+
+INFO:root:2025-08-13 07:57:57 Blank Check
+INFO:root:2025-08-13 07:57:57 Data Acquisition
+INFO:root:2025-08-13 07:57:58 Date Format Conversion
+INFO:root:2025-08-13 07:57:58 Check Data Type
+INFO:root:2025-08-13 07:57:58 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:58 NT543 : OK
+
+INFO:root:2025-08-13 07:57:58 Blank Check
+INFO:root:2025-08-13 07:57:58 Data Acquisition
+INFO:root:2025-08-13 07:57:59 Date Format Conversion
+INFO:root:2025-08-13 07:57:59 Check Data Type
+INFO:root:2025-08-13 07:57:59 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:57:59 NS564 : OK
+
+INFO:root:2025-08-13 07:57:59 Blank Check
+ERROR:root:2025-08-13 07:57:59 Blank Error
+
+INFO:root:2025-08-13 07:57:59 Blank Check
+INFO:root:2025-08-13 07:57:59 Data Acquisition
+ERROR:root:2025-08-13 07:58:00 NS566 : Depth not numeric
+
+INFO:root:2025-08-13 07:58:00 Blank Check
+INFO:root:2025-08-13 07:58:00 Data Acquisition
+INFO:root:2025-08-13 07:58:01 Date Format Conversion
+INFO:root:2025-08-13 07:58:01 Check Data Type
+INFO:root:2025-08-13 07:58:01 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:01 NV463 : OK
+
+INFO:root:2025-08-13 07:58:01 Blank Check
+INFO:root:2025-08-13 07:58:01 Data Acquisition
+INFO:root:2025-08-13 07:58:02 Date Format Conversion
+INFO:root:2025-08-13 07:58:02 Check Data Type
+INFO:root:2025-08-13 07:58:02 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:02 NV480 : OK
+
+INFO:root:2025-08-13 07:58:02 Blank Check
+INFO:root:2025-08-13 07:58:02 Data Acquisition
+INFO:root:2025-08-13 07:58:03 Date Format Conversion
+INFO:root:2025-08-13 07:58:03 Check Data Type
+INFO:root:2025-08-13 07:58:03 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:03 NS569 : OK
+
+INFO:root:2025-08-13 07:58:03 Blank Check
+INFO:root:2025-08-13 07:58:03 Data Acquisition
+INFO:root:2025-08-13 07:58:04 Date Format Conversion
+INFO:root:2025-08-13 07:58:04 Check Data Type
+INFO:root:2025-08-13 07:58:04 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:04 NS571 : OK
+
+INFO:root:2025-08-13 07:58:04 Blank Check
+ERROR:root:2025-08-13 07:58:04 Blank Error
+
+INFO:root:2025-08-13 07:58:04 Blank Check
+INFO:root:2025-08-13 07:58:04 Data Acquisition
+ERROR:root:2025-08-13 07:58:04 D1BTN : Not Covered
+
+INFO:root:2025-08-13 07:58:04 Blank Check
+INFO:root:2025-08-13 07:58:04 Data Acquisition
+ERROR:root:2025-08-13 07:58:04 D1BU5 : Not Covered
+
+INFO:root:2025-08-13 07:58:04 Blank Check
+INFO:root:2025-08-13 07:58:04 Data Acquisition
+INFO:root:2025-08-13 07:58:05 Date Format Conversion
+INFO:root:2025-08-13 07:58:05 Check Data Type
+INFO:root:2025-08-13 07:58:05 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:05 NV481 : OK
+
+INFO:root:2025-08-13 07:58:05 Blank Check
+INFO:root:2025-08-13 07:58:05 Data Acquisition
+INFO:root:2025-08-13 07:58:06 Date Format Conversion
+INFO:root:2025-08-13 07:58:06 Check Data Type
+INFO:root:2025-08-13 07:58:06 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:06 NV484 : OK
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DFAE1 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DFAE4 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+ERROR:root:2025-08-13 07:58:06 Blank Error
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DEAE8 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DEAEB : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DFAE5 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DFAE8 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 CL083 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 CL086 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+ERROR:root:2025-08-13 07:58:06 Blank Error
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DHAF8 : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+ERROR:root:2025-08-13 07:58:06 DHAFB : Not Covered
+
+INFO:root:2025-08-13 07:58:06 Blank Check
+INFO:root:2025-08-13 07:58:06 Data Acquisition
+INFO:root:2025-08-13 07:58:07 Date Format Conversion
+INFO:root:2025-08-13 07:58:07 Check Data Type
+INFO:root:2025-08-13 07:58:07 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:07 NV485 : OK
+
+INFO:root:2025-08-13 07:58:07 Blank Check
+INFO:root:2025-08-13 07:58:07 Data Acquisition
+INFO:root:2025-08-13 07:58:08 Date Format Conversion
+INFO:root:2025-08-13 07:58:08 Check Data Type
+INFO:root:2025-08-13 07:58:08 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:09 NV488 : OK
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+INFO:root:2025-08-13 07:58:09 Data Acquisition
+ERROR:root:2025-08-13 07:58:09 DHAFC : Not Covered
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+INFO:root:2025-08-13 07:58:09 Data Acquisition
+ERROR:root:2025-08-13 07:58:09 DHAFF : Not Covered
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+ERROR:root:2025-08-13 07:58:09 Blank Error
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+INFO:root:2025-08-13 07:58:09 Data Acquisition
+ERROR:root:2025-08-13 07:58:09 DFAF7 : Not Covered
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+INFO:root:2025-08-13 07:58:09 Data Acquisition
+ERROR:root:2025-08-13 07:58:09 DFAFA : Not Covered
+
+INFO:root:2025-08-13 07:58:09 Blank Check
+INFO:root:2025-08-13 07:58:09 Data Acquisition
+INFO:root:2025-08-13 07:58:09 Date Format Conversion
+INFO:root:2025-08-13 07:58:09 Check Data Type
+INFO:root:2025-08-13 07:58:09 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:10 NV501 : OK
+
+INFO:root:2025-08-13 07:58:10 Blank Check
+INFO:root:2025-08-13 07:58:10 Data Acquisition
+INFO:root:2025-08-13 07:58:10 Date Format Conversion
+INFO:root:2025-08-13 07:58:10 Check Data Type
+INFO:root:2025-08-13 07:58:10 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:11 NV504 : OK
+
+INFO:root:2025-08-13 07:58:11 Blank Check
+INFO:root:2025-08-13 07:58:11 Data Acquisition
+INFO:root:2025-08-13 07:58:12 Date Format Conversion
+INFO:root:2025-08-13 07:58:12 Check Data Type
+INFO:root:2025-08-13 07:58:12 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:12 NV489 : OK
+
+INFO:root:2025-08-13 07:58:12 Blank Check
+INFO:root:2025-08-13 07:58:12 Data Acquisition
+INFO:root:2025-08-13 07:58:13 Date Format Conversion
+INFO:root:2025-08-13 07:58:13 Check Data Type
+INFO:root:2025-08-13 07:58:13 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:13 NV492 : OK
+
+INFO:root:2025-08-13 07:58:13 Blank Check
+ERROR:root:2025-08-13 07:58:13 Blank Error
+
+INFO:root:2025-08-13 07:58:13 Blank Check
+INFO:root:2025-08-13 07:58:13 Data Acquisition
+INFO:root:2025-08-13 07:58:14 Date Format Conversion
+INFO:root:2025-08-13 07:58:14 Check Data Type
+INFO:root:2025-08-13 07:58:14 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:14 NV493 : OK
+
+INFO:root:2025-08-13 07:58:14 Blank Check
+INFO:root:2025-08-13 07:58:14 Data Acquisition
+INFO:root:2025-08-13 07:58:15 Date Format Conversion
+INFO:root:2025-08-13 07:58:15 Check Data Type
+INFO:root:2025-08-13 07:58:15 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:15 NV496 : OK
+
+INFO:root:2025-08-13 07:58:15 Blank Check
+ERROR:root:2025-08-13 07:58:15 Blank Error
+
+INFO:root:2025-08-13 07:58:15 Blank Check
+INFO:root:2025-08-13 07:58:15 Data Acquisition
+INFO:root:2025-08-13 07:58:16 Date Format Conversion
+INFO:root:2025-08-13 07:58:16 Check Data Type
+INFO:root:2025-08-13 07:58:16 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:16 NV497 : OK
+
+INFO:root:2025-08-13 07:58:16 Blank Check
+INFO:root:2025-08-13 07:58:16 Data Acquisition
+INFO:root:2025-08-13 07:58:17 Date Format Conversion
+INFO:root:2025-08-13 07:58:17 Check Data Type
+INFO:root:2025-08-13 07:58:17 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:18 NV500 : OK
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+ERROR:root:2025-08-13 07:58:18 Blank Error
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BU2 : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BUB : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 CL091 : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 CL093 : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BUQ : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BUT : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+ERROR:root:2025-08-13 07:58:18 Blank Error
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 SJ151 : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 SM136 : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BUL : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+ERROR:root:2025-08-13 07:58:18 D1BUP : Not Covered
+
+INFO:root:2025-08-13 07:58:18 Blank Check
+INFO:root:2025-08-13 07:58:18 Data Acquisition
+INFO:root:2025-08-13 07:58:18 Date Format Conversion
+INFO:root:2025-08-13 07:58:18 Check Data Type
+INFO:root:2025-08-13 07:58:18 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:19 NV505 : OK
+
+INFO:root:2025-08-13 07:58:19 Blank Check
+INFO:root:2025-08-13 07:58:19 Data Acquisition
+INFO:root:2025-08-13 07:58:20 Date Format Conversion
+INFO:root:2025-08-13 07:58:20 Check Data Type
+INFO:root:2025-08-13 07:58:20 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:20 NV508 : OK
+
+INFO:root:2025-08-13 07:58:20 Blank Check
+INFO:root:2025-08-13 07:58:20 Data Acquisition
+ERROR:root:2025-08-13 07:58:20 CL095 : Not Covered
+
+INFO:root:2025-08-13 07:58:20 Blank Check
+INFO:root:2025-08-13 07:58:20 Data Acquisition
+ERROR:root:2025-08-13 07:58:20 CL098 : Not Covered
+
+INFO:root:2025-08-13 07:58:20 Blank Check
+ERROR:root:2025-08-13 07:58:20 Blank Error
+
+INFO:root:2025-08-13 07:58:20 Blank Check
+INFO:root:2025-08-13 07:58:20 Data Acquisition
+INFO:root:2025-08-13 07:58:21 Date Format Conversion
+INFO:root:2025-08-13 07:58:21 Check Data Type
+INFO:root:2025-08-13 07:58:21 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:21 NU657 : OK
+
+INFO:root:2025-08-13 07:58:21 Blank Check
+INFO:root:2025-08-13 07:58:21 Data Acquisition
+INFO:root:2025-08-13 07:58:22 Date Format Conversion
+INFO:root:2025-08-13 07:58:22 Check Data Type
+INFO:root:2025-08-13 07:58:22 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:22 NU659 : OK
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+ERROR:root:2025-08-13 07:58:22 D1BUL : Not Covered
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+ERROR:root:2025-08-13 07:58:22 D1BUP : Not Covered
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+ERROR:root:2025-08-13 07:58:22 Blank Error
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+ERROR:root:2025-08-13 07:58:22 DHAF0 : Not Covered
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+ERROR:root:2025-08-13 07:58:22 DHAF3 : Not Covered
+
+INFO:root:2025-08-13 07:58:22 Blank Check
+INFO:root:2025-08-13 07:58:22 Data Acquisition
+INFO:root:2025-08-13 07:58:23 Date Format Conversion
+INFO:root:2025-08-13 07:58:23 Check Data Type
+INFO:root:2025-08-13 07:58:23 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:24 NU677 : OK
+
+INFO:root:2025-08-13 07:58:24 Blank Check
+INFO:root:2025-08-13 07:58:24 Data Acquisition
+INFO:root:2025-08-13 07:58:25 Date Format Conversion
+INFO:root:2025-08-13 07:58:25 Check Data Type
+INFO:root:2025-08-13 07:58:25 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:25 NU680 : OK
+
+INFO:root:2025-08-13 07:58:25 Blank Check
+INFO:root:2025-08-13 07:58:25 Data Acquisition
+INFO:root:2025-08-13 07:58:26 Date Format Conversion
+INFO:root:2025-08-13 07:58:26 Check Data Type
+INFO:root:2025-08-13 07:58:26 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:26 NU660 : OK
+
+INFO:root:2025-08-13 07:58:26 Blank Check
+INFO:root:2025-08-13 07:58:26 Data Acquisition
+INFO:root:2025-08-13 07:58:27 Date Format Conversion
+INFO:root:2025-08-13 07:58:27 Check Data Type
+INFO:root:2025-08-13 07:58:27 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:27 NU676 : OK
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 DHAF4 : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 DHAF6 : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+ERROR:root:2025-08-13 07:58:27 Blank Error
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 DEAFY : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 DEAG1 : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 SJ152 : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+ERROR:root:2025-08-13 07:58:27 SM137 : Not Covered
+
+INFO:root:2025-08-13 07:58:27 Blank Check
+INFO:root:2025-08-13 07:58:27 Data Acquisition
+INFO:root:2025-08-13 07:58:28 Date Format Conversion
+INFO:root:2025-08-13 07:58:28 Check Data Type
+INFO:root:2025-08-13 07:58:28 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:29 NU685 : OK
+
+INFO:root:2025-08-13 07:58:29 Blank Check
+INFO:root:2025-08-13 07:58:29 Data Acquisition
+INFO:root:2025-08-13 07:58:30 Date Format Conversion
+INFO:root:2025-08-13 07:58:30 Check Data Type
+INFO:root:2025-08-13 07:58:30 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:30 NU688 : OK
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 D1BUC : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 D1BUF : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+ERROR:root:2025-08-13 07:58:30 Blank Error
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DFAFB : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DFAFE : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFU : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFX : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+ERROR:root:2025-08-13 07:58:30 Blank Error
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+ERROR:root:2025-08-13 07:58:30 Blank Error
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+ERROR:root:2025-08-13 07:58:30 Blank Error
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFC : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFF : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFQ : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFT : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+ERROR:root:2025-08-13 07:58:30 Blank Error
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAF8 : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAFB : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAG2 : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DEAG5 : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DHAFQ : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+ERROR:root:2025-08-13 07:58:30 DHAFT : Not Covered
+
+INFO:root:2025-08-13 07:58:30 Blank Check
+INFO:root:2025-08-13 07:58:30 Data Acquisition
+INFO:root:2025-08-13 07:58:31 Date Format Conversion
+INFO:root:2025-08-13 07:58:31 Check Data Type
+INFO:root:2025-08-13 07:58:31 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:32 NU681 : OK
+
+INFO:root:2025-08-13 07:58:32 Blank Check
+INFO:root:2025-08-13 07:58:32 Data Acquisition
+INFO:root:2025-08-13 07:58:33 Date Format Conversion
+INFO:root:2025-08-13 07:58:33 Check Data Type
+INFO:root:2025-08-13 07:58:33 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:33 NU684 : OK
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+ERROR:root:2025-08-13 07:58:33 Blank Error
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAFY : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAG\uff11 : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAFU : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAFX : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 SJ153 : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 SM138 : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+ERROR:root:2025-08-13 07:58:33 Blank Error
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DEAFG : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DEAFK : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DEAFL : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DEAFP : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAG2 : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DHAG5 : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+ERROR:root:2025-08-13 07:58:33 Blank Error
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DFAEV : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+ERROR:root:2025-08-13 07:58:33 DFAEY : Not Covered
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+ERROR:root:2025-08-13 07:58:33 Blank Error
+
+INFO:root:2025-08-13 07:58:33 Blank Check
+INFO:root:2025-08-13 07:58:33 Data Acquisition
+INFO:root:2025-08-13 07:58:35 Date Format Conversion
+INFO:root:2025-08-13 07:58:35 Check Data Type
+INFO:root:2025-08-13 07:58:35 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:35 NT569 : OK
+
+INFO:root:2025-08-13 07:58:35 Blank Check
+INFO:root:2025-08-13 07:58:35 Data Acquisition
+INFO:root:2025-08-13 07:58:36 Date Format Conversion
+INFO:root:2025-08-13 07:58:36 Check Data Type
+INFO:root:2025-08-13 07:58:36 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:36 NT572 : OK
+
+INFO:root:2025-08-13 07:58:36 Blank Check
+INFO:root:2025-08-13 07:58:36 Data Acquisition
+INFO:root:2025-08-13 07:58:37 Date Format Conversion
+INFO:root:2025-08-13 07:58:37 Check Data Type
+INFO:root:2025-08-13 07:58:37 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:38 NU689 : OK
+
+INFO:root:2025-08-13 07:58:38 Blank Check
+INFO:root:2025-08-13 07:58:38 Data Acquisition
+INFO:root:2025-08-13 07:58:39 Date Format Conversion
+INFO:root:2025-08-13 07:58:39 Check Data Type
+INFO:root:2025-08-13 07:58:39 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:39 NU692 : OK
+
+INFO:root:2025-08-13 07:58:39 Blank Check
+INFO:root:2025-08-13 07:58:39 Data Acquisition
+INFO:root:2025-08-13 07:58:40 Date Format Conversion
+INFO:root:2025-08-13 07:58:40 Check Data Type
+INFO:root:2025-08-13 07:58:40 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:40 NT544 : OK
+
+INFO:root:2025-08-13 07:58:40 Blank Check
+INFO:root:2025-08-13 07:58:40 Data Acquisition
+INFO:root:2025-08-13 07:58:41 Date Format Conversion
+INFO:root:2025-08-13 07:58:41 Check Data Type
+INFO:root:2025-08-13 07:58:41 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:42 NT547 : OK
+
+INFO:root:2025-08-13 07:58:42 Blank Check
+INFO:root:2025-08-13 07:58:42 Data Acquisition
+ERROR:root:2025-08-13 07:58:42 CL099 : Not Covered
+
+INFO:root:2025-08-13 07:58:42 Blank Check
+INFO:root:2025-08-13 07:58:42 Data Acquisition
+ERROR:root:2025-08-13 07:58:42 CL012 : Not Covered
+
+INFO:root:2025-08-13 07:58:42 Blank Check
+ERROR:root:2025-08-13 07:58:42 Blank Error
+
+INFO:root:2025-08-13 07:58:42 Blank Check
+INFO:root:2025-08-13 07:58:42 Data Acquisition
+INFO:root:2025-08-13 07:58:43 Date Format Conversion
+INFO:root:2025-08-13 07:58:43 Check Data Type
+INFO:root:2025-08-13 07:58:43 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:43 NU697 : OK
+
+INFO:root:2025-08-13 07:58:43 Blank Check
+INFO:root:2025-08-13 07:58:43 Data Acquisition
+INFO:root:2025-08-13 07:58:44 Date Format Conversion
+INFO:root:2025-08-13 07:58:44 Check Data Type
+INFO:root:2025-08-13 07:58:44 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:44 NU700 : OK
+
+INFO:root:2025-08-13 07:58:44 Blank Check
+INFO:root:2025-08-13 07:58:44 Data Acquisition
+INFO:root:2025-08-13 07:58:45 Date Format Conversion
+INFO:root:2025-08-13 07:58:45 Check Data Type
+INFO:root:2025-08-13 07:58:45 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:45 NT573 : OK
+
+INFO:root:2025-08-13 07:58:45 Blank Check
+INFO:root:2025-08-13 07:58:45 Data Acquisition
+INFO:root:2025-08-13 07:58:46 Date Format Conversion
+INFO:root:2025-08-13 07:58:46 Check Data Type
+INFO:root:2025-08-13 07:58:46 Excel File To XML File Conversion
+INFO:root:2025-08-13 07:58:47 NT576 : OK
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BUU : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BVT : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 CL103 : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 CL106 : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+ERROR:root:2025-08-13 07:58:47 Blank Error
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BY3 : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BY6 : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 DFACU : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BVU : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 D1BVW : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+ERROR:root:2025-08-13 07:58:47 Blank Error
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 DHAGE : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 DHAGH : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Blank Check
+INFO:root:2025-08-13 07:58:47 Data Acquisition
+ERROR:root:2025-08-13 07:58:47 DHAG8 : Not Covered
+
+INFO:root:2025-08-13 07:58:47 Write the next starting line number
+INFO:root:2025-08-13 07:58:47 Program End

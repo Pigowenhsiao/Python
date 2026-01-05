@@ -1,0 +1,19 @@
+2025-09-16 12:18:41,989 - INFO - 2025-09-16 12:18:41 --- Start processing config file: HL13B6.ini ---
+2025-09-16 12:18:41,993 - INFO - 2025-09-16 12:18:41 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_16T12.18.41.csv
+2025-09-16 12:18:41,994 - INFO - 2025-09-16 12:18:41 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-16 12:18:42,209 - INFO - 2025-09-16 12:18:42 Found latest source file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-16 12:18:42,877 - INFO - 2025-09-16 12:18:42 File copied successfully -> ..\DataFile\024_ISO-EML\HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-16 12:18:42,878 - INFO - 2025-09-16 12:18:42 --- Start processing ISO-EML file: HL13B6\u30fbE1_\u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-16 12:18:52,534 - INFO - 2025-09-16 12:18:52 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80'.
+2025-09-16 12:19:32,295 - ERROR - 2025-09-16 12:19:32 Step 1-6 failed: Error during Excel read or process. Error: 'key_Resist_Resist'
+2025-09-16 12:19:32,299 - INFO - 2025-09-16 12:19:32 --- Finished processing config file: HL13B6.ini ---
+2025-09-16 12:19:32,323 - INFO - 2025-09-16 12:19:32 --- Start processing config file: HL13_01.ini ---
+2025-09-16 12:19:32,329 - INFO - 2025-09-16 12:19:32 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\ISO-EML_ISO_Step_2025_09_16T12.19.32.csv
+2025-09-16 12:19:32,331 - INFO - 2025-09-16 12:19:32 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\u5206\u96e2\u6e9d\uff74\uff6f\uff81' with pattern '*HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-09-16 12:19:32,636 - INFO - 2025-09-16 12:19:32 Found latest source file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-16 12:19:42,590 - INFO - 2025-09-16 12:19:42 File copied successfully -> ..\DataFile\024_ISO-EML\HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-09-16 12:19:42,591 - INFO - 2025-09-16 12:19:42 --- Start processing ISO-EML file: HTL13\u2605_ \u5206\u96e2\u6e9d\uff74\uff6f\uff81 \uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-09-16 12:20:59,825 - INFO - 2025-09-16 12:20:59 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80'.
+2025-09-16 12:21:01,516 - ERROR - 2025-09-16 12:21:01 Step 1-6 failed: Error during Excel read or process. Error: 'key_Resist_Resist'
+2025-09-16 12:21:01,520 - INFO - 2025-09-16 12:21:01 --- Finished processing config file: HL13_01.ini ---
+2025-09-16 12:21:01,521 - INFO - 2025-09-16 12:21:01 ===== ISO-EML-Special Script End =====

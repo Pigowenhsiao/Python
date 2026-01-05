@@ -1,0 +1,25 @@
+2025-09-11 09:45:50,976 - INFO - 2025-09-11 09:45:50 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-11 09:45:52,327 - INFO - 2025-09-11 09:45:52 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-11 09:45:52,327 - INFO - 2025-09-11 09:45:52 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-11 09:45:52,335 - ERROR - 2025-09-11 09:45:52 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-11 09:47:57,078 - INFO - 2025-09-11 09:47:57 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT00,SerialNumber=DEAF8,Testdate=2025-08-27T20.09.19.xml
+2025-09-11 09:48:45,504 - INFO - 2025-09-11 09:48:45 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-11 09:48:46,653 - INFO - 2025-09-11 09:48:46 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-11 09:48:46,654 - INFO - 2025-09-11 09:48:46 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-11 09:48:46,672 - ERROR - 2025-09-11 09:48:46 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-11 09:50:35,237 - INFO - 2025-09-11 09:50:35 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT00,SerialNumber=DEAF8,Testdate=2025-08-27T20.09.19.xml
+2025-09-11 10:21:04,353 - INFO - 2025-09-11 10:21:04 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-11 10:21:05,541 - INFO - 2025-09-11 10:21:05 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-11 10:21:05,542 - INFO - 2025-09-11 10:21:05 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-11 10:21:05,559 - ERROR - 2025-09-11 10:21:05 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-11 10:23:07,951 - INFO - 2025-09-11 10:23:07 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-11 10:23:09,115 - INFO - 2025-09-11 10:23:09 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-11 10:23:09,116 - INFO - 2025-09-11 10:23:09 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-11 10:23:09,133 - ERROR - 2025-09-11 10:23:09 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-11 10:23:34,094 - INFO - 2025-09-11 10:23:34 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT00,SerialNumber=DEAF8,Testdate=2025-08-27T20.09.19.xml
+2025-09-11 10:25:37,843 - INFO - 2025-09-11 10:25:37 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT00,SerialNumber=DEAF8,Testdate=2025-08-27T20.09.19.xml
+2025-09-11 10:45:52,384 - INFO - 2025-09-11 10:45:52 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-11 10:45:54,230 - INFO - 2025-09-11 10:45:54 Copy excel file G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check\dailycheck.csv to ../DataFile/BE_SCRAP_ITEMS/
+2025-09-11 10:45:54,231 - INFO - 2025-09-11 10:45:54 Processing Excel File: ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv
+2025-09-11 10:45:54,248 - ERROR - 2025-09-11 10:45:54 UTF-8 decoding failed for ../DataFile/BE_SCRAP_ITEMS/dailycheck.csv. Retrying with 'latin1' encoding.
+2025-09-11 10:47:48,072 - INFO - 2025-09-11 10:47:48 XML File Path: \\li.lumentuminc.net\data\SAG\TDS\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=BE_Scriber_Cleaving,PartNumber=HL13B5-BT00,SerialNumber=DEAF8,Testdate=2025-08-27T20.09.19.xml

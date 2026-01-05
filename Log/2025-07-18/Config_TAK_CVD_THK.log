@@ -1,0 +1,143 @@
+2025-07-18 08:11:06,459 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:11:06,551 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:11:06,552 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:11:07,543 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:11:07,590 - ERROR - Error slicing or transposing data from sheet 'BH\u30e1\u30b5(2)': ['key_start_date_time']
+2025-07-18 08:12:01,128 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:12:01,195 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:12:01,195 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:12:01,964 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:12:02,019 - ERROR - Error slicing or transposing data from sheet 'BH\u30e1\u30b5(2)': ['key_start_date_time']
+2025-07-18 08:15:04,585 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:15:04,810 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:15:04,811 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:15:06,319 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:15:06,525 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718081514.csv
+2025-07-18 08:15:06,718 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_BH_Mesa,Partnumber=\u30c7\u30d0\u30a4\u30b9,Serialnumber=20250718081514,Testdate=2025-07-18T08.15.06.xml
+2025-07-18 08:21:27,182 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:21:27,264 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:21:27,264 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:21:28,027 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:21:28,215 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718082159.csv
+2025-07-18 08:21:28,254 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA_BH_Mesa,Partnumber=QJ-30150,Serialnumber=20250718082159,Testdate=2025-07-18T08.21.28.xml
+2025-07-18 08:36:30,603 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:36:30,686 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:36:30,687 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:36:31,330 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:36:31,456 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718083670.csv
+2025-07-18 08:36:31,530 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA_BH_Mesa,Partnumber=UNKNOW,Serialnumber=20250718083670,Testdate=2025-07-18T08.36.31.xml
+2025-07-18 08:38:09,765 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:38:09,838 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:38:09,838 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:38:10,650 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:38:10,728 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718083832.csv
+2025-07-18 08:38:10,778 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOW,Serialnumber=20250718083832,Testdate=2025-07-18T08.38.10.xml
+2025-07-18 08:39:37,660 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:39:37,739 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:39:37,739 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:39:38,375 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:39:38,453 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718083937.csv
+2025-07-18 08:39:38,497 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718083937,Testdate=2025-07-18T08.39.38.xml
+2025-07-18 08:45:40,299 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:45:40,423 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:45:40,423 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:45:41,256 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:45:41,325 - ERROR - A critical error occurred while processing file C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx: name 'np' is not defined
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\050 TAK_MESA\050_TAK_MESA.py", line 311, in run_process_from_ini
+    process_excel_file(copied_path, source_config, fields_config, basic_info, paths)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\050 TAK_MESA\050_TAK_MESA.py", line 196, in process_excel_file
+    df_processed['part_number'] = np.where(condition, 'X' + df_processed['part_number'], df_processed['part_number'])
+                                  ^^
+NameError: name 'np' is not defined
+2025-07-18 08:46:14,106 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:46:14,220 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:46:14,220 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:46:15,167 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:46:15,237 - INFO - Prefixed 'X' to part_number values starting with 'QJ'.
+2025-07-18 08:46:15,266 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718084676.csv
+2025-07-18 08:46:15,305 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718084676,Testdate=2025-07-18T08.46.15.xml
+2025-07-18 08:55:20,974 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:55:21,060 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:55:21,060 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:55:21,881 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:55:21,952 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 08:55:23,512 - INFO - CSV for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\TAK_Process\CVD_MESA\TAK_CVD_BH_Mesa_20250718085593.csv
+2025-07-18 08:55:24,743 - INFO - XML for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA_BH_Mesa,Partnumber=XQJ-30150,Serialnumber=20250718085593,Testdate=2025-07-18T08.55.23.xml
+2025-07-18 08:59:20,108 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 08:59:20,273 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 08:59:20,273 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 08:59:21,235 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 08:59:21,338 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 08:59:23,278 - INFO - CSV for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\TAK_Process\CVD_MESA\TAK_CVD_BH_Mesa_20250718085914.csv
+2025-07-18 08:59:24,819 - INFO - XML for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718085914,Testdate=2025-07-18T08.59.23.xml
+2025-07-18 09:15:54,225 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:15:54,445 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:15:54,445 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:15:55,337 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:15:55,429 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:15:55,431 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:15:58,929 - INFO - CSV for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\TAK_Process\CVD_MESA\TAK_CVD_BH_Mesa_20250718091588.csv
+2025-07-18 09:16:00,621 - INFO - XML for 'BH_Mesa' saved to: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA_BH_Mesa,Partnumber=XQJ-30150,Serialnumber=20250718091588,Testdate=2025-07-18T09.15.59.xml
+2025-07-18 09:18:52,394 - INFO - Found 0 files matching 'J\u4f5c\u8a18-*.xlsx' in '\\li.lumentuminc.net\data\JPS\Manucturing\OPT\\u30d7\u30ed\u30bb\u30b9\u7ba1\u7406\u30b0\u30e9\u30d5\WP\u7ba1\u7406\u30b0\u30e9\u30d5\\u25a0GC\u7ba1\u7406\u30b0\u30e9\u30d5\'.
+2025-07-18 09:21:12,042 - INFO - Found 0 files matching 'J\u4f5c\u8a18-*.xlsx' in '\\li.lumentuminc.net\data\JPS\Manucturing\OPT\\u30d7\u30ed\u30bb\u30b9\u7ba1\u7406\u30b0\u30e9\u30d5\WP\u7ba1\u7406\u30b0\u30e9\u30d5\\u25a0GC\u7ba1\u7406\u30b0\u30e9\u30d5\'.
+2025-07-18 09:21:23,693 - INFO - Found 0 files matching 'J\u4f5c\u8a18-*.xlsx' in '\\li.lumentuminc.net\data\JPS\Manucturing\OPT\\u30d7\u30ed\u30bb\u30b9\u7ba1\u7406\u30b0\u30e9\u30d5\WP\u7ba1\u7406\u30b0\u30e9\u30d5\\u25a0GC\u7ba1\u7406\u30b0\u30e9\u30d5\'.
+2025-07-18 09:22:17,780 - INFO - Found 0 files matching 'J\u4f5c\u8a18-*.xlsx' in '\\li.lumentuminc.net\data\JPS\Manucturing\OPT\\u30d7\u30ed\u30bb\u30b9\u7ba1\u7406\u30b0\u30e9\u30d5\WP\u7ba1\u7406\u30b0\u30e9\u30d5\\u25a0GC\u7ba1\u7406\u30b0\u30e9\u30d5\'.
+2025-07-18 09:22:58,633 - INFO - Found 0 files matching 'J\u4f5c\u8a18-*.xlsx' in '\\li.lumentuminc.net\data\JPS\Manucturing\OPT\\u30d7\u30ed\u30bb\u30b9\u7ba1\u7406\u30b0\u30e9\u30d5\WP\u7ba1\u7406\u30b0\u30e9\u30d5\\u25a0GC\u7ba1\u7406\u30b0\u30e9\u30d5\'.
+2025-07-18 09:34:43,580 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:34:43,765 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:34:43,765 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:34:44,732 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:34:44,805 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:34:44,806 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:34:46,056 - INFO - CSV for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_BH_Mesa_20250718093486.csv
+2025-07-18 09:34:46,574 - INFO - XML for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718093486,Testdate=2025-07-18T09.34.46.xml
+2025-07-18 09:40:28,260 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:40:28,333 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:40:28,333 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:40:29,096 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:40:29,181 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:40:29,182 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:40:29,675 - INFO - CSV for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_BH_Mesa_20250718094027.csv
+2025-07-18 09:40:29,947 - INFO - XML for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718094027,Testdate=2025-07-18T09.40.29.xml
+2025-07-18 09:40:55,739 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:40:55,816 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:40:55,816 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:40:56,548 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:40:56,605 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:40:56,606 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:40:56,652 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718094086.csv
+2025-07-18 09:40:56,749 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718094086,Testdate=2025-07-18T09.40.56.xml
+2025-07-18 09:50:22,391 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:50:22,457 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:50:22,457 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:50:23,264 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:50:23,341 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:50:23,342 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:50:23,384 - INFO - CSV for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\TAK_CVD_BH_Mesa_20250718095037.csv
+2025-07-18 09:50:23,465 - INFO - XML for 'BH_Mesa' saved to: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718095037,Testdate=2025-07-18T09.50.23.xml
+2025-07-18 09:52:29,647 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 09:52:29,730 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 09:52:29,730 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 09:52:30,568 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 09:52:30,718 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 09:52:30,720 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 09:52:31,297 - INFO - CSV for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_BH_Mesa_20250718095236.csv
+2025-07-18 09:52:31,739 - INFO - XML for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718095236,Testdate=2025-07-18T09.52.31.xml
+2025-07-18 10:00:31,449 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 10:00:31,599 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 10:00:31,599 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 10:00:32,360 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 10:00:32,415 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 10:00:32,416 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 10:00:32,968 - INFO - CSV for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_BH_Mesa_20250718100040.csv
+2025-07-18 10:00:33,267 - INFO - XML for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718100040,Testdate=2025-07-18T10.00.32.xml
+2025-07-18 10:08:08,532 - INFO - Found 1 files matching 'J\u4f5c\u8a18-*.xlsx' in 'C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\'.
+2025-07-18 10:08:08,712 - INFO - Copied C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\Source\J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx -> ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx
+2025-07-18 10:08:08,712 - INFO - --- Processing data source 'BH_Mesa' from file: ../DataFile/050/TAK_CVD/BH_Mesa/J\u4f5c\u8a18-00830-R1 GC CVD\u7ba1\u7406\u30b0\u30e9\u30d5.xlsx ---
+2025-07-18 10:08:09,651 - INFO - Found latest sheet 'BH\u30e1\u30b5(2)' for pattern 'BH\u30e1\u30b5'.
+2025-07-18 10:08:09,719 - INFO - Dropped 32 rows older than 10 days or with invalid date format.
+2025-07-18 10:08:09,721 - INFO - Applied 'X' prefix to relevant part_number values.
+2025-07-18 10:08:10,446 - INFO - CSV for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\TAK\TAK_CVD_BH_Mesa_20250718100855.csv
+2025-07-18 10:08:10,966 - INFO - XML for 'BH_Mesa' saved to: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=TAK FAB,Operation=CVD_MESA,Partnumber=UNKNOWPN,Serialnumber=20250718100855,Testdate=2025-07-18T10.08.10.xml

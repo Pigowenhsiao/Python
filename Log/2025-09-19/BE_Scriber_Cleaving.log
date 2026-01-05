@@ -1,0 +1,6 @@
+2025-09-19 09:12:21,274 - INFO - 2025-09-19 09:12:21 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-19 09:12:21,443 - ERROR - 2025-09-19 09:12:21 Can't find Excel file in G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check/ with pattern dailycheck*.csv
+2025-09-19 09:12:21,444 - INFO - 2025-09-19 09:12:21 Program End
+2025-09-19 15:01:59,523 - INFO - 2025-09-19 15:01:59 Program Start for config BE_Scriber_Cleaving.ini
+2025-09-19 15:01:59,900 - ERROR - 2025-09-19 15:01:59 Can't find Excel file in G:/\u88fd\u9020/User/\u30c7\u88fd\u751f\u7523\u8a08\u753b/JC/\u7af9\u7530/\u5404\u5de5\u7a0b\u4f5c\u696d\u5c65\u6b74/\u30c1\u30c3\u30d7\u5316\u4f5c\u696d\u5c65\u6b74/Daily Check/ with pattern dailycheck*.csv
+2025-09-19 15:01:59,902 - INFO - 2025-09-19 15:01:59 Program End

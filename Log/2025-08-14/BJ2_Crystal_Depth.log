@@ -1,0 +1,222 @@
+2025-08-14 13:17:26,883 - INFO - 2025-08-14 13:17:26 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HL13B6.ini ---
+2025-08-14 13:17:26,885 - INFO - 2025-08-14 13:17:26 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.17.26.csv
+2025-08-14 13:17:26,886 - INFO - 2025-08-14 13:17:26 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL13B6' with pattern '*3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:17:28,162 - INFO - 2025-08-14 13:17:28 Found latest source file: 3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:31,511 - INFO - 2025-08-14 13:17:31 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:31,511 - INFO - 2025-08-14 13:17:31 --- Start processing file: 3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:17:32,545 - INFO - 2025-08-14 13:17:32 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 271 rows loaded starting from row 4.
+2025-08-14 13:17:32,546 - INFO - 2025-08-14 13:17:32 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:17:32,601 - INFO - 2025-08-14 13:17:32 XY coordinate data parsed successfully.
+2025-08-14 13:17:32,605 - INFO - 2025-08-14 13:17:32 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:17:32,606 - INFO - 2025-08-14 13:17:32 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:17:32,607 - INFO - 2025-08-14 13:17:32 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:17:32,608 - INFO - 2025-08-14 13:17:32 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HL13B6.ini ---
+2025-08-14 13:17:32,619 - INFO - 2025-08-14 13:17:32 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HL15B5.ini ---
+2025-08-14 13:17:32,621 - INFO - 2025-08-14 13:17:32 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.17.32.csv
+2025-08-14 13:17:32,622 - INFO - 2025-08-14 13:17:32 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL15B5' with pattern '*3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:17:33,640 - INFO - 2025-08-14 13:17:33 Found latest source file: 3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:37,046 - INFO - 2025-08-14 13:17:37 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:37,047 - INFO - 2025-08-14 13:17:37 --- Start processing file: 3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:17:37,253 - INFO - 2025-08-14 13:17:37 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 277 rows loaded starting from row 4.
+2025-08-14 13:17:37,254 - INFO - 2025-08-14 13:17:37 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:17:37,316 - INFO - 2025-08-14 13:17:37 XY coordinate data parsed successfully.
+2025-08-14 13:17:37,319 - INFO - 2025-08-14 13:17:37 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:17:37,321 - INFO - 2025-08-14 13:17:37 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:17:37,322 - INFO - 2025-08-14 13:17:37 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:17:37,323 - INFO - 2025-08-14 13:17:37 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HL15B5.ini ---
+2025-08-14 13:17:37,335 - INFO - 2025-08-14 13:17:37 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HTL13.ini ---
+2025-08-14 13:17:37,337 - INFO - 2025-08-14 13:17:37 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.17.37.csv
+2025-08-14 13:17:37,338 - INFO - 2025-08-14 13:17:37 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:17:38,611 - INFO - 2025-08-14 13:17:38 Found latest source file: 3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:49,026 - INFO - 2025-08-14 13:17:49 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:17:49,026 - INFO - 2025-08-14 13:17:49 --- Start processing file: 3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:17:50,115 - INFO - 2025-08-14 13:17:50 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 0 rows loaded starting from row 3462.
+2025-08-14 13:17:50,116 - INFO - 2025-08-14 13:17:50 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:17:50,214 - INFO - 2025-08-14 13:17:50 XY coordinate data parsed successfully.
+2025-08-14 13:17:50,215 - ERROR - 2025-08-14 13:17:50 Step 1/2/3 failed: Error during Excel read or filter. Error: 'NoneType' object has no attribute 'notna'
+2025-08-14 13:17:50,216 - INFO - 2025-08-14 13:17:50 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HTL13.ini ---
+2025-08-14 13:17:50,237 - INFO - 2025-08-14 13:17:50 --- Start processing config file: BJ2_Crystal_Depth_Dry2_HTL13.ini ---
+2025-08-14 13:17:50,241 - INFO - 2025-08-14 13:17:50 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.17.50.csv
+2025-08-14 13:17:50,244 - INFO - 2025-08-14 13:17:50 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff812\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*\u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 13:17:51,261 - INFO - 2025-08-14 13:17:51 Found latest source file: \u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 13:18:05,705 - INFO - 2025-08-14 13:18:05 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 13:18:05,706 - INFO - 2025-08-14 13:18:05 --- Start processing file: \u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 13:18:07,832 - INFO - 2025-08-14 13:18:07 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 479 rows loaded starting from row 2280.
+2025-08-14 13:18:07,833 - INFO - 2025-08-14 13:18:07 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:18:08,456 - INFO - 2025-08-14 13:18:08 XY coordinate data parsed successfully.
+2025-08-14 13:18:08,458 - INFO - 2025-08-14 13:18:08 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:18:08,460 - INFO - 2025-08-14 13:18:08 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:18:08,460 - INFO - 2025-08-14 13:18:08 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:18:08,461 - INFO - 2025-08-14 13:18:08 --- Finished processing config file: BJ2_Crystal_Depth_Dry2_HTL13.ini ---
+2025-08-14 13:18:08,478 - INFO - 2025-08-14 13:18:08 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HL13B6.ini ---
+2025-08-14 13:18:08,480 - INFO - 2025-08-14 13:18:08 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.18.08.csv
+2025-08-14 13:18:08,482 - INFO - 2025-08-14 13:18:08 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL13B6' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:18:09,501 - INFO - 2025-08-14 13:18:09 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:14,764 - INFO - 2025-08-14 13:18:14 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:14,765 - INFO - 2025-08-14 13:18:14 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:18:14,979 - INFO - 2025-08-14 13:18:14 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 304 rows loaded starting from row 4.
+2025-08-14 13:18:14,980 - INFO - 2025-08-14 13:18:14 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:18:15,016 - INFO - 2025-08-14 13:18:15 XY coordinate data parsed successfully.
+2025-08-14 13:18:15,018 - INFO - 2025-08-14 13:18:15 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:18:15,019 - INFO - 2025-08-14 13:18:15 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:18:15,019 - INFO - 2025-08-14 13:18:15 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:18:15,020 - INFO - 2025-08-14 13:18:15 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HL13B6.ini ---
+2025-08-14 13:18:15,037 - INFO - 2025-08-14 13:18:15 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HL15B5.ini ---
+2025-08-14 13:18:15,040 - INFO - 2025-08-14 13:18:15 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.18.15.csv
+2025-08-14 13:18:15,042 - INFO - 2025-08-14 13:18:15 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL15B5' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:18:16,310 - INFO - 2025-08-14 13:18:16 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:20,715 - INFO - 2025-08-14 13:18:20 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:20,716 - INFO - 2025-08-14 13:18:20 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:18:20,912 - INFO - 2025-08-14 13:18:20 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 160 rows loaded starting from row 4.
+2025-08-14 13:18:20,913 - INFO - 2025-08-14 13:18:20 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:18:20,952 - INFO - 2025-08-14 13:18:20 XY coordinate data parsed successfully.
+2025-08-14 13:18:20,954 - INFO - 2025-08-14 13:18:20 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:18:20,955 - INFO - 2025-08-14 13:18:20 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:18:20,955 - INFO - 2025-08-14 13:18:20 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:18:20,956 - INFO - 2025-08-14 13:18:20 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HL15B5.ini ---
+2025-08-14 13:18:20,969 - INFO - 2025-08-14 13:18:20 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HTL13.ini ---
+2025-08-14 13:18:20,971 - INFO - 2025-08-14 13:18:20 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.18.20.csv
+2025-08-14 13:18:20,971 - INFO - 2025-08-14 13:18:20 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:18:21,990 - INFO - 2025-08-14 13:18:21 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:36,424 - INFO - 2025-08-14 13:18:36 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:18:36,424 - INFO - 2025-08-14 13:18:36 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:18:39,488 - INFO - 2025-08-14 13:18:39 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 479 rows loaded starting from row 3909.
+2025-08-14 13:18:39,489 - INFO - 2025-08-14 13:18:39 ICP/Dry mode detected. Attempting to read XY sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:18:40,266 - INFO - 2025-08-14 13:18:40 XY coordinate data parsed successfully.
+2025-08-14 13:18:40,268 - INFO - 2025-08-14 13:18:40 Using 'key_Serial_Number' as the key column for dropping empty rows.
+2025-08-14 13:18:40,269 - INFO - 2025-08-14 13:18:40 Step 2: Initial filtering (date, key column) complete. 0 valid rows remaining.
+2025-08-14 13:18:40,270 - INFO - 2025-08-14 13:18:40 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:18:40,271 - INFO - 2025-08-14 13:18:40 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HTL13.ini ---
+2025-08-14 13:18:52,774 - INFO - 2025-08-14 13:18:52 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HL13B6.ini ---
+2025-08-14 13:18:52,776 - INFO - 2025-08-14 13:18:52 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.18.52.csv
+2025-08-14 13:18:52,777 - INFO - 2025-08-14 13:18:52 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL13B6' with pattern '*3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:18:54,050 - INFO - 2025-08-14 13:18:54 Found latest source file: 3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:18:57,246 - INFO - 2025-08-14 13:18:57 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:18:57,246 - INFO - 2025-08-14 13:18:57 --- Start processing file: 3\uff72\uff9d\uff81_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:18:58,049 - INFO - 2025-08-14 13:18:58 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 255 rows loaded.
+2025-08-14 13:18:58,050 - INFO - 2025-08-14 13:18:58 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:18:58,094 - INFO - 2025-08-14 13:18:58 XY coordinate data parsed.
+2025-08-14 13:18:58,097 - INFO - 2025-08-14 13:18:58 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 13:18:58,098 - INFO - 2025-08-14 13:18:58 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:18:58,098 - INFO - 2025-08-14 13:18:58 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HL13B6.ini ---
+2025-08-14 13:18:58,111 - INFO - 2025-08-14 13:18:58 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HL15B5.ini ---
+2025-08-14 13:18:58,113 - INFO - 2025-08-14 13:18:58 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.18.58.csv
+2025-08-14 13:18:58,114 - INFO - 2025-08-14 13:18:58 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL15B5' with pattern '*3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:18:59,159 - INFO - 2025-08-14 13:18:59 Found latest source file: 3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:19:02,399 - INFO - 2025-08-14 13:19:02 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:19:02,399 - INFO - 2025-08-14 13:19:02 --- Start processing file: 3\uff72\uff9d\uff81_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:19:02,605 - INFO - 2025-08-14 13:19:02 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 261 rows loaded.
+2025-08-14 13:19:02,605 - INFO - 2025-08-14 13:19:02 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:19:02,657 - INFO - 2025-08-14 13:19:02 XY coordinate data parsed.
+2025-08-14 13:19:02,660 - INFO - 2025-08-14 13:19:02 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 13:19:02,661 - INFO - 2025-08-14 13:19:02 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:19:02,661 - INFO - 2025-08-14 13:19:02 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HL15B5.ini ---
+2025-08-14 13:19:02,678 - INFO - 2025-08-14 13:19:02 --- Start processing config file: BJ2_Crystal_Depth_Dry1_HTL13.ini ---
+2025-08-14 13:19:02,680 - INFO - 2025-08-14 13:19:02 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.19.02.csv
+2025-08-14 13:19:02,681 - INFO - 2025-08-14 13:19:02 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff811\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-14 13:19:03,700 - INFO - 2025-08-14 13:19:03 Found latest source file: 3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:19:31,700 - INFO - 2025-08-14 13:19:31 File copied successfully -> ..\DataFile\007_BJ2\3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-14 13:19:31,701 - INFO - 2025-08-14 13:19:31 --- Start processing file: 3\uff72\uff9d\uff81_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-14 13:19:32,933 - INFO - 2025-08-14 13:19:32 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2109 rows loaded.
+2025-08-14 13:19:32,933 - INFO - 2025-08-14 13:19:32 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:19:33,041 - INFO - 2025-08-14 13:19:33 XY coordinate data parsed.
+2025-08-14 13:19:33,047 - INFO - 2025-08-14 13:19:33 Step 2: Initial filtering (date, serial number) complete. 26 rows remaining.
+2025-08-14 13:19:33,047 - INFO - 2025-08-14 13:19:33 Step 3: Starting database query...
+2025-08-14 13:20:03,189 - INFO - 2025-08-14 13:20:03 Database query and filtering complete. 26 valid rows remaining.
+2025-08-14 13:20:03,715 - INFO - 2025-08-14 13:20:03 Database connection closed.
+2025-08-14 13:20:03,716 - INFO - 2025-08-14 13:20:03 Step 4: Starting data transformation and calculation...
+2025-08-14 13:20:03,741 - INFO - 2025-08-14 13:20:03 Date and SORTED field calculations complete.
+2025-08-14 13:20:03,742 - INFO - 2025-08-14 13:20:03 Using fixed tool name from INI: '#1'
+2025-08-14 13:20:03,744 - INFO - 2025-08-14 13:20:03 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 13:20:03,745 - INFO - 2025-08-14 13:20:03 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 13:20:03,746 - INFO - 2025-08-14 13:20:03 Step 7: Preparing to write 26 rows to CSV...
+2025-08-14 13:20:03,746 - INFO - 2025-08-14 13:20:03 Executing function write_to_csv...
+2025-08-14 13:20:03,780 - INFO - 2025-08-14 13:20:03 Function write_to_csv executed successfully.
+2025-08-14 13:20:05,046 - INFO - 2025-08-14 13:20:05 Step 8: Updating next start row to 2150
+2025-08-14 13:20:05,048 - ERROR - 2025-08-14 13:20:05 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/007_BJ2/13_ProgramUsedFile/'
+2025-08-14 13:20:05,048 - INFO - 2025-08-14 13:20:05 --- Function process_excel_file executed successfully ---
+2025-08-14 13:20:05,050 - INFO - 2025-08-14 13:20:05 --- Generating pointer XML for BJ2_Crystal_Depth_Dry1_HTL13.ini ---
+2025-08-14 13:20:05,050 - INFO - 2025-08-14 13:20:05 Executing function generate_pointer_xml...
+2025-08-14 13:20:05,117 - INFO - 2025-08-14 13:20:05 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ2_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=BJ2_Crystal_Depth_2025_08_14T13.19.02,Testdate=2025-08-14T13.20.05.xml
+2025-08-14 13:20:05,118 - INFO - 2025-08-14 13:20:05 --- Finished processing config file: BJ2_Crystal_Depth_Dry1_HTL13.ini ---
+2025-08-14 13:20:05,142 - INFO - 2025-08-14 13:20:05 --- Start processing config file: BJ2_Crystal_Depth_Dry2_HTL13.ini ---
+2025-08-14 13:20:05,146 - INFO - 2025-08-14 13:20:05 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.20.05.csv
+2025-08-14 13:20:05,148 - INFO - 2025-08-14 13:20:05 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff812\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*\u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8*.xlsm'
+2025-08-14 13:20:06,427 - INFO - 2025-08-14 13:20:06 Found latest source file: \u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 13:20:13,742 - INFO - 2025-08-14 13:20:13 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm
+2025-08-14 13:20:13,743 - INFO - 2025-08-14 13:20:13 --- Start processing file: \u30c9\u30e9\u30a42\u53f7\u6a5f_3\u30a4\u30f3\u30c1_HTL13\u2605\uff0a\uff0a_BJ2\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1\u30d7\u30ed\u30b0\u30e9\u30e0\u30b7\u30fc\u30c8.xlsm ---
+2025-08-14 13:20:15,946 - INFO - 2025-08-14 13:20:15 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 2739 rows loaded.
+2025-08-14 13:20:15,947 - INFO - 2025-08-14 13:20:15 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:20:16,451 - INFO - 2025-08-14 13:20:16 XY coordinate data parsed.
+2025-08-14 13:20:16,459 - INFO - 2025-08-14 13:20:16 Step 2: Initial filtering (date, serial number) complete. 43 rows remaining.
+2025-08-14 13:20:16,460 - INFO - 2025-08-14 13:20:16 Step 3: Starting database query...
+2025-08-14 13:21:07,862 - INFO - 2025-08-14 13:21:07 Database query and filtering complete. 43 valid rows remaining.
+2025-08-14 13:21:08,385 - INFO - 2025-08-14 13:21:08 Database connection closed.
+2025-08-14 13:21:08,386 - INFO - 2025-08-14 13:21:08 Step 4: Starting data transformation and calculation...
+2025-08-14 13:21:08,477 - INFO - 2025-08-14 13:21:08 Date and SORTED field calculations complete.
+2025-08-14 13:21:08,480 - INFO - 2025-08-14 13:21:08 Using fixed tool name from INI: '#2'
+2025-08-14 13:21:08,486 - INFO - 2025-08-14 13:21:08 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 13:21:08,487 - INFO - 2025-08-14 13:21:08 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 13:21:08,490 - INFO - 2025-08-14 13:21:08 Step 7: Preparing to write 43 rows to CSV...
+2025-08-14 13:21:08,491 - INFO - 2025-08-14 13:21:08 Executing function write_to_csv...
+2025-08-14 13:21:08,543 - INFO - 2025-08-14 13:21:08 Function write_to_csv executed successfully.
+2025-08-14 13:21:10,713 - INFO - 2025-08-14 13:21:10 Step 8: Updating next start row to 2780
+2025-08-14 13:21:10,715 - ERROR - 2025-08-14 13:21:10 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/007_BJ2/13_ProgramUsedFile/'
+2025-08-14 13:21:10,716 - INFO - 2025-08-14 13:21:10 --- Function process_excel_file executed successfully ---
+2025-08-14 13:21:10,717 - INFO - 2025-08-14 13:21:10 --- Generating pointer XML for BJ2_Crystal_Depth_Dry2_HTL13.ini ---
+2025-08-14 13:21:10,717 - INFO - 2025-08-14 13:21:10 Executing function generate_pointer_xml...
+2025-08-14 13:21:10,777 - INFO - 2025-08-14 13:21:10 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ2_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=BJ2_Crystal_Depth_2025_08_14T13.20.05,Testdate=2025-08-14T13.21.10.xml
+2025-08-14 13:21:10,777 - INFO - 2025-08-14 13:21:10 --- Finished processing config file: BJ2_Crystal_Depth_Dry2_HTL13.ini ---
+2025-08-14 13:21:10,797 - INFO - 2025-08-14 13:21:10 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HL13B6.ini ---
+2025-08-14 13:21:10,801 - INFO - 2025-08-14 13:21:10 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.21.10.csv
+2025-08-14 13:21:10,804 - INFO - 2025-08-14 13:21:10 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL13B6' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:21:12,074 - INFO - 2025-08-14 13:21:12 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:15,356 - INFO - 2025-08-14 13:21:15 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:15,357 - INFO - 2025-08-14 13:21:15 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL13B6-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:21:15,547 - INFO - 2025-08-14 13:21:15 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 288 rows loaded.
+2025-08-14 13:21:15,548 - INFO - 2025-08-14 13:21:15 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:21:15,585 - INFO - 2025-08-14 13:21:15 XY coordinate data parsed.
+2025-08-14 13:21:15,588 - INFO - 2025-08-14 13:21:15 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 13:21:15,589 - INFO - 2025-08-14 13:21:15 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:21:15,590 - INFO - 2025-08-14 13:21:15 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HL13B6.ini ---
+2025-08-14 13:21:15,602 - INFO - 2025-08-14 13:21:15 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HL15B5.ini ---
+2025-08-14 13:21:15,604 - INFO - 2025-08-14 13:21:15 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.21.15.csv
+2025-08-14 13:21:15,605 - INFO - 2025-08-14 13:21:15 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HL15B5' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:21:16,622 - INFO - 2025-08-14 13:21:16 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:19,923 - INFO - 2025-08-14 13:21:19 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:19,924 - INFO - 2025-08-14 13:21:19 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HL15B5-BT\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:21:20,060 - INFO - 2025-08-14 13:21:20 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 144 rows loaded.
+2025-08-14 13:21:20,061 - INFO - 2025-08-14 13:21:20 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:21:20,107 - INFO - 2025-08-14 13:21:20 XY coordinate data parsed.
+2025-08-14 13:21:20,110 - INFO - 2025-08-14 13:21:20 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-14 13:21:20,110 - INFO - 2025-08-14 13:21:20 No data left after initial filtering. Ending process for this file.
+2025-08-14 13:21:20,111 - INFO - 2025-08-14 13:21:20 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HL15B5.ini ---
+2025-08-14 13:21:20,127 - INFO - 2025-08-14 13:21:20 --- Start processing config file: BJ2_Crystal_Depth_Dry5_HTL13.ini ---
+2025-08-14 13:21:20,129 - INFO - 2025-08-14 13:21:20 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\BJ2_Crystal_Depth_2025_08_14T13.21.20.csv
+2025-08-14 13:21:20,130 - INFO - 2025-08-14 13:21:20 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1\HTL13\u2605\uff0a\uff0a' with pattern '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_*BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsx'
+2025-08-14 13:21:21,152 - INFO - 2025-08-14 13:21:21 Found latest source file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:36,464 - INFO - 2025-08-14 13:21:36 File copied successfully -> ..\DataFile\007_BJ2\\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx
+2025-08-14 13:21:36,464 - INFO - 2025-08-14 13:21:36 --- Start processing file: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605\uff0a\uff0a_ BJ2\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsx ---
+2025-08-14 13:21:39,229 - INFO - 2025-08-14 13:21:39 Step 1: Successfully read main sheet '\u30c7\u30fc\u30bf', 4368 rows loaded.
+2025-08-14 13:21:39,230 - INFO - 2025-08-14 13:21:39 Wafer location mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-14 13:21:39,884 - INFO - 2025-08-14 13:21:39 XY coordinate data parsed.
+2025-08-14 13:21:39,890 - INFO - 2025-08-14 13:21:39 Step 2: Initial filtering (date, serial number) complete. 24 rows remaining.
+2025-08-14 13:21:39,890 - INFO - 2025-08-14 13:21:39 Step 3: Starting database query...
+2025-08-14 13:22:10,877 - INFO - 2025-08-14 13:22:10 Database query and filtering complete. 24 valid rows remaining.
+2025-08-14 13:22:11,391 - INFO - 2025-08-14 13:22:11 Database connection closed.
+2025-08-14 13:22:11,391 - INFO - 2025-08-14 13:22:11 Step 4: Starting data transformation and calculation...
+2025-08-14 13:22:11,423 - INFO - 2025-08-14 13:22:11 Date and SORTED field calculations complete.
+2025-08-14 13:22:11,424 - INFO - 2025-08-14 13:22:11 Using fixed tool name from INI: '#5'
+2025-08-14 13:22:11,426 - INFO - 2025-08-14 13:22:11 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-14 13:22:11,426 - INFO - 2025-08-14 13:22:11 Step 6: Dynamic CSV columns and order generated.
+2025-08-14 13:22:11,428 - INFO - 2025-08-14 13:22:11 Step 7: Preparing to write 24 rows to CSV...
+2025-08-14 13:22:11,428 - INFO - 2025-08-14 13:22:11 Executing function write_to_csv...
+2025-08-14 13:22:11,457 - INFO - 2025-08-14 13:22:11 Function write_to_csv executed successfully.
+2025-08-14 13:22:14,628 - INFO - 2025-08-14 13:22:14 Step 8: Updating next start row to 4409
+2025-08-14 13:22:14,633 - ERROR - 2025-08-14 13:22:14 Failed to backup running_rec file: [Errno 2] No such file or directory: 'T:/04_\u30d7\u30ed\u30bb\u30b9\u95a2\u4fc2/10_\u5171\u901a/91_KAIZEN-TDS/01_\u958b\u767a/007_BJ2/13_ProgramUsedFile/'
+2025-08-14 13:22:14,633 - INFO - 2025-08-14 13:22:14 --- Function process_excel_file executed successfully ---
+2025-08-14 13:22:14,637 - INFO - 2025-08-14 13:22:14 --- Generating pointer XML for BJ2_Crystal_Depth_Dry5_HTL13.ini ---
+2025-08-14 13:22:14,638 - INFO - 2025-08-14 13:22:14 Executing function generate_pointer_xml...
+2025-08-14 13:22:14,702 - INFO - 2025-08-14 13:22:14 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=BJ2_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=BJ2_Crystal_Depth_2025_08_14T13.21.20,Testdate=2025-08-14T13.22.14.xml
+2025-08-14 13:22:14,702 - INFO - 2025-08-14 13:22:14 --- Finished processing config file: BJ2_Crystal_Depth_Dry5_HTL13.ini ---
+2025-08-14 13:22:14,703 - INFO - 2025-08-14 13:22:14 ===== Universal Script End =====

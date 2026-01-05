@@ -1,0 +1,101 @@
+2025-08-07 10:45:54,476 - INFO - 2025-08-07 10:45:54 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_Dry.ini ---
+2025-08-07 10:45:54,478 - INFO - 2025-08-07 10:45:54 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T10.45.54.csv
+2025-08-07 10:45:54,478 - INFO - 2025-08-07 10:45:54 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 10:45:54,702 - INFO - 2025-08-07 10:45:54 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:45:56,756 - INFO - 2025-08-07 10:45:56 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:45:56,756 - INFO - 2025-08-07 10:45:56 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 10:45:58,815 - INFO - 2025-08-07 10:45:58 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 310 \u884c
+2025-08-07 10:45:58,815 - INFO - 2025-08-07 10:45:58 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 10:45:58,889 - INFO - 2025-08-07 10:45:58 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 10:45:58,893 - INFO - 2025-08-07 10:45:58 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 0 \u884c
+2025-08-07 10:45:58,894 - INFO - 2025-08-07 10:45:58 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_Dry.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 10:45:58,905 - INFO - 2025-08-07 10:45:58 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_ICP_ICPD1.ini ---
+2025-08-07 10:45:58,907 - INFO - 2025-08-07 10:45:58 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T10.45.58.csv
+2025-08-07 10:45:58,909 - INFO - 2025-08-07 10:45:58 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*ICP\u30c9\u30e9\u30a4_HL13\u2605xx_*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 10:45:59,098 - INFO - 2025-08-07 10:45:59 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:46:02,558 - INFO - 2025-08-07 10:46:02 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:46:02,558 - INFO - 2025-08-07 10:46:02 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 10:46:12,100 - INFO - 2025-08-07 10:46:12 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 9933 \u884c
+2025-08-07 10:46:12,101 - INFO - 2025-08-07 10:46:12 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 10:46:12,518 - INFO - 2025-08-07 10:46:12 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 10:46:12,536 - INFO - 2025-08-07 10:46:12 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 64 \u884c
+2025-08-07 10:46:12,537 - INFO - 2025-08-07 10:46:12 \u6b65\u9a5f3: \u958b\u59cb\u8cc7\u6599\u5eab\u67e5\u8a62...
+2025-08-07 10:47:08,400 - INFO - 2025-08-07 10:47:08 \u8cc7\u6599\u5eab\u67e5\u8a62\u5b8c\u6210\uff0c\u5269\u9918 62 \u884c
+2025-08-07 10:47:08,485 - INFO - 2025-08-07 10:47:08 \u6b65\u9a5f4: \u958b\u59cb\u8cc7\u6599\u8f49\u63db...
+2025-08-07 10:47:08,532 - INFO - 2025-08-07 10:47:08 \u4f7f\u7528\u56fa\u5b9a\u5de5\u5177\u540d\u7a31: 'ICP1'
+2025-08-07 10:47:08,534 - INFO - 2025-08-07 10:47:08 \u6b65\u9a5f5: \u9644\u52a0\u984d\u5916\u8cc7\u8a0a\u5b8c\u6210
+2025-08-07 10:47:08,536 - INFO - 2025-08-07 10:47:08 \u6b65\u9a5f6: \u52d5\u614b CSV \u6b04\u4f4d\u751f\u6210\u5b8c\u7562
+2025-08-07 10:47:08,576 - INFO - 2025-08-07 10:47:08 \u6b65\u9a5f7: \u6210\u529f\u5beb\u5165 62 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 10:47:18,949 - INFO - 2025-08-07 10:47:18 \u6b65\u9a5f8: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 9942
+2025-08-07 10:47:18,950 - INFO - 2025-08-07 10:47:18 --- \u6a94\u6848 ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 10:47:18,951 - INFO - 2025-08-07 10:47:18 --- \u70ba MESA_Crystal_Depth_ICP_ICPD1.ini \u751f\u6210\u6307\u6a19 XML ---
+2025-08-07 10:47:19,016 - INFO - 2025-08-07 10:47:19 \u6307\u6a19 XML \u5df2\u751f\u6210\u65bc: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Crystal_Depth_2025_08_07T10.45.58,Testdate=2025-08-07T10.47.18.xml
+2025-08-07 10:47:19,017 - INFO - 2025-08-07 10:47:19 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_ICP_ICPD1.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 10:47:19,028 - INFO - 2025-08-07 10:47:19 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-07 10:47:19,030 - INFO - 2025-08-07 10:47:19 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T10.47.19.csv
+2025-08-07 10:47:19,031 - INFO - 2025-08-07 10:47:19 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4#2\3\u30a4\u30f3\u30c1' \u4e2d\u641c\u5c0b\u6a21\u5f0f 'ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 10:47:19,240 - INFO - 2025-08-07 10:47:19 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:47:22,996 - INFO - 2025-08-07 10:47:22 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 10:47:22,996 - INFO - 2025-08-07 10:47:22 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 10:47:27,387 - INFO - 2025-08-07 10:47:27 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 2215 \u884c
+2025-08-07 10:47:27,388 - INFO - 2025-08-07 10:47:27 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 10:47:27,628 - INFO - 2025-08-07 10:47:27 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 10:47:27,634 - INFO - 2025-08-07 10:47:27 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 1481 \u884c
+2025-08-07 10:47:27,635 - INFO - 2025-08-07 10:47:27 \u6b65\u9a5f3: \u958b\u59cb\u8cc7\u6599\u5eab\u67e5\u8a62...
+2025-08-07 11:09:34,074 - INFO - 2025-08-07 11:09:34 \u8cc7\u6599\u5eab\u67e5\u8a62\u5b8c\u6210\uff0c\u5269\u9918 1320 \u884c
+2025-08-07 11:09:34,163 - INFO - 2025-08-07 11:09:34 \u6b65\u9a5f4: \u958b\u59cb\u8cc7\u6599\u8f49\u63db...
+2025-08-07 11:09:39,048 - INFO - 2025-08-07 11:09:39 \u4f7f\u7528\u56fa\u5b9a\u5de5\u5177\u540d\u7a31: 'ICP2'
+2025-08-07 11:09:39,053 - INFO - 2025-08-07 11:09:39 \u6b65\u9a5f5: \u9644\u52a0\u984d\u5916\u8cc7\u8a0a\u5b8c\u6210
+2025-08-07 11:09:39,071 - INFO - 2025-08-07 11:09:39 \u6b65\u9a5f6: \u52d5\u614b CSV \u6b04\u4f4d\u751f\u6210\u5b8c\u7562
+2025-08-07 11:09:39,483 - INFO - 2025-08-07 11:09:39 \u6b65\u9a5f7: \u6210\u529f\u5beb\u5165 1320 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 11:09:46,887 - INFO - 2025-08-07 11:09:46 \u6b65\u9a5f8: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 6162
+2025-08-07 11:09:46,887 - INFO - 2025-08-07 11:09:46 --- \u6a94\u6848 ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:09:46,890 - INFO - 2025-08-07 11:09:46 --- \u70ba MESA_Crystal_Depth_ICP_ICPD2.ini \u751f\u6210\u6307\u6a19 XML ---
+2025-08-07 11:09:46,946 - INFO - 2025-08-07 11:09:46 \u6307\u6a19 XML \u5df2\u751f\u6210\u65bc: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Crystal_Depth_2025_08_07T10.47.19,Testdate=2025-08-07T11.09.46.xml
+2025-08-07 11:09:46,946 - INFO - 2025-08-07 11:09:46 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_ICP_ICPD2.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:09:46,986 - INFO - 2025-08-07 11:09:46 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====
+2025-08-07 11:56:12,408 - INFO - 2025-08-07 11:56:12 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_Dry.ini ---
+2025-08-07 11:56:12,413 - INFO - 2025-08-07 11:56:12 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T11.56.12.csv
+2025-08-07 11:56:12,415 - INFO - 2025-08-07 11:56:12 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\\uff84\uff9e\uff97\uff72\uff74\uff6f\uff815\u53f7\u6a5f\3\u30a4\u30f3\u30c1' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 11:56:12,635 - INFO - 2025-08-07 11:56:12 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:56:14,691 - INFO - 2025-08-07 11:56:14 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\\u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:56:14,692 - INFO - 2025-08-07 11:56:14 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: \u30c9\u30e9\u30a45\u53f7\u6a5f_HTL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 11:56:16,924 - INFO - 2025-08-07 11:56:16 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 310 \u884c
+2025-08-07 11:56:16,924 - INFO - 2025-08-07 11:56:16 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 11:56:16,985 - INFO - 2025-08-07 11:56:16 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 11:56:16,990 - INFO - 2025-08-07 11:56:16 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 0 \u884c
+2025-08-07 11:56:16,991 - INFO - 2025-08-07 11:56:16 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_Dry.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:56:17,005 - INFO - 2025-08-07 11:56:17 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_ICP_ICPD1.ini ---
+2025-08-07 11:56:17,007 - INFO - 2025-08-07 11:56:17 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T11.56.17.csv
+2025-08-07 11:56:17,008 - INFO - 2025-08-07 11:56:17 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4' \u4e2d\u641c\u5c0b\u6a21\u5f0f '*ICP\u30c9\u30e9\u30a4_HL13\u2605xx_*\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 11:56:17,195 - INFO - 2025-08-07 11:56:17 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:56:21,472 - INFO - 2025-08-07 11:56:21 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:56:21,473 - INFO - 2025-08-07 11:56:21 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 11:56:30,187 - INFO - 2025-08-07 11:56:30 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 1495 \u884c
+2025-08-07 11:56:30,188 - INFO - 2025-08-07 11:56:30 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 11:56:30,486 - INFO - 2025-08-07 11:56:30 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 11:56:30,492 - INFO - 2025-08-07 11:56:30 \u6b65\u9a5f2: \u521d\u6b65\u904e\u6ffe\u5b8c\u6210\uff0c\u5269\u9918 64 \u884c
+2025-08-07 11:56:30,492 - INFO - 2025-08-07 11:56:30 \u6b65\u9a5f3: \u958b\u59cb\u8cc7\u6599\u5eab\u67e5\u8a62...
+2025-08-07 11:57:22,179 - INFO - 2025-08-07 11:57:22 \u8cc7\u6599\u5eab\u67e5\u8a62\u5b8c\u6210\uff0c\u5269\u9918 62 \u884c
+2025-08-07 11:57:22,282 - INFO - 2025-08-07 11:57:22 \u6b65\u9a5f4: \u958b\u59cb\u8cc7\u6599\u8f49\u63db...
+2025-08-07 11:57:22,392 - INFO - 2025-08-07 11:57:22 \u4f7f\u7528\u56fa\u5b9a\u5de5\u5177\u540d\u7a31: 'ICP1'
+2025-08-07 11:57:22,395 - INFO - 2025-08-07 11:57:22 \u6b65\u9a5f5: \u9644\u52a0\u984d\u5916\u8cc7\u8a0a\u5b8c\u6210
+2025-08-07 11:57:22,397 - INFO - 2025-08-07 11:57:22 \u6b65\u9a5f6: \u52d5\u614b CSV \u6b04\u4f4d\u751f\u6210\u5b8c\u7562
+2025-08-07 11:57:22,431 - INFO - 2025-08-07 11:57:22 \u6b65\u9a5f7: \u6210\u529f\u5beb\u5165 62 \u7b46\u8cc7\u6599\u5230 CSV
+2025-08-07 11:57:32,209 - INFO - 2025-08-07 11:57:32 \u6b65\u9a5f8: \u66f4\u65b0\u4e0b\u6b21\u8d77\u59cb\u884c\u865f\u70ba 18380
+2025-08-07 11:57:32,210 - INFO - 2025-08-07 11:57:32 --- \u6a94\u6848 ICP\u30c9\u30e9\u30a4_HL13\u2605xx_ \uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:57:32,212 - INFO - 2025-08-07 11:57:32 --- \u70ba MESA_Crystal_Depth_ICP_ICPD1.ini \u751f\u6210\u6307\u6a19 XML ---
+2025-08-07 11:57:32,281 - INFO - 2025-08-07 11:57:32 \u6307\u6a19 XML \u5df2\u751f\u6210\u65bc: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\Site=350,ProductFamily=SAG FAB,Operation=MESA_Crystal_Depth,Partnumber=UNKNOWPN,Serialnumber=MESA_Crystal_Depth_2025_08_07T11.56.17,Testdate=2025-08-07T11.57.32.xml
+2025-08-07 11:57:32,282 - INFO - 2025-08-07 11:57:32 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_ICP_ICPD1.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:57:32,297 - INFO - 2025-08-07 11:57:32 --- \u958b\u59cb\u8655\u7406\u8a2d\u5b9a\u6a94: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-07 11:57:32,299 - INFO - 2025-08-07 11:57:32 \u6b64 INI \u7684 CSV \u8f38\u51fa\u6a94\u6848\u70ba: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\MESA_Crystal_Depth_2025_08_07T11.57.32.csv
+2025-08-07 11:57:32,300 - INFO - 2025-08-07 11:57:32 \u5728\u8def\u5f91 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4#2\3\u30a4\u30f3\u30c1' \u4e2d\u641c\u5c0b\u6a21\u5f0f 'ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-07 11:57:32,718 - INFO - 2025-08-07 11:57:32 \u627e\u5230\u6700\u65b0\u7684\u4f86\u6e90\u6a94\u6848: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:57:36,524 - INFO - 2025-08-07 11:57:36 \u8907\u88fd\u6a94\u6848\u6210\u529f -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-07 11:57:36,524 - INFO - 2025-08-07 11:57:36 --- \u958b\u59cb\u8655\u7406\u6a94\u6848: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-07 11:57:40,984 - INFO - 2025-08-07 11:57:40 \u6b65\u9a5f1: \u8b80\u53d6\u4e3b\u8981\u5de5\u4f5c\u8868 '\uff83\uff9e\uff70\uff80' \u6210\u529f\uff0c\u5171 0 \u884c
+2025-08-07 11:57:40,985 - INFO - 2025-08-07 11:57:40 \u5075\u6e2c\u5230 ICP/Dry \u6a21\u5f0f\uff0c\u8b80\u53d6 XY \u5ea7\u6a19\u8868: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-07 11:57:41,236 - INFO - 2025-08-07 11:57:41 \u89e3\u6790 XY \u5ea7\u6a19\u5b8c\u6210
+2025-08-07 11:57:41,237 - ERROR - 2025-08-07 11:57:41 \u6b65\u9a5f1/2 \u5931\u6557: \u8b80\u53d6\u6216\u904e\u6ffe Excel \u6642\u767c\u751f\u932f\u8aa4. Error: 'key_Start_Date_Time'
+2025-08-07 11:57:41,238 - INFO - 2025-08-07 11:57:41 --- \u8a2d\u5b9a\u6a94 MESA_Crystal_Depth_ICP_ICPD2.ini \u8655\u7406\u5b8c\u7562 ---
+2025-08-07 11:57:41,301 - INFO - 2025-08-07 11:57:41 ===== \u901a\u7528\u8173\u672c\u57f7\u884c\u5b8c\u7562 =====

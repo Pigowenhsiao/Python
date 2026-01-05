@@ -1,0 +1,341 @@
+2025-09-30 11:10:47,067 - INFO - 2025-09-30 11:10:47 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:10:47,069 - INFO - 2025-09-30 11:10:47 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.10.47.csv
+2025-09-30 11:10:47,070 - INFO - 2025-09-30 11:10:47 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:10:47,211 - INFO - 2025-09-30 11:10:47 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:10:47,898 - INFO - 2025-09-30 11:10:47 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:10:47,899 - INFO - 2025-09-30 11:10:47 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:10:49,115 - INFO - 2025-09-30 11:10:49 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:10:49,115 - INFO - 2025-09-30 11:10:49 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:10:49,123 - INFO - 2025-09-30 11:10:49 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:10:49,123 - INFO - 2025-09-30 11:10:49 Step 3: Starting database query...
+2025-09-30 11:11:23,989 - INFO - 2025-09-30 11:11:23 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:11:24,088 - INFO - 2025-09-30 11:11:24 Database connection closed.
+2025-09-30 11:11:24,088 - INFO - 2025-09-30 11:11:24 Step 4: Starting data transformation and calculation...
+2025-09-30 11:11:24,204 - INFO - 2025-09-30 11:11:24 Date and SORTED field calculations complete.
+2025-09-30 11:11:24,209 - INFO - 2025-09-30 11:11:24 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:11:24,210 - INFO - 2025-09-30 11:11:24 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:11:24,210 - INFO - 2025-09-30 11:11:24 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:11:24,214 - INFO - 2025-09-30 11:11:24 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 11:11:24,214 - INFO - 2025-09-30 11:11:24 Executing function write_to_csv...
+2025-09-30 11:11:24,277 - INFO - 2025-09-30 11:11:24 Function write_to_csv executed successfully.
+2025-09-30 11:11:24,619 - INFO - 2025-09-30 11:11:24 Step 8: Updating next start row to 649
+2025-09-30 11:11:24,620 - INFO - 2025-09-30 11:11:24 --- Function process_excel_file executed successfully ---
+2025-09-30 11:11:24,621 - INFO - 2025-09-30 11:11:24 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 11:11:24,621 - INFO - 2025-09-30 11:11:24 Executing function generate_pointer_xml...
+2025-09-30 11:11:24,683 - INFO - 2025-09-30 11:11:24 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T11.10.47,Testdate=2025-09-30T11.11.24.xml
+2025-09-30 11:11:24,683 - INFO - 2025-09-30 11:11:24 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:11:24,684 - INFO - 2025-09-30 11:11:24 ===== Universal Script End =====
+2025-09-30 11:22:04,991 - INFO - 2025-09-30 11:22:04 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:22:04,993 - INFO - 2025-09-30 11:22:04 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.22.04.csv
+2025-09-30 11:22:04,994 - INFO - 2025-09-30 11:22:04 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:22:05,127 - INFO - 2025-09-30 11:22:05 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:22:05,751 - INFO - 2025-09-30 11:22:05 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:22:05,752 - INFO - 2025-09-30 11:22:05 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:22:06,829 - INFO - 2025-09-30 11:22:06 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:22:06,833 - INFO - 2025-09-30 11:22:06 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:22:06,841 - INFO - 2025-09-30 11:22:06 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:22:06,841 - INFO - 2025-09-30 11:22:06 Step 3: Starting database query...
+2025-09-30 11:22:50,671 - INFO - 2025-09-30 11:22:50 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:22:50,768 - INFO - 2025-09-30 11:22:50 Database connection closed.
+2025-09-30 11:22:50,769 - INFO - 2025-09-30 11:22:50 Step 4: Starting data transformation and calculation...
+2025-09-30 11:22:50,821 - INFO - 2025-09-30 11:22:50 Date and SORTED field calculations complete.
+2025-09-30 11:22:50,823 - INFO - 2025-09-30 11:22:50 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:22:50,823 - INFO - 2025-09-30 11:22:50 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:22:50,824 - INFO - 2025-09-30 11:22:50 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:22:50,825 - INFO - 2025-09-30 11:22:50 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 11:22:50,826 - INFO - 2025-09-30 11:22:50 Executing function write_to_csv...
+2025-09-30 11:22:50,853 - INFO - 2025-09-30 11:22:50 Function write_to_csv executed successfully.
+2025-09-30 11:22:51,151 - INFO - 2025-09-30 11:22:51 Step 8: Updating next start row to 649
+2025-09-30 11:22:51,151 - INFO - 2025-09-30 11:22:51 --- Function process_excel_file executed successfully ---
+2025-09-30 11:22:51,152 - INFO - 2025-09-30 11:22:51 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 11:22:51,152 - INFO - 2025-09-30 11:22:51 Executing function generate_pointer_xml...
+2025-09-30 11:22:51,225 - INFO - 2025-09-30 11:22:51 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T11.22.04,Testdate=2025-09-30T11.22.51.xml
+2025-09-30 11:22:51,226 - INFO - 2025-09-30 11:22:51 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:22:51,226 - INFO - 2025-09-30 11:22:51 ===== Universal Script End =====
+2025-09-30 11:23:53,843 - INFO - 2025-09-30 11:23:53 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:23:53,848 - INFO - 2025-09-30 11:23:53 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.23.53.csv
+2025-09-30 11:23:53,849 - INFO - 2025-09-30 11:23:53 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:23:53,984 - INFO - 2025-09-30 11:23:53 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:23:54,651 - INFO - 2025-09-30 11:23:54 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:23:54,652 - INFO - 2025-09-30 11:23:54 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:23:55,494 - INFO - 2025-09-30 11:23:55 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:23:55,495 - INFO - 2025-09-30 11:23:55 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:23:55,502 - INFO - 2025-09-30 11:23:55 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:23:55,503 - INFO - 2025-09-30 11:23:55 Step 3: Starting database query...
+2025-09-30 11:24:32,266 - INFO - 2025-09-30 11:24:32 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:24:32,362 - INFO - 2025-09-30 11:24:32 Database connection closed.
+2025-09-30 11:24:32,363 - INFO - 2025-09-30 11:24:32 Step 4: Starting data transformation and calculation...
+2025-09-30 11:24:32,442 - INFO - 2025-09-30 11:24:32 Date and SORTED field calculations complete.
+2025-09-30 11:24:32,445 - INFO - 2025-09-30 11:24:32 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:24:32,445 - INFO - 2025-09-30 11:24:32 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:24:32,445 - INFO - 2025-09-30 11:24:32 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:24:32,450 - INFO - 2025-09-30 11:24:32 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 11:24:32,451 - INFO - 2025-09-30 11:24:32 Executing function write_to_csv...
+2025-09-30 11:24:32,492 - INFO - 2025-09-30 11:24:32 Function write_to_csv executed successfully.
+2025-09-30 11:24:32,771 - INFO - 2025-09-30 11:24:32 Step 8: Updating next start row to 649
+2025-09-30 11:24:32,771 - INFO - 2025-09-30 11:24:32 --- Function process_excel_file executed successfully ---
+2025-09-30 11:24:32,772 - INFO - 2025-09-30 11:24:32 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 11:24:32,773 - INFO - 2025-09-30 11:24:32 Executing function generate_pointer_xml...
+2025-09-30 11:24:32,827 - INFO - 2025-09-30 11:24:32 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T11.23.53,Testdate=2025-09-30T11.24.32.xml
+2025-09-30 11:24:32,828 - INFO - 2025-09-30 11:24:32 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:24:32,828 - INFO - 2025-09-30 11:24:32 ===== Universal Script End =====
+2025-09-30 11:26:36,178 - INFO - 2025-09-30 11:26:36 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:26:36,181 - INFO - 2025-09-30 11:26:36 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.26.36.csv
+2025-09-30 11:26:36,183 - INFO - 2025-09-30 11:26:36 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:26:36,319 - INFO - 2025-09-30 11:26:36 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:26:36,904 - INFO - 2025-09-30 11:26:36 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:26:36,904 - INFO - 2025-09-30 11:26:36 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:26:37,800 - INFO - 2025-09-30 11:26:37 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:26:37,801 - INFO - 2025-09-30 11:26:37 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:26:37,808 - INFO - 2025-09-30 11:26:37 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:26:37,809 - INFO - 2025-09-30 11:26:37 Step 3: Starting database query...
+2025-09-30 11:27:23,807 - INFO - 2025-09-30 11:27:23 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:27:23,910 - INFO - 2025-09-30 11:27:23 Database connection closed.
+2025-09-30 11:27:23,917 - INFO - 2025-09-30 11:27:23 Step 4: Starting data transformation and calculation...
+2025-09-30 11:27:24,384 - INFO - 2025-09-30 11:27:24 Date and SORTED field calculations complete.
+2025-09-30 11:27:24,404 - INFO - 2025-09-30 11:27:24 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:27:24,416 - INFO - 2025-09-30 11:27:24 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:27:24,436 - INFO - 2025-09-30 11:27:24 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:27:24,447 - INFO - 2025-09-30 11:27:24 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 11:27:24,449 - INFO - 2025-09-30 11:27:24 Executing function write_to_csv...
+2025-09-30 11:27:24,576 - INFO - 2025-09-30 11:27:24 Function write_to_csv executed successfully.
+2025-09-30 11:27:25,131 - INFO - 2025-09-30 11:27:25 Step 8: Updating next start row to 649
+2025-09-30 11:27:25,143 - INFO - 2025-09-30 11:27:25 --- Function process_excel_file executed successfully ---
+2025-09-30 11:27:25,226 - INFO - 2025-09-30 11:27:25 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 11:27:25,259 - INFO - 2025-09-30 11:27:25 Executing function generate_pointer_xml...
+2025-09-30 11:27:25,480 - INFO - 2025-09-30 11:27:25 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T11.26.36,Testdate=2025-09-30T11.27.25.xml
+2025-09-30 11:27:25,504 - INFO - 2025-09-30 11:27:25 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:27:25,536 - INFO - 2025-09-30 11:27:25 ===== Universal Script End =====
+2025-09-30 11:28:24,316 - INFO - 2025-09-30 11:28:24 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:28:24,319 - INFO - 2025-09-30 11:28:24 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.28.24.csv
+2025-09-30 11:28:24,321 - INFO - 2025-09-30 11:28:24 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:28:24,416 - INFO - 2025-09-30 11:28:24 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:28:25,423 - INFO - 2025-09-30 11:28:25 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:28:25,425 - INFO - 2025-09-30 11:28:25 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:28:27,313 - INFO - 2025-09-30 11:28:27 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:28:27,315 - INFO - 2025-09-30 11:28:27 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:28:27,378 - INFO - 2025-09-30 11:28:27 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:28:27,379 - INFO - 2025-09-30 11:28:27 Step 3: Starting database query...
+2025-09-30 11:29:09,306 - INFO - 2025-09-30 11:29:09 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:29:09,411 - INFO - 2025-09-30 11:29:09 Database connection closed.
+2025-09-30 11:29:09,412 - INFO - 2025-09-30 11:29:09 Step 4: Starting data transformation and calculation...
+2025-09-30 11:29:09,500 - INFO - 2025-09-30 11:29:09 Date and SORTED field calculations complete.
+2025-09-30 11:29:09,501 - INFO - 2025-09-30 11:29:09 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:29:09,502 - INFO - 2025-09-30 11:29:09 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:29:09,502 - INFO - 2025-09-30 11:29:09 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:29:09,542 - ERROR - 2025-09-30 11:29:09 Error processing file 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx: Traceback (most recent call last):
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'key_Serial_Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\052_Facet_THK\Facet_Common.py", line 356, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\052_Facet_THK\Facet_Common.py", line 292, in process_excel_file
+    df_to_csv['key_Serial_Number'] = df_to_csv['key_Serial_Number'].astype(str) + '_' + df_to_csv['key_Banchi'].astype(str)
+                                     ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\.venv\Lib\site-packages\pandas\core\indexes\base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'key_Serial_Number'
+
+2025-09-30 11:29:09,543 - INFO - 2025-09-30 11:29:09 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:29:09,544 - INFO - 2025-09-30 11:29:09 ===== Universal Script End =====
+2025-09-30 11:29:41,596 - INFO - 2025-09-30 11:29:41 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 11:29:41,599 - INFO - 2025-09-30 11:29:41 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\B5_Facet_Thk_2025_09_30T11.29.41.csv
+2025-09-30 11:29:41,600 - INFO - 2025-09-30 11:29:41 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 11:29:41,730 - INFO - 2025-09-30 11:29:41 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:29:42,387 - INFO - 2025-09-30 11:29:42 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 11:29:42,388 - INFO - 2025-09-30 11:29:42 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 11:29:43,677 - INFO - 2025-09-30 11:29:43 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 11:29:43,678 - INFO - 2025-09-30 11:29:43 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 11:29:43,684 - INFO - 2025-09-30 11:29:43 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 11:29:43,684 - INFO - 2025-09-30 11:29:43 Step 3: Starting database query...
+2025-09-30 11:30:27,723 - INFO - 2025-09-30 11:30:27 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 11:30:27,850 - INFO - 2025-09-30 11:30:27 Database connection closed.
+2025-09-30 11:30:27,863 - INFO - 2025-09-30 11:30:27 Step 4: Starting data transformation and calculation...
+2025-09-30 11:30:29,585 - INFO - 2025-09-30 11:30:29 Date and SORTED field calculations complete.
+2025-09-30 11:30:29,609 - INFO - 2025-09-30 11:30:29 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 11:30:29,661 - INFO - 2025-09-30 11:30:29 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 11:30:29,705 - INFO - 2025-09-30 11:30:29 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 11:30:29,739 - INFO - 2025-09-30 11:30:29 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 11:30:29,773 - INFO - 2025-09-30 11:30:29 Executing function write_to_csv...
+2025-09-30 11:30:30,569 - INFO - 2025-09-30 11:30:30 Function write_to_csv executed successfully.
+2025-09-30 11:30:31,237 - INFO - 2025-09-30 11:30:31 Step 8: Updating next start row to 649
+2025-09-30 11:30:31,241 - INFO - 2025-09-30 11:30:31 --- Function process_excel_file executed successfully ---
+2025-09-30 11:30:31,248 - INFO - 2025-09-30 11:30:31 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 11:30:31,287 - INFO - 2025-09-30 11:30:31 Executing function generate_pointer_xml...
+2025-09-30 11:30:31,542 - INFO - 2025-09-30 11:30:31 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T11.29.41,Testdate=2025-09-30T11.30.31.xml
+2025-09-30 11:30:31,554 - INFO - 2025-09-30 11:30:31 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 11:30:31,555 - INFO - 2025-09-30 11:30:31 ===== Universal Script End =====
+2025-09-30 12:33:42,896 - INFO - 2025-09-30 12:33:42 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 12:33:43,310 - INFO - 2025-09-30 12:33:43 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG\053_FACET\B5_Facet_Thk_2025_09_30T12.33.43.csv
+2025-09-30 12:33:43,312 - INFO - 2025-09-30 12:33:43 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 12:33:43,547 - INFO - 2025-09-30 12:33:43 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:33:44,271 - INFO - 2025-09-30 12:33:44 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:33:44,271 - INFO - 2025-09-30 12:33:44 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 12:33:51,929 - INFO - 2025-09-30 12:33:51 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 12:33:51,930 - INFO - 2025-09-30 12:33:51 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 12:33:51,935 - INFO - 2025-09-30 12:33:51 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 12:33:51,936 - INFO - 2025-09-30 12:33:51 Step 3: Starting database query...
+2025-09-30 12:34:30,035 - INFO - 2025-09-30 12:34:30 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 12:34:30,140 - INFO - 2025-09-30 12:34:30 Database connection closed.
+2025-09-30 12:34:30,141 - INFO - 2025-09-30 12:34:30 Step 4: Starting data transformation and calculation...
+2025-09-30 12:34:30,236 - INFO - 2025-09-30 12:34:30 Date and SORTED field calculations complete.
+2025-09-30 12:34:30,239 - INFO - 2025-09-30 12:34:30 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 12:34:30,240 - INFO - 2025-09-30 12:34:30 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 12:34:30,240 - INFO - 2025-09-30 12:34:30 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 12:34:30,245 - INFO - 2025-09-30 12:34:30 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 12:34:30,245 - INFO - 2025-09-30 12:34:30 Executing function write_to_csv...
+2025-09-30 12:34:31,383 - INFO - 2025-09-30 12:34:31 Function write_to_csv executed successfully.
+2025-09-30 12:34:31,588 - INFO - 2025-09-30 12:34:31 Step 8: Updating next start row to 649
+2025-09-30 12:34:31,589 - INFO - 2025-09-30 12:34:31 --- Function process_excel_file executed successfully ---
+2025-09-30 12:34:31,651 - INFO - 2025-09-30 12:34:31 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 12:34:31,651 - INFO - 2025-09-30 12:34:31 Executing function generate_pointer_xml...
+2025-09-30 12:34:33,208 - INFO - 2025-09-30 12:34:33 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T12.33.43,Testdate=2025-09-30T12.34.32.xml
+2025-09-30 12:34:33,209 - INFO - 2025-09-30 12:34:33 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 12:34:33,209 - INFO - 2025-09-30 12:34:33 ===== Universal Script End =====
+2025-09-30 12:39:01,572 - INFO - 2025-09-30 12:39:01 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 12:39:01,989 - INFO - 2025-09-30 12:39:01 CSV output for this config will be: \\thaapptdsdev03.li.lumentuminc.net\Data\SAG\053_FACET\B5_Facet_Thk_2025_09_30T12.39.01.csv
+2025-09-30 12:39:01,990 - INFO - 2025-09-30 12:39:01 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 12:39:02,133 - INFO - 2025-09-30 12:39:02 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:39:02,833 - INFO - 2025-09-30 12:39:02 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:39:02,834 - INFO - 2025-09-30 12:39:02 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 12:39:04,037 - INFO - 2025-09-30 12:39:04 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 12:39:04,037 - INFO - 2025-09-30 12:39:04 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 12:39:04,044 - INFO - 2025-09-30 12:39:04 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 12:39:04,045 - INFO - 2025-09-30 12:39:04 Step 3: Starting database query...
+2025-09-30 12:39:41,679 - INFO - 2025-09-30 12:39:41 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 12:39:41,776 - INFO - 2025-09-30 12:39:41 Database connection closed.
+2025-09-30 12:39:41,777 - INFO - 2025-09-30 12:39:41 Step 4: Starting data transformation and calculation...
+2025-09-30 12:39:41,823 - INFO - 2025-09-30 12:39:41 Date and SORTED field calculations complete.
+2025-09-30 12:39:41,825 - INFO - 2025-09-30 12:39:41 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 12:39:41,826 - INFO - 2025-09-30 12:39:41 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 12:39:41,826 - INFO - 2025-09-30 12:39:41 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 12:39:41,829 - INFO - 2025-09-30 12:39:41 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 12:39:41,829 - INFO - 2025-09-30 12:39:41 Executing function write_to_csv...
+2025-09-30 12:39:42,948 - INFO - 2025-09-30 12:39:42 Function write_to_csv executed successfully.
+2025-09-30 12:39:43,208 - INFO - 2025-09-30 12:39:43 Step 8: Updating next start row to 649
+2025-09-30 12:39:43,209 - INFO - 2025-09-30 12:39:43 --- Function process_excel_file executed successfully ---
+2025-09-30 12:39:43,224 - INFO - 2025-09-30 12:39:43 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 12:39:43,225 - INFO - 2025-09-30 12:39:43 Executing function generate_pointer_xml...
+2025-09-30 12:39:44,767 - INFO - 2025-09-30 12:39:44 Pointer XML generated successfully at: \\thaapptdsdev03.li.lumentuminc.net\Data\Files to Insert\XML\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T12.39.01,Testdate=2025-09-30T12.39.43.xml
+2025-09-30 12:39:44,768 - INFO - 2025-09-30 12:39:44 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 12:39:44,768 - INFO - 2025-09-30 12:39:44 ===== Universal Script End =====
+2025-09-30 12:44:15,121 - INFO - 2025-09-30 12:44:15 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 12:44:15,353 - INFO - 2025-09-30 12:44:15 CSV output for this config will be: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG\053_FACET\B5_Facet_Thk_2025_09_30T12.44.15.csv
+2025-09-30 12:44:15,354 - INFO - 2025-09-30 12:44:15 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 12:44:15,585 - INFO - 2025-09-30 12:44:15 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:44:16,243 - INFO - 2025-09-30 12:44:16 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:44:16,243 - INFO - 2025-09-30 12:44:16 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 12:44:17,324 - INFO - 2025-09-30 12:44:17 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 12:44:17,325 - INFO - 2025-09-30 12:44:17 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 12:44:17,331 - INFO - 2025-09-30 12:44:17 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 12:44:17,332 - INFO - 2025-09-30 12:44:17 Step 3: Starting database query...
+2025-09-30 12:44:53,625 - INFO - 2025-09-30 12:44:53 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 12:44:53,772 - INFO - 2025-09-30 12:44:53 Database connection closed.
+2025-09-30 12:44:53,772 - INFO - 2025-09-30 12:44:53 Step 4: Starting data transformation and calculation...
+2025-09-30 12:44:53,820 - INFO - 2025-09-30 12:44:53 Date and SORTED field calculations complete.
+2025-09-30 12:44:53,822 - INFO - 2025-09-30 12:44:53 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 12:44:53,822 - INFO - 2025-09-30 12:44:53 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 12:44:53,823 - INFO - 2025-09-30 12:44:53 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 12:44:53,826 - INFO - 2025-09-30 12:44:53 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 12:44:53,826 - INFO - 2025-09-30 12:44:53 Executing function write_to_csv...
+2025-09-30 12:44:54,965 - INFO - 2025-09-30 12:44:54 Function write_to_csv executed successfully.
+2025-09-30 12:44:55,229 - INFO - 2025-09-30 12:44:55 Step 8: Updating next start row to 649
+2025-09-30 12:44:55,229 - INFO - 2025-09-30 12:44:55 --- Function process_excel_file executed successfully ---
+2025-09-30 12:44:55,362 - INFO - 2025-09-30 12:44:55 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 12:44:55,363 - INFO - 2025-09-30 12:44:55 Executing function generate_pointer_xml...
+2025-09-30 12:44:56,446 - INFO - 2025-09-30 12:44:56 Pointer XML generated successfully at: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T12.44.15,Testdate=2025-09-30T12.44.56.xml
+2025-09-30 12:44:56,446 - INFO - 2025-09-30 12:44:56 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 12:44:56,447 - INFO - 2025-09-30 12:44:56 ===== Universal Script End =====
+2025-09-30 12:51:47,022 - INFO - 2025-09-30 12:51:47 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 12:51:47,264 - INFO - 2025-09-30 12:51:47 CSV output for this config will be: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG\053_FACET\B5_Facet_Thk_2025_09_30T12.51.47.csv
+2025-09-30 12:51:47,267 - INFO - 2025-09-30 12:51:47 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 12:51:47,520 - INFO - 2025-09-30 12:51:47 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:51:48,222 - INFO - 2025-09-30 12:51:48 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:51:48,222 - INFO - 2025-09-30 12:51:48 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 12:51:49,255 - INFO - 2025-09-30 12:51:49 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 12:51:49,255 - INFO - 2025-09-30 12:51:49 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 12:51:49,279 - INFO - 2025-09-30 12:51:49 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 12:51:49,279 - INFO - 2025-09-30 12:51:49 Step 3: Starting database query...
+2025-09-30 12:52:25,175 - INFO - 2025-09-30 12:52:25 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 12:52:25,270 - INFO - 2025-09-30 12:52:25 Database connection closed.
+2025-09-30 12:52:25,270 - INFO - 2025-09-30 12:52:25 Step 4: Starting data transformation and calculation...
+2025-09-30 12:52:25,321 - INFO - 2025-09-30 12:52:25 Date and SORTED field calculations complete.
+2025-09-30 12:52:25,323 - INFO - 2025-09-30 12:52:25 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 12:52:25,324 - INFO - 2025-09-30 12:52:25 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 12:52:25,324 - INFO - 2025-09-30 12:52:25 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 12:52:25,329 - INFO - 2025-09-30 12:52:25 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 12:52:25,330 - INFO - 2025-09-30 12:52:25 Executing function write_to_csv...
+2025-09-30 12:52:25,816 - INFO - 2025-09-30 12:52:25 Function write_to_csv executed successfully.
+2025-09-30 12:52:26,193 - INFO - 2025-09-30 12:52:26 Step 8: Updating next start row to 649
+2025-09-30 12:52:26,195 - INFO - 2025-09-30 12:52:26 --- Function process_excel_file executed successfully ---
+2025-09-30 12:52:26,291 - INFO - 2025-09-30 12:52:26 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 12:52:26,292 - INFO - 2025-09-30 12:52:26 Executing function generate_pointer_xml...
+2025-09-30 12:52:26,854 - INFO - 2025-09-30 12:52:26 Pointer XML generated successfully at: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T12.51.47,Testdate=2025-09-30T12.52.26.xml
+2025-09-30 12:52:26,855 - INFO - 2025-09-30 12:52:26 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 12:52:26,856 - INFO - 2025-09-30 12:52:26 ===== Universal Script End =====
+2025-09-30 12:59:13,843 - INFO - 2025-09-30 12:59:13 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 12:59:14,026 - INFO - 2025-09-30 12:59:14 CSV output for this config will be: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG\052_FACET\B5_Facet_Thk_2025_09_30T12.59.14.csv
+2025-09-30 12:59:14,028 - INFO - 2025-09-30 12:59:14 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 12:59:14,265 - INFO - 2025-09-30 12:59:14 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:59:14,940 - INFO - 2025-09-30 12:59:14 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 12:59:14,940 - INFO - 2025-09-30 12:59:14 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 12:59:16,143 - INFO - 2025-09-30 12:59:16 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 12:59:16,144 - INFO - 2025-09-30 12:59:16 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 12:59:16,158 - INFO - 2025-09-30 12:59:16 Step 2: Initial filtering (date, serial number) complete. 48 rows remaining.
+2025-09-30 12:59:16,158 - INFO - 2025-09-30 12:59:16 Step 3: Starting database query...
+2025-09-30 13:00:02,532 - INFO - 2025-09-30 13:00:02 Database query and filtering complete. 48 valid rows remaining.
+2025-09-30 13:00:02,627 - INFO - 2025-09-30 13:00:02 Database connection closed.
+2025-09-30 13:00:02,628 - INFO - 2025-09-30 13:00:02 Step 4: Starting data transformation and calculation...
+2025-09-30 13:00:02,696 - INFO - 2025-09-30 13:00:02 Date and SORTED field calculations complete.
+2025-09-30 13:00:02,698 - INFO - 2025-09-30 13:00:02 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 13:00:02,698 - INFO - 2025-09-30 13:00:02 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 13:00:02,699 - INFO - 2025-09-30 13:00:02 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 13:00:02,701 - INFO - 2025-09-30 13:00:02 Step 7: Preparing to write 48 rows to CSV...
+2025-09-30 13:00:02,702 - INFO - 2025-09-30 13:00:02 Executing function write_to_csv...
+2025-09-30 13:00:03,205 - INFO - 2025-09-30 13:00:03 Function write_to_csv executed successfully.
+2025-09-30 13:00:03,444 - INFO - 2025-09-30 13:00:03 Step 8: Updating next start row to 649
+2025-09-30 13:00:03,444 - INFO - 2025-09-30 13:00:03 --- Function process_excel_file executed successfully ---
+2025-09-30 13:00:03,552 - INFO - 2025-09-30 13:00:03 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 13:00:08,553 - INFO - 2025-09-30 13:00:08 Executing function generate_pointer_xml...
+2025-09-30 13:00:08,996 - INFO - 2025-09-30 13:00:08 Pointer XML generated successfully at: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T12.59.14,Testdate=2025-09-30T13.00.08.xml
+2025-09-30 13:00:08,996 - INFO - 2025-09-30 13:00:08 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 13:00:08,997 - INFO - 2025-09-30 13:00:08 ===== Universal Script End =====
+2025-09-30 13:04:47,647 - INFO - 2025-09-30 13:04:47 --- Start processing config file: Config_Facet.ini ---
+2025-09-30 13:04:47,898 - INFO - 2025-09-30 13:04:47 CSV output for this config will be: \\li.lumentuminc.net\data\SAG\TDS\Data\SAG\052_FACET\B5_Facet_Thk_2025_09_30T13.04.47.csv
+2025-09-30 13:04:47,899 - INFO - 2025-09-30 13:04:47 Searching in path 'Z:\\u30b9\u30d1\u30c3\u30bf' with pattern '*4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx'
+2025-09-30 13:04:48,136 - INFO - 2025-09-30 13:04:48 Found latest source file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 13:04:48,867 - INFO - 2025-09-30 13:04:48 File copied successfully -> ..\DataFile\053_Facet\4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx
+2025-09-30 13:04:48,868 - INFO - 2025-09-30 13:04:48 --- Start processing file: 4inchLD\u30d0\u30fc\u539a\u3055\u6e2c\u5b9a\u7d50\u679c.xlsx ---
+2025-09-30 13:04:51,100 - INFO - 2025-09-30 13:04:51 Step 1: Successfully read main sheet '4inchEML', 608 rows loaded.
+2025-09-30 13:04:51,101 - INFO - 2025-09-30 13:04:51 No XY coordinate sheet setting detected. Processing in CVD mode.
+2025-09-30 13:04:51,115 - INFO - 2025-09-30 13:04:51 Step 2: Initial filtering (date, serial number) complete. 368 rows remaining.
+2025-09-30 13:04:51,116 - INFO - 2025-09-30 13:04:51 Step 3: Starting database query...
+2025-09-30 13:10:45,259 - INFO - 2025-09-30 13:10:45 Database query and filtering complete. 368 valid rows remaining.
+2025-09-30 13:10:45,370 - INFO - 2025-09-30 13:10:45 Database connection closed.
+2025-09-30 13:10:45,381 - INFO - 2025-09-30 13:10:45 Step 4: Starting data transformation and calculation...
+2025-09-30 13:10:52,393 - INFO - 2025-09-30 13:10:52 Date and SORTED field calculations complete.
+2025-09-30 13:10:52,416 - INFO - 2025-09-30 13:10:52 Using fixed tool name from INI: 'THK_Measurement'
+2025-09-30 13:10:52,430 - INFO - 2025-09-30 13:10:52 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-09-30 13:10:52,457 - INFO - 2025-09-30 13:10:52 Step 6: Dynamic CSV columns and order generated.
+2025-09-30 13:10:52,494 - INFO - 2025-09-30 13:10:52 Step 7: Preparing to write 368 rows to CSV...
+2025-09-30 13:10:52,514 - INFO - 2025-09-30 13:10:52 Executing function write_to_csv...
+2025-09-30 13:10:53,606 - INFO - 2025-09-30 13:10:53 Function write_to_csv executed successfully.
+2025-09-30 13:10:54,068 - INFO - 2025-09-30 13:10:54 Step 8: Updating next start row to 649
+2025-09-30 13:10:54,071 - INFO - 2025-09-30 13:10:54 --- Function process_excel_file executed successfully ---
+2025-09-30 13:10:54,266 - INFO - 2025-09-30 13:10:54 --- Generating pointer XML for Config_Facet.ini ---
+2025-09-30 13:10:59,268 - INFO - 2025-09-30 13:10:59 Executing function generate_pointer_xml...
+2025-09-30 13:10:59,757 - INFO - 2025-09-30 13:10:59 Pointer XML generated successfully at: \\li.lumentuminc.net\data\SAG\TDS\Data\XML Buffer\XML Buffer For SPC\Site=350,ProductFamily=SAG FAB,Operation=B5_Facet_Thk,Partnumber=UNKNOWPN,Serialnumber=B5_Facet_Thk_2025_09_30T13.04.47,Testdate=2025-09-30T13.10.59.xml
+2025-09-30 13:10:59,760 - INFO - 2025-09-30 13:10:59 --- Finished processing config file: Config_Facet.ini ---
+2025-09-30 13:10:59,760 - INFO - 2025-09-30 13:10:59 ===== Universal Script End =====

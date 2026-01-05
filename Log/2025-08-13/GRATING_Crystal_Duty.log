@@ -1,0 +1,197 @@
+2025-08-13 08:02:23,386 - INFO - 2025-08-13 08:02:23 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:02:23,397 - INFO - 2025-08-13 08:02:23 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T08.02.23.csv
+2025-08-13 08:02:23,408 - INFO - 2025-08-13 08:02:23 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 08:02:24,085 - INFO - 2025-08-13 08:02:24 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:02:31,475 - INFO - 2025-08-13 08:02:31 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:02:31,475 - INFO - 2025-08-13 08:02:31 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 08:03:37,504 - INFO - 2025-08-13 08:03:37 Step 1: Successfully read main sheet '004', 0 rows loaded.
+2025-08-13 08:03:37,507 - INFO - 2025-08-13 08:03:37 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 08:03:48,897 - INFO - 2025-08-13 08:03:48 XY coordinate data parsed.
+2025-08-13 08:03:48,898 - ERROR - 2025-08-13 08:03:48 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-13 08:03:48,899 - INFO - 2025-08-13 08:03:48 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:05:34,278 - INFO - 2025-08-13 08:05:34 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:05:34,281 - INFO - 2025-08-13 08:05:34 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T08.05.34.csv
+2025-08-13 08:05:34,283 - INFO - 2025-08-13 08:05:34 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 08:05:34,742 - INFO - 2025-08-13 08:05:34 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:05:40,242 - INFO - 2025-08-13 08:05:40 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:05:40,242 - INFO - 2025-08-13 08:05:40 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 08:06:03,944 - INFO - 2025-08-13 08:06:03 Step 1: Successfully read main sheet '004', 717 rows loaded.
+2025-08-13 08:06:03,945 - INFO - 2025-08-13 08:06:03 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 08:06:13,601 - INFO - 2025-08-13 08:06:13 XY coordinate data parsed.
+2025-08-13 08:06:13,604 - INFO - 2025-08-13 08:06:13 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 08:06:13,604 - INFO - 2025-08-13 08:06:13 No data left after initial filtering. Ending process for this file.
+2025-08-13 08:06:13,605 - INFO - 2025-08-13 08:06:13 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:09:41,396 - INFO - 2025-08-13 08:09:41 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:09:41,400 - INFO - 2025-08-13 08:09:41 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T08.09.41.csv
+2025-08-13 08:09:41,401 - INFO - 2025-08-13 08:09:41 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 08:09:41,853 - INFO - 2025-08-13 08:09:41 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:09:47,032 - INFO - 2025-08-13 08:09:47 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:09:47,033 - INFO - 2025-08-13 08:09:47 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 08:10:10,167 - INFO - 2025-08-13 08:10:10 Step 1: Successfully read main sheet '004', 717 rows loaded.
+2025-08-13 08:10:10,167 - INFO - 2025-08-13 08:10:10 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 08:10:18,276 - INFO - 2025-08-13 08:10:18 XY coordinate data parsed.
+2025-08-13 08:10:18,279 - INFO - 2025-08-13 08:10:18 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 08:10:18,279 - INFO - 2025-08-13 08:10:18 No data left after initial filtering. Ending process for this file.
+2025-08-13 08:10:18,280 - INFO - 2025-08-13 08:10:18 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:11:42,191 - INFO - 2025-08-13 08:11:42 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:11:42,195 - INFO - 2025-08-13 08:11:42 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T08.11.42.csv
+2025-08-13 08:11:42,197 - INFO - 2025-08-13 08:11:42 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 08:11:42,665 - INFO - 2025-08-13 08:11:42 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:11:47,902 - INFO - 2025-08-13 08:11:47 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:11:47,903 - INFO - 2025-08-13 08:11:47 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 08:12:13,154 - INFO - 2025-08-13 08:12:13 Step 1: Successfully read main sheet '004', 717 rows loaded.
+2025-08-13 08:12:13,155 - INFO - 2025-08-13 08:12:13 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 08:12:21,591 - INFO - 2025-08-13 08:12:21 XY coordinate data parsed.
+2025-08-13 08:12:21,594 - INFO - 2025-08-13 08:12:21 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 08:12:21,594 - INFO - 2025-08-13 08:12:21 No data left after initial filtering. Ending process for this file.
+2025-08-13 08:12:21,595 - INFO - 2025-08-13 08:12:21 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:14:16,721 - INFO - 2025-08-13 08:14:16 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 08:14:16,725 - INFO - 2025-08-13 08:14:16 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T08.14.16.csv
+2025-08-13 08:14:16,727 - INFO - 2025-08-13 08:14:16 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 08:14:17,143 - INFO - 2025-08-13 08:14:17 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:14:22,376 - INFO - 2025-08-13 08:14:22 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 08:14:22,376 - INFO - 2025-08-13 08:14:22 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 08:14:52,236 - INFO - 2025-08-13 08:14:52 Step 1: Successfully read main sheet '004', 717 rows loaded.
+2025-08-13 08:14:52,237 - INFO - 2025-08-13 08:14:52 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 08:15:02,164 - INFO - 2025-08-13 08:15:02 XY coordinate data parsed.
+2025-08-13 08:15:02,171 - INFO - 2025-08-13 08:15:02 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 08:15:02,171 - INFO - 2025-08-13 08:15:02 No data left after initial filtering. Ending process for this file.
+2025-08-13 08:15:02,173 - INFO - 2025-08-13 08:15:02 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:31:06,453 - INFO - 2025-08-13 09:31:06 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:31:06,456 - INFO - 2025-08-13 09:31:06 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.31.06.csv
+2025-08-13 09:31:06,458 - INFO - 2025-08-13 09:31:06 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:31:06,858 - INFO - 2025-08-13 09:31:06 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:31:12,710 - INFO - 2025-08-13 09:31:12 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:31:12,711 - INFO - 2025-08-13 09:31:12 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:31:33,391 - INFO - 2025-08-13 09:31:33 Step 1: Successfully read main sheet '004', 1719 rows loaded.
+2025-08-13 09:31:33,393 - INFO - 2025-08-13 09:31:33 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:31:40,809 - INFO - 2025-08-13 09:31:40 XY coordinate data parsed.
+2025-08-13 09:31:40,813 - INFO - 2025-08-13 09:31:40 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 09:31:40,814 - INFO - 2025-08-13 09:31:40 No data left after initial filtering. Ending process for this file.
+2025-08-13 09:31:40,814 - INFO - 2025-08-13 09:31:40 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:32:55,625 - INFO - 2025-08-13 09:32:55 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:32:55,627 - INFO - 2025-08-13 09:32:55 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.32.55.csv
+2025-08-13 09:32:55,628 - INFO - 2025-08-13 09:32:55 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:32:56,126 - INFO - 2025-08-13 09:32:56 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:33:01,728 - INFO - 2025-08-13 09:33:01 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:33:01,728 - INFO - 2025-08-13 09:33:01 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:33:29,575 - INFO - 2025-08-13 09:33:29 Step 1: Successfully read main sheet '004', 1719 rows loaded.
+2025-08-13 09:33:29,575 - INFO - 2025-08-13 09:33:29 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:33:36,883 - INFO - 2025-08-13 09:33:36 XY coordinate data parsed.
+2025-08-13 09:35:52,669 - INFO - 2025-08-13 09:35:52 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:35:52,670 - INFO - 2025-08-13 09:35:52 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.35.52.csv
+2025-08-13 09:35:52,671 - INFO - 2025-08-13 09:35:52 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:35:53,149 - INFO - 2025-08-13 09:35:53 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:35:57,558 - INFO - 2025-08-13 09:35:57 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:35:57,559 - INFO - 2025-08-13 09:35:57 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:36:20,921 - INFO - 2025-08-13 09:36:20 Step 1: Successfully read main sheet '004', 1719 rows loaded.
+2025-08-13 09:36:20,922 - INFO - 2025-08-13 09:36:20 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:36:29,339 - INFO - 2025-08-13 09:36:29 XY coordinate data parsed.
+2025-08-13 09:36:54,795 - INFO - 2025-08-13 09:36:54 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:36:54,797 - INFO - 2025-08-13 09:36:54 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.36.54.csv
+2025-08-13 09:36:54,798 - INFO - 2025-08-13 09:36:54 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:36:55,423 - INFO - 2025-08-13 09:36:55 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:37:00,988 - INFO - 2025-08-13 09:37:00 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:37:00,989 - INFO - 2025-08-13 09:37:00 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:37:21,479 - INFO - 2025-08-13 09:37:21 Step 1: Successfully read main sheet '004', 5719 rows loaded.
+2025-08-13 09:37:21,480 - INFO - 2025-08-13 09:37:21 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:37:28,930 - INFO - 2025-08-13 09:37:28 XY coordinate data parsed.
+2025-08-13 09:37:40,788 - INFO - 2025-08-13 09:37:40 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:37:40,791 - INFO - 2025-08-13 09:37:40 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.37.40.csv
+2025-08-13 09:37:40,791 - INFO - 2025-08-13 09:37:40 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:37:41,358 - INFO - 2025-08-13 09:37:41 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:37:47,230 - INFO - 2025-08-13 09:37:47 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:37:47,230 - INFO - 2025-08-13 09:37:47 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:38:07,658 - INFO - 2025-08-13 09:38:07 Step 1: Successfully read main sheet '004', 5719 rows loaded.
+2025-08-13 09:38:07,659 - INFO - 2025-08-13 09:38:07 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:38:14,961 - INFO - 2025-08-13 09:38:14 XY coordinate data parsed.
+2025-08-13 09:38:14,972 - INFO - 2025-08-13 09:38:14 Step 2: Initial filtering (date, serial number) complete. 138 rows remaining.
+2025-08-13 09:38:14,973 - INFO - 2025-08-13 09:38:14 Step 3: Starting database query...
+2025-08-13 09:40:15,296 - INFO - 2025-08-13 09:40:15 Database query and filtering complete. 135 valid rows remaining.
+2025-08-13 09:40:15,415 - INFO - 2025-08-13 09:40:15 Database connection closed.
+2025-08-13 09:40:15,415 - INFO - 2025-08-13 09:40:15 Step 4: Starting data transformation and calculation...
+2025-08-13 09:40:15,520 - INFO - 2025-08-13 09:40:15 Date and SORTED field calculations complete.
+2025-08-13 09:40:15,522 - INFO - 2025-08-13 09:40:15 Using fixed tool name from INI: 'CVD'
+2025-08-13 09:40:15,525 - INFO - 2025-08-13 09:40:15 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 09:40:15,525 - INFO - 2025-08-13 09:40:15 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 09:40:15,528 - INFO - 2025-08-13 09:40:15 Step 7: Preparing to write 135 rows to CSV...
+2025-08-13 09:40:15,528 - INFO - 2025-08-13 09:40:15 Executing function write_to_csv...
+2025-08-13 09:40:15,568 - INFO - 2025-08-13 09:40:15 Function write_to_csv executed successfully.
+2025-08-13 09:40:34,796 - INFO - 2025-08-13 09:40:34 Step 8: Updating next start row to 5732
+2025-08-13 09:40:34,796 - INFO - 2025-08-13 09:40:34 --- Function process_excel_file executed successfully ---
+2025-08-13 09:40:34,798 - INFO - 2025-08-13 09:40:34 --- Generating pointer XML for Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:40:34,798 - INFO - 2025-08-13 09:40:34 Executing function generate_pointer_xml...
+2025-08-13 09:40:34,856 - INFO - 2025-08-13 09:40:34 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_Crystal_Duty,Partnumber=UNKNOWPN,Serialnumber=GRATING_Crystal_Duty_2025_08_13T09.37.40,Testdate=2025-08-13T09.40.34.xml
+2025-08-13 09:40:34,856 - INFO - 2025-08-13 09:40:34 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:43:42,300 - INFO - 2025-08-13 09:43:42 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:43:42,302 - INFO - 2025-08-13 09:43:42 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.43.42.csv
+2025-08-13 09:43:42,303 - INFO - 2025-08-13 09:43:42 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:43:43,151 - INFO - 2025-08-13 09:43:43 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:43:54,135 - INFO - 2025-08-13 09:43:54 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:43:54,136 - INFO - 2025-08-13 09:43:54 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:44:14,036 - INFO - 2025-08-13 09:44:14 Step 1: Successfully read main sheet '004', 1220 rows loaded.
+2025-08-13 09:44:14,037 - INFO - 2025-08-13 09:44:14 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:44:21,565 - INFO - 2025-08-13 09:44:21 XY coordinate data parsed.
+2025-08-13 09:44:21,569 - INFO - 2025-08-13 09:44:21 Step 2: Initial filtering (date, serial number) complete. 0 rows remaining.
+2025-08-13 09:44:21,569 - INFO - 2025-08-13 09:44:21 No data left after initial filtering. Ending process for this file.
+2025-08-13 09:44:21,570 - INFO - 2025-08-13 09:44:21 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:56:02,360 - INFO - 2025-08-13 09:56:02 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:56:02,362 - INFO - 2025-08-13 09:56:02 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.56.02.csv
+2025-08-13 09:56:02,364 - INFO - 2025-08-13 09:56:02 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:56:02,889 - INFO - 2025-08-13 09:56:02 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:56:10,148 - INFO - 2025-08-13 09:56:10 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:56:10,169 - INFO - 2025-08-13 09:56:10 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 09:56:42,136 - INFO - 2025-08-13 09:56:42 Step 1: Successfully read main sheet '004', 4093 rows loaded starting from row 1632.
+2025-08-13 09:56:42,137 - INFO - 2025-08-13 09:56:42 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 09:56:50,960 - INFO - 2025-08-13 09:56:50 XY coordinate data parsed.
+2025-08-13 09:56:50,961 - ERROR - 2025-08-13 09:56:50 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-13 09:56:50,963 - INFO - 2025-08-13 09:56:50 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:59:46,098 - INFO - 2025-08-13 09:59:46 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 09:59:46,102 - INFO - 2025-08-13 09:59:46 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T09.59.46.csv
+2025-08-13 09:59:46,103 - INFO - 2025-08-13 09:59:46 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 09:59:46,513 - INFO - 2025-08-13 09:59:46 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:59:52,423 - INFO - 2025-08-13 09:59:52 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 09:59:52,424 - INFO - 2025-08-13 09:59:52 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 10:00:20,856 - INFO - 2025-08-13 10:00:20 Step 1: Successfully read main sheet '004', 4093 rows loaded starting from row 1632.
+2025-08-13 10:00:20,857 - INFO - 2025-08-13 10:00:20 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:00:29,049 - INFO - 2025-08-13 10:00:29 XY coordinate data parsed.
+2025-08-13 10:00:29,049 - ERROR - 2025-08-13 10:00:29 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-13 10:00:29,051 - INFO - 2025-08-13 10:00:29 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 10:07:58,264 - INFO - 2025-08-13 10:07:58 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 10:07:58,266 - INFO - 2025-08-13 10:07:58 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T10.07.58.csv
+2025-08-13 10:07:58,268 - INFO - 2025-08-13 10:07:58 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 10:07:58,902 - INFO - 2025-08-13 10:07:58 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 10:08:04,698 - INFO - 2025-08-13 10:08:04 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 10:08:04,698 - INFO - 2025-08-13 10:08:04 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 10:08:29,533 - INFO - 2025-08-13 10:08:29 Step 1: Successfully read main sheet '004', 5721 rows loaded starting from row 4.
+2025-08-13 10:08:29,534 - INFO - 2025-08-13 10:08:29 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:08:37,616 - INFO - 2025-08-13 10:08:37 XY coordinate data parsed.
+2025-08-13 10:08:37,616 - ERROR - 2025-08-13 10:08:37 Step 1/2/3 failed: Error during Excel read or filter. Error: 'key_Start_Date_Time'
+2025-08-13 10:08:37,618 - INFO - 2025-08-13 10:08:37 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 10:10:55,773 - INFO - 2025-08-13 10:10:55 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 10:10:55,775 - INFO - 2025-08-13 10:10:55 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_13T10.10.55.csv
+2025-08-13 10:10:55,776 - INFO - 2025-08-13 10:10:55 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-13 10:10:56,252 - INFO - 2025-08-13 10:10:56 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 10:11:03,669 - INFO - 2025-08-13 10:11:03 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-13 10:11:03,669 - INFO - 2025-08-13 10:11:03 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-13 10:11:31,260 - INFO - 2025-08-13 10:11:31 Step 1: Successfully read main sheet '004', 5705 rows loaded.
+2025-08-13 10:11:31,261 - INFO - 2025-08-13 10:11:31 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-13 10:11:43,319 - INFO - 2025-08-13 10:11:43 XY coordinate data parsed.
+2025-08-13 10:11:43,339 - INFO - 2025-08-13 10:11:43 Step 2: Initial filtering (date, serial number) complete. 138 rows remaining.
+2025-08-13 10:11:43,340 - INFO - 2025-08-13 10:11:43 Step 3: Starting database query...
+2025-08-13 10:13:36,368 - INFO - 2025-08-13 10:13:36 Database query and filtering complete. 135 valid rows remaining.
+2025-08-13 10:13:36,453 - INFO - 2025-08-13 10:13:36 Database connection closed.
+2025-08-13 10:13:36,454 - INFO - 2025-08-13 10:13:36 Step 4: Starting data transformation and calculation...
+2025-08-13 10:13:36,748 - INFO - 2025-08-13 10:13:36 Date and SORTED field calculations complete.
+2025-08-13 10:13:36,754 - INFO - 2025-08-13 10:13:36 Using fixed tool name from INI: 'CVD'
+2025-08-13 10:13:36,760 - INFO - 2025-08-13 10:13:36 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-13 10:13:36,760 - INFO - 2025-08-13 10:13:36 Step 6: Dynamic CSV columns and order generated.
+2025-08-13 10:13:36,764 - INFO - 2025-08-13 10:13:36 Step 7: Preparing to write 135 rows to CSV...
+2025-08-13 10:13:36,765 - INFO - 2025-08-13 10:13:36 Executing function write_to_csv...
+2025-08-13 10:13:36,841 - INFO - 2025-08-13 10:13:36 Function write_to_csv executed successfully.
+2025-08-13 10:13:59,120 - INFO - 2025-08-13 10:13:59 Step 8: Updating next start row to 5746
+2025-08-13 10:13:59,120 - INFO - 2025-08-13 10:13:59 --- Function process_excel_file executed successfully ---
+2025-08-13 10:13:59,122 - INFO - 2025-08-13 10:13:59 --- Generating pointer XML for Config_GRATING_Crystal_Duty.ini ---
+2025-08-13 10:13:59,123 - INFO - 2025-08-13 10:13:59 Executing function generate_pointer_xml...
+2025-08-13 10:13:59,174 - INFO - 2025-08-13 10:13:59 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_Crystal_Duty,Partnumber=UNKNOWPN,Serialnumber=GRATING_Crystal_Duty_2025_08_13T10.10.55,Testdate=2025-08-13T10.13.59.xml
+2025-08-13 10:13:59,174 - INFO - 2025-08-13 10:13:59 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---

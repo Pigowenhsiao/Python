@@ -1,0 +1,29 @@
+2025-08-22 16:10:09,313 - INFO - 2025-08-22 16:10:09 --- Start processing config file: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-22 16:10:09,315 - INFO - 2025-08-22 16:10:09 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4#2\3\u30a4\u30f3\u30c1' with pattern 'ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-22 16:10:09,373 - INFO - 2025-08-22 16:10:09 Found latest source file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-22 16:10:10,808 - INFO - 2025-08-22 16:10:10 File copied successfully -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-22 16:10:10,808 - INFO - 2025-08-22 16:10:10 --- Start processing file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-22 16:10:10,815 - ERROR - 2025-08-22 16:10:10 Error processing file ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm: Traceback (most recent call last):
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 353, in main
+    process_excel_file(dst_path, settings, log_file, csv_filepath_for_this_ini)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\CVD_Grating_Common.py", line 179, in process_excel_file
+    start_row = max(Row_Number_Func.start_row_number(settings.running_rec) - settings.skip_rows, 4)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hsi67063\Documents\Kaizen-TDS\001_GRATING\../MyModule\Row_Number_Func.py", line 4, in start_row_number
+    textfile = open(path,"r",encoding="utf-8")
+FileNotFoundError: [Errno 2] No such file or directory: './MESA_StartRow_ICP2.txt'
+
+2025-08-22 16:10:10,815 - INFO - 2025-08-22 16:10:10 --- Finished processing config file: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-22 16:10:10,815 - INFO - 2025-08-22 16:10:10 ===== Universal Script End =====
+2025-08-22 16:11:58,163 - INFO - 2025-08-22 16:11:58 --- Start processing config file: MESA_Crystal_Depth_ICP_ICPD2.ini ---
+2025-08-22 16:11:58,165 - INFO - 2025-08-22 16:11:58 Searching in path 'Z:\\u30db\u30c8\u30fb\u30a8\u30c3\u30c1\u30f3\u30b0\\u88fd\u54c1\ICP\u30c9\u30e9\u30a4#2\3\u30a4\u30f3\u30c1' with pattern 'ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84*.xlsm'
+2025-08-22 16:11:58,190 - INFO - 2025-08-22 16:11:58 Found latest source file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-22 16:12:01,111 - INFO - 2025-08-22 16:12:01 File copied successfully -> ..\DataFile\013_MESA\ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm
+2025-08-22 16:12:01,111 - INFO - 2025-08-22 16:12:01 --- Start processing file: ICP\u30c9\u30e9\u30a42\u53f7\u6a5f_3\uff72\uff9d\uff81_HL13\u2605xx_\uff92\uff7b\uff84\uff9e\uff97\uff72\uff74\uff6f\uff81\uff8c\uff9f\uff9b\uff78\uff9e\uff97\uff91\uff7c\uff70\uff84.xlsm ---
+2025-08-22 16:12:05,474 - INFO - 2025-08-22 16:12:05 Step 1: Successfully read main sheet '\uff83\uff9e\uff70\uff80', 4168 rows loaded.
+2025-08-22 16:12:05,475 - INFO - 2025-08-22 16:12:05 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-22 16:12:05,697 - INFO - 2025-08-22 16:12:05 XY coordinate data parsed.
+2025-08-22 16:12:05,702 - INFO - 2025-08-22 16:12:05 Step 2: Initial filtering (date, serial number) complete. 228 rows remaining.
+2025-08-22 16:12:05,702 - INFO - 2025-08-22 16:12:05 Step 3: Starting database query...
+2025-08-22 16:12:48,009 - INFO - 2025-08-22 16:12:48 Database connection closed.

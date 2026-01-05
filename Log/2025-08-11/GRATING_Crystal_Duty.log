@@ -1,0 +1,27 @@
+2025-08-11 13:39:48,192 - INFO - 2025-08-11 13:39:48 --- Start processing config file: Config_GRATING_Crystal_Duty.ini ---
+2025-08-11 13:39:48,194 - INFO - 2025-08-11 13:39:48 CSV output for this config will be: C:\Users\hsi67063\Box\00-home-pigo.hsiao\TEMP\XML\GRATING_Crystal_Duty_2025_08_11T13.39.48.csv
+2025-08-11 13:39:48,196 - INFO - 2025-08-11 13:39:48 Searching in path 'Z:\\u25a0QC\u30c7\u30fc\u30bf\u30b7\u30fc\u30c8\\u30c9\u30e9\u30a4\u30a8\u30c3\u30c1' with pattern '*SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea*.xlsx'
+2025-08-11 13:39:48,730 - INFO - 2025-08-11 13:39:48 Found latest source file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-11 13:39:54,301 - INFO - 2025-08-11 13:39:54 File copied successfully -> ..\DataFile\001_GRATING\QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx
+2025-08-11 13:39:54,301 - INFO - 2025-08-11 13:39:54 --- Start processing file: QC-D-004-R05\u3000SiO2\u56de\u6298\u683c\u5b50\uff8f\uff7d\uff78\u54c1\u8cea.xlsx ---
+2025-08-11 13:40:17,367 - INFO - 2025-08-11 13:40:17 Step 1: Successfully read main sheet '004', 5343 rows loaded.
+2025-08-11 13:40:17,367 - INFO - 2025-08-11 13:40:17 ICP/Dry mode detected. Reading XY coordinate sheet: '\u30a6\u30a7\u30cf\u5ea7\u6a19'
+2025-08-11 13:40:26,450 - INFO - 2025-08-11 13:40:26 XY coordinate data parsed.
+2025-08-11 13:40:26,464 - INFO - 2025-08-11 13:40:26 Step 2: Initial filtering (date, serial number) complete. 141 rows remaining.
+2025-08-11 13:40:26,464 - INFO - 2025-08-11 13:40:26 Step 3: Starting database query...
+2025-08-11 13:42:26,618 - INFO - 2025-08-11 13:42:26 Database query and filtering complete. 137 valid rows remaining.
+2025-08-11 13:42:26,709 - INFO - 2025-08-11 13:42:26 Database connection closed.
+2025-08-11 13:42:26,709 - INFO - 2025-08-11 13:42:26 Step 4: Starting data transformation and calculation...
+2025-08-11 13:42:26,812 - INFO - 2025-08-11 13:42:26 Date and SORTED field calculations complete.
+2025-08-11 13:42:26,813 - INFO - 2025-08-11 13:42:26 Using fixed tool name from INI: 'CVD'
+2025-08-11 13:42:26,815 - INFO - 2025-08-11 13:42:26 Step 5: Appending additional info (Operation, ToolName, XY coords, etc.) complete.
+2025-08-11 13:42:26,815 - INFO - 2025-08-11 13:42:26 Step 6: Dynamic CSV columns and order generated.
+2025-08-11 13:42:26,817 - INFO - 2025-08-11 13:42:26 Step 7: Preparing to write 137 rows to CSV...
+2025-08-11 13:42:26,817 - INFO - 2025-08-11 13:42:26 Executing function write_to_csv...
+2025-08-11 13:42:26,863 - INFO - 2025-08-11 13:42:26 Function write_to_csv executed successfully.
+2025-08-11 13:42:49,859 - INFO - 2025-08-11 13:42:49 Step 8: Updating next start row to 6108
+2025-08-11 13:42:49,860 - INFO - 2025-08-11 13:42:49 --- Function process_excel_file executed successfully ---
+2025-08-11 13:42:49,862 - INFO - 2025-08-11 13:42:49 --- Generating pointer XML for Config_GRATING_Crystal_Duty.ini ---
+2025-08-11 13:42:49,862 - INFO - 2025-08-11 13:42:49 Executing function generate_pointer_xml...
+2025-08-11 13:42:49,925 - INFO - 2025-08-11 13:42:49 Pointer XML generated successfully at: C:/Users/hsi67063/Box/00-home-pigo.hsiao/TEMP/XML/Site=350,ProductFamily=SAG FAB,Operation=GRATING_Crystal_Duty,Partnumber=UNKNOWPN,Serialnumber=GRATING_Crystal_Duty_2025_08_11T13.39.48,Testdate=2025-08-11T13.42.49.xml
+2025-08-11 13:42:49,925 - INFO - 2025-08-11 13:42:49 --- Finished processing config file: Config_GRATING_Crystal_Duty.ini ---
